@@ -1,0 +1,390 @@
+Key,English,French
+KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION,Disciples of Anu Acid Handgun Magazine,Chargeur pour pistolet à acide des Disciples d'Anu
+KEY_AMMO_AN_ACID_HANDGUN_NAME,Sanctifier Magazine,Chargeur pour Sanctificateur
+KEY_AMMO_AN_HAND_CANNON_DESCRIPTION,Disciples of Anu Hand Cannon Magazine,Chargeur pour canon de poing des Disciples d'Anu
+KEY_AMMO_AN_HAND_CANNON_NAME,Nergal's Wrath Magazine,Chargeur pour Courroux de Nergal
+KEY_AMMO_AN_REDEMPTOR_DESCRIPTION,Disciples of Anu Virus Rifle Magazine,Chargeur pour fusil viral des Disciples d'Anu
+KEY_AMMO_AN_REDEMPTOR_NAME,Redeemer Magazine,Chargeur pour Rédempteur
+KEY_AMMO_AN_SHOTGUN_DESCRIPTION,Disciples of Anu Shotgun Magazine,Chargeur pour fusil à pompe des Disciples d'Anu
+KEY_AMMO_AN_SHOTGUN_NAME,Iconoclast Magazine,Chargeur pour Iconoclaste
+KEY_AMMO_AN_SHREDDING_SHOTGUNN_NAME,Harrower Magazine,Chargeur pour Abomination
+KEY_AMMO_AN_SHREDDING_SHOTGUN_DESCRIPTION,Disciples of Anu Shredding Shotgun Magazine,Chargeur pour fusil déchiqueteur des Disciples d'Anu
+KEY_AMMO_AN_SUBJECTOR_DESCRIPTION,Disciples of Anu Virus Sniper Rifle Magazine,Chargeur pour fusil de précision viral des Disciples d'Anu
+KEY_AMMO_AN_SUBJECTOR_NAME,Subjugator Magazine,Chargeur pour Dominateur
+KEY_AMMO_ASSAULT_RIFLE_DESCRIPTION,New Jericho Gauss Assault Rifle Magazine,Chargeur pour fusil d'assaut Gauss de la Nouvelle-Jéricho
+KEY_AMMO_ASSAULT_RIFLE_NAME,Bulldog AR-50 Magazine,Chargeur pour Bulldog AR-50
+KEY_AMMO_GRENADE_LAUNCHER_DESCRIPTION,Phoenix Grenade Launcher Magazine,Chargeur pour lance-grenades Phoenix
+KEY_AMMO_GRENADE_LAUNCHER_NAME,Goliath GL-2 Magazine,Chargeur pour Goliath GL-2
+KEY_AMMO_HAND_GUN_NAME,Iron Fury Handgun Magazine,Chargeur pour pistolet Iron Fury
+KEY_AMMO_HAND_GUN_NAME_DESCRIPTION,New Jericho Gauss Handgun Magazine,Chargeur pour pistolet Gauss de la Nouvelle-Jéricho
+KEY_AMMO_LASER_ARRAY_CANNON_DESCRIPTION,Phoenix Laser Array Energy Pack,Pack énergétique pour faisceau laser Phoenix
+KEY_AMMO_LASER_ARRAY_CANNON_NAME,Destiny III Energy Pack,Pack énergétique pour Destiny III
+KEY_AMMO_MACHINE_GUN_DESCRIPTION,New Jericho Gauss Machine Gun Magazine,Chargeur pour mitrailleuse Gauss de la Nouvelle-Jéricho
+KEY_AMMO_MACHINE_GUN_NAME,Deceptor MG Magazine,Chargeur pour Deceptor MG
+KEY_AMMO_NE_ASSAULT_RIFLE_DESCRIPTION,Independent Assault Rifle Magazine,Chargeur pour fusil d'assaut des Indépendants
+KEY_AMMO_NE_ASSAULT_RIFLE_NAME,Yat AR Magazine,Chargeur pour Yat AR
+KEY_AMMO_NE_MACHINE_GUN_DESCRIPTION,Independent Machine Gun Magazine,Chargeur pour mitrailleuse des Indépendants
+KEY_AMMO_NE_MACHINE_GUN_NAME,Uragan MG Magazine,Chargeur pour Uragan MG
+KEY_AMMO_NE_PISTOL_DESCRIPTION,Independent Handgun Magazine,Chargeur pour pistolet des Indépendants
+KEY_AMMO_NE_PISTOL_NAME,Udar HG Magazine,Chargeur pour Udar HG
+KEY_AMMO_NE_SNIPER_RIFLE_DESCRIPTION,Independent Sniper Rifle Magazine,Chargeur pour fusil de précision des Indépendants
+KEY_AMMO_NE_SNIPER_RIFLE_NAME,Vyara SR Magazine,Chargeur pour Vyara SR
+KEY_AMMO_NJ_GUIDED_MISSILE_LAUNCHER_DESCRIPTION,New Jericho Advanced Missile,Lance-missiles amélioré de la Nouvelle-Jéricho
+KEY_AMMO_NJ_GUIDED_MISSILE_LAUNCHER_NAME,Thor AML Missile,Missile pour Thor AML
+KEY_AMMO_NJ_HEAVY_ROCKET_LAUNCHER_DESCRIPTION,New Jericho Heavy Rocket Launcher Ammo,Munitions pour lance-roquettes pour Mastodonte de la Nouvelle-Jéricho
+KEY_AMMO_NJ_HEAVY_ROCKET_LAUNCHER_NAME,Archangel RL1 Rocket Magazine,Chargeur pour lance-roquettes Archange RL1
+KEY_AMMO_NJ_PIERCING_ASSAULT_RIFLE_DESCRIPTION,New Jericho Piercing Assault Rifle Magazine,Chargeur pour fusil d'assaut perforant de la Nouvelle-Jéricho
+KEY_AMMO_NJ_PIERCING_ASSAULT_RIFLE_NAME,Piranha AR-51 Magazine,Chargeur pour Piranha AR-51
+KEY_AMMO_NJ_PIERCING_PDW_DESCRIPTION,New Jericho Piercing PDW Magazine,Chargeur pour arme perforante de la Nouvelle-Jéricho
+KEY_AMMO_NJ_PIERCING_PDW_NAME,VDM Enforcer Magazine,Chargeur pour Enforcer VDM
+KEY_AMMO_NJ_PIERCING_SNIPER_RIFLE_DESCRIPTION,New Jericho Piercing Sniper Rifle Magazine,Chargeur pour fusil de précision perforant de la Nouvelle-Jéricho
+KEY_AMMO_NJ_PIERCING_SNIPER_RIFLE_NAME,Raven SR13 Magazine,Chargeur pour Raven SR13
+KEY_AMMO_NJ_PIERCING_TURRET_DESCRIPTION,New Jericho Piercing Auto Turret Magazine,Chargeur pour tourelle automatisée perforante de la Nouvelle-Jéricho
+KEY_AMMO_NJ_PIERCING_TURRET_NAME,Rattlesnake AT Magazine,Chargeur pour Rattlesnake AT
+KEY_AMMO_PDW_MAGAZINE_DESCRIPTION,New Jericho Gauss PDW Magazine,Chargeur pour arme Gauss de la Nouvelle-Jéricho
+KEY_AMMO_PDW_MAGAZINE_NAME,VDM Defender Magazine,Chargeur pour Defender VDM
+KEY_AMMO_PX_ACID_CANNON_DESCRIPTION,Phoenix Acid Cannon Magazine,Chargeur pour canon caustique Phoenix
+KEY_AMMO_PX_ACID_CANNON_NAME,Jormungandr Cannon Magazine,Chargeur pour canon Jörmungandr
+KEY_AMMO_PX_ASSAULT_RIFLE_DESCRIPTION,Phoenix Assault Rifle Magazine,Chargeur pour fusil d'assaut Phoenix
+KEY_AMMO_PX_ASSAULT_RIFLE_NAME,Ares AR-1 Magazine,Chargeur pour Arès AR-1
+KEY_AMMO_PX_LASER_PDW_DESCRIPTION,Phoenix Laser PDW Energy Pack,Pack énergétique pour arme laser Phoenix
+KEY_AMMO_PX_LASER_PDW_NAME,Gorgon Eye-A Energy Pack,Pack énergétique pour Gorgon Eye-A
+KEY_AMMO_PX_LASER_TURRET_DESCRIPTION,Phoenix Laser Auto Turret Magazine,Chargeur pour tourelle laser automatisée Phoenix
+KEY_AMMO_PX_LASER_TURRET_NAME,Scorcher AT Magazine,Chargeur pour Scorcher AT
+KEY_AMMO_PX_PISTOL_DESCRIPTION,Phoenix Handgun Magazine,Chargeur pour pistolet Phoenix
+KEY_AMMO_PX_PISTOL_NAME,Cypher HG Magazine,Chargeur pour Cypher HG
+KEY_AMMO_PX_VIROPHAGE_SNIPER_RIFLE_DESCRIPTION,Phoenix Virophage Sniper Rifle Magazine,Chargeur pour fusil de précision virophage Phoenix
+KEY_AMMO_PX_VIROPHAGE_SNIPER_RIFLE_NAME,Gungnir SR-2 Magazine,Chargeur pour Gungnir SR-2
+KEY_AMMO_ROCKET_LAUNCHER_DESCRIPTION,New Jericho Missile Launcher Rocket,Munitions pour lance-roquettes de la Nouvelle-Jéricho
+KEY_AMMO_ROCKET_LAUNCHER_NAME,Fury-2 Missile,Missile Fury-2
+KEY_AMMO_SHOTGUN_DESCRIPTION,Phoenix Shotgun Magazine,Chargeur pour fusil à pompe Phoenix
+KEY_AMMO_SHOTGUN_NAME,Mercy SG3 Magazine,Chargeur pour Mercy SG3
+KEY_AMMO_SHRED_LAUNCHER_DESCRIPTION,Phoenix Shredding Missile Launcher Rocket,Roquette pour lance-missiles déchiqueteur Phoenix
+KEY_AMMO_SHRED_LAUNCHER_NAME,Ragnarok Rocket,Roquette Ragnarok
+KEY_AMMO_SNIPER_PX_RIFLE_DESCRIPTION,Phoenix Sniper Rifle Magazine,Chargeur pour fusil de précision Phoenix
+KEY_AMMO_SNIPER_PX_RIFLE_NAME,Firebird SR Magazine,Chargeur pour Firebird SR
+KEY_AMMO_SNIPER_RIFLE_DESCRIPTION,New Jericho Gauss Sniper Rifle Magazine,Chargeur pour fusil de précision Gauss de la Nouvelle-Jéricho
+KEY_AMMO_SNIPER_RIFLE_NAME,Cyclops SR7 Magazine,Chargeur pour Cyclope SR7
+KEY_AMMO_SY_CROSSBOW_DESCRIPTION,Synedrion Crossbow Quiver,Carquois pour arbalète du Synédrion
+KEY_AMMO_SY_CROSSBOW_NAME,Eros CRB III Quiver,Carquois pour Éros CRB III
+KEY_AMMO_SY_LASER_ASSAULT_RIFLE_DESCRIPTION,Synedrion Laser Assault Rifle Magazine,Chargeur pour fusil d'assaut laser du Synédrion
+KEY_AMMO_SY_LASER_ASSAULT_RIFLE_NAME,Deimos AR-L Magazine,Chargeur pour Déimos AR-L
+KEY_AMMO_SY_LASER_PISTOL_DESCRIPTION,Synedrion Laser Pistol Magazine,Chargeur pour pistolet laser du Synédrion
+KEY_AMMO_SY_LASER_PISTOL_NAME,Hephaestus II Magazine,Chargeur pour Héphaïstos II
+KEY_AMMO_SY_LASER_SNIPER_RIFLE_DESCRIPTION,Synedrion Laser Sniper Rifle Magazine,Chargeur pour fusil de précision laser du Synédrion
+KEY_AMMO_SY_LASER_SNIPER_RIFLE_NAME,Pythagoras VII Magazine,Chargeur pour Pythagore VII
+KEY_AMMO_SY_NEURAL_PISTOL_DESCRIPTION,Synedrion Neural Pistol Magazine,Chargeur pour pistolet neural du Synédrion
+KEY_AMMO_SY_NEURAL_PISTOL_NAME,Hera NP-1 Magazine,Chargeur pour Héra NP-1
+KEY_AMMO_SY_NEURAL_SNIPER_RIFLE_DESCRIPTION,Synedrion Neural Sniper Rifle Magazine,Chargeur pour fusil de précision neural du Synédrion
+KEY_AMMO_SY_NEURAL_SNIPER_RIFLE_NAME,Athena NS-2 Magazine,Chargeur pour Athéna NS-2
+KEY_AMMO_SY_POISON_CROSSBOW_DESCRIPTION,Synedrion Poison Crossbow Quiver,Carreaux pour arbalète toxique du Synédrion
+KEY_AMMO_SY_POISON_CROSSBOW_NAME,Psyche CRB IV Quiver,Carreaux Psyché CRB IV
+KEY_AMMO_SY_SPIDER_DESCRIPTION,Synedrion Spider Drone Specialized Pistol Pack,Pack pour pistolet spécialisé pour drone araignée du Synédrion
+KEY_AMMO_SY_SPIDER_NAME,Arachni SP 1 Pack,Pack pour Arachni SP 1
+KEY_AMMO_TURRET_DESCRIPTION,New Jericho Gauss Auto Turret Magazine,Chargeur pour tourelle automatisée Gauss de la Nouvelle-Jéricho
+KEY_AMMO_TURRET_NAME,Watcher AT Magazine,Chargeur pour Watcher AT
+KEY_AN_ACID_GRENADE_DESCRIPTION,Disciples of Anu Acid Grenade,Grenade caustique des Disciples d'Anu
+KEY_AN_ACID_GRENADE_NAME,Imhullu Grenade,Grenade Imhullu
+KEY_AN_ACID_HANDGUN_DESCRIPTION,Disciples of Anu Acid Handgun,Pistolet caustique des Disciples d'Anu
+KEY_AN_ACID_HANDGUN_NAME,Sanctifier,Sanctificateur
+KEY_AN_ASSAULT_BODY_DESCRIPTION,Disciples of Anu Assault Body Armor,Armure d'Unité d'assaut des Disciples d'Anu
+KEY_AN_ASSAULT_BODY_NAME2,Acolyte Body Armor,Armure d'acolyte
+KEY_AN_ASSAULT_HELMET_DESCRIPTION,Disciples of Anu Assault Helmet,Casque d'Unité d'assaut des Disciples d'Anu
+KEY_AN_ASSAULT_HELMET_NAME2,Acolyte Helmet,Casque d'acolyte
+KEY_AN_ASSAULT_LEGS_DESCRIPTION,Disciples of Anu Assault Leg Armor,Jambières d'Unité d'assaut des Disciples d'Anu
+KEY_AN_ASSAULT_LEGS_NAME2,Acolyte Leg Armor,Jambières d'acolyte
+KEY_AN_BERSERKER_BODY_DESCRIPTION,Disciples of Anu Berserker Body Armour,Armure de Berserker des Disciples d'Anu
+KEY_AN_BERSERKER_BODY_NAME2,Aksu Body Armor,Armure Aksu
+KEY_AN_BERSERKER_HELMET_DESCRIPTION,Disciples of Anu Berserker Helmet,Casque de Berserker des Disciples d'Anu
+KEY_AN_BERSERKER_HELMET_NAME2,Aksu Helmet,Casque Aksu
+KEY_AN_BERSERKER_LEGS_DESCRIPTION,Disciples of Anu Berserker Leg Armour,Jambières de Berserker des Disciples d'Anu
+KEY_AN_BERSERKER_LEGS_NAME2,Aksu Leg Armor,Jambières Aksu
+KEY_AN_BLADE_DESCRIPTION,Disciples of Anu Blade,Lame des Disciples d'Anu
+KEY_AN_BLADE_NAME,Dagon's Tooth,Dent de Dagon
+KEY_AN_HAMMER_DESCRIPTION,Disciples of Anu War Hammer,Marteau de guerre des Disciples d'Anu
+KEY_AN_HAMMER_NAME,Marduk's Fist,Poing de Marduk
+KEY_AN_HAND_CANNON_DESCRIPTION,Disciples of Anu Hand Cannon,Canon de poing des Disciples d'Anu
+KEY_AN_HAND_CANNON_NAME,Nergal's Wrath,Courroux de Nergal
+KEY_AN_MACE_DESCRIPTION,Disciples of Anu Mace,Masse des Disciples d'Anu
+KEY_AN_MACE_NAME,Scion of Sharur,Descendant de Sharur
+KEY_AN_PRIEST_BODY_DESCRIPTION,Disciples of Anu Priest Body Armor,Armure de Prêtre des Disciples d'Anu
+KEY_AN_PRIEST_BODY_NAME2,Amphion Body Armor,Armure d'Amphion
+KEY_AN_PRIEST_LEGS_DESCRIPTION,Disciples of Anu Priest Leg Armor,Jambières de Prêtre des Disciples d'Anu
+KEY_AN_PRIEST_LEGS_NAME2,Amphion Leg Armor,Jambières d'Amphion
+KEY_AN_REDEMPTOR_DESCRIPTION,Disciples of Anu Virus Rifle,Fusil d'assaut viral des Disciples d'Anu
+KEY_AN_REDEMPTOR_NAME,Redeemer,Rédempteur
+KEY_AN_SHOTGUN_DESCRIPTION,Disciples of Anu Shotgun,Fusil à pompe des Disciples d'Anu
+KEY_AN_SHOTGUN_NAME,Iconoclast,Iconoclaste
+KEY_AN_SHREDDING_SHOTGUN_DESCRIPTION,Disciples of Anu Shredding Shotgun,Fusil à pompe déchiqueteur des Disciples d'Anu
+KEY_AN_SHREDDING_SHOTGUN_NAME,Harrower,Abomination
+KEY_AN_SUBJECTOR_DESCRIPTION,Disciples of Anu Virus Sniper Rifle,Fusil de précision viral des Disciples d'Anu
+KEY_AN_SUBJECTOR_NAME,Subjugator,Dominateur
+KEY_ARMOR_TT,Armor provides additional protection (to body parts they cover) in combat and can modify the soldier's attributes. Armor can only be equipped in the Personnel Equipment section.,L'armure fournit une protection additionnelle (aux parties du corps qu'elle couvre) en combat et peut modifier les attributs du soldat. L'armure peut uniquement s'équiper dans la section Équipement du personnel.
+KEY_CHITIN_BODY_ARMOR_DESCRIPTION,Biotech Body Armor,Armure biotechnologique
+KEY_CHITIN_BODY_ARMOR_NAME2,Samnu Body Armor,Armure Samnu
+KEY_CHITIN_HELMET_DESCRIPTION,Biotech Helmet,Casque biotechnologique
+KEY_CHITIN_HELMET_NAME2,Samnu Helmet,Casque Samnu
+KEY_CHITIN_LEG_ARMOR_DESCRIPTION,Biotech Leg Armor,Jambières biotechnologiques
+KEY_CHITIN_LEG_ARMOR_NAME2,Samnu Leg Armor,Jambières Samnu
+KEY_GRENADE_DESCRIPTION,GRENADE,GRENADE
+KEY_GRENADE_NAME,GRENADE,GRENADE
+KEY_INVENTORY_IN_ARMOR,IN ARMOR,DANS L'ARMURE
+KEY_INVENTORY_IN_BACKPACK,IN BACKPACK,DANS LE SAC À DOS
+KEY_INVENTORY_IN_READY_ITEMS,IN READY ITEMS,DANS LES OBJETS PRÊTS
+KEY_INVENTORY_IN_STORAGE,IN STORAGE,EN RÉSERVE
+KEY_IN_ASSAULT_BODY_DESCRIPTION,Assault Body Armor,Armure d'Unité d'assaut
+KEY_IN_ASSAULT_BODY_NAME2,Praetorian 2 Body Armor,Armure prétorienne 2
+KEY_IN_ASSAULT_HELMET_DESCRIPTION,Assault Helmet,Casque d'Unité d'assaut
+KEY_IN_ASSAULT_HELMET_NAME2,Praetorian 2 Helmet,Casque prétorien 2
+KEY_IN_ASSAULT_LEGS_DESCRIPTION,Assault Leg Armor,Jambières d'Unité d'assaut
+KEY_IN_ASSAULT_LEGS_NAME2,Praetorian 2 Leg Armor,Jambières prétoriennes 2
+KEY_LIVING_MACHINE_GUN_DESCRIPTION,Poison Firing Living Machine Gun,Mitrailleuse vivante de tir de poison
+KEY_LIVING_MACHINE_GUN_NAME,Danchev MG,Danchev MG
+KEY_LIVING_RIFLE_DESCRIPTION,Acid Firing Living Assault Rifle,Fusil d'assaut vivant de tir d'acide
+KEY_LIVING_RIFLE_NAME,Danchev AR,Danchev AR
+KEY_MACHINE_GUN_DESCRIPTION,MACHINE GUN,MITRAILLEUSE
+KEY_MACHINE_GUN_NAME,MACHINE GUN,MITRAILLEUSE
+KEY_MACHINE_GUN_POISON_DESCRIPTION,Machine gun that poisons,Mitrailleuse qui empoisonne
+KEY_MACHINE_GUN_POISON_NAME,POISON MACHINE GUN,MITRAILLEUSE TOXIQUE
+KEY_MECHARMS,MechArms,MechArms
+KEY_MECHARMS_CHARGE_DESCRIPTION,New Jericho Mech Arms Energy Pack,Pack énergétique pour bras robotisés de la Nouvelle-Jéricho
+KEY_MECHARMS_CHARGE_NAME,VVA-2 Arms Energy Pack,Pack énergétique pour bras VVA-2
+KEY_MECH_ARMS_DESCRIPTION,New Jericho Mech Arms,Bras robotisés de la Nouvelle-Jéricho
+KEY_MECH_ARMS_NAME,VVA-2 Arms,Bras VVA-2
+KEY_MEDKIT_CHARGE_DESCRIPTION,Medkit Nano-Plasma Recharge,Recharge nano-plasmique pour Médikit
+KEY_MEDKIT_CHARGE_NAME,MEDKIT CHARGE,RECHARGE POUR MÉDIKIT
+KEY_MEDKIT_DESCRIPTION,Restores {GeneralHealAmount} Hit Points and removes bleeding and poison,Restaure {GeneralHealAmount} points de vie et supprime tout saignement et poison.
+KEY_MEDKIT_NAME,Medkit,Médikit
+KEY_MOUNTED_WEAPONS_TT,Weapons and modules attached to the armor. They are always equipped and can provide an additional actions and abilities as well as a supplementary ready item slot.,"Armes et modules greffés à l'armure. Ils sont toujours équipés et peuvent fournir des actions et capacités supplémentaire, ainsi qu'un emplacement d'objet prêt en plus."
+KEY_MUTATION_PART_HEAD_ARMORED_DESCRIPTION,Disciples of Anu Armored Head Mutation,Mutation de tête blindée des Disciples d'Anu
+KEY_MUTATION_PART_HEAD_ARMORED_NAME2,Armored Head,Tête blindée
+KEY_MUTATION_PART_HEAD_PERCEPTOR_DESCRIPTION,Disciples of Anu Perceptor Head Mutation,Mutation de tête de percepteur des Disciples d'Anu
+KEY_MUTATION_PART_HEAD_PERCEPTOR_NAME2,Perceptor Head,Tête de percepteur
+KEY_MUTATION_PART_HEAD_RESISTOR_DESCRIPTION,Disciples of Anu Resistor Head Mutation,Mutation de tête de résistance des Disciples d'Anu
+KEY_MUTATION_PART_HEAD_RESISTOR_NAME2,Resistor Head,Tête de résistance
+KEY_MUTATION_PART_LEG_AGILE_DESCRIPTION,Disciples of Anu Agile Legs Mutation,Mutation de jambes agiles des Disciples d'Anu
+KEY_MUTATION_PART_LEG_AGILE_NAME2,Agile Legs,Jambes agiles
+KEY_MUTATION_PART_LEG_SNEAKER_DESCRIPTION,Disciples of Anu Stealth Legs Mutation,Mutation de jambes furtives des Disciples d'Anu
+KEY_MUTATION_PART_LEG_SNEAKER_NAME2,Shadow Legs,Jambes ténébreuses
+KEY_MUTATION_PART_LEG_STOMPER_DESCRIPTION,Disciples of Anu Stomping Legs Mutation,Mutation de jambes piétineuses des Disciples d'Anu
+KEY_MUTATION_PART_LEG_STOMPER_NAME2,Stomper Legs,Jambes piétineuses
+KEY_MUTATION_PART_PRIEST_JUDGEMENT_DESCRIPTION,Disciples of Anu Judgement Priestly Head Mutation,Mutation de tête de prêtre juge des Disciples d'Anu
+KEY_MUTATION_PART_PRIEST_JUDGEMENT_NAME2,Judgement Head,Tête de jugement
+KEY_MUTATION_PART_PRIEST_SCREAMING_DESCRIPTION,Disciples of Anu Screamer Priestly Head Mutation,Mutation de tête de prêtre hurlante des Disciples d'Anu
+KEY_MUTATION_PART_PRIEST_SCREAMING_NAME2,Screaming Head,Tête hurlante
+KEY_MUTATION_PART_PRIEST_SYNOD_DESCRIPTION,Disciples of Anu Synod Priestly Head Mutation,Mutation de tête de prêtre du Synode des Disciples d'Anu
+KEY_MUTATION_PART_PRIEST_SYNOD_NAME2,Synod Head,Tête du Synode
+KEY_MUTATION_PART_TORSO_REGEN_DESCRIPTION,Disciples of Anu Regeneration Torso Mutation,Mutation de torse régénérant des Disciples d'Anu
+KEY_MUTATION_PART_TORSO_REGEN_NAME2,Regeneration Torso,Torse régénérant
+KEY_MUTATION_PART_TORSO_SHOOT_DESCRIPTION,Disciples of Anu Venom Torso Mutation,Mutation de torse toxique des Disciples d'Anu
+KEY_MUTATION_PART_TORSO_SHOOT_NAME2,Venom Torso,Torse toxique
+KEY_MUTATION_PART_TORSO_TENTACLE_DESCRIPTION,Disciples of Anu Tentacles Torso Mutation,Mutation de torse tentaculaire des Disciples d'Anu
+KEY_MUTATION_PART_TORSO_TENTACLE_NAME2,Tentacle Torso,Torse tentaculaire
+KEY_NEU_ASSAULT_BODY_DESCRIPTION,Assault Body Armor,Armure d'Unité d'assaut
+KEY_NEU_ASSAULT_BODY_NAME2,Praetorian 2 Body Armor,Armure prétorienne 2
+KEY_NEU_ASSAULT_HELMET_DESCRIPTION,Assault Helmet,Casque d'Unité d'assaut
+KEY_NEU_ASSAULT_HELMET_NAME2,Praetorian 2 Helmet,Casque prétorien 2
+KEY_NEU_ASSAULT_LEGS_DESCRIPTION,Assault Leg Armor,Jambières d'Unité d'assaut
+KEY_NEU_ASSAULT_LEGS_NAME2,Praetorian 2 Leg Armor,Jambières prétoriennes 2
+KEY_NEU_HEAVY_BODY_DESCRIPTION,Heavy Body Armor,Armure de Mastodonte
+KEY_NEU_HEAVY_BODY_NAME2,Guardian XA Body Armor,Armure Guardian XA
+KEY_NEU_HEAVY_HELMET_DESCRIPTION,Heavy Helmet,Casque de Mastodonte
+KEY_NEU_HEAVY_HELMET_NAME2,Guardian XA Helmet,Casque Guardian XA
+KEY_NEU_HEAVY_LEGS_DESCRIPTION,Heavy Leg Armor,Jambières de Mastodonte
+KEY_NEU_HEAVY_LEGS_NAME2,Guardian XA Leg Armor,Jambières Guardian XA
+KEY_NEU_SNIPER_BODY_DESCRIPTION,Sniper Body Armor,Armure de Tireur d'élite
+KEY_NEU_SNIPER_BODY_NAME2,Swamp Cat Body Armor,Armure Chaus
+KEY_NEU_SNIPER_HELMET_DESCRIPTION,Sniper Helmet,Casque de Tireur d'élite
+KEY_NEU_SNIPER_HELMET_NAME2,Swamp Cat Helmet,Casque Chaus
+KEY_NEU_SNIPER_LEGS_DESCRIPTION,Sniper Leg Armor,Jambières de Tireur d'élite
+KEY_NEU_SNIPER_LEGS_NAME2,Swamp Cat Leg Armor,Jambières Chaus
+KEY_NE_ASSAULT_RIFLE_DESCRIPTION,Independent Assault Rifle,Fusil d'assaut des Indépendants
+KEY_NE_ASSAULT_RIFLE_NAME,Yat AR,Yat AR
+KEY_NE_MACHINE_GUN_DESCRIPTION,Independent Machine Gun,Mitrailleuse des Indépendants
+KEY_NE_MACHINE_GUN_NAME,Uragan MG,Uragan MG
+KEY_NE_PISTOL_DESCRIPTION,Independent Handgun,Pistolet des Indépendants
+KEY_NE_PISTOL_NAME,Udar HG,Udar HG
+KEY_NE_SNIPER_RIFLE_DESCRIPTION,Independent Sniper Rifle,Fusil de précision des Indépendants
+KEY_NE_SNIPER_RIFLE_NAME,Vyara SR,Vyara SR
+KEY_NJ_ASSAULT_BODY_DESCRIPTION,New Jericho Assault Body Armor,Armure d'Unité d'assaut de la Nouvelle-Jéricho
+KEY_NJ_ASSAULT_BODY_NAME2,Wardog Body Armor,Armure de Wardog
+KEY_NJ_ASSAULT_DESCRIPTION,New Jericho Assault,Unité d'assaut de la Nouvelle-Jéricho
+KEY_NJ_ASSAULT_HELMET_DESCRIPTION,New Jericho Assault Helmet,Casque d'Unité d'assaut de la Nouvelle-Jéricho
+KEY_NJ_ASSAULT_HELMET_NAME2,Wardog Helmet,Casque de Wardog
+KEY_NJ_ASSAULT_LEGS_DESCRIPTION,New Jericho Assault Leg Armor,Jambières d'Unité d'assaut de la Nouvelle-Jéricho
+KEY_NJ_ASSAULT_LEGS_NAME2,Wardog Leg Armor,Jambières de Wardog
+KEY_NJ_ASSAULT_RIFLE_DESCRIPTION,New Jericho Gauss Assault Rifle,Fusil d'assaut Gauss de la Nouvelle-Jéricho
+KEY_NJ_ASSAULT_RIFLE_NAME,Bulldog AR-50,Bulldog AR-50
+KEY_NJ_FIRE_RES_VEST_ATTACHMENT_DESCRIPTION,New Jericho Fire-resistant Undersuit Module,Module corporel anti-flammes de la Nouvelle-Jéricho
+KEY_NJ_FIRE_RES_VEST_ATTACHMENT_NAME,Fire-Res Vest Module,Gilet anti-flammes
+KEY_NJ_FLAMETHROWER_AMMO_DESCRIPTION,New Jericho Flamethrower Fuel Canister,Canette de carburant pour lance-flammes de la Nouvelle-Jéricho
+KEY_NJ_FLAMETHROWER_AMMO_NAME,Dante FT Fuel Canister,Canette de carburant pour Dante FT
+KEY_NJ_FLAMETHROWER_DESCRIPTION,New Jericho Flamethrower,Lance-flammes de la Nouvelle-Jéricho
+KEY_NJ_FLAMETHROWER_NAME,Dante FT,Dante FT
+KEY_NJ_GRENADE_NAME,Vanadium Grenade,Grenade du Vanadium
+KEY_NJ_GRENADE_NAME_DESCRIPTION,New Jericho Grenade,Grenade de la Nouvelle-Jéricho
+KEY_NJ_GUIDED_MISSILE_LAUNCHER_DESCRIPTION,New Jericho Advance Missile Launcher,Lance-missiles amélioré de la Nouvelle-Jéricho
+KEY_NJ_GUIDED_MISSILE_LAUNCHER_NAME,Thor AML,Thor AML
+KEY_NJ_HEAVY_BODY_DESCRIPTION,New Jericho Heavy Body Armor,Armure de Mastodonte de la Nouvelle-Jéricho
+KEY_NJ_HEAVY_BODY_NAME2,Anvil-2 Body Armor,Armure Anvil-2
+KEY_NJ_HEAVY_DESCRIPTION,New Jericho Heavy,Mastodonte de la Nouvelle-Jéricho
+KEY_NJ_HEAVY_HELMET_DESCRIPTION,New Jericho Heavy Helmet,Casque de Mastodonte de la Nouvelle-Jéricho
+KEY_NJ_HEAVY_HELMET_NAME2,Anvil-2 Helmet,Casque Anvil-2
+KEY_NJ_HEAVY_LEGS_DESCRIPTION,New Jericho Heavy Leg Armor,Jambières de Mastodonte de la Nouvelle-Jéricho
+KEY_NJ_HEAVY_LEGS_NAME2,Anvil-2 Leg Armor,Jambières Anvil-2
+KEY_NJ_HEAVY_ROCKET_LAUNCHER_DESCRIPTION,New Jericho Heavy Rocket Launcher,Lance-roquettes de Mastodonte de la Nouvelle-Jéricho
+KEY_NJ_HEAVY_ROCKET_LAUNCHER_NAME,Archangel RL1,Archange RL1
+KEY_NJ_MACHINE_GUN_DESCRIPTION,New Jericho Gauss Machine Gun,Mitrailleuse Gauss de la Nouvelle-Jéricho
+KEY_NJ_MACHINE_GUN_NAME,Deceptor MG,Deceptor MG
+KEY_NJ_MISSILE_LAUNCHER_DESCRIPTION,New Jericho Missile Launcher,Lance-missiles de la Nouvelle-Jéricho
+KEY_NJ_MISSILE_LAUNCHER_NAME,Fury-2,Fury-2
+KEY_NJ_PDW_DESCRIPTION,New Jericho Gauss PDW,Fusil d'assaut Gauss de la Nouvelle-Jéricho
+KEY_NJ_PDW_NAME,VDM Defender,VDM Defender
+KEY_NJ_PIERCING_ASSAULT_RIFLE_DESCRIPTION,New Jericho Piercing Assault Rifle,Fusil d'assaut perforant de la Nouvelle-Jéricho
+KEY_NJ_PIERCING_ASSAULT_RIFLE_NAME,Piranha AR-51,Piranha AR-51
+KEY_NJ_PIERCING_PDW_DESCRIPTION,New Jericho Piercing PDW,Fusil d'assaut perforant de la Nouvelle-Jéricho
+KEY_NJ_PIERCING_PDW_NAME,VDM Enforcer,VDM Enforcer
+KEY_NJ_PIERCING_SNIPER_RIFLE_DESCRIPTION,New Jericho Piercing Sniper Rifle,Fusil de précision perforant de la Nouvelle-Jéricho
+KEY_NJ_PIERCING_SNIPER_RIFLE_NAME,Raven SR13,Raven SR13
+KEY_NJ_PIERCING_TURRET_DESCRIPTION,"New Jericho Piercing Auto Turret ",Tourelle automatisée perforante de la Nouvelle-Jéricho
+KEY_NJ_PIERCING_TURRET_NAME,Rattlesnake AT,Rattlesnake AT
+KEY_NJ_PISTOL_NAME,Iron Fury HG,Iron Fury HG
+KEY_NJ_PISTOL_NAME_DESCRIPTION,New Jericho Gauss Handgun,Pistolet Gauss de la Nouvelle-Jéricho
+KEY_NJ_SNIPER_BODY_DESCRIPTION,New Jericho Sniper Body Armor,Armure de Tireur d'élite de la Nouvelle-Jéricho
+KEY_NJ_SNIPER_BODY_NAME2,Eidolon Body Armor,Armure Eidolon
+KEY_NJ_SNIPER_DESCRIPTION,New Jericho Sniper,Tireur d'élite de la Nouvelle-Jéricho
+KEY_NJ_SNIPER_HELMET_DESCRIPTION,New Jericho Sniper Helmet,Casque de Tireur d'élite de la Nouvelle-Jéricho
+KEY_NJ_SNIPER_HELMET_NAME2,Eidolon Helmet,Casque Eidolon
+KEY_NJ_SNIPER_LEGS_DESCRIPTION,New Jericho Sniper Leg Armor,Jambières de Tireur d'élite de la Nouvelle-Jéricho
+KEY_NJ_SNIPER_LEGS_NAME2,Eidolon Leg Armor,Jambières Eidolon
+KEY_NJ_SNIPER_RIFLE_DESCRIPTION,New Jericho Gauss Sniper Rifle,Fusil de précision Gauss de la Nouvelle-Jéricho
+KEY_NJ_SNIPER_RIFLE_NAME,Cyclops SR7,Cyclope SR7
+KEY_NJ_TECHNICIAN_BODY_DESCRIPTION,New Jericho Technician Body Armor,Armure de Technicien de la Nouvelle-Jéricho
+KEY_NJ_TECHNICIAN_BODY_NAME2,TechOps-7 Body Armor,Armure TechOps-7
+KEY_NJ_TECHNICIAN_DESCRIPTION,New Jericho Technician,Technicien de la Nouvelle-Jéricho
+KEY_NJ_TECHNICIAN_HELMET_DESCRIPTION,New Jericho Technician Helmet,Casque de Technicien de la Nouvelle-Jéricho
+KEY_NJ_TECHNICIAN_HELMET_NAME2,TechOps-7 Helmet,Casque TechOps-7
+KEY_NJ_TECHNICIAN_LEGS_DESCRIPTION,New Jericho Technician Leg Armor,Jambières de Technicien de la Nouvelle-Jéricho
+KEY_NJ_TECHNICIAN_LEGS_NAME2,TechOps-7 Leg Armor,Jambières TechOps-7
+KEY_PX_ACID_CANNON_DESCRIPTION,Phoenix Acid Cannon,Canon caustique Phoenix
+KEY_PX_ACID_CANNON_NAME,Jormungandr Cannon,Canon Jörmungandr
+KEY_PX_AMMO_HEAVY_CANNON_DESCRIPTION,Phoenix Heavy Cannon Magazine,Chargeur pour canon de Mastodonte Phoenix
+KEY_PX_AMMO_HEAVY_CANNON_NAME,Hel II Cannon Magazine,Chargeur pour canon Hel II
+KEY_PX_ASSAULT_BODY_DESCRIPTION,Phoenix Assault Body Armor,Armure d'Unité d'assaut Phoenix
+KEY_PX_ASSAULT_BODY_NAME2,Odin Body Armor,Armure Odin
+KEY_PX_ASSAULT_HELMET_DESCRIPTION,Phoenix Assault Helmet,Casque d'Unité d'assaut Phoenix
+KEY_PX_ASSAULT_HELMET_NAME2,Odin Helmet,Casque Odin
+KEY_PX_ASSAULT_LEGS_DESCRIPTION,Phoenix Assault Leg Armor,Jambières d'Unité d'assaut Phoenix
+KEY_PX_ASSAULT_LEGS_NAME2,Odin Leg Armor,Jambières Odin
+KEY_PX_ASSAULT_RIFLE_DESCRIPTION,Phoenix Assault Rifle,Fusil d'assaut Phoenix
+KEY_PX_ASSAULT_RIFLE_NAME,Ares AR-1,Arès AR-1
+KEY_PX_GOO_REPEL_ATTACHMENT_DESCRIPTION,Phoenix Goo-repellant Boot Module,Module de botte repousseur de gelée Phoenix
+KEY_PX_GOO_REPEL_ATTACHMENT_NAME,Goo Repeller Module - Mark C,Module repousseur de gelée - Classe C
+KEY_PX_GRENADE_DESCRIPTION,Phoenix Grenade,Grenade d'unité Phoenix
+KEY_PX_GRENADE_LAUNCHER_DESCRIPTION,Phoenix Grenade Launcher,Lance-grenades Phoenix
+KEY_PX_GRENADE_LAUNCHER_NAME,Goliath GL-2,Goliath GL-2
+KEY_PX_GRENADE_NAME,Odin Grenade,Grenade Odin
+KEY_PX_HEAVY_BODY_DESCRIPTION,Phoenix Heavy Body Armor,Armure de Mastodonte Phoenix
+KEY_PX_HEAVY_BODY_NAME2,Golem-B Body Armor,Armure Golem-B
+KEY_PX_HEAVY_CANNON_DESCRIPTION,Phoenix Heavy Cannon,Canon de Mastodonte Phoenix
+KEY_PX_HEAVY_CANNON_NAME,Hel II Cannon,Canon Hel II
+KEY_PX_HEAVY_HELMET_DESCRIPTION,Phoenix Heavy Helmet,Casque de Mastodonte Phoenix
+KEY_PX_HEAVY_HELMET_NAME2,Golem-B Helmet,Casque Golem-B
+KEY_PX_HEAVY_LEGS_DESCRIPTION,Phoenix Heavy Leg Armor,Jambières de Mastodonte Phoenix
+KEY_PX_HEAVY_LEGS_NAME2,Golem-B Leg Armor,Jambières Golem-B
+KEY_PX_INCINDIERY_GRENADE_DESCRIPTION,New Jericho Incendiary Grenade,Grenade incendiaire de la Nouvelle-Jéricho
+KEY_PX_INCINDIERY_GRENADE_NAME,Purification Grenade,Grenade purificatrice
+KEY_PX_LASER_ARRAY_DESCRIPTION,Phoenix Laser Array,Faisceau laser Phoenix
+KEY_PX_LASER_ARRAY_NAME,Destiny III,Destiny III
+KEY_PX_LASER_PDW_DESCRIPTION,Phoenix Laser PDW,Arme laser Phoenix
+KEY_PX_LASER_PDW_NAME,Gorgon Eye-A,Gorgon Eye-A
+KEY_PX_LASER_TURRET_DESCRIPTION,"Phoenix Laser Auto Turret ",Tourelle laser automatisée Phoenix
+KEY_PX_LASER_TURRET_NAME,Scorcher AT,Scorcher AT
+KEY_PX_NEURAZER_DESCRIPTION,Phoenix Paralyzing Melee Weapon,Arme de contact paralysante Phoenix
+KEY_PX_NEURAZER_NAME,Neurazer,Neuraseur
+KEY_PX_PISTOL_NAME,Cypher HG,Cypher HG
+KEY_PX_PISTOL_NAME_DESCRIPTION,Phoenix Handgun,Pistolet Phoenix
+KEY_PX_PSYCHIC_RES_ATTACHMENT_DESCRIPTION,Phoenix Psychic-neutralising Helmet Module,Module de casque de clarté psychique Phoenix
+KEY_PX_PSYCHIC_RES_ATTACHMENT_NAME,Clarity Helmet Module,Module de clarté pour casque
+KEY_PX_SHOTGUN_RIFLE_DESCRIPTION,Phoenix Shotgun,Fusil à pompe Phoenix
+KEY_PX_SHOTGUN_RIFLE_NAME,Mercy SG3,Mercy SG3
+KEY_PX_SHREDDED_GRENADE_DESCRIPTION,Phoenix Shredder Grenade,Grenade déchiqueteuse Phoenix
+KEY_PX_SHREDDED_GRENADE_NAME,Mjolnir Grenade,Grenade Mjolnir
+KEY_PX_SHRED_LAUNCHER_DESCRIPTION,Phoenix Shredding Missile Launcher,Lance-missiles déchiqueteur Phoenix
+KEY_PX_SHRED_LAUNCHER_NAME,Ragnarok,Ragnarok
+KEY_PX_SNIPER_BODY_DESCRIPTION,Phoenix Sniper Body Armor,Armure de Tireur d'élite Phoenix
+KEY_PX_SNIPER_BODY_NAME2,Banshee Body Armor,Armure Banshee
+KEY_PX_SNIPER_HELMET_DESCRIPTION,Phoenix Sniper Helmet,Casque de Tireur d'élite Phoenix
+KEY_PX_SNIPER_HELMET_NAME2,Banshee Helmet,Casque Banshee
+KEY_PX_SNIPER_LEGS_DESCRIPTION,Phoenix Sniper Leg Armor,Jambières de Tireur d'élite Phoenix
+KEY_PX_SNIPER_LEGS_NAME2,Banshee Leg Armor,Jambières Banshee
+KEY_PX_SNIPER_RIFLE_DESCRIPTION,Phoenix Sniper Rifle,Fusil de précision Phoenix
+KEY_PX_SNIPER_RIFLE_NAME,Firebird SR,Firebird SR
+KEY_PX_STUN_ROD_DESCRIPTION,Phoenix shock melee weapon,Arme de contact électrique Phoenix
+KEY_PX_STUN_ROD_NAME,Phoenix Shock Lance,Lance électrique Phoenix
+KEY_PX_VIROPHAGE_GRENADE_DESCRIPTION,Phoenix Virophage Grenade,Grenade virophage Phoenix
+KEY_PX_VIROPHAGE_GRENADE_NAME,Yggdrasil Grenade,Grenade Yggdrasil
+KEY_PX_VIROPHAGE_SNIPER_RIFLE_DESCRIPTION,Phoenix Virophage Sniper Rifle,Fusil de précision virophage Phoenix
+KEY_PX_VIROPHAGE_SNIPER_RIFLE_NAME,Gungnir SR-2,Gungnir SR-2
+KEY_QUEEN_ARM_BLASTER_DESCRIPTION,A powerful multi-shot cannon,Un puissant canon à plusieurs coups
+KEY_QUEEN_ARM_BLASTER_NAME,BLASTER CANNON,CANON EXPLOSIF
+KEY_SHIELD_DESCRIPTION,Arthron shield,Bouclier d'Arthron
+KEY_SHIELD_NAME,SHIELD,BOUCLIER
+KEY_SMASHER_DESCRIPTION,SMASHER,FRACASSEUR
+KEY_SMASHER_NAME,SMASHER,FRACASSEUR
+KEY_STIMPACK_DESCRIPTION,A potent stimulant that instils Frenzy.,Un puissant stimulant qui provoque Frénésie.
+KEY_STIMPACK_NAME,Stimpack,Stimpack
+KEY_SY_ASSAULT_BODY_DESCRIPTION,Synedrion Assault Body Armor,Armure d'Unité d'assaut du Synédrion
+KEY_SY_ASSAULT_BODY_NAME2,Phlegethon Body Armor,Armure Phlégéthon
+KEY_SY_ASSAULT_HELMET_DESCRIPTION,Synedrion Assault Helmet,Casque d'Unité d'assaut du Synédrion
+KEY_SY_ASSAULT_HELMET_NAME2,Phlegethon Helmet,Casque Phlégéthon
+KEY_SY_ASSAULT_LEGS_DESCRIPTION,Synedrion Assault Leg Armor,Jambières d'Unité d'assaut du Synédrion
+KEY_SY_ASSAULT_LEGS_NAME2,Phlegethon Leg Armor,Jambières Phlégéthon
+KEY_SY_CROSSBOW_DESCRIPTION,Synedrion Crossbow,Arbalète du Synédrion
+KEY_SY_CROSSBOW_NAME,Eros CRB III,Éros CRB III
+KEY_SY_INFILTRATOR_BODY_DESCRIPTION,Synedrion Infiltrator Body Armor,Armure d'Infiltré du Synédrion
+KEY_SY_INFILTRATOR_BODY_NAME2,Styx Body Armor,Armure Styx
+KEY_SY_INFILTRATOR_HELMET_DESCRIPTION,Synedrion Infiltrator Helmet,Casque d'Infiltré du Synédrion
+KEY_SY_INFILTRATOR_HELMET_NAME2,Styx Helmet,Casque Styx
+KEY_SY_INFILTRATOR_LEGS_DESCRIPTION,Synedrion Infiltrator Leg Armor,Jambières d'Infiltré du Synédrion
+KEY_SY_INFILTRATOR_LEGS_NAME2,Styx Leg Armor,Jambières Styx
+KEY_SY_LASER_ASSAULT_RIFLE_DESCRIPTION,Synedrion Laser Assault Rifle,Fusil d'assaut laser du Synédrion
+KEY_SY_LASER_ASSAULT_RIFLE_NAME,Deimos AR-L,Déimos AR-1
+KEY_SY_LASER_PISTOL_DESCRIPTION,Synedrion Laser Pistol,Pistolet laser du Synédrion
+KEY_SY_LASER_PISTOL_NAME,Hephaestus II,Héphaïstos II
+KEY_SY_LASER_SNIPER_RIFLE_DESCRIPTION,Synedrion Laser Sniper Rifle,Fusil de précision laser du Synédrion
+KEY_SY_LASER_SNIPER_RIFLE_NAME,Pythagoras VII,Pythagore VII
+KEY_SY_MIST_REPEL_ATTACHMENT_DESCRIPTION,Synedrion Mist-repellant Helmet Module,Module de casque repousseur de brume du Synédrion
+KEY_SY_MIST_REPEL_ATTACHMENT_NAME,Repeller Module,Module repousseur
+KEY_SY_MOTION_DETECTION_ATTACHMENT_DESCRIPTION,Synedrion Motion Detection Helmet Unit,Module de casque détecteur de mouvement du Synédrion
+KEY_SY_MOTION_DETECTION_ATTACHMENT_NAME,Motion Detection Module,Module détecteur de mouvement
+KEY_SY_NEURAL_PISTOL_DESCRIPTION,Synedrion Neural Pistol,Pistolet neural du Synédrion
+KEY_SY_NEURAL_PISTOL_NAME,Hera NP-1,Héra NP-1
+KEY_SY_NEURAL_SNIPER_RIFLE_DESCRIPTION,Synedrion Neural Sniper Rifle,Fusil de précision neural du Synédrion
+KEY_SY_NEURAL_SNIPER_RIFLE_NAME,Athena NS-2,Athéna NS-2
+KEY_SY_POISON_CROSSBOW_DESCRIPTION,Synedrion Poison Crossbow,Arbalète toxique du Synédrion
+KEY_SY_POISON_CROSSBOW_NAME,Psyche CRB IV,Psyché CRB IV
+KEY_SY_POISON_GRENADE_DESCRIPTION,Synedrion Poison Grenade,Grenade toxique du Synédrion
+KEY_SY_POISON_GRENADE_NAME,Chimera Grenade,Grenade Chimère
+KEY_SY_POISON_RES_VEST_ATTACHMENT_DESCRIPTION,Synedrion Poison-resistant Undersuit Module,Module corporel anti-poison du Synédrion
+KEY_SY_POISON_RES_VEST_ATTACHMENT_NAME,Poison-Res Vest Module,Gilet anti-poison
+KEY_SY_SNIPER_BODY_DESCRIPTION,Synedrion Sniper Body Armor,Armure de Tireur d'élite du Synédrion
+KEY_SY_SNIPER_BODY_NAME2,Acheron Body Armor,Armure d'Acheron
+KEY_SY_SNIPER_HELMET_DESCRIPTION,Synedrion Sniper Helmet,Casque de Tireur d'élite du Synédrion
+KEY_SY_SNIPER_HELMET_NAME2,Acheron Helmet,Casque d'Acheron
+KEY_SY_SNIPER_LEGS_DESCRIPTION,Synedrion Sniper Leg Armor,Jambières de Tireur d'élite du Synédrion
+KEY_SY_SNIPER_LEGS_NAME2,Acheron Leg Armor,Jambières d'Acheron
+KEY_SY_SONIC_GRENADE_DESCRIPTION,Synedrion Sonic Shock Grenade,Grenade électrique sonique du Synédrion
+KEY_SY_SONIC_GRENADE_NAME,Kydoimos Grenade,Grenade Kydoimos
+KEY_SY_SPIDER_DESCRIPTION,Synedrion Spider Drone Specialized Pistol,Pistolet spécialisé pour drone araignée du Synédrion
+KEY_SY_SPIDER_NAME,Arachni SP 1,Arachni SP 1
+KEY_SY_VISUAL_SENSOR_ATTACHMENT_DESCRIPTION,Synedrion Multivisual Sensor Helmet Module,Module de casque à capteur multivisuel du Synédrion
+KEY_SY_VISUAL_SENSOR_ATTACHMENT_NAME,Multivisual Sensor Module,Module de capteur multivisuel
+KEY_TURRET_DESCRIPTION,New Jericho Gauss Auto Turret,Tourelle automatisée Gauss de la Nouvelle-Jéricho
+KEY_TURRET_NAME,Watcher AT,Watcher AT
+KEY_VEHICLE_ROCKET_TURRET_DESCRIPTION,Phoenix Scarab Missile Turret,Tourelle de missile scarabée Phoenix
+KEY_VEHICLE_ROCKET_TURRET_NAME,Gemini V,Gemini V
+KEY_VEHICLE_TURRET_GAUS_DESCRIPTION,New Jericho Armadillo Gauss Turret,Tourelle Gauss de Priodonte de la Nouvelle-Jéricho
+KEY_VEHICLE_TURRET_GAUS_NAME,Hailstorm GT,Hailstorm GT
+KEY_VIROPHADE_MEDKIT_DESCRIPTION,"Restores {GeneralHealAmount} Hit Points and removes virus, bleeding and poison","Restaure {GeneralHealAmount} points de vies et supprime toute infection virale, tout saignement et poison"
+KEY_VIROPHADE_MEDKIT_NAME,Virophage Kit,Kit virophage

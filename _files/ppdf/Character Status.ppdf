@@ -1,0 +1,135 @@
+﻿# KEY_ACID_STATUS_DESCRIPTION
+Acid corrodes 10 armor per turn. If there is no armor, then the damage is applied to the body part. Acid value reduces by 10 per turn.
+L'acide corrode 10 points d'armure par tour. S'il n'y a pas d'armure, les dégâts sont appliqués au corps. La valeur de l'acide baisse de 10 points par tour.
+# KEY_ACID_STATUS_NAME
+ACID
+ACIDE
+# KEY_ALERTED_STATUS_DESCRIPTION
+Enemy is aware of your presence
+L'ennemi a détecté votre présence.
+# KEY_ALERTED_STATUS_NAME
+ALERTED!
+ALERTÉ !
+# KEY_BLEEDING
+BLEEDING:
+SAIGNEMENT :
+# KEY_BLEED_STATUS_DESCRIPTION
+Each turn, lose Hit Points equal to bleed value
+Chaque tour, vous perdez un nombre de points de vie équivalent à la valeur du saignement.
+# KEY_BLEED_STATUS_NAME
+BLEEDING
+SAIGNEMENT
+# KEY_BURNING_STATUS_DESCRIPTION
+Fire damage is applied to each body part at the start of the turn, subtracting armor.
+Les dégâts de feu sont appliqués à chaque partie du corps au début du tour, retirant des points d'armure.
+# KEY_BURNING_STATUS_NAME
+BURNING
+BRÛLURE
+# KEY_EXHAUSTED_STATUS_DESCRIPTION
+-2 Action Points each turn
+-2 points d'action à chaque tour.
+# KEY_EXHAUSTED_STATUS_NAME
+EXHAUSTED
+ÉPUISÉ
+# KEY_FRENZY_STATUS_DESCRIPTION
+Speed increased by 50% and immune to panic
+Vitesse augmentée de 50 % et immunité contre la panique.
+# KEY_FRENZY_STATUS_NAME
+FRENZIED
+FRÉNÉTIQUE
+# KEY_GOOED_STATUS_DESCRIPTION
+Unable to move until Goo decays or is removed
+Déplacements impossibles jusqu'à ce que la gelée disparaisse ou soit retirée.
+# KEY_GOOED_STATUS_NAME
+GOOED
+EN GELÉE
+# KEY_INFECTED_STATUS_DESCRIPTION
+At start of turn virus is subtracted from Will Points, then virus value is reduced by 1
+Au début du tour, la virulence du virus retire des points de volonté, puis sa valeur baisse de 1 point.
+# KEY_INFECTED_STATUS_NAME
+INFECTED BY VIRUS
+INFECTION VIRALE
+# KEY_OVERWATCH_STATUS_DESCRIPTION
+Enemies entering the overwatch cone will trigger an attack
+Les ennemis qui entrent dans la zone de vigilance provoquent une attaque.
+# KEY_OVERWATCH_STATUS_NAME
+OVERWATCH
+VIGILANCE
+# KEY_PANIC_STATUS_DESCRIPTION
+Unable to move for a turn, while recovering Will Points
+Déplacements impossibles pendant un tour, l'unité récupère des points de volonté.
+# KEY_PANIC_STATUS_NAME
+PANICKED
+PANIQUÉ
+# KEY_POISON_STATUS_DESCRIPTION
+At start of turn poison is subtracted from Hit Points, then poison value is reduced by 10
+Au début du tour le poison retire des points de vie, puis sa valeur baisse de 10 points.
+# KEY_POISON_STATUS_NAME
+POISONED
+EMPOISONNÉ
+# KEY_PREPARING_STATUS_DESCRIPTION
+Preparing to activate special ability on the next turn
+En pleine préparation pour activer une capacité spéciale au tour suivant.
+# KEY_PREPARING_STATUS_NAME
+PREPARING
+PRÉPARATION
+# KEY_SHIELD_DEPLOYED_STATUS_DESCRIPTION
+The shield is placed for protection
+Le bouclier est placé pour la protection.
+# KEY_SHIELD_DEPLOYED_STATUS_NAME
+SHIELD DEPLOYED
+BOUCLIER DÉPLOYÉ
+# KEY_STATUS_ACTIVATED_DESCRIPTION
+The device has been activated
+Le dispositif a été activé.
+# KEY_STATUS_ACTIVATED_NAME
+ACTIVATED
+ACTIVÉ
+# KEY_STATUS_CIVILIAN_CONTROLLED_DESCRIPTION
+Now under player control
+Maintenant contrôlé par le joueur
+# KEY_STATUS_CIVILIAN_CONTROLLED_NAME
+UNDER PHOENIX CONTROL
+CONTRÔLÉ PAR PHOENIX
+# KEY_STATUS_DAZED
+DAZED
+ÉTOURDI
+# KEY_STATUS_DAZED_DESCRIPTION
+Action Points reduced to 1 and accuracy halved
+Points d'action réduits à 1 et précision réduite de moitié.
+# KEY_STATUS_MUTOG_BERSERK_DESCRIPTION
+Mutog becomes wild, attacking friend or foe
+Le Mutog devient fou, attaquant amis comme ennemis.
+# KEY_STATUS_MUTOG_BERSERK_NAME
+BERSERK
+DÉCHAÎNÉ
+# KEY_STATUS_MUTOG_ENRAGED_DESCRIPTION
+Damage dealt and speed are increased by 50%. There's a 10% chance the Mutog will go Berserk at the start of each turn.
+Les dégâts infligés et la vitesse augmentent de 50 %. Il y a 10 % de chance que le Mutog soit déchaîné au début de chaque tour.
+# KEY_STATUS_MUTOG_ENRAGED_NAME
+ENRAGED
+ENRAGÉ
+# KEY_STATUS_PARALYSED_DESCRIPTION
+Cannot move or perform any actions
+Déplacements ou actions impossibles.
+# KEY_STATUS_PARALYSED_NAME
+PARALYZED
+PARALYSÉ
+# KEY_STATUS_PARALYSIS_DESCRIPTION
+Action Points are reduced by the proportion of paralysis value to Strength
+Les points d'action sont réduits proportionnellement à la valeur de paralysie appliquée à la puissance.
+# KEY_STATUS_PARALYSIS_NAME
+PARALYSIS
+PARALYSIE
+# KEY_STATUS_UNDER_CONTROL_DESCRIPTION
+Mind controlled, at a cost of WPs per turn for the controller
+Sous contrôle mental, au prix de PVo par tour pour le contrôleur.
+# KEY_STATUS_UNDER_CONTROL_NAME
+MIND CONTROLLED
+SOUS CONTRÔLE MENTAL
+# KEY_TIRED_STATUS_DESCRIPTION
+-1 Action Point each turn
+-1 point d'action à chaque tour.
+# KEY_TIRED_STATUS_NAME
+TIRED
+FATIGUÉ

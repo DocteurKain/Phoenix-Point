@@ -1,0 +1,437 @@
+Key,English,French
+KEY_CONTROLS_ACTION_DISCRETE_FREEAIM,FREE AIM,VISÉE LIBRE
+KEY_CUSTOM_SHOOT,SHOOT,TIRER
+KEY_OBJECTIVE_ALLMUSTSURVIVE,ALL OPERATIVES MUST SURVIVE,TOUS LES AGENTS DOIVENT SURVIVRE
+KEY_TUT1_AP_DESCRIPTION,"Let's move to attack!
+
+Tiles inside BLUE AREA  allow soldiers to move and shoot in the same turn.
+
+A blue SHOOTING LINE will be drawn from the selected tile if an enemy can be shot from it.
+
+MOVE TO THE HIGHLIGHTED TILE
+","Déplaçons-nous pour attaquer !
+ 
+ Sur les cases qui se trouvent dans une ZONE BLEUE, les soldats peuvent se déplacer et tirer dans le même tour.
+ 
+ Une LIGNE DE TIR bleue sera présente sur la case sélectionnée si un ennemi peut être atteint depuis cette case.
+ 
+ DÉPLACEZ-VOUS VERS LA ZONE EN ÉVIDENCE."
+KEY_TUT1_AP_NAME,Movement,Déplacement
+KEY_TUT1_AP_PART2_DESCRIPTION_C,"Action controls
+
+
+Select Action: Use <size=60>:RT:</size> to enter the Action Bar and <size=60>:DLEFT:</size> and <size=60>:DRIGHT:</size> to select, and <size=60>:A:</size> to perform action.
+
+
+Movement: <size=60>:A:</size> then select MOVE to go to the Selection Marker location","Commandes d'action
+ 
+ Sélectionner une action : utilisez <size=60>:RT:</size> pour accéder à la barre d'actions, <size=60>:DLEFT:</size> et <size=60>:DRIGHT:</size> pour sélectionner, puis <size=60>:A:</size> pour effectuer l'action.
+
+ Déplacement : <size=60>:A:</size>, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection."
+KEY_TUT1_AP_PART2_DESCRIPTION_K,"Action controls
+
+Select Action: :LMB: on the action icon
+Perform Action: :LMB: on the action button or icon
+
+Movement: :LMB: then select MOVE to go to the Selection Marker location
+
+Direct Movement: :RMB: to go directly to the Selection Marker location","Commandes d'actions
+ 
+ Sélectionner une action : :LMB: sur l'icône d'action
+ Effectuer l'action : :LMB: sur le bouton ou l'icône d'action
+
+ Déplacement : :LMB:, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection
+ 
+ Déplacement direct : :RMB: pour vous rendre directement à l'emplacement du marqueur de sélection"
+KEY_TUT1_COVER_DESCRIPTION,"Any object in the environment can be used as cover to block the path of projectiles. Soldiers can make use of cover in two ways.
+ 
+ When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.
+ 
+When next to a high obstacle or high wall, soldiers will remain standing and will step to the side to shoot.
+ 
+ NOW MOVE TO THE HIGHLIGHTED TILE","Tout objet de l'environnement est susceptible de fournir une couverture en bloquant la trajectoire d'un projectile. Toutefois, les soldats peuvent utiliser une couverture de deux façons.
+ 
+ Lorsqu'ils se trouvent à proximité d'un petit obstacle ou d'un petit mur, les soldats s'accroupiront pour réduire leur exposition.
+ 
+ Lorsqu'ils se trouvent à proximité d'un grand obstacle ou d'un grand mur, ils resteront debout, mais feront un pas de côté pour tirer.
+ 
+ À PRÉSENT, DÉPLACEZ-VOUS SUR LA CASE EN ÉVIDENCE."
+KEY_TUT1_COVER_NAME,Cover and Environment,Couverture et environnement
+KEY_TUT1_FREE_AIM_DESCRIPTION,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING.
+
+ENTER FREE AIM MODE
+Press the ZOOM IN button or scroll :MW:","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION.
+
+ ENTRER EN MODE VISÉE LIBRE
+ Appuyez sur le bouton AGRANDIR ou faites défiler :MW:"
+KEY_TUT1_FREE_AIM_DESCRIPTION_C,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING.
+
+ENTER FREE AIM MODE
+<size=60>:RTS:</size>","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION.
+
+ ENTRER EN MODE VISÉE LIBRE.
+ <size=60>:RTS:</size>"
+KEY_TUT1_FREE_AIM_DESCRIPTION_K,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING.
+
+ENTER FREE AIM MODE
+Press FREE AIM or scroll :MW:","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION.
+
+ ENTRER EN MODE VISÉE LIBRE.
+ Appuyez sur VISÉE LIBRE ou faites défiler :MW:"
+KEY_TUT1_FREE_AIM_DESCRIPTION_PART2_C,"In Free Aim mode, you shoot from the soldier's point of view.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+Shooting at different BODY PARTS can disable them, denying the enemy some abilities.
+
+FREE AIM CONTROLS
+Move Crosshair: <size=60>:LTS:</size>
+Zoom in/Out: <size=60>:RTS:</size>
+Exit Free Aim: <size=60>:B:</size>
+
+SHOOT THE ENEMY","En mode Visée libre, vous tirez du point de vue du soldat.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus le cercle sera restreint.
+ 
+ Tirez sur différentes PARTIES DU CORPS peut les désactiver, retirant certaines capacités à l'ennemi.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Déplacer le pointeur : <size=60>:LTS:</size>
+ Agrandir/réduire : <size=60>:RTS:</size>
+ Quitter le mode Visée libre : <size=60>:B:</size>
+ 
+ TIREZ SUR L'ENNEMI."
+KEY_TUT1_FREE_AIM_DESCRIPTION_PART2_K,"In Free Aim mode, you shoot from the soldier's point of view.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+Shooting at different BODY PARTS can disable them, denying the enemy some abilities.
+
+FREE AIM CONTROLS
+Move Crosshair: move the Mouse
+Zoom in/Out: scroll :MW:
+Exit Free Aim: :RMB: or ESC
+
+SHOOT THE ENEMY","En mode Visée libre, vous tirez du point de vue du soldat.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus le cercle sera restreint.
+ 
+ Tirer sur différentes PARTIES DU CORPS peut les désactiver, retirant certaines capacités à l'ennemi.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Déplacer le pointeur : déplacez la souris
+ Agrandir/réduire : faites défiler :MW:
+Quitter le mode Visée libre : :RMB: ou ÉCHAP
+ 
+ TIREZ SUR L'ENNEMI."
+KEY_TUT1_FREE_AIM_NAME,Free Aim Shooting,Tirs à visée libre
+KEY_TUT1_HEALTH_DESCRIPTION,"When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.
+
+Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.
+","Lorsqu'un personnage est attaqué, certaines parties de son corps touchées peuvent être endommagées en plus de réduire ses points de vie généraux. Les parties du corps blessées apparaissent en jaune sur la visualisation des dégâts, à gauche de la jauge de santé. Les parties du corps désactivées apparaissent en rouge.
+ 
+ Les parties du corps désactivées causent généralement des saignements, ainsi que la perte de puissance et peut-être de volonté. Toute capacité spéciale octroyée par la partie du corps en question sera perdue."
+KEY_TUT1_HEALTH_NAME,Damage and Body Parts,Dégâts et parties du corps
+KEY_TUT1_MOVEMENT_DESCRIPTION_BIND_C,"TRY THE CAMERA CONTROLS
+
+Camera movement: <size=60>:LTS:</size>
+Camera rotation: <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size>
+Camera zoom: <size=60>:DUP:</size> and <size=60>:DDOWN:</size>","TESTER LES COMMANDES DE LA CAMÉRA
+ 
+ Mouvement de caméra : <size=60>:LTS:</size>
+Rotation de caméra : <size=60>:RTSLEFT:</size> et <size=60>:RTSRIGHT:</size>
+Zoom : <size=60>:DUP:</size> et <size=60>:DDOWN:</size>"
+KEY_TUT1_MOVEMENT_DESCRIPTION_BIND_K,"TRY THE CAMERA CONTROLS
+
+Camera movement: :LMB: + drag, or [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>]
+Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>]
+","TESTER LES COMMANDES DE LA CAMÉRA
+ 
+ Mouvement de caméra : :LMB: + glisser ou [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+ Rotation de caméra : [<color=#ECBA62>{[Rotate Left]}</color>] et [<color=#ECBA62>{[Rotate Right]}</color>]
+ Zoom : [<color=#ECBA62>{[Discrete Zoom In]}</color>] et [<color=#ECBA62>{[Discrete Zoom Out]}</color>]"
+KEY_TUT1_MOVEMENT_NAME,Camera and Movement,Caméra et déplacements
+KEY_TUT1_MOVEMENT_PART2_DESCRIPTION_BIND_C,"MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+
+Мove the Selection Marker with <size=60>:LTS:</size> and press <size=60>:A:</size>
+","DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+ 
+ Déplacez votre marqueur de sélection avec :RTS: et appuyez sur :A:"
+KEY_TUT1_MOVEMENT_PART2_DESCRIPTION_BIND_K,"MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+
+:RMB: on the destination tile or :LMB:, then select MOVE
+","DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+ 
+ :RMB: sur la case de destination ou :LMB:, puis sélectionnez SE DÉPLACER"
+KEY_TUT1_MOVEMENT_PART2_NAME,Camera and Movement,Caméra et déplacements
+KEY_TUT1_OBJECTIVE_DESCRIPTION,"Now that you know the basics of movement and shooting, it's time to finish the mission.
+Be on the lookout for more hostiles! 
+
+COMPLETE THE OBJECTIVE","Maintenant que vous connaissez les bases du déplacement et du tir, il est temps de finir la mission.
+ Restez sur vos gardes au cas où il y aurait d'autres ennemis !
+ 
+ ATTEIGNEZ L'OBJECTIF."
+KEY_TUT1_OBJECTIVE_NAME,Objective,Objectif
+KEY_TUT1_SELECTION_DESCRIPTION_BIND_C,"SELECT YOUR SOLDIER
+Press :RB:, or move the Selection Marker onto the soldier and press <size=60>:A:</size>","SÉLECTIONNER VOTRE SOLDAT
+ Appuyez sur :RB: ou déplacez le marqueur de sélection sur le soldat et appuyez sur <size=60>:A:</size>"
+KEY_TUT1_SELECTION_DESCRIPTION_BIND_K,"SELECT YOUR SOLDIER
+
+:LMB: on the soldier, or press TAB","SÉLECTIONNER VOTRE SOLDAT
+ 
+ :LMB: sur le soldat ou appuyez sur TAB"
+KEY_TUT1_SELECTION_NAME,Selecting Soldiers,Sélection des soldats
+KEY_TUT1_SHOOTING_DESCRIPTION_C,"Your movement is interrupted if you SPOT AN ENEMY. This doesn't end your turn.
+
+SELECT ""FIRE WEAPON""
+<size=60>:RT:</size>
+","Votre déplacement est interrompu si vous DÉTECTEZ UN ENNEMI. Cela ne termine pas votre tour.
+ 
+ SÉLECTIONNER « UTILISER ARME »
+<size=60>:RT:</size>"
+KEY_TUT1_SHOOTING_DESCRIPTION_K,"Your movement is interrupted if you SPOT AN ENEMY. This doesn't end your turn.
+
+SELECT ""FIRE WEAPON""
+:LMB: on the ""Fire Weapon"" icon
+","Votre déplacement est interrompu si vous DÉTECTEZ UN ENNEMI. Cela ne termine pas votre tour.
+ 
+ SÉLECTIONNER « UTILISER ARME »
+:LMB: sur l'icône « Utiliser arme »"
+KEY_TUT1_SHOOTING_NAME,Spotting While Moving,Détection en cours de déplacement
+KEY_TUT1_SHOOTING_PART2_DESCRIPTION_C,"When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.
+
+The whiter the bar, the more CERTAIN the DAMAGE WILL BE INFLICTED.
+
+This bar is completely filled in pure white, which shows a guaranteed kill.
+
+FIRE AT THE ENEMY
+<size=60>:A:</size>
+","Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DE DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+ 
+ Plus la jauge est blanche, plus il est CERTAIN que les DÉGÂTS SERONT INFLIGÉS.
+ 
+ La barre est complètement remplie de blanc, ce qui garantit que la cible sera éliminée.
+
+ TIRER SUR L'ENNEMI
+ <size=60>:A:</size>"
+KEY_TUT1_SHOOTING_PART2_DESCRIPTION_K,"The HEALTH BAR displays your current Hit Points.
+ 
+ When targeting an enemy, the AMOUNT OF DAMAGE your attack could deal is shown on the Health Bar.
+ 
+ The whiter the bar, the more certain the DAMAGE WILL BE INFLICTED.
+
+ This shot is marked in white. It’s almost guaranteed to kill the Arthron.
+ 
+ 
+ FIRE AT THE ENEMY
+ :LMB: the ""FIRE WEAPON"" button","La JAUGE DE SANTÉ indique les points de vie actuels.
+ 
+ Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DE DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+ 
+ Plus la jauge est blanche, plus il est certain que les DÉGÂTS SERONT INFLIGÉS.
+ 
+ Ce coup est marqué en blanc. C'est presque garanti qu'il tuera l'Arthron.
+ 
+ 
+ TIRER SUR L'ENNEMI
+:LMB: sur le bouton « UTILISER ARME »"
+KEY_TUT1_SHOOTING_PART2_NAME,Damage Prediction,Estimation des dégâts
+KEY_TUT1_SPOTTING_DESCRIPTION,"ENEMY ICONS above your Action Bar show all spotted enemies.
+
+А RED ICON (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight of the selected soldier.","Les ICÔNES D'ENNEMIS au-dessus de votre barre d'actions montrent tous les ennemis repérés.
+ 
+ Une ICÔNE ROUGE (<color=#E51919>:CRABMAN:</color>) affiche un ennemi en ligne de mire directe du soldat sélectionné."
+KEY_TUT1_SPOTTING_NAME,Spotting Enemies,Détection d'ennemis
+KEY_TUT1_STANDBY_DESCRIPTION_BIND_C,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using <size=60>:B:</size>
+
+SELECT STANDBY MODE
+","Une fois qu'un soldat est à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en sélectionnant l'icône à partir de la barre d'actions ou en utilisant <size=60>:B:</size>.
+ 
+ SÉLECTIONNEZ LE MODE STAND-BY."
+KEY_TUT1_STANDBY_DESCRIPTION_BIND_К,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.
+
+SELECT STANDBY MODE
+","Une fois qu'un soldat est à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en utilisant [<color=#ECBA62>{[SetEndTurnAbility]}</color>] ou en sélectionnant l'icône à partir de la barre d'actions.
+ 
+SÉLECTIONNEZ LE MODE STAND-BY."
+KEY_TUT1_STANDBY_NAME,Standby Mode,Mode Stand-by
+KEY_TUT1_TURNS_DESCRIPTION_BIND_C,"You can end your turn at any time by pressing :BACK:. ",Terminez votre tour à tout moment en appuyant sur :BACK:.
+KEY_TUT1_TURNS_DESCRIPTION_BIND_K,"You can end your turn at any time by pressing the END TURN button or the 
+ [<color=#ECBA62>{[EndTurn]}</color>] key","Terminez votre tour à tout moment en appuyant sur le bouton TERMINER TOUR de l'écran
+ ou la touche [<color=#ECBA62>{[EndTurn]}</color>]."
+KEY_TUT1_TURNS_NAME,End Turn,Terminer tour
+KEY_TUT1_VEHICLES_DESCRIPTION,"VEHICLES are a special type of unit that can transport Phoenix operatives.
+
+To enter the vehicle, move a soldier to the Entry Marker next to it, and confirm boarding.
+
+ENTER THE VEHICLE WITH BOTH SOLDIERS
+","Les VÉHICULES sont un type spécial d'unité qui peut transporter des agents Phoenix.
+ 
+ Pour monter dans le véhicule, déplacez un soldat sur le marqueur d'entrée à côté du véhicule et confirmez l'embarquement.
+ 
+ MONTEZ DANS LE VÉHICULE AVEC LES DEUX SOLDATS."
+KEY_TUT1_VEHICLES_NAME,Vehicles,Véhicules
+KEY_TUT_ASSAULTRIFLES_DESCRIPTION,"The ASSAULT RIFLE is a versatile two-handed weapon.
+
+It requires 2 APs to use, and fires multiple shots that SHRED armor.","Le FUSIL D'ASSAUT est une arme à deux mains polyvalente.
+ 
+ Son utilisation nécessite 2 PA et il peut tirer plusieurs balles qui DÉCHIQUETTENT les armures."
+KEY_TUT_ASSAULTRIFLES_NAME,Assault Rifles,Fusils d'assaut
+KEY_TUT_ASSAULT_FEMALE,Sophia Brown,Sophia Brown
+KEY_TUT_ASSAULT_MALE,Jacob Eber,Jacob Eber
+KEY_TUT_BASH_DESCRIPTION,"When your soldier is next to an enemy, you can perform the BASH melee attack. 
+
+It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES.","Lorsque votre soldat est à côté d'un ennemi, vous pouvez effectuer l'attaque de contact COGNER.
+ 
+ Elle ne coûte que 1 point d'action, vous pouvez donc l'utiliser PLUSIEURS FOIS sur un ennemi."
+KEY_TUT_BASH_NAME,Bash,Cogner
+KEY_TUT_BLEEDEFFECT_DESCRIPTION,"This unit was hurt and is now BLEEDING. It will lose Hit Points every turn until healed or evacuated.
+ 
+There are various other status effects. Some abilities provide positive effects, while special weapons can inflict negative ones.","Cette unité a subi des dégâts et est sous l'effet du SAIGNEMENT. Elle perdra des points de vie jusqu'à ce qu'elle soit soignée ou évacuée.
+
+ Il existe plusieurs autres états. Certaines capacités accordent des effets positifs, tandis que les armes spéciales en infligent des négatifs."
+KEY_TUT_BLEEDEFFECT_NAME,Status Effect: Bleed,État : saignement
+KEY_TUT_BLEEDSTATUS_DESCRIPTION,"You were hurt and are now BLEEDING.
+ 
+Bleeding soldiers will continue to lose Hit Points every turn until healed or evacuated.","Vous avez subi des dégâts et vous subissez l'état de SAIGNEMENT.
+
+ Les soldats qui saignent perdent des points de vie à chaque tour jusqu'à ce qu'ils soient soignés ou évacués."
+KEY_TUT_BLEEDSTATUS_NAME,Status Effect: Bleed,État : saignement
+KEY_TUT_ENEMYEXITMAP_DESCRIPTION,Enemies that are too injured to fight will FLEE the battlefield.,Les ennemis qui sont trop blessés pour se battre FUIENT le champ de bataille.
+KEY_TUT_ENEMYEXITMAP_NAME,Fleeing Enemies,Ennemis en fuite
+KEY_TUT_HANDGUNS_DESCRIPTION,"HANDGUNS are light weapon helds in ONE HAND. They are the ideal BACKUP if your soldier's main weapon on one of their arms get disabled.
+
+Handguns require only 1 Action Point to shoot and usually can be used multiple times per turn.","Les PISTOLETS sont des armes légères tenues à UNE MAIN. C'est l'arme de SECOURS idéale si l'arme principale de votre soldat sur l'un de ses bras est hors de combat.
+ 
+ Les pistolets ne nécessitent que 1 point d'action pour tirer et peuvent généralement s'utiliser plusieurs fois par tour."
+KEY_TUT_HANDGUNS_NAME,Handguns,Pistolets
+KEY_TUT_HEAVY_MALE,Omar Ashour,Omar Ashour
+KEY_TUT_HIGHCOVER_DESCRIPTION,"An operative will always hide behind walls and other obstacles to assume HIGH COVER. This obscures the soldier, potentially blocking some of the incoming shots.
+
+
+A soldier in high cover will SIDE STEP to shoot and go back to cover.","Un agent se cachera toujours derrière des murs ou d'autres obstacles pour se mettre en position de COUVERTURE HAUTE. Cela permet de dissimuler les parties du corps du soldat et de potentiellement bloquer les tirs ennemis.
+
+ Un soldat en couverture haute fera UN PAS DE CÔTÉ pour tirer et se remettre à couvert."
+KEY_TUT_HIGHCOVER_NAME,High Cover,Couverture haute
+KEY_TUT_INVENTORYACTION_DESCRIPTION,"The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.
+
+ENCUMBRANCE
+If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.
+The tactical inventory display is divided into three sections.
+
+READY: Contains items that are currently equipped and ready for immediate use.
+BACKPACK: Holds all items carried, but not equipped.
+GROUND: Items on the soldier’s tile, or in surrounding tiles.","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+ 
+ CHARGE
+ Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+ L'écran d'inventaire tactique est divisé en trois sections.
+ 
+ PRÊT : comprend tous les objets équipés et prêts à l'emploi.
+ SAC À DOS : comprend tous les objets transportés, mais non équipés.
+ À TERRE : les objets sur la case du soldat et sur celles aux alentours."
+KEY_TUT_INVENTORYACTION_NAME,Inventory,Inventaire
+KEY_TUT_INVENTORYNOAP_DESCRIPTION_BIND_C,"Moving items to and from the inventory REQUIRES 1 AP. 
+ You can browse the inventory at any time by pressing the <size=60>:DLEFT:</size> key and move them next time when you have more AP.","Mettre et retirer des objets de l'inventaire NÉCESSITENT 1 PA.
+ Vous pouvez parcourir les objets à tout moment en appuyant sur la touche <size=60>:DLEFT:</size> et les déplacer une fois que vous avez suffisamment de points d'action."
+KEY_TUT_INVENTORYNOAP_DESCRIPTION_BIND_K,"Moving items to and from the inventory REQUIRES 1 AP. 
+ You can browse the inventory by pressing the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key and move them next time when you have more AP.","Mettre et retirer des objets de l'inventaire NÉCESSITENT 1 PA.
+ Vous pouvez parcourir les objets à tout moment en appuyant sur la touche [<color=#ECBA62>{[SetInventoryAbility]}</color>] et les déplacer une fois que vous avez suffisamment de points d'action."
+KEY_TUT_INVENTORYNOAP_NAME,Not Enough AP,PA insuffisants
+KEY_TUT_INVENTORY_DESCRIPTION,"The Inventory shows everything carried by soldiers, items on the ground, and items in adjacent crates.
+ 
+ENCUMBRANCE
+If the weight of all carried items and armor exceeds the soldier's Strength, the soldier suffers a movement penalty.
+The tactical inventory display is divided into three sections:
+
+READY: Contains items that are currently equipped and ready for immediate use.
+BACKPACK: Holds all items that are carried but not equipped.
+GROUND: Items on the soldier’s tile or surrounding tiles.","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+ 
+ CHARGE
+ Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+ L'écran d'inventaire tactique est divisé en trois sections.
+ 
+ PRÊT : comprend tous les objets équipés et prêts à l'emploi.
+ SAC À DOS : comprend tous les objets transportés, mais non équipés.
+ À TERRE : les objets sur la case du soldat et sur celles aux alentours."
+KEY_TUT_INVENTORY_NAME,Inventory,Inventaire
+KEY_TUT_JETJUMP_DESCRIPTION,"The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES or reach high points with ease. 
+",La combinaison jetpack emblématique de Mastodonte permet de VOLER AU-DESSUS DES OBSTACLES et d'atteindre des points en hauteur sans trop de difficulté.
+KEY_TUT_JETJUMP_NAME,"Jet Jump ",Propulsion
+KEY_TUT_LOWCOVER_DESCRIPTION,"An operative will always kneel behind low terrain to assume LOW COVER. This obscures parts of the soldier, potentially blocking some of the incoming shots.
+
+
+A soldier in low cover will STAND UP to shoot.","Un agent s'agenouillera toujours derrière un obstacle bas pour se mettre en position de COUVERTURE BASSE. Cela permet de dissimuler les parties du corps du soldat et de potentiellement bloquer les tirs ennemis.
+ 
+Un soldat en couverture basse SE LÈVERA pour tirer."
+KEY_TUT_LOWCOVER_NAME,Low Cover,Couverture basse
+KEY_TUT_MEDKIT_DESCRIPTION,"MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled limbs, and remove status effects such as Bleeding. 
+ 
+A soldier can use a Medkit on themselves or an ALLY.","Les MÉDIKITS sont des outils très utiles qui peuvent RESTAURER DES POINTS DE VIE, des membres désactivés et retirer des états comme le saignement.
+ 
+ Un soldat peut utiliser un médikit pour lui-même ou pour un ALLIÉ."
+KEY_TUT_MEDKIT_NAME,MedKit,Médikit
+KEY_TUT_OVERWATCH_DESCRIPTION,"The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.
+
+ OVERWATCH CONTROLS
+ Select target position: Move Mouse
+ Change width of Overwatch zone: CTRL + :MW:
+ Confirm Overwatch: :LMB:","La capacité Vigilance permet aux soldats de garder une zone pendant le tour de l'ennemi. Si un ennemi entre dans la zone de vigilance, il est automatiquement attaqué.
+ 
+ COMMANDES DE VIGILANCE
+ Sélectionner la position cible : déplacez la souris
+ Modifier la largeur de la zone : CTRL + :MW:
+Confirmer Vigilance : :LMB:"
+KEY_TUT_OVERWATCH_NAME,Overwatch,Vigilance
+KEY_TUT_PANIC_DESCRIPTION,"When a unit's Will Points drop to 0, it becomes PANICKED. Panicked units will automatically move to find cover.","Lorsque les points de volonté d'une unité tombent à 0, l'unité entre en état de PANIQUE. Les unités paniquées se déplacent automatiquement pour se mettre à couvert."
+KEY_TUT_PANIC_NAME,Panic,Panique
+KEY_TUT_PXHEAVYCANNON_DESCRIPTION,"The HEL II CANNON is a powerful heavy weapon with LOW ACCURACY and HIGH DAMAGE. 
+
+Firing it costs 3 Action Points. Use it to deal with nearby enemies!","Le CANON HEL II est une arme lourde puissante avec une FAIBLE PRÉCISION et des DÉGÂTS ÉLEVÉS.
+ 
+ Son utilisation coûte 3 points d'action. Utilisez-le pour éliminer les ennemis à proximité !"
+KEY_TUT_PXHEAVYCANNON_NAME,Hel II Cannon,Canon Hel II
+KEY_TUT_RECOVER_DESCRIPTION,A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. This also grants them immunity to Panic for one turn. Timing is key!,Un soldat peut récupérer la moitié de ses points de volonté en utilisant 4 points d'action pour la capacité RÉCUPÉRER. Tout est dans le timing !
+KEY_TUT_RECOVER_NAME,Recover,Récupérer
+KEY_TUT_RELOAD_DESCRIPTION,"Your weapon is OUT OF AMMO. You'll need to use the RELOAD action to fire it again. 
+
+Reloading is only possible if you are carrying an AMMO MAGAZINE of the correct type.","Votre arme N'A PLUS DE MUNITIONS. Vous devrez utiliser l'action RECHARGER pour continuer à tirer.
+ 
+ La recharge n'est possible que si vous transportez le bon type de CHARGEUR DE MUNITIONS."
+KEY_TUT_RELOAD_NAME,Out of Ammo,Munitions épuisées
+KEY_TUT_SCARABMISSLE_DESCRIPTION,"The Scarab's powerful weapon launches TWO MISSLES тхат deal damage in an area. 
+
+It's perfect for clearing out groups of weak enemies, or damaging high-armor targets.","L'arme puissante du Scarabée lance DEUX MISSILES qui infligent des dégâts dans une zone.
+ 
+ Elle est parfaite pour éliminer des groupes d'ennemis faibles ou infliger des dégâts à des cibles portant des armures performantes."
+KEY_TUT_SCARABMISSLE_NAME,Scarab Blast,Explosion de Scarabée
+KEY_TUT_SCARAB_DESCRIPTION,"The Scarab is a heavily armored TRANSPORT UNIT armed with devastating missile launchers.
+
+Use it to transport your operatives faster and blast enemies from a distance.","Le Scarabée est une UNITÉ DE TRANSPORT blindée et armée de lance-missiles destructeurs.
+ 
+ Utilisez-le pour transporter vos agents plus rapidement et faire exploser vos ennemis à distance."
+KEY_TUT_SCARAB_NAME,PX Scarab,Scarabée PX
+KEY_TUT_STANDBY_DESCRIPTION,"You can choose to end a soldier's turn by selecting STAND BY from the Action Bar. 
+
+If a soldier is OUT OF ACTION POINTS, they will Stand By automatically.","Vous pouvez choisir de terminer le tour d'un soldat en sélectionnant STAND-BY dans la barre d'actions.
+ 
+ Si un soldat n'a PLUS DE POINTS D'ACTION, il se mettra automatiquement en stand-by."
+KEY_TUT_STANDBY_NAME,Stand By,Stand-by
+KEY_TUT_VEHICLEAUTOFAMMO_DESCRIPTION,"Your vehicle is OUT OF AMMO. 
+Unlike firearms, vehicles don't have a Reload action. 
+
+Your vehicle's weapon will be recharged AFTER THE MISSION.","Votre véhicule N'A PLUS DE MUNITIONS
+ Contrairement aux armes à feu, les véhicules ne bénéficient pas d'action Recharger.
+ 
+ L'arme du véhicule sera rechargée APRÈS LA MISSION."
+KEY_TUT_VEHICLEAUTOFAMMO_NAME,Vehicle Out of Ammo,Munitions du véhicule épuisées

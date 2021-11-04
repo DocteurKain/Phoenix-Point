@@ -1,0 +1,51 @@
+﻿# KEY_MANUFACTURE_AMMO_NAME
+MANUFACTURE AMMO
+FABRIQUER DES MUNITIONS
+# KEY_MANUFACTURE_DEPLOY
+SELECT DEPLOYMENT LOCATION
+SÉLECTIONNER LIEU DE DÉPLOIEMENT
+# KEY_MANUFACTURE_NAME
+MANUFACTURE
+FABRIQUER
+# KEY_MANUFACTURE_NEW_AIRCRAFT
+NEW AIRCRAFT AVAILABLE
+NOUVEAU VAISSEAU DISPONIBLE
+# KEY_MANUFACTURE_NEW_MUTOG
+NEW MUTOG AVAILABLE
+NOUVEAU MUTOG DISPONIBLE
+# KEY_MANUFACTURE_NEW_VEHICLE
+NEW GROUND VEHICLE AVAILABLE
+NOUVEAU VÉHICULE TERRESTRE DISPONIBLE
+# KEY_MANUFACTURE_NOT_ENOUGH_RESOURCES_WARNING
+You don't have enough resources to manufacture this item.
+Vous n'avez pas assez de ressources pour fabriquer cet objet.
+# KEY_MANUFACTURE_NOT_ITEMS_ARMOR_TT
+No armor available
+Aucune armure disponible
+# KEY_MANUFACTURE_NOT_ITEMS_VEHICLES_TT
+No vehicles available
+Aucun véhicule disponible
+# KEY_MANUFACTURE_NOT_ITEMS_WARNING_TT
+No items available
+Aucun objet disponible
+# KEY_MANUFACTURE_RETURNED_RESOURCES
+RETURNED RESOURCES
+RESSOURCES RÉCUPÉRÉES
+# KEY_MANUFACTURE_SCRAP_CONFIRMATION
+Are you sure you want to scrap all items on the list?
+Voulez-vous vraiment recycler tous les objets de la liste ?
+# KEY_MANUFACTURE_SCRAP_LIST
+SCRAP LIST
+LISTE DE RECYCLAGE
+# KEY_MANUFACTURE_SCRAP_WARNING
+You have items in your scrap list. Are you sure you want to leave?
+Vous avez des objets dans votre liste de recyclage. Voulez-vous vraiment quitter ?
+# KEY_MANUFACTURE_UNAFFORDABLE
+Unaffordable
+Trop cher
+# KEY_RECYCLING_DESCIPTION
+Recycle items for resources
+Recyclez des objets pour obtenir des ressources
+# KEY_RECYCLING_NAME
+RECYCLING
+RECYCLAGE

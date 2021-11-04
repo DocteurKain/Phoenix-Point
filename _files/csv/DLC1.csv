@@ -1,0 +1,209 @@
+Key,English,French
+PROG_PU10_CHOICE_0_OUTCOME_GENERAL,A rogue Synedrion mercenary has approached us with an interesting offer. He claims to have a recording of a secret communication between Subject 24 and leaders of the Malthusian faction and is willing to sell it to us for a price.,Un mercenaire sans scrupules du Synédrion nous a fait une offre intéressante. Il dit avoir un enregistrement d'une communication secrète entre Sujet 24 et les chefs d'une faction malthusienne et il est prêt à nous la vendre si nous lui offrons le bon prix.
+PROG_PU10_CHOICE_0_TEXT,Accept.,Accepter.
+PROG_PU10_CHOICE_1_OUTCOME_GENERAL,Disappointed by our response the mercenary ended all communication saying he could get a better deal elsewhere. Any subsequent attempts to reestablish contact or find the person have ended in failure.,"Déçu par notre réponse, le mercenaire a mis fin à toute communication en disant qu'il pourrait obtenir une meilleure offre ailleurs. Toutes les tentatives ultérieures visant à rétablir le contact ou à trouver la personne se sont soldées par un échec.."
+PROG_PU10_CHOICE_1_TEXT,Refuse.,Refuser.
+PROG_PU10_TEXT_GENERAL_0,A rogue Synedrion mercenary has approached us with an interesting offer. He claims to have a recording of a secret communication between Subject 24 and leaders of the Malthusian faction and is willing to sell it to us for a price.,Un mercenaire sans scrupules du Synédrion nous a fait une offre intéressante. Il dit avoir un enregistrement d'une communication secrète entre Sujet 24 et les chefs d'une faction malthusienne et il est prêt à nous la vendre si nous lui offrons le bon prix.
+PROG_PU10_TITLE,Whispers,Rumeurs
+PROG_PU121_CHOICE_0_TEXT,OK.,OK.
+PROG_PU121_TEXT_GENERAL_0,"MESSAGE
+
+Good move, Phoenix Project. You think you can beat us at our own game? Tobias West thought the same way and look at him now: trembling behind his walls and adjutants, terrified of every sound in the dark.
+You’ll be like that soon, and you’ll never know when that sound turns out to be us.
+","MESSAGE
+ 
+Bien joué, Projet Phoenix. Vous pensez pouvoir nous battre à notre propre jeu ? Tobias West le pensait aussi et regardez-le maintenant : il est tout tremblant derrière ses remparts et ses adjudants, terrifié par tous les bruits qui résonnent dans la nuit.
+C'est ce qui vous attend, et vous ne saurez jamais quand ces bruits seront nous."
+PROG_PU121_TITLE,A Good Move,Bien joué
+PROG_PU12_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PU12_FAIL_TEXT_GENERAL_0,"MESSAGE
+
+The attempt to obtain the Synedrion research data ended in failure. We can only hope that the Pure failed in their objectives as well. The raid has caused a deterioration of relations with Synedrion. According to reports a few have even called for open war with the Phoenix Project.
+","MESSAGE
+ 
+ La tentative d'obtenir les données de recherche du Synédrion s'est soldée par un échec. Nous ne pouvons qu'espérer que les Purs n'atteignent pas non plus leurs objectifs. Le raid a détérioré les relations avec le Synédrion. Selon les rapports, certains auraient même demandé une guerre ouverte avec le Projet Phoenix."
+PROG_PU12_FAIL_TITLE,Misguided,Fourvoyés
+PROG_PU12_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PU12_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PU12_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+It's clear that The Pure intend to attack a Synedrion research facility in order to further enhance the capabilities of their bionic soldiers. Should they succeed the threat of the Pure will increase significantly.
+We should attack the facility as soon as possible and take the tech for ourselves. We may need to engage both Synedrion forces and The Pure.
+","RÉSUMÉ DE LA MISSION
+ 
+ Les Purs ont clairement l'intention d'attaquer un centre de recherche du Synédrion dans le but d'améliorer encore les capacités de leurs soldats bioniques. S'ils réussissent, la menace des Purs augmentera considérablement.
+ Nous devrions attaquer le centre au plus vite et obtenir ces recherches nous-mêmes. Il est possible que nous devions affronter les forces du Synédrion et des Purs."
+PROG_PU12_MISS_TITLE,Guided By Whispers,Guidés par des rumeurs
+PROG_PU12_WIN_CHOICE_0_TEXT,"OK.
+NEW RESEARCH AVAILABLE","OK.
+ NOUVELLE RECHERCHE DISPONIBLE"
+PROG_PU12_WIN_TEXT_GENERAL_0,"MESSAGE
+
+The successful recovery of the research data has slowed down the Pure’s advancement, but has also strained relations between the Phoenix Project and Synedrion. Additionally, we’ve received official communications from Tobias West, suggesting it’s in our interest to share the recently obtained knowledge.","MESSAGE
+ 
+ La récupération réussie des données de recherche a ralenti la progression des Purs, mais a également nuit aux relations entre le Projet Phoenix et le Synédrion. Par ailleurs, nous avons reçu des communications officielles de la part de Tobias West, suggérant qu'il serait dans notre intérêt de partager les connaissances récemment obtenues."
+PROG_PU12_WIN_TITLE,Another Secret Obtained,Un autre secret obtenu
+PROG_PU13_CHOICE_0_TEXT,OK.,OK.
+PROG_PU13_TEXT_GENERAL_0,"MESSAGE
+
+We have received a message from Subject 24 via an encrypted channel. Satellite triangulation has discovered an electromagnetic anomaly at the source. It appears to be a man-made structure.
+","MESSAGE
+ 
+ Nous avons reçu un message de Sujet 24 via un canal crypté. La triangulation satellite a découvert une anomalie électromagnétique à la source. La structure semble être artificielle."
+PROG_PU13_TITLE,Triangulated,Triangulé
+PROG_PU14_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PU14_FAIL_TEXT_GENERAL_0,"MESSAGE
+
+The trap Subject 24 had set up for us failed to kill us, but we were weakened. The opportunity was wasted, for regardless of the amount of Pure that were killed, more would take their place. While their leader remains they will continue their attacks throughout the globe.","MESSAGE
+ 
+ Le piège que Sujet 24 nous avait préparé ne nous a pas tués, mais nous avons été affaiblis. C'était une occasion manquée, quel que soit le nombre de Purs qui ont été tués, car d'autres prendront leur place. Tant que leur chef est vivant, ils continueront leurs attaques aux quatre coins du globe."
+PROG_PU14_FAIL_TITLE,Impure,Impurs
+PROG_PU14_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PU14_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PU14_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The location of the transmission appears to be the Pure’s central base. Initial analysis suggests the presence of multiple fully bionic soldiers, as well as Subject 24 himself. Should we succeed in killing him, there’s a high likelihood that the rest of the Pure will fall in disarray.","RÉSUMÉ DE LA MISSION
+ 
+ L'emplacement de la transmission semble être la base centrale des Purs. L'analyse initiale suggère la présence de plusieurs soldats complètement bioniques, ainsi que de Sujet 24 en personne. Si nous parvenions à l'éliminer, il est très probable que le reste des Purs sombrent dans le chaos."
+PROG_PU14_MISS_TITLE,The Bionic Fortress,La forteresse bionique
+PROG_PU14_WIN_CHOICE_0_TEXT,OK.,OK.
+PROG_PU14_WIN_TEXT_GENERAL_0,"MESSAGE
+
+Subject 24 is no more. What remained of the Pure’s stronghold has been completely destroyed and its technology stripped. Our teams managed to retrieve a large amount of archived drives containing terabytes of data. Unfortunately, the advanced encryption proved impossible to crack. What secrets Subject 24 had, he has taken them to the grave with him. We can only rest knowing that the threat of the Pure is no more.","MESSAGE
+ 
+ Sujet 24 a été éliminé. Ce qu'il restait du bastion des Purs a été complètement détruit et sa technologie a été démontée. Nos équipes ont pu récupérer un grand nombre de lecteurs archivés contenant des téraoctets de données. Hélas, il nous est impossible de déchiffrer son code sophistiqué. Quels que soient les secrets que Sujet 24 détenait, il les a emportés dans sa tombe. Nous pouvons juste dormir tranquilles sachant que la menace des Purs a été éliminée."
+PROG_PU14_WIN_TITLE,Triumph Of The Flesh,Triomphe de la chair
+PROG_PU1_CHOICE_0_TEXT,Phoenix Point receiving...,Phoenix Point en cours de réception...
+PROG_PU1_TEXT_GENERAL_0,"MESSAGE
+
+We’re receiving a transmission from an unidentified source. 
+The transmission is from someone identifying himself as ""Subject 24"". While details are lacking, Subject 24 claims to be contacting us with a warning and a promise of mutual benefits.
+All attempts to pinpoint the location of the transmission’s origin have been unsuccessful.","MESSAGE
+ 
+ Nous recevons une transmission d'une source non identifiée.
+Cette transmission provient d'un individu s'identifiant comme « Sujet 24 ». Nous n'avons pas tous les détails, mais Sujet 24 prétend nous contacter pour nous mettre en garde et nous proposer quelque chose qui bénéficierait à tout le monde.
+ Les tentatives pour trouver la source exacte de la transmission n'ont rien donné."
+PROG_PU1_TITLE,Attempting Contact,Tentative de contact
+PROG_PU2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+
+Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and potentially its security defences. Such an action, however, is likely to worsen our relations with New Jericho.
+","MESSAGE
+ 
+ Sujet 24 nous a demandé d'attaquer une installation de la Nouvelle-Jéricho. Si nous acceptons, il nous enverra des détails, y compris le lieu exact de l'installation et potentiellement ses défenses de sécurité. Cependant, une telle action détériorera probablement nos relations avec la Nouvelle-Jéricho."
+PROG_PU2_CHOICE_0_TEXT,Agree to help Subject 24.,Accepter d'aider Sujet 24.
+PROG_PU2_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+
+When I contacted you I thought I was dealing with intelligent people, aware of the stakes. Instead, I found spineless cowards whose convictions are as hollow as the module in Tobias West’s head! 
+
+We'll find a way to obtain the research data, but the chance of alliance between the Pure and the Phoenix Project is gone forever.
+","MESSAGE
+ 
+ Lorsque je vous ai contacté, je pensais avoir affaire à des personnes intelligentes, conscientes des enjeux. Au lieu de cela, j'ai trouvé des lâches aux convictions aussi creuses que le module dans la tête de Tobias West !
+ 
+ Nous trouverons un moyen d'obtenir les données de recherche, mais la possibilité d'alliance entre les Purs et le Projet Phoenix n'est définitivement plus une option."
+PROG_PU2_CHOICE_1_TEXT,Refuse to help Subject 24.,Refuser d'aider Sujet 24.
+PROG_PU2_TEXT_GENERAL_0,"MESSAGE
+
+Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and potentially its security defences. Such an action, however, is likely to worsen our relations with New Jericho.
+","MESSAGE
+ 
+ Sujet 24 nous a demandé d'attaquer une installation de la Nouvelle-Jéricho. Si nous acceptons, il nous enverra des détails, y compris le lieu exact de l'installation et potentiellement ses défenses de sécurité. Cependant, une telle action détériorera probablement nos relations avec la Nouvelle-Jéricho."
+PROG_PU2_TITLE,A Humble Request,Une humble requête
+PROG_PU4_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PU4_FAIL_TEXT_GENERAL_0,"MESSAGE
+
+Despite the coordinated effort, we have failed to obtain the research data, putting the New Jericho forces on high alert. All attempts to contain Subject 24 or any of the Pure have been unsuccessful, suggesting that our temporary arrangement may be at an end.","MESSAGE
+ 
+ Malgré l'effort de coordination, nous ne sommes pas parvenus à obtenir les données de recherche et nous avons mis les forces de la Nouvelle-Jéricho en état d'alerte. Toutes les tentatives pour contenir Sujet 24 ou les Purs se sont soldées par un échec ; notre arrangement temporaire touche sans doute à sa fin."
+PROG_PU4_FAIL_TITLE,An Unexpected Setback,Un contretemps imprévu
+PROG_PU4_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PU4_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PU4_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Subject 24 has provided us with the location of the New Jericho research facility conducting experiments in human augmentation. Due to the secret nature of the facility, security is likely to be light.
+The goal is to get the research data located within the facility. There is no need to eliminate all the defending security personnel.
+","RÉSUMÉ DE LA MISSION
+ 
+ Sujet 24 nous a fourni l'emplacement du centre de recherche de la Nouvelle-Jéricho qui mène des expériences sur l'augmentation des humains. En raison de la nature secrète de ce centre, la sécurité devrait être légère.
+ Le but est d'obtenir les données de recherche situées à l'intérieur. Il n'y a pas besoin d'éliminer le personnel de sécurité."
+PROG_PU4_MISS_TITLE,Undefendable,Indéfendable
+PROG_PU4_WIN_CHOICE_0_TEXT,"OK.
+NEW RESEARCH AVAILABLE","OK.
+ NOUVELLE RECHERCHE DISPONIBLE"
+PROG_PU4_WIN_TEXT_GENERAL_0,"MESSAGE
+
+Fas est ab hoste doceri. It is right to be taught even by an enemy - even if they are cowards and traitors. The research we obtained is more than a set of upgrades, it is the first step in reclaiming the planet. Humanity will be born again and this time the Pure will show the path.","MESSAGE
+ 
+ Fas est ab hoste doceri. Il est bon d'apprendre, même de son ennemi – même si cet ennemi est un lâche ou un traître. La recherche obtenue ne contient pas qu'une simple série d'améliorations, c'est la première étape pour récupérer la planète. L'humanité renaîtra et cette fois-ci, les Purs ouvriront la voie."
+PROG_PU4_WIN_TITLE,Hoste Doceri,Hoste Doceri
+PROG_PU5_CHOICE_0_TEXT,OK.,OK.
+PROG_PU5_TEXT_GENERAL_0,"MESSAGE
+
+This is a transmission to the world. 
+We are The Pure and our time hiding in the shadows is over! Squads of our chosen warriors are already combing the world in search of resources and technology that will help us defeat the Pandoran threat. 
+A word of warning: don’t get in our way! We will show no mercy, we will allow no bargaining. 
+We are The Pure!
+","MESSAGE
+ 
+ Ceci est une transmission destinée au monde entier.
+ Nous sommes les Purs et l'heure est venue d'arrêter de nous cacher dans l'ombre ! Des escouades de nos guerriers sélectionnés passent déjà le monde au peigne fin en quête de ressources et de technologies qui nous aideront à vaincre la menace pandorienne.
+ 
+ Petit avertissement : écartez-vous de notre chemin ! Nous n'aurons aucune pitié, nous refuserons de négocier.
+Nous sommes les Purs !"
+PROG_PU5_TITLE,The Warning,L'avertissement
+PROG_PU6_CHOICE_0_TEXT,OK.,OK.
+PROG_PU6_TEXT_GENERAL_0,"MESSAGE
+
+There have been increasing reports of severely mutated humans attacking patrols throughout the world. These creatures, referred to as ""The Forsaken"", are rapacious and have already ambushed several New Jericho and Disciples of Anu patrols. 
+Extreme caution is advised when visiting Exploration sites. 
+","MESSAGE
+ 
+ Nous recevons de plus en plus de signalements d'humains en état de mutation avancée qui attaquent des patrouilles partout dans le monde. Ces créatures, appelées « Les Rejetés » sont voraces et ont déjà pris en embuscade plusieurs patrouilles de la Nouvelle-Jéricho et des Disciples d'Anu.
+ Nous recommandons de faire preuve d'une extrême prudence sur les sites d'exploration."
+PROG_PU6_TITLE,"Old Enemy, New Enemy","Vieil ennemi, nouvel ennemi"
+PROG_PU7_CHOICE_0_TEXT,OK.,OK.
+PROG_PU7_TEXT_GENERAL_0,"MESSAGE
+
+We’ve received an automated emergency transmission from a New Jericho science facility. The message is composed of the word “Overrun” repeated in loop. Tracking down the location of the transmission has revealed some security footage.","MESSAGE
+ 
+ Nous avons reçu une transmission d'urgence automatique de la part du centre scientifique de la Nouvelle-Jéricho. Le message est composé du mot « Assiégés » répété en boucle. La recherche du lieu dont provient la transmission a révélé des images de sécurité."
+PROG_PU7_TITLE,Forbidden Frequency,Fréquence interdite
+PROG_PU8_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PU8_FAIL_TEXT_GENERAL_0,"MESSAGE
+
+The strength of the Forsaken proved greater than anticipated. While there is evidence that some scientists might still remain, retrieving them remains just as difficult.","MESSAGE
+ 
+ La force des Rejetés s'est avérée plus importante que prévue. Selon les preuves, il pourrait encore y avoir des scientifiques à l'intérieur, mais les évacuer s'annonce tout aussi difficile."
+PROG_PU8_FAIL_TITLE,The Blunt End,L'arrière-scène
+PROG_PU8_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PU8_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PU8_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+It has been confirmed that the transmissions originated from the New Jericho Zayatz research facility. Based on initial reports the entire area has been overrun by the Forsaken. The exact research conducted at the facility remains unknown, but based on satellite pictures there’s evidence that it’s linked to New Jericho’s new bionics program.
+Analysis suggests that at least five New Jericho scientists have managed to survive by barricading themselves in the facility.
+","RÉSUMÉ DE LA MISSION
+ 
+ Il a été confirmé que les transmissions provenaient du centre de recherche Zayatz de la Nouvelle-Jéricho. Selon les premiers rapports, toute la zone a été envahie par les Rejetés. La recherche exacte menée au centre reste inconnue, mais selon les images prises par le satellite, il y a des preuves que celle-ci est liée au nouveau programme bionique de la Nouvelle-Jéricho.
+ Les analyses suggèrent qu'au moins cinq scientifiques de la Nouvelle-Jéricho ont survécu en se barricadant dans le centre."
+PROG_PU8_MISS_TITLE,Overrun,Assiégés
+PROG_PU8_WIN_CHOICE_0_TEXT,"OK.
+NEW RESEARCH AVAILABLE","OK.
+ NOUVELLE RECHERCHE DISPONIBLE"
+PROG_PU8_WIN_TEXT_GENERAL_0,"MESSAGE
+
+The operation has been a success. Not only did we manage to rescue the scientists, but also managed to gather invaluable research data. All information has been successfully decrypted and available for further research and analysis.","MESSAGE
+ 
+ L'opération a réussi. Nous sommes parvenus à sauver les scientifiques, mais également à récupérer les données inestimables de leur recherche. Toutes les informations ont été décryptées et sont disponibles pour d'autres recherches et analyses."
+PROG_PU8_WIN_TITLE,In The Nick Of Time,Juste à temps
+PROG_PU9_CHOICE_0_TEXT,OK.,OK.
+PROG_PU9_TEXT_GENERAL_0,"MESSAGE
+
+This is a transmission to the world. 
+The rising tide of salvation has begun. While you all cower in your own filth and deviancy, the Pure have started the cleansing wave to rid the world of all impurities. No haven is safe, whatever treacherous leader or hopeless beliefs they follow.
+You have only two choices: cast off your flesh or have it stripped for you.
+","MESSAGE
+ 
+ Ceci est une transmission destinée au monde entier.
+ Le flot croissant du salut a commencé. Pendant que vous vous cachez dans votre crasse et votre perversion, les Purs ont commencé la vague de purge pour débarrasser le monde de toutes ses impuretés. Aucun refuge n'est sûr, quels que soient le chef perfide ou les croyances désespérées auxquelles ils adhèrent.
+ Vous n'avez que deux options : rejetez votre chair ou faites-vous dépouiller."
+PROG_PU9_TITLE,Cast Off All Weakness,Rejet de la faiblesse

@@ -1,0 +1,73 @@
+Key,English,French
+PROG_CH0_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH0_FAIL_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH0_FAIL_TEXT_GENERAL_0,Our attempts to secure the lab and eliminate all Pandoran threats resulted with failure. We better re-evaluate our tactics before trying again.,Nos tentatives visant à sécuriser le laboratoire et à éliminer toutes les menaces pandoriennes se sont soldées par un échec. Nous devons revoir nos tactiques avant de réessayer.
+PROG_CH0_FAIL_TITLE,The Verge of Disaster,Au bord de la catastrophe
+PROG_CH0_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_CH0_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_CH0_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+According to the distress call, unknown Pandoran specimens are attempting to escape, bringing with them an unknown virus strain. Our goal is to prevent that from happening and secure the lab to prevent the virus from spreading.","RÉSUMÉ DE LA MISSION
+ 
+ Selon l'appel de détresse, des spécimens inconnus de Pandoriens tentent de s'échapper, et sont porteurs d'une nouvelle souche du virus. Notre but est de les empêcher de s'échapper et de sécuriser le laboratoire pour éviter la propagation de ce virus."
+PROG_CH0_MISS_TITLE,An unexpected emergency,Une urgence inattendue
+PROG_CH0_TEXT_GENERAL_0,"We have received an urgent distress call from an unknown location, warning of a contagion breach. We had better look into it.",Nous avons reçu un appel de détresse provenant d'un lieu inconnu qui nous avertit d'un risque de contagion. Nous ferions mieux d'examiner cela.
+PROG_CH0_TITLE,Call for Help,Appel à l'aide
+PROG_CH0_WIN_CHOICE_0_TEXT,"OK.
+NEW RESEARCH AVAILABLE","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE"
+PROG_CH0_WIN_TEXT_GENERAL_0,"We have successfully secured the lab and killed the abomination. While details concerning its nature remain unknown, cutting edge genetic equipment has been found in the lab. All functioning equipment has been sent to Phoenix Point.
+
+While the lab will be purged, there is fear that a few Pandoran specimens have managed to escape along with the infection.","Nous sommes parvenus à sécuriser le laboratoire et à tuer l'abomination. Les détails concernant sa nature restent inconnus, mais nous avons trouvé de l'équipement génétique de pointe dans le laboratoire. Tout le matériel en état de fonctionnement a été envoyé à Phoenix Point.
+ 
+ Nous craignons que quelques spécimens pandoriens porteurs de l'infection aient réussi à s'échapper pendant le nettoyage du laboratoire."
+PROG_CH0_WIN_TITLE,Gene Ethics,Gènes et éthique
+PROG_CH1_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH1_FAIL_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH1_FAIL_TEXT_GENERAL_0,"We have failed to secure the specimen. Whatever the excuses, failure is not an option. In order to succeed in our fight against the corruption, we must find another specimen and try again.","Nous n'avons pas réussi à capturer le spécimen. Quelles que soient les excuses, l'échec n'est pas une option. Pour remporter notre combat contre la Corruption, nous devons trouver un spécimen adéquat et réessayer."
+PROG_CH1_FAIL_TITLE,Temporary Setbacks,Revers temporaires
+PROG_CH1_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_CH1_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_CH1_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+We have located one of the escaped lab specimens. It is vital to capture this Achron and kill all Pandorans in the area so we can extract it safely.
+","RÉSUMÉ DE LA MISSION
+ 
+ Nous avons localisé l'un des spécimens qui se sont échappés du laboratoire. Il est vital de capturer cet Acheron. Éliminez tous les Pandoriens de la zone pour que nous puissions l'extraire en toute sécurité.
+ 
+ Cet Acheron doit survivre coûte que coûte !"
+PROG_CH1_MISS_TITLE,Experiments Continue...,Les expériences continuent...
+PROG_CH1_TEXT_GENERAL_0,"We have discovered one of the original Acheron specimens, referred to as ""Specimen 0"",  that escaped from the now destroyed research facility. Capturing it dead or alive is essential if we are to find a cure for the corruption virus.",Nous avons découvert l'un des spécimens Acheron d'origine qui se sont échappés du centre de recherche que nous avons détruit. Le capturer est essentiel si nous voulons trouver un moyen de réaliser une vivisection réussie sur cette créature.
+PROG_CH1_TITLE,One to Go,Plus qu'un restant
+PROG_CH1_WIN_CHOICE_0_TEXT,"OK.
+NEW RESEARCH AVAILABLE","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE"
+PROG_CH1_WIN_TEXT_GENERAL_0,"We have successfully secured the Acheron ""Specimen 0"" and transported it back to base. Research into the species' inner workings can finally begin.",Nous avons capturé le spécimen Acheron et nous l'avons transporté à la base. L'examen de son fonctionnement interne peut enfin commencer.
+PROG_CH1_WIN_TITLE,Crucial Success!,Succès crucial !
+PROG_CH2_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH2_FAIL_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH2_FAIL_TEXT_GENERAL_0,The attempt to obtain an unadulterated corruption sample has ended in failure. If we want to get rid of this plague we must double our efforts and try again.,"La tentative d'obtenir un échantillon de corruption pur a échoué. Si nous voulons purger ce fléau, nous devons redoubler nos efforts."
+PROG_CH2_FAIL_TITLE,The Nightmare Continues,Le cauchemar continue
+PROG_CH2_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_CH2_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_CH2_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Our scouts have found a lair that has been occupied by an Acheron. Our goal is simple - destroy the corrupted spawnery so we could collect a pure sample of the virus from it.
+
+SUPPLEMENTARY: Synedrion operatives have been sighted entering the location. They might be of assistance to out mission.","RÉSUMÉ DE LA MISSION
+ 
+ Nos éclaireurs ont trouvé une tanière occupée par un Acheron. Notre objectif est simple : détruire l'écloserie corrompue pour collecter un échantillon pur du virus.
+ 
+ COMPLÉMENT : les agents du Synédrion ont été vus sur le site en train de pénétrer l'enceinte. Ils pourraient être utiles à notre mission."
+PROG_CH2_MISS_TITLE,Corrupted Lair,Tanière corrompue
+PROG_CH2_TEXT_GENERAL_0,"We have found a lair which has become the host of the primary Acheron lab specimen. In order to devise a permanent cure against the corruption strain we must infiltrate the Pandoran nest and obtain a sample from the Lair's spawnery - after killing it, of course.","Nous avons trouvé la tanière du principal spécimen d'Acheron du laboratoire. Afin d'élaborer un remède permanent pour la souche Corruption, nous devons nous infiltrer dans le nid pandorien et obtenir un échantillon de l'écloserie de la Tanière – après l'avoir éliminé bien entendu."
+PROG_CH2_TITLE,The Final Push,Le dernier effort
+PROG_CH2_WIN_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH2_WIN_TEXT_GENERAL_0,Our mission was a glorious success! Now the final ingredient for devising a permanent cure for the corruption strain is in our hands. All that remains is to do the research.,Notre mission est une véritable réussite ! Le dernier ingrédient d'un remède permanent contre la souche Corruption est entre nos mains. Il ne nous reste plus qu'à faire des recherches.
+PROG_CH2_WIN_TITLE,Back to Normal,Retour à la normale
+PROG_CH_NEED_LAIR_CHOICE_0_TEXT,OK.,
+PROG_CH_NEED_LAIR_TEXT_GENERAL_0,Our research has found that the original Acheron specimens has been given the urge to find a Pandoran colony and integrate with it to spread the corruption virus further. In order to continue with our research on a cure we'll need to locate such a Pandoran colony and investigate.,"Nos recherches ont montré que les premiers spécimens d'Acheron sont dotés du besoin de trouver une colonie pandorienne pour s'y intégrer et répandre le virus de corruption. Afin de continuer nos recherches pour trouver un remède, nous devons trouver l'une de ces colonies pandoriennes et mener l'enquête."
+PROG_CH_NEED_LAIR_TITLE,Further Research,Recherches approfondies
+PROG_CH_SPECIMEN0_HINT_CHOICE_0_TEXT,OK.,D'accord.
+PROG_CH_SPECIMEN0_HINT_TEXT_GENERAL_0,"Despite our best efforts the finding a cure to the new corruption strain ended in failure. Apparently, the virus in all newer specimens has mutated to such a degree that it is useless for our needs. In order to be successful, we need to find one of the original specimens that escaped from the Lab.","Malgré nos efforts pour trouver un remède contre la nouvelle souche de corruption, c'est un échec. Apparemment, le virus de tous les nouveaux spécimens a tellement muté qu'il ne nous sert à rien. Pour réussir, nous devons trouver l'un des premiers spécimens qui se sont échappés du laboratoire."
+PROG_CH_SPECIMEN0_HINT_TITLE,Corruption Cure Research Failure,Échec des recherches du remède contre la corruption

@@ -1,0 +1,270 @@
+﻿# KEY_ACTOR_CYCLE_NEXT_TT
+Next soldier
+Soldat suivant
+# KEY_ACTOR_CYCLE_PREV_TT
+Previous soldier
+Soldat précédent
+# KEY_AIRCRAFT_COUNT_TT
+AIRCRAFT - owned / limit from available vehicle bays
+VAISSEAUX - possédés/limite des garages disponibles
+# KEY_ATTACHMENT_LOCKED
+#NOT AVAILABLE
+#NOT AVAILABLE
+# KEY_BACK
+Back
+Retour
+# KEY_BAVE
+NEEDS TEXT
+NEEDS TEXT
+# KEY_CANCEL
+CANCEL
+ANNULER
+# KEY_CONTAINED_ALIENS_COUNT_TT
+Captured Pandorans - used space / capacity of all alien containment facilities
+Pandoriens capturés - espace utilisé/capacité de tous les centres de confinement extraterrestres
+# KEY_DAMAGE_TYPE
+DAMAGE TYPE
+TYPE DE DÉGÂTS
+# KEY_DEPLOYMENT_CHECKBOX_TT
+Select this soldier for deployment
+Sélectionnez ce soldat pour le déploiement
+# KEY_DIPLOMACY_HAVENS_COUNT_TT
+Number of havens controlled by this faction
+Nombre de refuges contrôlés par cette faction
+# KEY_DIPLOMACY_LEADER_NAME_TT
+Leader name
+Nom du chef
+# KEY_DIPLOMACY_POPULATION_TT
+Total population of all faction havens
+Population totale des refuges de toutes les factions
+# KEY_DUMMY
+#Dummy
+#Dummy
+# KEY_ENABLED
+#ENABLED
+#ENABLED
+# KEY_ENVIRONMENT
+#ENVIRONMENT
+#ENVIRONMENT
+# KEY_EQUIPMENT_ARMOUR_TT
+Equipped armour
+Armure équipée
+# KEY_EQUIPMENT_BODY_TT
+Items in soldier's backpack
+Objets dans le sac à dos du soldat
+# KEY_EQUIPMENT_READY_TT
+Equipped items
+Objets équipés
+# KEY_FOOD_RESOURCE_TT
+FOOD - Resource for feeding and hiring soldiers
+VIVRES - ressource pour nourrir et recruter des soldats
+# KEY_GEOSCAPE_NO_PRODUCTION
+NO ITEMS AVAILABLE
+AUCUN OBJET DISPONIBLE
+# KEY_GEOSCAPE_NO_RESOURCES
+NOT ENOUGH RESOURCES
+RESSOURCES INSUFFISANTES
+# KEY_GEOSCAPE_PRODUCED
+TOTAL PRODUCED
+PRODUCTION TOTALE
+# KEY_GEOSCAPE_SALVAGE
+RECLAIM
+RÉCUPÉRER
+# KEY_HAVEN_MIST_STATUS_TT
+Increased starvation rate and high risk of Pandoran attack
+Taux de famine accru et risque élevé d'attaque pandorienne
+# KEY_HAVEN_RECRUIT_BUTTON_TT
+Recruit this soldier
+Recruter ce soldat
+# KEY_HAVEN_START_MISSION_TT
+Start the mission in this haven
+Commencer la mission dans ce refuge
+# KEY_HAVEN_TRADE_BUTTON_TT
+Trade for the selected resource
+Échanger contre la ressource choisie
+# KEY_HEALTH
+HIT POINTS
+SANTÉ
+# KEY_HIT_POINTS
+Hit Points:
+Points de vie :
+# KEY_INSUFFICIENT_AMMO
+Insufficient ammuntion to replenish squad
+Munitions insuffisantes pour réapprovisionner l'escouade
+# KEY_INVENTORY_ACTIONCOST_NONE
+No Action Point cost
+Aucun coût de point d'action
+# KEY_INVENTORY_ACTIONCOST_STANDARD
+Cost: 1 Action Point
+Coût : 1 point d'action
+# KEY_MAIN_MENU
+MAIN MENU
+MENU PRINCIPAL
+# KEY_MANUFACTURE_ADD_BUTTON_TT
+Manufacture this item
+Fabriquer cet objet
+# KEY_MANUFACTURE_REMOVE_BUTTON_TT
+Remove item from queue
+Supprimer cet objet de la file d'attente
+# KEY_MANUFACTURE_TAB_ARMOUR_TT
+Manufacture armor
+Fabriquer armure
+# KEY_MANUFACTURE_TAB_EQUIPMENT_TT
+Manufacture equipment
+Fabriquer équipement
+# KEY_MANUFACTURE_TAB_VEHICLES_TT
+Manufacture vehicles
+Fabriquer véhicules
+# KEY_MANUFACTURE_TOGGLE_CLASS_TT
+Toggle class filter on/off
+Filtre de classe avec/sans
+# KEY_MASTER
+#MASTER
+#MASTER
+# KEY_MATERIAL_RESOURCE_TT
+MATERIALS - Resource for general construction
+MATÉRIAUX - ressource pour les constructions générales
+# KEY_MISSION_MATERIAL
+Materials
+Matériaux
+# KEY_MISSION_PROVISIONS
+Food
+Vivres
+# KEY_MISSION_TECH
+Tech
+Technologie
+# KEY_MUTAGENS_RESOURCE_TT
+MUTAGENS - Resource for generating mutations
+MUTAGÈNES - ressource pour générer des mutations
+# KEY_NEW_GAME
+NEW GAME
+NOUVELLE PARTIE
+# KEY_NO
+NO
+NON
+# KEY_OK
+OK
+OK
+# KEY_OPTIONS_BUTTON_TT
+Options
+Options
+# KEY_PREPARING_DESCRIPTION
+#PREPARING
+#PREPARING
+# KEY_PREPARING_NAME
+#PREPARING
+#PREPARING
+# KEY_PRODUCTION_TOTAL_TT
+Production capacity in all bases - for manufacturing equipment, armor and vehicles
+Capacité de production dans toutes les bases - pour la fabrication d'équipement, d'armures et de véhicule
+# KEY_PX_BASES_COUNT_TT
+Phoenix bases
+Bases Phoenix
+# KEY_RESEARCH_BUTTON_TT
+Start this research
+Commencer cette recherche
+# KEY_RESEARCH_CANCEL_BUTTON_TT
+Cancel this research
+Annuler cette recherche
+# KEY_RESEARCH_INPROGRESS_TT
+Research in progress
+Recherche en cours
+# KEY_RESEARCH_TAB_ANU_TT
+Deciples of Anu research
+Recherche des Disciples d'Anu
+# KEY_RESEARCH_TAB_NEWJERICHO_TT
+New Jericho research
+Recherche de la Nouvelle-Jéricho
+# KEY_RESEARCH_TAB_PHOENIX_TT
+Phoenix point research
+Recherche de Phoenix Point
+# KEY_RESEARCH_TAB_SYNEDRION_TT
+Synedrion research
+Recherche du Synédrion
+# KEY_RESEARCH_TOTAL_TT
+Research labs in all bases - build more to decrease research time
+Tous les laboratoires de recherches dans toutes les bases - construisez-en plus afin de diminuer les temps de recherche
+# KEY_RETRY
+RETRY
+RÉESSAYER
+# KEY_ROSTER_LOCATION_AIRCRAFT_TT
+Soldier is assigned to an aircraft
+Le soldat est affecté à un vaisseau
+# KEY_ROSTER_LOCATION_FACILITY_TT
+Soldier is assigned to a facility
+Le soldat est affecté à une installation
+# KEY_ROSTER_LOCATION_PX_BASE_TT
+Soldier is assigned to a Phoenix base
+Le soldat est affecté à une base Phoenix
+# KEY_ROSTER_TAB_ALIENS_TT
+Captured Pandorans
+Pandoriens capturés
+# KEY_ROSTER_TAB_SOLDIERS_TT
+Soldiers
+Soldats
+# KEY_ROSTER_TAB_VEHICLES_TT
+Ground vehicles
+Véhicules terrestres
+# KEY_SENTINEL
+#Sentinel
+#Sentinel
+# KEY_SOLDIERS_COUNT_TT
+SOLDIERS - recruited / living quarters capacity
+SOLDATS - recrutés/capacité des quartiers d'habitation
+# KEY_STAT_STORAGE
+STORAGE {used}/{total}
+STOCKAGE {used}/{total}
+# KEY_STORES_CAPACITY_TT
+Stores - used space / capacity of all stores facilities
+Entrepôts - espace utilisé/capacité de tous les entrepôts
+# KEY_TECH_RESOURCE_TT
+TECH - Resource for building high-tech items
+TECHNOLOGIE - ressource pour construire des éléments high-tech
+# KEY_TIME_MODULE_DECREASE_TT
+Slow down time
+Ralentir le temps
+# KEY_TIME_MODULE_INCREASE_TT
+Speed up time
+Accélérer le temps
+# KEY_TIME_MODULE_PLAY_TT
+Start/Stop time
+Démarrer/Arrêter le temps
+# KEY_TRAINING_ADD_POINTS_BUTTON_TT
+Add Skill Points
+Ajouter des points de compétence
+# KEY_TRAINING_SOLDIER_LEVEL_TT
+Required soldier level
+Niveau du soldat requis
+# KEY_TRAINING_SUBSTRACT_POINTS_BUTTON_TT
+Subtract Skill Points
+Retirer des points de compétence
+# KEY_TURRET_GUN_DESCRIPTION
+#Automated attack turret
+#Automated attack turret
+# KEY_UI
+#UI
+#UI
+# KEY_VEHICLES_COUNT_TT
+VEHICLES - owned / limit from available vehicle bays
+VÉHICULES - possédés/limite des garages disponibles
+# KEY_VEHICLES_MODULE_NEXT_TT
+Next aircraft
+Vaisseau suivant
+# KEY_VEHICLES_MODULE_PREV_TT
+Previous aircraft
+Vaisseau précédent
+# KEY_VEHICLES_MODULE_SOLDIERS_TT
+Soldiers on board
+Soldats à bord
+# KEY_VEHICLES_NAME
+VEHICLES
+VÉHICULES
+# KEY_WILLPOWER
+WILLPOWER:
+VOLONTÉ :
+# KEY_X_OF_Y
+{0}/{1}
+{0}/{1}
+# KEY_YES
+YES
+OUI

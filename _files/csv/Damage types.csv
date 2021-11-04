@@ -1,0 +1,43 @@
+Key,English,French
+KEY_DAMAGE_TYPE_ACID,ACID,ACIDE
+KEY_DAMAGE_TYPE_ACID_DESC,"ACID damage sticks to individual body parts - each turn it applies damage to armor first, then body. Acid levels reduce by 10 each turn.","Les dégâts CAUSTIQUES collent aux parties du corps individuelles - infligent des dégâts à chaque tour, d'abord à l'armure, puis au corps. Le niveau d’acide baisse de 10 points à chaque tour."
+KEY_DAMAGE_TYPE_BLAST,BLAST,EXPLOSION
+KEY_DAMAGE_TYPE_BLAST_DESC,BLAST damage affects all body parts caught within the blast radius,Les dégâts D'EXPLOSION affectent toutes les parties du corps se trouvant dans le rayon de l'explosion.
+KEY_DAMAGE_TYPE_BLEEDING,BLEED,SAIGNEMENT
+KEY_DAMAGE_TYPE_BLEEDING_DESC,"BLEED if any damage is applied, then apply bleed value. At start of turn bleed value is subtracted from Hit Points.","Le SAIGNEMENT inflige des dégâts équivalents à la valeur du saignement appliquée. Au début du tour suivant, la valeur de saignement est retirée des points de vie."
+KEY_DAMAGE_TYPE_ELECTROSHOCK,SHOCK,DÉCHARGE
+KEY_DAMAGE_TYPE_ELECTROSHOCK_DESC,SHOCK - if damage value > target's current Hit Points then target is dazed,"Si la valeur des dégâts électriques > aux points de vie de la cible, celle-ci est étourdie."
+KEY_DAMAGE_TYPE_FIRE,FIRE,FEU
+KEY_DAMAGE_TYPE_FIRE_DESC,"FIRE damage is applied to each body part (max 40), minus armor protection.","Les dégâts de FEU s'appliquent à chaque partie du corps (40 max), mais pas à l'armure."
+KEY_DAMAGE_TYPE_GOO,GOO,GELÉE
+KEY_DAMAGE_TYPE_GOO_DESC,GOO traps soldiers until it decays or goo is destroyed,La GELÉE piège les soldats jusqu'à ce qu'elle disparaisse ou soit détruite.
+KEY_DAMAGE_TYPE_IMPACT,IMPACT,IMPACT
+KEY_DAMAGE_TYPE_IMPACT_DESC,IMPACT damage reduces HPs and shocks if damage > 20% Strength,Les dégâts D'IMPACT réduisent les PV et les décharges si les dégâts > 20 % de la puissance.
+KEY_DAMAGE_TYPE_MIST,MIST,BRUME
+KEY_DAMAGE_TYPE_MIST_DESC,MIST doesn't block line of fire for Pandorans - non-Pandorans are spotted in mist,La BRUME ne bloque pas la ligne de tir pour les pandoriens - les non-pandoriens sont repérés dans la brume.
+KEY_DAMAGE_TYPE_PARALYSIS,PARALYSIS,PARALYSIE
+KEY_DAMAGE_TYPE_PARALYSIS_DESC,"PARALYSIS - if target takes any damage, the paralysis value is added, reducing Action Points proportionate to target's Strength","PARALYSIE : Si la cible subit des dégâts, la valeur de paralysie est appliquée, réduisant les points d'action proportionnellement à la puissance de la cible."
+KEY_DAMAGE_TYPE_PIERCING,PIERCING,PERFORATION
+KEY_DAMAGE_TYPE_PIERCING_DESC,PIERCING value ignores armor when damage is applied,La valeur de PERFORATION ignore l'armure lorsque les dégâts sont appliqués.
+KEY_DAMAGE_TYPE_POISON,POISON,POISON
+KEY_DAMAGE_TYPE_POISON_DESC,"POISON value is added to target if it takes any damage. At start of turn poison is subtracted from Hit Points, then poison value is reduced by 10","La valeur du POISON est ajoutée à la cible si elle subit des dégâts. Au début du tour, le poison est retiré des points de vie, puis sa valeur baisse de 10 points."
+KEY_DAMAGE_TYPE_PROJECTILE,PROJECTILE,PROJECTILE
+KEY_DAMAGE_TYPE_PROJECTILE_DESC,"PROJECTILE damage is reduced by armor, then subtracted from Hit Points","Les dégâts de PROJECTILE sont réduits par l'armure, puis retirés des points de vie."
+KEY_DAMAGE_TYPE_PSYCHIC,PSYCHIC,PSYCHIQUE
+KEY_DAMAGE_TYPE_PSYCHIC_DESC,PSYCHIC damage directly reduces target's Will Points,Les dégâts PSYCHIQUES réduisent directement les points de volonté de la cible.
+KEY_DAMAGE_TYPE_SHRED,SHRED,DÉCHIQUETAGE
+KEY_DAMAGE_TYPE_SHRED_DESC,"SHRED value destroys this amount of armor, applied after damage",La valeur de DÉCHIQUETAGE s'applique à l'armure après avoir subi des dégâts.
+KEY_DAMAGE_TYPE_SLASH,SLASH,LACÉRATION
+KEY_DAMAGE_TYPE_SLASH_DESC,"SLASH damage is reduced by armor, then applied to Hit Points. Any damage causes bleeding.","Les dégâts de LACÉRATION sont réduits par l'armure, puis appliqués aux points de vie. Tout dégât cause le saignement."
+KEY_DAMAGE_TYPE_SONIC,SONIC,SONIQUE
+KEY_DAMAGE_TYPE_SONIC_DESC,"SONIC - If sonic damage > target's Will Points, target is dazed","Si les dégâts SONIQUES > aux points de volonté de la cible, celle-ci est étourdie."
+KEY_DAMAGE_TYPE_STANDARD,DAMAGE,DÉGÂTS
+KEY_DAMAGE_TYPE_STANDARD_DESC,DAMAGE value is reduced by armor then applied to target's Hit Points,"La valeur des DÉGÂTS est réduite par l'armure, puis appliquée aux points de vie."
+KEY_DAMAGE_TYPE_STUN,SHOCK,DÉCHARGE
+KEY_DAMAGE_TYPE_STUN_DESC,SHOCK - if damage value > target's current Hit Points then target is dazed,"Si la valeur des dégâts électriques > aux points de vie de la cible, celle-ci est étourdie."
+KEY_DAMAGE_TYPE_VAMPIRIC,VAMPIRIC,VAMPIRIQUE
+KEY_DAMAGE_TYPE_VAMPIRIC_DESC,"VAMPIRIC damage reduces target's Hit Points, and restores Hit Points of attacker by same amount",Les dégâts VAMPIRIQUES réduisent les points de vie de la cible et restaurent autant de points de vie à l'assaillant.
+KEY_DAMAGE_TYPE_VIROPHAGE,VIROPHAGE,VIROPHAGE
+KEY_DAMAGE_TYPE_VIROPHAGE_DESC,VIROPHAGE value is added to standard damage for Pandorans and mutated targets only,La valeur VIROPHAGE est ajoutée aux dégâts normaux pour les Pandoriens et les cibles mutantes uniquement.
+KEY_DAMAGE_TYPE_VIRUS,VIRUS,VIRUS
+KEY_DAMAGE_TYPE_VIRUS_DESC,"VIRUS value is added to target if it takes any damage. At start of turn virus is subtracted from Will Points, then virus value is reduced by 1","La valeur de VIRUS est ajoutée à la cible si elle subit des dégâts. Au début du tour, le virus est retiré des points de volonté, puis sa valeur est réduite d’1 point."

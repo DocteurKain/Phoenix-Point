@@ -1,0 +1,412 @@
+Key,English,French
+KEY_TUTORIAL_BASE_DESCRIPTION_C,"Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.
+
+Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.
+
+START REPAIR OF YOUR VEHICLE BAY
+Move the cursor to the REPAIR FACILITY button and press <size=60>:A:</size>
+
+THEN RETURN TO GEOSCAPE WITH :LT: AND ADVANCE TIME WITH <size=60>:X:</size>","Votre base est la forteresse contenant TOUTES LES INSTALLATIONS, ainsi que les ressources vitales comme la nourriture, les matériaux et la technologie.
+
+ Phoenix Point a connu de meilleurs jours. Vous devrez réparer votre garage avant de pouvoir lancer votre vaisseau Manticore, ce qui prendra du temps.
+ 
+ COMMENCEZ LES RÉPARATIONS DE VOTRE GARAGE.
+ Placez le curseur sur le bouton RÉPARER L'INSTALLATION et appuyez sur :A:
+ 
+ RETOURNEZ ENSUITE AU GEOSCAPE AVEC :LT: ET ACCÉLÉREZ LE TEMPS AVEC :X:"
+KEY_TUTORIAL_BASE_DESCRIPTION_K,"Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.
+
+Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.
+
+START REPAIR OF YOUR VEHICLE BAY
+:LMB: on the REPAIR FACILITY button.
+
+THEN RETURN TO GEOSCAPE AND ADVANCE TIME","Votre base est la forteresse contenant TOUTES LES INSTALLATIONS, ainsi que les ressources vitales comme la nourriture, les matériaux et la technologie.
+
+ Phoenix Point a connu de meilleurs jours. Vous devrez réparer votre garage avant de pouvoir lancer votre vaisseau Manticore, ce qui prendra du temps.
+ 
+ COMMENCEZ LES RÉPARATIONS DE VOTRE GARAGE.
+ :LMB: sur le bouton RÉPARER L'INSTALLATION.
+ 
+ RETOURNEZ ENSUITE AU GEOSCAPE ET ACCÉLÉREZ LE TEMPS."
+KEY_TUTORIAL_EXPLORATION_DESCRIPTION_C,"Initially, all sites on the Geoscape are unexplored (marked with a question mark).
+
+You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.
+
+EXPLORE THE SITE
+Press <size=60>:A:</size> on the site to show the site menu, and select ""EXPLORE""
+","Au tout début, tous les sites du Geoscape sont inexplorés (ils sont marqués d'un point d'interrogation).
+ 
+ Il vous faudra au moins un soldat à bord d'un vaisseau pour les explorer. L'exploration prend du temps et vous courez le risque d'être pris en embuscade, alors restez vigilant.
+
+ EXPLORER UN SITE
+ Appuyez sur :A: sur le site pour afficher le menu du site, puis sélectionnez « EXPLORER »."
+KEY_TUTORIAL_EXPLORATION_DESCRIPTION_K,"Initially, all sites on the Geoscape are unexplored (marked with a question mark).
+
+You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.
+
+EXPLORE THE SITE
+:LMB: on the site to show the site menu, and select ""EXPLORE""
+","Au tout début, tous les sites du Geoscape sont inexplorés (ils sont marqués d'un point d'interrogation).
+ 
+ Il vous faudra au moins un soldat à bord d'un vaisseau pour les explorer. L'exploration prend du temps et vous courez le risque d'être pris en embuscade, alors restez vigilant.
+
+ EXPLORER UN SITE
+ :LMB: sur le site pour afficher le menu de site, puis sélectionnez « EXPLORER »."
+KEY_TUTORIAL_GEOSCAPE_DESCRIPTION_C,"The GEOSCAPE shows the world and all locations and sites of interest.
+
+In the beginning, all you know about is your base, Phoenix Point.
+
+GEOSCAPE CONTROLS
+Move globe: <size=60>:LTS:</size>
+Zoom in/out: <size=60>:RTSUP:</size> and <size=60>:RTSDOWN:</size>
+Use directional buttons to navigate menus and :B: to return
+
+GO TO THE ""BASES"" MENU WITH :RT:","Le GEOSCAPE montre le monde et tous les lieux et sites d'intérêt.
+
+ Au début, vous ne connaissez que votre base, Phoenix Point.
+ 
+ COMMANDES DU GEOSCAPE
+ Déplacer le globe : <size=60>:LTS:</size>
+ Agrandir/réduire : <size=60>:RTSUP:</size> et <size=60>:RTSDOWN:</size>
+ Utilisez les touches directionnelles pour parcourir les menus et :B: pour revenir
+ 
+ ACCÉDEZ AU MENU « BASES » AVEC :RT:."
+KEY_TUTORIAL_GEOSCAPE_DESCRIPTION_K,"The GEOSCAPE shows the world and all locations and sites of interest.
+
+In the beginning, all you know about is your base, Phoenix Point.
+
+GEOSCAPE CONTROLS
+Move globe: Hold down :LMB: and drag
+Zoom in/out: :MW:
+
+SELECT THE ""BASES"" BUTTON with :LMB:","Le GEOSCAPE permet d'afficher le monde ainsi que les lieux et les sites d'intérêts.
+ 
+ Au début du jeu, vous ne connaîtrez que votre base, Phoenix Point.
+ 
+ COMMANDES DU GEOSCAPE
+ Déplacer le globe : maintenez :LMB: et faites glisser
+ Zoom av./arr. : :MW:
+ 
+ SÉLECTIONNEZ LE BOUTON « BASES » avec :LMB:"
+KEY_TUTORIAL_MANTICORE_DESCRIPTION_C,"The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.
+
+SEND YOUR MANTICORE TO THE UNEXPLORED SITE
+Move the cursor to the location with <size=60>:LTS:</size> and press :A:, then select ""MOVE"" with <size=60>:A:</size>","La Manticore est le VAISSEAU vous permettant de transporter vos troupes et d'explorer le monde. Son équipage est affiché dans la jauge du vaisseau située en bas de l'écran, avec leurs icônes de classes de soldats.
+
+ ENVOYEZ VOTRE MANTICORE EN TERRITOIRE INEXPLORÉ.
+ Déplacez le curseur sur le lieu avec :LTS: et appuyez sur :A:, puis sélectionnez « SE DÉPLACER » avec :A:"
+KEY_TUTORIAL_MANTICORE_DESCRIPTION_K,"The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.
+
+SEND YOUR MANTICORE TO THE UNEXPLORED SITE
+:LMB: on the location, then select ""MOVE"" from the action menu.","La Manticore est le VAISSEAU vous permettant de transporter vos troupes et d'explorer le monde. Son équipage est affiché dans la jauge du vaisseau située en bas de l'écran, avec leurs icônes de classes de soldats.
+
+ ENVOYEZ VOTRE MANTICORE EN TERRITOIRE INEXPLORÉ.
+ :LMB: à l'endroit cible et sélectionnez « SE DÉPLACER » à partir du menu des actions."
+KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_C,"Action controls
+
+Select Action: Use <size=60>:RT:</size> to enter the Action Bar and <size=60>:DLEFT:</size> and <size=60>:DRIGHT:</size> to select, and <size=60>:A:</size> to perform action.
+
+Movement: <size=60>:A:</size> then select MOVE to go to the Selection Marker location","Commandes d'action
+ 
+ Sélectionner une action : utilisez :RT: pour accéder à la barre d'actions, :DLEFT: et :DRIGHT: pour sélectionner, puis :A: pour effectuer une action.
+ 
+ Déplacement : :A:, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection"
+KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_K,"Action controls
+
+Select Action: :LMB: on the action icon
+Perform Action: :LMB: on the action button or icon
+
+Movement: :LMB: then select MOVE to go to the Selection Marker location
+
+Direct Movement: :RMB: to go directly to the Selection Marker location","Commandes d'actions
+ 
+ Sélectionner une action : :LMB: sur l'icône de l'action
+ Effectuer l'action : :LMB: sur le bouton d'action ou l'icône
+
+ Déplacement : :LMB:, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection
+ 
+ Déplacement direct : :RMB: pour vous rendre directement à l'emplacement du marqueur de sélection"
+KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_C,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.
+
+Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+FREE AIM CONTROLS
+Enter Free Aim: <size=60>:RTS:</size>
+Move Crosshair: <size=60>:LTS:</size>
+Zoom in/Out: <size=60>:RTS:</size>
+Exit Free Aim: <size=60>:B:</size>
+
+ENTER FREE AIM MODE AND SHOOT THE ENEMY","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION les parties du corps.
+ 
+ Chaque partie du corps possède ses propres points de vie et sa propre armure. Une prédiction des dégâts s'affiche également pour la partie du corps visée.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus votre cercle sera restreint.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Entrer en mode Visée libre : :RTS:
+ Déplacer le pointeur : :LTS:
+ Zoom av./arr. : :RTS:
+ Quitter le mode Visée libre : :B:
+ 
+ ENTREZ EN MODE VISÉE LIBRE ET TIREZ SUR L'ENNEMI."
+KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_K,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.
+
+Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+FREE AIM CONTROLS
+Enter Free Aim: Press the Free Aim icon or scroll :MW:
+Move Crosshair: move the mouse
+Zoom in/Out: scroll :MW:
+Exit Free Aim: ESC
+
+ENTER FREE AIM MODE AND SHOOT THE ENEMY","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION les parties du corps.
+ 
+ Chaque partie du corps possède ses propres points de vie et sa propre armure. Une prédiction des dégâts s'affiche également pour la partie du corps visée.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus votre cercle sera restreint.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Entrer en mode Visée libre : appuyez sur l'icône de visée libre ou faites défiler :MW:
+ Déplacer le pointeur : déplacez la souris
+ Zoom av./arr. : faites défiler :MW:
+ Quitter le mode Visée libre : ÉCHAP
+
+ ENTREZ EN MODE VISÉE LIBRE ET TIREZ SUR L'ENNEMI."
+KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_C,"TRY THE CAMERA CONTROLS
+
+Camera movement: <size=60>:LTS:</size>
+Camera rotation: <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size>
+Camera zoom: <size=60>:DUP:</size> and <size=60>:DDOWN:</size>
+Floor level focus: <size=60>:RTSUP:</size> and <size=60>:RTSDOWN:</size>
+
+MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+Мove the Selection Marker with <size=60>:LTS:</size> and press <size=60>:A:</size>","TESTER LES COMMANDES DE LA CAMÉRA
+ 
+ Mouvement de caméra : :LTS:
+Rotation de caméra : :RTS: vers la gauche et la droite
+ Zoom : :DUP: et :DDOWN:
+ Plan étage : :RTS: vers le haut et le bas
+ 
+ DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+ Déplacez le marqueur de sélection avec :LTS: et appuyez sur :A:"
+KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_K,"TRY THE CAMERA CONTROLS
+
+Camera movement: :LMB: + drag
+Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>]
+Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>]
+Floor level focus: scroll :MW: up or down
+
+MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+:LMB: on the destination tile","TESTER LES COMMANDES DE LA CAMÉRA
+Mouvement de caméra : :LMB: + glisser
+Rotation de caméra : [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>]
+Zoom : [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], maintenez :MW:
+Plan étage : faites défiler :MW: vers le haut ou le bas
+
+DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+:LMB: sur la case de destination"
+KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_BIND_C,"SELECT YOUR SOLDIER
+Move the Selection Marker onto the soldier and press <size=60>:A:</size>","SÉLECTIONNER VOTRE SOLDAT
+ Déplacez le marqueur de sélection sur le soldat et appuyez sur <size=60>:A:</size>"
+KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_K,"SELECT YOUR SOLDIER
+
+:LMB: on the soldier","SÉLECTIONNER VOTRE SOLDAT
+:LMB: sur le soldat"
+KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_C,"A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.
+
+The HEALTH BAR  indicates the current Hit Points.
+
+When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.
+
+The brighter the color, the higher the DAMAGE POTENTIAL.
+
+This shot is marked in white. It’s almost guaranteed to kill the Arthron.
+
+SELECT ""FIRE WEAPON""
+<size=60>:RT:</size>
+
+FIRE AT THE ENEMY
+<size=60>:A:</size>","Le déplacement d'un soldat est interrompu si un ennemi est DÉTECTÉ. Cela ne met pas fin au tour du soldat.
+ 
+ La JAUGE DE SANTÉ indique les points de vie actuels.
+ 
+ Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+
+ Plus la couleur est vive, plus le POTENTIEL DE DÉGÂTS est élevé.
+
+ Ce coup est marqué en blanc. C'est presque garanti qu'il tuera l'Arthron.
+
+ SÉLECTIONNER « UTILISER ARME »
+ :RT:
+ 
+ TIRER SUR L'ENNEMI
+:A:"
+KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_K,"A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.
+
+The HEALTH BAR  indicates the current Hit Points.
+
+When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.
+
+The brighter the color, the higher the DAMAGE POTENTIAL.
+
+This shot is marked in white. It’s almost guaranteed to kill the Arthron.
+
+SELECT ""FIRE WEAPON""
+:LMB: on the ""Fire Weapon"" icon
+
+FIRE AT THE ENEMY
+:LMB: on the ""FIRE WEAPON"" button
+","Le déplacement d'un soldat est interrompu si un ennemi est DÉTECTÉ. Cela ne met pas fin au tour du soldat.
+ 
+ La JAUGE DE SANTÉ indique les points de vie actuels.
+ 
+ Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+
+ Plus la couleur est vive, plus le POTENTIEL DE DÉGÂTS est élevé.
+
+ Ce coup est marqué en blanc. C'est presque garanti qu'il tuera l'Arthron.
+
+ SÉLECTIONNER « UTILISER ARME »
+ :LMB: sur l'icône « Utiliser arme »
+ 
+ TIRER SUR L'ENNEMI
+ :LMB: sur le bouton « UTILISER ARME »"
+KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_C,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using <size=60>:B:</size>
+
+SELECT STANDBY MODE
+","Une fois qu'un soldat tombe à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en sélectionnant l'icône à partir de la barre d'actions ou en utilisant <size=60>:B:</size>.
+ 
+ SÉLECTIONNEZ LE MODE STAND-BY"
+KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_K,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.
+
+SELECT STANDBY MODE
+","Une fois qu'un soldat est à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en utilisant [<color=#ECBA62>{[SetEndTurnAbility]}</color>] ou en sélectionnant l'icône à partir de la barre d'actions.
+ 
+SÉLECTIONNEZ LE MODE STAND-BY."
+KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_C,You can end your turn at any time by pressing <size=60>:BACK:</size>,Terminez votre tour à tout moment en appuyant sur :BACK:.
+KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_K,You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key,Terminez votre tour à tout moment en appuyant sur le bouton TERMINER TOUR de l'écran ou la touche [<color=#ECBA62>{[EndTurn]}</color>].
+KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_C,"Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.
+
+SELECT THE ""THROW GRENADE"" ACTION
+Then target the space between the two enemies.
+
+Throw grenade <size=60>:A:</size>","Les grenades infligent des dégâts de zone tout autour de leur point d'impact. Une sphère orange montre leur aire d'effet. La distance de lancer d'une grenade dépend de la puissance d'un soldat et de ses capacités.
+
+SÉLECTIONNEZ L'ACTION « JETER GRENADE »
+Puis visez la zone située entre les deux ennemis.
+
+Lancez la grenade avec :A:"
+KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_K,"Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.
+
+SELECT THE ""THROW GRENADE"" ACTION
+Then target the space between the two enemies.
+
+Throw the grenade with :LMB:","Les grenades infligent des dégâts de zone tout autour de leur point d'impact. Une sphère orange montre leur aire d'effet. La distance de lancer d'une grenade dépend de la puissance d'un soldat et de ses capacités.
+
+SÉLECTIONNEZ L'ACTION « JETER GRENADE »
+puis visez la zone située entre les deux ennemis.
+
+Lancez la grenade avec :LMB:."
+KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_C,"The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.
+
+ENCUMBRANCE
+If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.
+
+ACCESS THE INVENTORY
+Press <size=60>:DLEFT:</size>","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+ 
+ CHARGE
+ Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+ 
+ ACCÉDER À L'INVENTAIRE
+ Appuyez sur :DLEFT:"
+KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_K,"The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.
+
+ENCUMBRANCE
+If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.
+
+ACCESS THE INVENTORY
+Press the inventory icon or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+
+CHARGE
+Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+
+ACCÉDER À L'INVENTAIRE
+Appuyez sur l'icône d'inventaire ou sur la touche [<color=#ECBA62>{[SetInventoryAbility]}</color>]"
+KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_C,"The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.
+
+OVERWATCH CONTROLS
+Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press <size=60>:Y:</size>
+Select target position: <size=60>:LTS:</size>
+Change width of overwatch zone: <size=60>:LB:</size> and <size=60>:RB:</size>
+Confirm Overwatch: <size=60>:A:</size>
+
+MOVE YOUR SOLDIER AND SET OVERWATCH
+<size=60>:A:</size> on the highlighted target position towards the two approaching enemies.","La capacité Vigilance permet aux soldats de défendre une zone pendant le tour ennemi. Si un ennemi pénètre dans le cône de vigilance, il sera automatiquement attaqué.
+
+COMMANDES DE LA VIGILANCE
+Entrer en mode Vigilance : sélectionnez l'icône de Vigilance dans la barre d'actions, ou appuyez sur :Y:
+Sélectionner la position ciblée : :LTS:
+Modifier la zone de vigilance : :LB: et :RB:
+Confirmer le mode Vigilance : :A:
+
+DÉPLACER VOS SOLDATS ET LES PLACER EN MODE VIGILANCE.
+:A: sur la position cible en évidence à proximité des deux ennemis en approche."
+KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_K,"The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.
+
+OVERWATCH CONTROLS
+Enter Overwatch mode: Select the Overwatch icon from the Action Bar or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Select target position: Move Mouse
+Change width of overwatch zone: CTRL + :MW:
+Confirm Overwatch: :LMB:
+
+MOVE YOUR SOLDIER AND SET OVERWATCH
+:LMB: on the highlighted target position towards the two approaching enemies.","La capacité Vigilance permet aux soldats de défendre une zone pendant le tour ennemi. Si un ennemi pénètre dans le cône de vigilance, il sera automatiquement attaqué.
+
+COMMANDES DE LA VIGILANCE
+Entrer en mode Vigilance : sélectionnez l'icône de Vigilance dans la barre d'actions ou appuyez sur [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Sélectionner la position ciblée : déplacez la souris
+Modifier la zone de vigilance : CTRL + :MW:
+Confirmer le mode Vigilance : :LMB:.
+
+DÉPLACER VOS SOLDATS ET LES PLACER EN MODE VIGILANCE.
+:LMB: sur la position cible en évidence à proximité des deux ennemis qui approchent."
+KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_C,"Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.
+
+READY ITEMS BAR CONTROLS
+
+Select next item: <size=60>:X:</size>
+
+SELECT THE GRENADE","Les objets de la section « Prêt » de l'inventaire seront affichés dans la barre d'objets prêts. Ils peuvent être utilisés sans dépenser de points d'action.
+
+COMMANDES DE LA BARRE D'OBJETS PRÊTS
+
+Sélectionner objet suivant : :X:
+
+SÉLECTIONNEZ LA GRENADE."
+KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_K,"Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.
+
+READY ITEMS BAR CONTROLS
+Select item: Use :LMB: on the item's icon or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>
+Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key
+
+SELECT THE GRENADE","Les objets de la section « Prêt » de l'inventaire seront affichés dans la barre d'objets prêts. Ils peuvent être utilisés sans dépenser de points d'action.
+
+COMMANDES DE LA BARRE D'OBJETS PRÊTS
+Sélectionner un objet : utilisez :LMB: sur l'icône de l'objet désiré ou les touches <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] ou [{[TacSelectItem4]}]</color>
+Sélectionner l'objet suivant : touche <color=#ECBA62>[{[CycleWeapons]}]</color>
+
+SÉLECTIONNEZ LA GRENADE."

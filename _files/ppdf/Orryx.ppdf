@@ -1,0 +1,27 @@
+﻿# KEY_DAMAGE_TYPE_BASH
+BASH
+COGNER
+# KEY_DAMAGE_TYPE_BASH_DESC
+BASH inflicts damage and shock value determined by held item's weight multiplied by Strength. 25% of the value is applied to the item used for bashing.
+COGNER inflige une valeur de dégâts et de décharge équivalente au poids de l'objet tenu multiplié par la puissance. 25 % de la valeur est appliquée à l'objet utilisé pour cogner.
+# KEY_OPTIONS_ANIMATION_SPEED_FAST
+FAST
+RAPIDE
+# KEY_OPTIONS_ANIMATION_SPEED_FASTER
+VERY FAST
+TRÈS RAPIDE
+# KEY_OPTIONS_ANIMATION_SPEED_FASTEST
+FASTEST
+LA PLUS RAPIDE
+# KEY_OPTIONS_ANIMATION_SPEED_LEVEL
+ANIMATION SPEED
+VITESSE D'ANIMATION
+# KEY_OPTIONS_ANIMATION_SPEED_STANDARD
+STANDARD
+NORMALE
+# KEY_STATUS_PANIC_IMMUNITY_DESCRIPTION
+Immune to panic for one turn.
+Immunité contre la panique pendant un tour.
+# KEY_STATUS_PANIC_IMMUNITY_NAME
+RECOVERED
+RÉCUPÉRÉ

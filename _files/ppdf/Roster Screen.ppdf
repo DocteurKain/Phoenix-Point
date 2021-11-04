@@ -1,0 +1,93 @@
+﻿# KEY_ATTRIBUTES_MAX
+MAX
+MAX
+# KEY_CONTAINMENT_ALIENTYPE
+PANDORAN TYPE
+TYPE DE PANDORIEN
+# KEY_CONTAINMENT_SLOTS
+CONTAINMENT SLOTS
+ESPACES DE CONFINEMENT
+# KEY_DEPLOY_SQUAD
+DEPLOY SQUAD
+DÉPLOYER ESCOUADE
+# KEY_FATIGUE_CONFIRMATION
+Some of your soldiers are tired or exhausted. They will have reduced Action Points for the battle. Do you wish to proceed?
+Certains de vos soldats sont fatigués ou épuisés. Cela réduit leurs points d'action en combat. Souhaitez-vous continuer ?
+# KEY_GEOROSTER_ACTIONS
+ACTIONS
+ACTIONS
+# KEY_GEOROSTER_ARMOUR
+ARMOR
+ARMURE
+# KEY_GEOROSTER_BACK
+BACK
+RETOUR
+# KEY_GEOROSTER_BODY
+BODY
+CORPS
+# KEY_GEOROSTER_CANCEL
+CANCEL
+ANNULER
+# KEY_GEOROSTER_DISALLOW
+DISALLOW
+REJETER
+# KEY_GEOROSTER_EQUIP
+EQUIPMENT
+ÉQUIPEMENT
+# KEY_GEOROSTER_MOUNTS
+MOUNTS
+GREFFES
+# KEY_GEOROSTER_NAME
+SOLDIER NAME
+NOM DU SOLDAT
+# KEY_GEOROSTER_PROGRESS
+TRAINING
+ENTRAÎNEMENT
+# KEY_GEOROSTER_RENAME_CHARACTER
+Rename this soldier?
+Renommer ce soldat ?
+# KEY_GEOROSTER_STORES
+STORES
+ENTREPÔTS
+# KEY_GEOROSTER_TRANSFER
+TRANSFER
+TRANSFÉRER
+# KEY_GEOSCAPE_PANDORANS_TT
+All captured Pandorans held in the Containment facilities
+Tous les Pandoriens détenus dans les centres de confinement.
+# KEY_GEOSCAPE_SOLDIERS_TT
+Phoenix soldiers on active duty
+Tous les soldats dans les quartiers d'habitation de la base Phoenix
+# KEY_GEOSCAPE_VEHICLES_TT
+All ground vehicles under Phoenix command
+Tous les véhicules en possession du Projet Phoenix
+# KEY_HARVEST
+HARVEST
+RÉCOLTER
+# KEY_READY_ITEM_SLOTS_USED_TT
+NO WEAPON EQUIPPED
+EMPLACEMENTS VIDES D'OBJETS PRÊTS {0}/{1}
+# KEY_ROSTER_LOCATION
+LOCATION
+LIEU
+# KEY_SQUAD_SLOTS_USED
+SQUAD SLOTS USED {0}/{1}
+EMPLACEMENTS D'ESCOUADES UTILISÉS {0}/{1}
+# KEY_STATUS_GEO_INJURED
+INJURED
+BLESSÉ
+# KEY_STATUS_GEO_READY
+READY
+PRÊT
+# KEY_STATUS_GEO_TRAINING
+TRAINING
+ENTRAÎNEMENT
+# KEY_STATUS_GEO_WORKING
+WORKING
+TRAVAIL
+# KEY_STATUS_RECOVERY_TIME
+{0:f0}h to heal
+{0:f0} h pour guérir
+# KEY_VEHICLE_LIMIT
+Only one Vehicle can be deployed into a mission
+Seul un véhicule peut être déployé lors d'une mission

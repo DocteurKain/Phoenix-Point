@@ -1,0 +1,11 @@
+Key,English,French
+KEY_CONSOLE_CONTINUE,PRESS :A: TO CONTINUE,APPUYEZ SUR :A: POUR CONTINUER
+KEY_CONSOLE_SWITCH_PROFILE,SWITCH PROFILE,CHANGER DE PROFIL
+KEY_PLATFORM_MUST_BE_SIGNED_IN,You must be signed in to a user profile to play.,Vous devez vous connecter à un profil d'utilisateur pour jouer.
+KEY_PLATFORM_RECONNECT_CONTROLLER,Please reconnect controller or press :A: on a connected controller.,Veuillez reconnecter la manette ou appuyer sur :A: sur une manette connectée.
+KEY_PLATFORM_RETURNED_TO_TITLE_SCREEN,You have been returned to the title home screen because your user profile signed out.,"Vous avez été renvoyé(e) à l'écran-titre, car votre profil d'utilisateur est déconnecté."
+KEY_PLATFORM_YOU_WILL_BE_SIGNED_OUT,You will be signed out from your user profile and will be returned to the sign in screen. Do you want to continue?,Vous serez déconnecté(e) de votre profil utilisateur et renvoyé(e) à l'écran-titre. Voulez-vous continuer ?
+KEY_STREAMING_INSTALL_CANCEL2,SAVE & EXIT,SAUVEGARDER ET QUITTER
+KEY_STREAMING_INSTALL_LAUNCH,LAUNCH,LANCER
+KEY_STREAMING_INSTALL_TEXT_DESCRIPTION,"The selected mission is currently being downloaded. Please, wait until the download is complete before launching.",La mission sélectionnée est en cours de téléchargement. Veuillez attendre que le téléchargement soit terminé pour la lancer.
+KEY_STREAMING_INSTALL_TEXT_TITLE,DOWNLOADING MISSION,TÉLÉCHARGEMENT DE MISSION

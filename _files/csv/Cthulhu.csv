@@ -1,0 +1,114 @@
+Key,English,French
+KEY_ACTIVATION_COST,ACTIVATION COST,COÛT D'ACTIVATION
+KEY_ALIEN_BASE_DISCOVERED,PANDORAN COLONY DETECTED,COLONIE PANDORIENNE DÉTECTÉE
+KEY_AN_ASSAULT_NAME,DISCIPLES OF ANU ASSAULT,UNITÉ D'ASSAUT - DISCIPLES D'ANU
+KEY_AN_BERSERKER_NAME,DISCIPLES OF ANU BERSERKER,BERSERKER - DISCIPLES D'ANU
+KEY_AN_PRIEST_NAME,DISCIPLES OF ANU PRIEST,PRÊTRE - DISCIPLES D'ANU
+KEY_AREA_SCAN_LOADING,AREA SCAN,BALAYAGE DE ZONE
+KEY_ASSAULT_FILTER_TT,Assault class filter,Filtre de classe unité d'assaut
+KEY_AVAILABLE_SLOTS,Available Slots,Emplacements disponibles
+KEY_BAN_ASSAULT_NAME,BANDIT ASSAULT,UNITÉ D'ASSAUT - BANDITS
+KEY_BAN_HEAVY_NAME,BANDIT HEAVY,MASTODONTE - BANDITS
+KEY_BAN_SNIPER_NAME,BANDIT SNIPER,TIREUR D'ÉLITE - BANDITS
+KEY_BASE_PANDORAN_BASE_REVEALED_DESCRIPTION,Analysis of the Pandorans' behavior has revealed the location of their colony. A new {0} site is visible in the geoscape view and may now be targeted for attack.,L'analyse du comportement des Pandoriens a révélé l'emplacement de leur colonie. Un nouveau site de {0} est désormais visible sur le Geoscape et peut être ciblé pour une attaque.
+KEY_BASE_PANDORAN_BASE_REVEALED_FAILED_DESCRIPTION,"Analysis of the Pandoran’s movement patterns have failed to identify their origin. The exact location of the Pandoran Colony responsible for the attack remains unknown. If a colony attacks from within Phoenix Base scanning range, it would be detected immediately.","L'analyse des modèles de déplacement du Pandorien n'a pas réussi à identifier son origine. L'emplacement exact de la colonie responsable de l'attaque reste inconnu. Si une colonie attaque dans le rayon de balayage d'une base Phoenix, elles sera immédiatement détectée."
+KEY_BASE_PANDORAN_BASE_REVEALED_NAME,PANDORAN ATTACK ANALYSIS,ANALYSE D'ATTAQUE DE PANDORIEN
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD,Kill the Pandoran {0} for {1} food?,Éliminer l'ennemi pandorien {0} pour {1} aliment(s) ?
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD_RESULT,{0} has been killed for {1} food,L'ennemi {0} a été éliminé pour {1} aliment(s)
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS,Kill the Pandoran {0} for {1} mutagens?,Éliminer l'ennemi pandorien {0} pour {1} mutagènes ?
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS_RESULT,{0} has been killed for {1} mutagens,L'ennemi {0} a été éliminé pour {1} mutagènes
+KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN,Are you sure you want to kill the Pandoran {0}?,Voulez-vous vraiment éliminer l'ennemi pandorien {0} ?
+KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT,{0} has been killed.,L'ennemi {0} a été éliminé.
+KEY_BASE_RECRUITS_AVAILABLE_1DAY,RECRUITS AVAILABLE IN 1 DAY,RECRUES DISPONIBLES DANS 1 JOUR
+KEY_BERSERKER_FILTER_TT,Berserker class filter,Filtre de classe berserker
+KEY_CHARACTERNAME_CHIRONASTERIA,CHIRON ASTERIA,CHIRON ASTERIA
+KEY_CHARACTERNAME_SIRENPRAETORIAN,SIREN PRAETORIAN,SIRÈNE PRAÉTORIENNE
+KEY_CLOSE_INTELLIGENCE_REPORT,CLOSE INTELLIGENCE REPORT,RAPPORT SUR LA SITUATION À PROXIMITÉ
+KEY_CONSTRUCTED_FACILITIES,Constructed facilities,Installations construites
+KEY_FACILITY_LIMIT_WARNING,Cannot construct more than {0} {1} per base,Impossible de construire plus de {0} {1} par base
+KEY_FK_ASSAULT_NAME,FORSAKEN ASSAULT,UNITÉ D'ASSAUT - REJETÉS
+KEY_FK_BERSERKER_NAME,FORSAKEN BERSERKER,BERSERKER - REJETÉS
+KEY_FK_PRIEST_NAME,FORSAKEN PRIEST,PRÊTRE - REJETÉS
+KEY_GEOSCAPE_BASE_BUILDING_SLOTS,Free facility slots: {0},Emplacements d'installations libres : {0}
+KEY_GEOSCAPE_BASE_FACILITIES_BUILT,Facilities built,Installations construites
+KEY_GEOSCAPE_BASE_INFESTATION_THREAT_HIGH,HIGH,ÉLEVÉE
+KEY_GEOSCAPE_BASE_INFESTATION_THREAT_LOW,LOW,FAIBLE
+KEY_GEOSCAPE_BASE_INFESTATION_THREAT_MEDIUM,MEDIUM,MOYENNE
+KEY_GEOSCAPE_BASE_INFESTED,BASE INFESTED,BASE INFESTÉE
+KEY_GEOSCAPE_MESSAGE_HAVEN_ZONE_ATTRITION,Zone {0} in haven {2} ({1}) has fallen into disrepair,La zone {0} du havre {2} ({1}) est tombée en ruine
+KEY_GEOSCAPE_SCAN_AREA_COL,Scan Range:,Rayon de balayage :
+KEY_HEAVY_FILTER_TT,Heavy class filter,Filtre de classe mastodonte
+KEY_INFESTESTATION_THREAT,Infestation chance,Probabilité d'infestation
+KEY_INFESTESTATION_THREAT_DESC,"After activation, an infested base will need to be cleared out by a squad before it can be used.","Après l'activation, une base infestée devra être neutralisée par une escouade avant d'être utilisée."
+KEY_INFILTRATOR_FILTER_TT,Infiltrator class filter,Filtre de classe infiltré
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DEFEAT_DESCRIPTION,Our forces failed to secure the base and the infestation remains. We can make another attempt at a later time.,Nos forces n'ont pas réussi à sécuriser la base et l'infestation est toujours présente. Nous pouvons retenter ultérieurement.
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DEFEAT_NAME,FAILED TO CLEAR INFESTATION,ÉCHEC DE LA NEUTRALISATION DE L'INFESTATION
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DESCRIPTION,The activation sequence has revealed intruders within the base! Send a squad to clear out the infestation so the base can be used.,La séquence d'activation a révélé des intrus dans la base ! Envoyez une escouade pour neutraliser l'infestation afin de pouvoir utiliser la base.
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_NAME,Base Infestation Warning!,Avertissement d'infestation de la base !
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_VICTORY_DESCRIPTION,Our forces have successfully eliminated the Pandoran intruders and the base is now operational.,Nos forces ont réussi à éliminer les intrus pandoriens et la base est désormais opérationnelle.
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_VICTORY_NAME,BASE INFESTATION CLEARED,INFESTATION DE LA BASE NEUTRALISÉE
+KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_DESCRIPTION,"A Phoenix Base has been brought online. All systems are nominal, no threats detected. Damaged base facilities need to be repaired in order for them to be fully operational.","Une base Phoenix a été mise en ligne. Tous les systèmes sont nominaux, aucune menace détectée. Les installations endommagées doivent être réparées afin que la base soit complètement opérationnelle."
+KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_NAME,Phoenix Base Activated,Base Phoenix activée
+KEY_MISSION_PX_BASE_INFESTED_BRIEFING_DESCRIPTION,Eliminate any Pandoran entities within the base and protect as many key structures as possible.,Éliminez toutes les entités pandoriennes de la base et protégez le plus de structures possibles.
+KEY_MISSION_PX_BASE_INFESTED_BRIEFING_NAME,CLEAR OUT THE INFESTATION,NEUTRALISER L'INFESTATION
+KEY_MORE_INFO,DETAILED ANALYSIS,ANALYSE DÉTAILLÉE
+KEY_NEXT_ENTRY,NEXT ENTRY,ENTRÉE SUIVANTE
+KEY_NJ_ASSAULT_NAME,NEW JERICHO ASSAULT,UNITÉ D'ASSAUT - NOUVELLE-JÉRICHO
+KEY_NJ_HEAVY_NAME,NEW JERICHO HEAVY,MASTODONTE - NOUVELLE-JÉRICHO
+KEY_NJ_SNIPER_NAME,NEW JERICHO SNIPER,TIREUR D'ÉLITE - NOUVELLE JÉRICHO
+KEY_NJ_TECHNICIAN_NAME,NEW JERICHO TECHNICIAN,TECHNICIEN - NOUVELLE-JÉRICHO
+KEY_OBJECTIVE_INFESTED_BASE,Clear base infestation,Neutraliser l'infestation de la base
+KEY_OPTIONS_CUSTOMISABLE_SOLDIERS,RANDOM SOLDIER OUTFITS,TENUES DE SOLDATS ALÉATOIRES
+KEY_OPTIONS_USE_BACKERS_NAMES,USE BACKERS' NAMES,UTILISER LES NOMS DES CONTRIBUTEURS
+KEY_PANDORAN_RESEARCH_REPORT,PANDORAN INTELLIGENCE REPORT {0}/{1},RAPPORT SUR LA SITUATION PANDORIENNE {0}/{1}
+KEY_PANDORAN_RESEARCH_REPORT_DESC,Haven reports and scientific observations have identified new Pandoran mutations. The following analysis is available:,Les rapports de refuge et les observations scientifiques ont identifié de nouvelles mutations de Pandoriens. L'analyse suivante est disponible :
+KEY_PANDORAN_RESEARCH_REPORT_SUMMARY,SUMMARY,RÉSUMÉ
+KEY_POP_METER_TT,Surviving human population in havens. If this falls below {0}% you will lose the game.,"Population humaine survivant dans les refuges. Si ce chiffre descend en dessous de {0} %, vous perdrez la partie."
+KEY_PREVIOUS_ENTRY,PREVIOUS ENTRY,ENTRÉE PRÉCÉDENTE
+KEY_PRIEST_FILTER_TT,Priest class filter,Filtre de classe prêtre
+KEY_PU_ASSAULT_NAME,PURE ASSAULT,UNITÉ D'ASSAUT - PURS
+KEY_PU_HEAVY_NAME,PURE HEAVY,MASTODONTE - PURS
+KEY_PU_INFILTRATOR_NAME,PURE INFILTRATOR,INFILTRÉ - PURS
+KEY_PU_SNIPER_NAME,PURE SNIPER,TIREUR D'ÉLITÉ - PURS
+KEY_PU_TECHNICIAN_NAME,PURE TECHNICIAN,TECHNICIEN - PURS
+KEY_PX_BASE_NAME_PROMPT,Give your base a unique name,Donnez un nom unique à votre base
+KEY_RESEARCH_PANDORAN_SPECIES,SPECIES CLASSIFICATION,CLASSIFICATION DES ESPÈCES
+KEY_SCV_OVG_RESCUE_SOLDIERS_TT,Rescue experienced independent soldiers,Secourir des soldats indépendants expérimentés
+KEY_SCV_OVG_RESCUE_VEHICLE_TT,Recover an abandoned vehicle and recover items from crates,Récupérer un véhicule abandonné et les objets dans les caisses
+KEY_SCV_OVG_STANDARD_TT,Rich site - recover items from crates and escape,Site riche - récupérer des objets dans les caisses et fuir
+KEY_SCV_RESCUE_SOLDIERS_TT,Rescue independent soldiers,Secourir des soldats indépendants
+KEY_SCV_RESCUE_VEHICLE_TT,Recover an abandoned vehicle,Récupérer un véhicule abandonné
+KEY_SCV_STANDARD_TT,Recover items from crates and escape,Récupérer des objets dans les caisses et fuir
+KEY_SKILLPOINTS_RESET,RESET SKILL POINTS,RÉINITIALISER LES POINTS DE COMPÉTENCE
+KEY_SNIPER_FILTER_TT,Sniper class filter,Filtre de classe tireur d'élite
+KEY_SY_ASSAULT_NAME,SYNEDRION ASSAULT,UNITÉ D'ASSAUT - SYNÉDRION
+KEY_SY_INFILTRATOR_NAME,SYNEDRION INFILTRATOR,INFILTRÉ - SYNÉDRION
+KEY_SY_SNIPER_NAME,SYNEDRION SNIPER,TIREUR D'ÉLITE - SYNÉDRION
+KEY_TECHNICIAN_FILTER_TT,Technician class filter,Filtre de classe technicien
+KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION,"There are a number of inactive Phoenix bases spread throughout the world. In order to activate them, select the base on the geoscape and then select ACTIVATE BASE from the menu. Activation costs resources and the cost increases with each base activated.
+
+There is an increasing possibility that bases will be infested after you activate them. You will need to send a squad to clear out the infestation before you can use the base.","Il existe un certain nombre de bases Phoenix inactives disséminées dans le monde. Pour les activer, sélectionnez la base dans le Geoscape, puis ACTIVER LA BASE dans le menu. L'activation a un coût en ressources, qui augmente avec chaque base activée.
+
+Il existe une possibilité accrue que les bases soient infestées lorsque vous les activez. Vous devrez envoyer une escouade pour nettoyer l'infestation avant d'utiliser la base."
+KEY_TUTORIAL_BASE_ACTIVATION_NAME,BASE ACTIVATION,ACTIVATION DE BASE
+KEY_TUTORIAL_PANDORAN_BASE_REVEALED_DESCRIPTION,"Pandoran colonies have a chance to be revealed after a successful HAVEN DEFENSE MISSION. The more times that a colony attacks, the greater the chance of it being revealed.
+
+If a Pandoran colony attacks from within the scanning range of a Phoenix base, it will be revealed immediately.
+","Il y a une possibilité de révéler les colonies pandoriennes après avoir réussi une mission de protection d'un refuge. Plus une colonie attaque, plus elle court le risque d'être révélée.
+
+Si une colonie pandorienne attaque dans le rayon de balayage d'une base Phoenix, elles sera immédiatement révélée."
+KEY_TUTORIAL_PANDORAN_BASE_REVEALED_NAME,REVEALING PANDORAN COLONIES,RÉVÉLER LES COLONIES PANDORIENNES
+KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_DESCRIPTION,"SATELLITE SCANNING
+
+A functioning Satellite Uplink in a base will begin to scan for sites around it, expanding its search area over time. Sites will be revealed with the ""?"" symbol, use your aircraft to EXPLORE them and find out what they are. 
+
+CONTACT EXPLORATION
+
+When you reveal a haven, a number of other sites nearby will be located. The number of sites revealed this way depends on how large and important the haven is, and will tend to locate other havens belonging to the same faction. Some general exploration sites will also be located this way.","BALAYAGE SATELLITE
+
+Un relais satellite opérationnel dans une base commencera le balayage pour trouver des sites autour de celle-ci, élargissant sa zone de recherche avec le temps. Les sites seront révélés avec le symbole « ? ». EXPLOREZ-LES à bord de votre vaisseau pour découvrir ce qu'ils sont.
+
+EXPLORATION DE CONTACT
+
+Lorsque vous révélez un refuge, d'autres sites à proximité seront localisés. Le nombre de sites révélés de cette façon dépend de la grandeur et de l'importance du refuge. D'autres refuges appartenant à la même faction auront tendance à être révélés aussi, tout comme des sites d'exploration générale."
+KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_NAME,Satellite Scanning,Balayage satellite

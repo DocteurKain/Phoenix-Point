@@ -1,0 +1,171 @@
+﻿# PROG_FS0_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS0_TEXT_GENERAL_0
+We catch wind of an ongoing Anu ritual called the Augury. It's a form of divination based on the observation of birds and signs in the sky. The Disciples deem the readings of utmost importance, broadcasting the same message on all frequencies. It says:[n][n]"The moon is dark, and the gods dance in the night;[n]Dia faram, Dia fodham![n]There is terror in the sky;[n]The long, winging flight through the void;[n]Shall find its resting place tonight.[n]And those below shall suffer, one and all.[n]Dia faram, Dia fodham![n]One and all!"[n][n]Somehow, this unnerving sound clip manages to cause unease even among the most scientifically-minded members of our staff.
+Nous avons entendu parler d'un rituel d'Anu qui avait lieu – l'Augure. C'est une sorte de divination basée sur l'observation des oiseaux et des signes du ciel. Les Disciples estiment que ces prédictions sont de la plus haute importance, diffusant le même message sur toutes les fréquences. Voici ce qu'il dit :[n] [n] « La lune est sombre et les dieux dansent dans la nuit ;[n] Dia faram, Dia fodham ![n] La terreur occupe le ciel ;[n] Le long vol ailé à travers le vide ;[n] Trouvera sa dernière demeure ce soir.[n]Et en dessous, tout un chacun souffrira.[n] Dia faram, Dia fodham ![n] Tout un chacun souffrira ! »[n][n] Bizarrement, cet extrait sonore troublant a réussi à causer le malaise jusque chez notre personnel à l'esprit plus scientifique.
+# PROG_FS0_TITLE
+The Augury
+L'Augure
+# PROG_FS10_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS10_TEXT_GENERAL_0
+We’re receiving alarming news. [n][n]The alien entity known as "Mount Egg" has erupted from the inside, causing massive seismic activity and heavily damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered.[n][n]Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.
+Nous recevons des nouvelles alarmantes.[n] [n] L'entité extraterrestre connue comme le « Mont Œuf » est entré en éruption de l'intérieur, provoquant une activité sismique énorme et endommageant sérieusement la zone alentour. Une créature pandorienne monstrueuse est sortie de la coquille brisée. Sa taille gargantuesque ne ressemble en rien à ce que nous avons rencontré jusqu'à présent.[n] [n] Plusieurs refuges font état d'émeutes et de chaos interne. À l'heure actuelle, les autorités ne semblent pas être capables de contrôler les foules ni de calmer la panique causée par l'éclosion.
+# PROG_FS10_TITLE
+The Eruption
+L'éruption
+# PROG_FS1_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS1_FAIL_CHOICE_0_OUTCOME_GENERAL
+A heavily armed Manticore requests permission to land on a Phoenix platform. The only operative on board is one Citizen Eileen, a Synedrion pilot. "Your soldiers fought bravely in the raid on my home haven, but couldn't make it," she says through the radio. "Citizen Athena promised to gift this machine to the Phoenix Project and I'm here to honor this promise. As a token of gratitude to your fallen comrades, I volunteer to join your ranks as well. Eileen out." Highly motivated new recruits are always welcome.
+Une Manticore lourdement armée demande l'autorisation d'atterrir sur une plateforme Phoenix. Le seul agent à bord est une certaine Citoyenne Eileen, une pilote du Synédrion.[n] [n] « Vos soldats ont combattu avec courage dans le raid de mon refuge, mais ils n'ont pas survécu », nous annonce-t-elle par message radio. « La Citoyenne Athéna a promis de faire cadeau de cet engin au Projet Phoenix et je suis ici pour honorer cette promesse. Pour remercier vos camarades morts au combat, je me porte également volontaire pour rejoindre vos rangs. Terminé. »[n] [n] Les nouvelles recrues avec une telle motivation sont toujours les bienvenues.
+# PROG_FS1_FAIL_CHOICE_0_TEXT
+Accept.
+Accepter.
+# PROG_FS1_FAIL_TEXT_GENERAL_0
+We’re receiving alarming news. The alien entity known as "Mount Egg" has erupted from the inside, causing massive seismic activity and heavly damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered. Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.
+Nous recevons des nouvelles alarmantes. L'entité extraterrestre connue sous le nom de "Mont Œuf" est entrée en éruption, provoquant une activité sismique massive et endommageant lourdement les environs. Une monstrueuse créature pandorienne a émergé de la coquille brisée. Sa taille gargantuesque est différente de tout ce que nous avons rencontré par le passé. De nombreux refuges rapportent des émeutes et un chaos général. Actuellement, aucune autorité ne semble être en mesure de contrôler les masses ou de calmer la panique causée par cette éclosion.
+# PROG_FS1_FAIL_TITLE
+A Sole Survivor
+Une seule survivante
+# PROG_FS1_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# PROG_FS1_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# PROG_FS1_MISS_TEXT_GENERAL_0
+Our team has reached the Synedrion haven, but before our operatives join the celebrations the settlement is torn by seismic activity and brutally attacked. Previously unknown Pandoran species have descended from the sky and others have crawled up from the sinkhole. [n][n]In the commotion, a pilot named Citizen Eileen has radioed an offer to guide our operatives to the armed Manticore if we help her fend off the invaders. [n][n]This looks like the optimal course of action. In fact, it might be our only chance.
+Notre équipe est arrivée au refuge du Synédrion, mais avant que nos agents puissent se joindre aux festivités, la colonie est détruite par une activité sismique et brutalement attaquée. Une espèce de Pandorien jusque là inconnue est tombée du ciel et d'autres sont sortis du gouffre.[n] [n] Dans l'agitation, une pilote du nom de Citoyenne Eileen a fait une proposition par message radio pour guider nos agents jusqu'à la Manticore armée si nous l'aidons à repousser les envahisseurs.[n][n] Cela semble être le plan d'action optimal. D'ailleurs, c'est peut-être notre unique chance de nous en sortir.
+# PROG_FS1_MISS_TITLE
+The Gift
+Le cadeau
+# PROG_FS1_TEXT_GENERAL_0
+MESSAGE[n]FROM: Citizen Athena (Synedrion)[n]TO: Phoenix Project[n][n]"A scavenging party of the Synedrion have recovered one of your small aircraft, the Manticore, wasn't it? It will serve you better than it would serve us. In the spirit of friendship, we are willing to donate it to the Phoenix Project. We invite you to attend a celebration where the aircraft will be ceremonially presented. [n][n]To our mutual success and safer skies for all.”[n]
+MESSAGE[n]DE : Citoyenne Athéna (Synédrion)[n] À : Projet Phoenix[n][n]Le Synédrion a récupéré une Manticore en parfait état et est prêt à en faire don au Projet Phoenix. Nos agents sont invités à participer à des festivités dans un refuge voisin au cours desquelles le vaisseau sera présenté cérémonieusement.[n] [n] Le message semble authentique.[n] [n] L'invitation dit : « À notre réussite mutuelle et à un ciel plus sûr pour tous. »
+# PROG_FS1_TITLE
+The Invitation
+L'invitation
+# PROG_FS1_WIN_CHOICE_0_OUTCOME_GENERAL
+As soon as we reach the base, we receive alarming news. [n][n]The alien entity known as "Mount Egg" has erupted from the inside, causing massive seismic activity and heavly damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered.[n][n]Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.
+Dès notre arrivée à la base, nous avons reçu des nouvelles alarmantes.[n][n] L'entité extraterrestre connue comme le « Mont Œuf » est entré en éruption de l'intérieur, provoquant une activité sismique énorme et endommageant sérieusement la zone alentour. Une créature pandorienne monstrueuse a émergé de la coquille brisée. Sa taille gargantuesque ne ressemble en rien à ce que nous avons rencontré jusqu'à présent.[n] [n] Plusieurs refuges font état d'émeutes et de chaos interne. À l'heure actuelle, les autorités ne semblent pas être capables de contrôler les foules ni de calmer la panique causée par l'éclosion.
+# PROG_FS1_WIN_CHOICE_0_TEXT
+Accept.
+Accepter.
+# PROG_FS1_WIN_TEXT_GENERAL_0
+Our team has successfully reached the Manticore and managed to escape the raided haven below. The machine is fully operational and heavily armed. [n][n]We owe no small part of this success to the Synedrion pilot, by the name of Eileen, who fully cooperated with our team and showed exceptional flying skills. Thanks to her our new Manticore reached its destination in one piece.[n][n]As a token of gratitude for defending her haven, she volunteers to join the ranks of Phoenix as a proper squad member. It would be foolish to refuse a capable and motivated cadre such as Eileen.
+Notre équipe a pu atteindre la Manticore et a réussi à fuir le refuge qui se fait attaquer. L'engin est en excellent état et lourdement armé.[n] [n] Nous devons une grande partie de cette réussite au pilote du Synédrion nommée Eileen qui a coopéré avec notre équipe et a également embarqué à bord.[n] [n] Au décollage de la Manticore décolle, elle se porte volontaire pour rejoindre les rangs de Phoenix en tant que membre d'escouade. Ce serait ridicule de refuser un cadre de son calibre et aussi motivé.
+# PROG_FS1_WIN_TEXT_GENERAL_1
+We’re receiving alarming news. [n][n]The alien entity known as "Mount Egg" has erupted from the inside, causing massive seismic activity and heavily damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered.[n][n]Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.
+Nous recevons des nouvelles alarmantes.[n] [n] L'entité extraterrestre connue comme le « Mont Œuf » est entré en éruption de l'intérieur, provoquant une activité sismique énorme et endommageant sérieusement la zone alentour. Une créature pandorienne monstrueuse a émergé de la coquille brisée. Sa taille gargantuesque ne ressemble en rien à ce que nous avons rencontré jusqu'à présent.[n] [n] Plusieurs refuges font état d'émeutes et de chaos interne. À l'heure actuelle, les autorités ne semblent pas être capables de contrôler les foules ni de calmer la panique causée par l'éclosion.
+# PROG_FS1_WIN_TITLE
+Citizen Eileen At Your Service
+Citoyenne Eileen à votre service
+# PROG_FS20_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS20_TEXT_GENERAL_0
+MESSAGE[n]FROM: Tobias West (New Jericho)[n]TO: Phoenix Project[n][n]The colossal organism known as the Behemoth has been infecting some human havens with a new mutation of the Pandoravirus, while stomping others into fine dust. So far, all militaristic assaults against it have been ineffective. The back of the creature is swarmed by flying Pandorans, forming an impenetrable area the Disciples call the "Festering Skies". Scientists and air force commanders speculate it is guarding something.[n][n]For the sake of humanity, we must find a way to penetrate the Festering Skies. Should we fail in this, all is lost.
+MESSAGE[n] DE : Tobias West (Nouvelle-Jéricho)[n] À : Projet Phoenix[n][n] L'organisme colossal connu comme le Béhémoth infecte certains refuges humains avec une nouvelle mutation du Pandoravirus tout en réduisant d'autres colonies en poussière avec ses piétinements. Jusqu'ici, tous les assauts militaires se sont avérés inefficaces. Le dos de la créature est rempli de Pandoriens volants qui forment une zone impénétrable ; les Disciples l'appellent « les Ciels de poison ». Les scientifiques et les commandants des forces aériennes avancent l'hypothèse que ces créatures protègent quelque chose.[n] [n] Pour le bien de l'humanité, nous devons trouver un moyen de pénétrer les Ciels de poison. Si nous échouons, tout est perdu.
+# PROG_FS20_TITLE
+The Festering Skies
+Les Ciels de poison
+# PROG_FS2_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS2_FAIL_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS2_FAIL_TEXT_GENERAL_0
+Despite our best efforts, the Behemoth organism was not neutralized. However, our method seems to be working. We must try again - the world depends on it. 
+Malgré tous nos efforts, l'organisme Béhémoth n'a pas pu être neutralisé. Toutefois, notre méthode semble fonctionner. Nous devons réessayer – le monde en dépend.
+# PROG_FS2_FAIL_TITLE
+This might just work...
+Ça pourrait fonctionner...
+# PROG_FS2_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# PROG_FS2_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# PROG_FS2_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]Our researches believe this should work, but there's only one way to know for certain. The Masked Manticore will breach the Festering Skies and carry a squad of operatives to the creature's back. A well-timed injection of the virophage weapon should put an end to its rampage once and for all.[n][n]We should be on the lookout for other human vessels in the air who might mistake us for Pandoran aircraft and attack.
+RÉSUMÉ DE LA MISSION[n] [n] Nos recherches garantissent que cela fonctionnerait, mais il n'y a qu'un seul moyen de le savoir. La Manticore masquée pénètrera les Ciels de poison et transportera une escouade d'agents derrière la créature. Une injection au bon moment de l'arme virophage devrait mettre fin à sa folie destructrice une bonne fois pour toutes.[n] [n] Nous devrions faire preuve de vigilance que d'autres vaisseaux humains ne nous attaquent pas en nous prenant pour un vaisseau pandorien.
+# PROG_FS2_MISS_TITLE
+Behemoth
+Béhémoth
+# PROG_FS2_TEXT_GENERAL_0
+We are receiving a message from our scientific laboratory. Our scientists made an extraordinary breakthrough - a method to fuse aircraft alloy with Pandoran DNA using mutagens. Initial tests have proven Panorans can't distinguish the material from their own flesh.[n][n]If this is true, we might be able to produce a masked aircraft and infiltrate the Festering Skies undetected.[n][n]The plan is extremely dangerous but the potential outcome is worth the risk.
+Nous recevons un message de notre laboratoire scientifique. Nos chercheurs ont fait une incroyable découverte – une méthode de fusion de l'alliage du vaisseau avec l'ADN pandorien à l'aide de mutagènes. Les premiers tests indiquent que les Pandoriens sont incapables de distinguer le matériau de leur propre chair.[n] [n] Si cela est vrai, nous pourrions être en mesure de produire un vaisseau masqué pour infiltrer les Ciels de poison sans nous faire repérer.[n] [n] Cette stratégie est extrêmement dangereuse, mais le résultat potentiel en vaut la peine.
+# PROG_FS2_TITLE
+A Plan Hatches
+Élaboration d'un plan
+# PROG_FS2_TRACKER_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS2_TRACKER_TITLE
+Kill the Behemoth
+Tuez le Béhémoth
+# PROG_FS2_WIN_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS2_WIN_TEXT_GENERAL_0
+The combined efforts of Phoenix Point, scientists, and allied forces has successfully neutralized the greatest threat the world has ever seen. We've won our toughest battle yet. Can we also win the war?
+Les efforts combinés de Phoenix Point, des scientifiques et des forces alliées ont assuré la neutralisation de la plus grande menace que le monde ait jamais vue. Nous avons remporté la bataille la plus difficile jusqu'à présent. Pouvons-nous aussi gagner la guerre ?
+# PROG_FS2_WIN_TITLE
+A Gargantuan Triumph
+Un triomphe gargantuesque
+# PROG_FS3_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS3_FAIL_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS3_FAIL_TEXT_GENERAL_0
+We did not have the strength to combat this threat. But we must return.
+Nous n'avions pas la force nécessaire pour affronter cet ennemi. Mais nous devons y retourner.
+# PROG_FS3_FAIL_TITLE
+Corruption of the Body
+Corruption du corps
+# PROG_FS3_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# PROG_FS3_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# PROG_FS3_MISS_TEXT_GENERAL_0
+Locate and destroy the Pandoran mutation that has taken hold of the minds of the Anu splinter group command.
+Trouvez et détruisez le mutant Pandorien qui contrôle mentalement les chefs du groupe dissident d'Anu.
+# PROG_FS3_MISS_TITLE
+Corruption of the Mind
+Corruption de l'esprit
+# PROG_FS3_TEXT_GENERAL_0
+We receive a worrisome report from our intelligence operatives.[n][n]It appears that a splinter group of Anu are worshipping a grotesque Pandoran mutation. Our spy informs us of gruesome, inhumane rituals. Normally we don't take a stand against the excesses of the fringe Anu cults, but in this case an armed response is warranted.[n][n]The cult's base is located in a remote area. The sooner we get there, the better.
+Nous avons reçu un rapport inquiétant de nos services de renseignement.[n][n] Il semble qu'un groupe dissident d'Anu vénère un mutant pandorien grotesque. Notre espion nous informe de rituels inhumains effroyables. Normalement, nous ne prenons pas position contre les excès des cultes d'Anu marginaux, mais dans ce cas, une réponse armée est justifiée.[n] [n] La base du culte se trouve dans une région éloignée. Plus vite nous y arriverons, mieux ce sera.
+# PROG_FS3_TITLE
+Ghastly Dispatch
+Déploiement épouvantable
+# PROG_FS3_WIN_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS3_WIN_TEXT_GENERAL_0
+The horrifying creature will no longer terrorize the Anu cultists. Let's hope they rebuild in a sensible way.
+L'horrible créature ne terrorisera plus les adeptes d'Anu. Espérons qu'ils reconstruisent de manière raisonnable.
+# PROG_FS3_WIN_TITLE
+Cleansed
+Purifié
+# PROG_FS9_CHOICE_0_TEXT
+OK.
+D'accord.
+# PROG_FS9_TEXT_GENERAL_0
+Earlier today, a meteor has crashed into Earth, causing great damage and widespread panic. [n][n]The landing has left a giant, peculiarly shaped mass of celestial rock towering above the surrounding mountain range. Initial probing of its properties does not match any records in our geological database.[n][n]Scientists, religious leaders, and politicians from across the globe have been taking turns speculating and arguing over the nature of this alien object nicknamed "Mount Egg".
+Un peu plus tôt dans la journée, une météorite s'est écrasée sur Terre, provoquant d'énormes dégâts et la panique générale.[n][n] L'impact a laissé une masse gigantesque de rocher céleste à la forme bizarre qui domine la chaîne de montagne qui l'entoure. L'analyse initiale de ses propriétés ne correspond à aucune information de notre base de données géologiques.[n] [n] Les scientifiques, les chefs religieux et les politiciens du monde entier spéculent à tour de rôle et se disputent quant à la nature de cet objet extraterrestre surnommé « Mont Œuf ».
+# PROG_FS9_TITLE
+Mount Egg
+Mont Œuf
+# PROG_FS9_TITLE_TEST
+DELETE ME 
+M'EFFACER

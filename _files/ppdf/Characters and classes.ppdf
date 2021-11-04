@@ -1,0 +1,348 @@
+﻿# KEY_ACIDWORM_DESCRIPTION
+Acidworm
+Ver caustique
+# KEY_ACIDWORM_EGG_DESC
+Gives birth to an Acidworm when triggered
+Donne naissance à un Ver caustique une fois activé
+# KEY_ACIDWORM_EGG_NAME
+ACIDWORM EGG
+ŒUF DE VER CAUSTIQUE
+# KEY_ACIDWORM_NAME
+ACIDWORM
+VER CAUSTIQUE
+# KEY_AIRCRAFT_ANU_LONG
+Part machine, part organic, the Disciples of Anu dirigible was based on a pre-plague airship. Engineered to be spacious and durable in battle, the airship is capable of sustaining considerable damage, at the expense of speed.
+Moitié mécanique, moitié organique, le dirigeable des Disciples d'Anu s'inspire d'un vaisseau précédent l'épidémie. Conçu pour être spacieux et durable en combat, ce véhicule peut subir des dégâts considérables, au détriment de sa vitesse.
+# KEY_AIRCRAFT_NJ_LONG
+A third-generation quad-rotor VTOL transporter, engineered by New Jericho, designed specifically for the current battlefield and atmospheric conditions. The entire exterior is covered with reinforced external armor and coated with anti-corrosive material, providing full protection to everything inside.
+Un transporteur troisième génération à quatre rotors, construit par la Nouvelle-Jéricho, conçu spécifiquement pour le champ de bataille et les conditions atmosphériques actuelles. Recouvert d'une armure externe renforcée et de matériaux anti-corrosion, il offre une bonne protection.
+# KEY_AIRCRAFT_PP_LONG
+Created by NASA engineers using bleeding edge technology, the Phoenix Manticore is the pinnacle of modern aeronautics. Propelled by twin non-afterburning fanjet engines and covered in a titanium alloy plating, the aircraft is possibly the only kind of transport capable of surviving in the open.
+Créée par les ingénieurs de la NASA à l'aide de la dernière technologie, la Manticore de Phoenix est l'apogée de l'aéronautique moderne. Propulsée par son double statoréacteur sans post-combustion et recouvert d'un blindage en alliage de titane, ce vaisseau est probablement le seul type de transport pouvant survivre à découvert.
+# KEY_AIRCRAFT_SYN_LONG
+A fourth generation hovercraft, modified by Synedrion to reach high altitudes powered solely on fusion cell technology. Covered in a light-reflective heat-absorbing material, the vehicle is capable of extreme aerial maneuverability and high speed.
+Un aéroglisseur de quatrième génération, modifié par le Synédrion pour atteindre de hautes altitudes, propulsé par la technologie des cellules à fusion. Recouvert d'un matériau qui absorbe la chaleur et reflète la lumière, ce véhicule offre une manœuvrabilité aérienne extrême et une grande vitesse.
+# KEY_ALIEN_SWARMER_DESCRIPTION
+Swarmer
+Frelard
+# KEY_ALIEN_SWARMER_NAME
+SWARMER
+FRELARD
+# KEY_ALN_CHIRON_DESCRIPTION
+Chiron
+Chiron
+# KEY_ALN_CHIRON_NAME
+CHIRON
+CHIRON
+# KEY_ALN_CRABMAN_DESCRIPTION
+Arthron
+Arthron
+# KEY_ALN_CRABMAN_NAME
+ARTHRON
+ARTHRON
+# KEY_ALN_FISHMAN_DESCRIPTION
+Triton
+Triton
+# KEY_ALN_FISHMAN_NAME
+TRITON
+TRITON
+# KEY_ALN_MINDFRAGGER_DESCRIPTION
+Mindfragger
+Corrupteur
+# KEY_ALN_MINDFRAGGER_NAME
+MINDFRAGGER
+CORRUPTEUR
+# KEY_ALN_QUEEN_DESCRIPTION
+Scylla
+Scylla
+# KEY_ALN_QUEEN_NAME
+SCYLLA
+SCYLLA
+# KEY_ALN_SENTINEL_HATCHING_DESCRIPTION
+Hatching Sentinel
+Sentinelle couveuse
+# KEY_ALN_SENTINEL_HATCHING_NAME
+HATCHING SENTINEL
+SENTINELLE COUVEUSE
+# KEY_ALN_SENTINEL_MIST_DESCRIPTION
+Mist Sentinel
+Sentinelle de brume
+# KEY_ALN_SENTINEL_MIST_NAME
+MIST SENTINEL
+SENTINELLE DE BRUME
+# KEY_ALN_SENTINEL_TERROR_DESCRIPTION
+Terror Sentinel
+Sentinelle de l'effroi
+# KEY_ALN_SENTINEL_TERROR_NAME
+TERROR SENTINEL
+SENTINELLE DE L'EFFROI
+# KEY_ALN_SIREN_DESCRIPTION
+Siren
+Sirène
+# KEY_ALN_SIREN_NAME
+SIREN
+SIRÈNE
+# KEY_ALN_SPAWNING_POOL_DESCRIPTION
+Spawnery
+Écloserie
+# KEY_ALN_SPAWNING_POOL_NAME
+SPAWNERY
+ÉCLOSERIE
+# KEY_ALN_YUGGOTHIAN_RECEPTACLE
+YUGGOTHIAN RECEPTACLE
+RÉCEPTACLE YUGGOTHIEN
+# KEY_ALN_YUGGOTHIAN_RECEPTACLE_DESCRIPTION
+Yuggothian Receptacle
+Réceptacle yuggothien
+# KEY_ARMADILLO_DESCRIPTION
+New Jericho Armadillo Ground Vehicle
+Véhicule terrestre Priodonte de la Nouvelle-Jéricho
+# KEY_ARMADILLO_NAME
+ARMADILLO
+PRIODONTE
+# KEY_ASPIDA_DESCRIPTION
+Synedrion Ground Support Vehicle
+Véhicule de soutien terrestre du Synédrion
+# KEY_ASPIDA_NAME
+ASPIDA
+ASPIDA
+# KEY_ASSAULT_DESCRIPTION
+An all-round soldier who represents the core of every army. Specialized in speed and tactical warfare.
+Un soldat polyvalent qui constitue le cœur de chaque armée. Doté d'une excellente vitesse et expertise en combat tactique.
+# KEY_BERSERKER_DESCRIPTION
+The result of selective gene manipulation and merciless Anu training. Specialized in aggression and melee combat.
+Le résultat d'une manipulation génétique sélective et d'un entraînement sans pitié mis au point par Anu. Emploie des techniques agressives et pratique le corps à corps.
+# KEY_CIVILIAN_DESCRIPTION
+Civilian
+Civil
+# KEY_CIVILIAN_NAME
+CIVILIAN
+CIVIL
+# KEY_CLASS_ASSAULT_DESCRIPTION
+Assault Class Soldier
+Unité d'assaut
+# KEY_CLASS_ASSAULT_NAME
+ASSAULT
+UNITÉ D'ASSAUT
+# KEY_CLASS_BERSERKER_DESCRIPTION
+Berserker Class Soldier
+Berserker
+# KEY_CLASS_BERSERKER_NAME
+BERSERKER
+BERSERKER
+# KEY_CLASS_FILTER
+CLASS FILTER
+FILTRE DE CLASSE
+# KEY_CLASS_HEAVY_DESCRIPTION
+Heavy Class Soldier
+Mastodonte
+# KEY_CLASS_HEAVY_NAME
+HEAVY
+MASTODONTE
+# KEY_CLASS_INFILTRATOR_DESCRIPTION
+Infiltrator Class Soldier
+Infiltré
+# KEY_CLASS_INFILTRATOR_NAME
+INFILTRATOR
+INFILTRÉ
+# KEY_CLASS_PRIEST_DESCRIPTION
+Priest Class Soldier
+Prêtre
+# KEY_CLASS_PRIEST_NAME
+PRIEST
+PRÊTRE
+# KEY_CLASS_SNIPER_DESCRIPTION
+Sniper Class Soldier
+Tireur d'élite
+# KEY_CLASS_SNIPER_NAME
+SNIPER
+TIREUR D'ÉLITE
+# KEY_CLASS_TECHNICIAN_DESCRIPTION
+Technician Class Soldier
+Technicien
+# KEY_CLASS_TECHNICIAN_NAME
+TECHNICIAN
+TECHNICIEN
+# KEY_CRATE_DESCRIPTION
+CRATE
+CAISSE
+# KEY_CRATE_NAME
+CRATE
+CAISSE
+# KEY_DECOY_CHARACTER_DESCRIPTION
+Decoy
+Leurre
+# KEY_DECOY_CHARACTER_NAME
+DECOY
+LEURRE
+# KEY_EGG
+EGG
+ŒUF
+# KEY_EGG_DESCRIPTION
+ALIEN EGG
+ŒUF EXTRATERRESTRE
+# KEY_EGG_NAME
+ALIEN EGG
+ŒUF EXTRATERRESTRE
+# KEY_FIREWORM_DESCRIPTION
+FIREWORM
+VER DE FEU
+# KEY_FIREWORM_EGG_DESCRIPTION
+Gives birth to a Fireworm when triggered
+Fait éclore un Ver de feu lorsqu'il est provoqué
+# KEY_FIREWORM_EGG_NAME
+FIREWORM EGG
+ŒUF DE VER DE FEU
+# KEY_FIREWORM_NAME
+FIREWORM
+VER DE FEU
+# KEY_GEOSCAPE_SY_AIRCRAFT_DESCRIPTION
+Synedrion Aircraft
+Vaisseau du Synédrion
+# KEY_GEOSCAPE_SY_AIRCRAFT_NAME
+HELIOS
+HÉLIOS
+# KEY_GROUNDVEHICLE_ANU_1_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v1 is capable of leaping long distances, and has a poison tongue and a mace-like tail.
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v1 est capable de parcourir de longues distances, est doté d'une langue toxique et d'une queue en forme de masse.
+# KEY_GROUNDVEHICLE_ANU_2_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v2 is capable of leaping long distances, and has a poison tongue and a spiked tail.
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v2 est capable de parcourir de longues distances, est doté d'une langue toxique et d'une queue pointue.
+# KEY_GROUNDVEHICLE_ANU_3_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v3 has an increased regeneration factor allowing it to heal its wounds on the battlefield. It has a poison tongue and a mace-like tail.
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v3 bénéficie d'un facteur de régénération augmenté lui permettant de soigner ses blessures en combat. Il est doté d'une langue toxique et d'une queue en forme de masse.
+# KEY_GROUNDVEHICLE_ANU_4_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v4 has an increased regeneration factor allowing it to heal its wounds on the battlefield. It has a poison tongue and a spiked tail. 
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v4 bénéficie d'un facteur de régénération augmenté lui permettant de soigner ses blessures en combat. Il est doté d'une langue toxique et d'une queue pointue.
+# KEY_GROUNDVEHICLE_ANU_5_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v5 is capable of performing leaping long distances, and has a bashing head and a mace-like tail. 
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v5 est capable de parcourir de longues distances, et il est doté d'une tête écrasante et d'une queue en forme de masse.
+# KEY_GROUNDVEHICLE_ANU_6_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v6 is capable of leaping long distances, and has a bashing head and a spiked tail. 
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v6 est capable de parcourir de longues distances, et il est doté d'une tête écrasante et d'une queue pointue.
+# KEY_GROUNDVEHICLE_ANU_7_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v7 has an increased regeneration factor allowing it to heal its wounds on the battlefield. It has a bashing head and a mace-like tail. 
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v7 bénéficie d'un facteur de régénération augmenté lui permettant de soigner ses blessures en combat. Il est doté d'une tête écrasante et d'une queue en forme de masse.
+# KEY_GROUNDVEHICLE_ANU_8_LONG
+A marvel of bioengineering, the Mutog has been bred to have autonomous thought, while also obeying verbal commands. Model v8 has an increased regeneration factor allowing it to heal its wounds on the battlefield. It has a bashing head and a spiked tail. 
+Une merveille de la bioingénierie, le Mutog a été élevé pour développé une réflexion autonome tout en obéissant aux commandes verbales. Le modèle v8 bénéficie d'un facteur de régénération augmenté lui permettant de soigner ses blessures en combat. Il est doté d'une tête écrasante et d'une queue pointue.
+# KEY_GROUNDVEHICLE_NJ_LONG
+A fully AI-controlled all-terrain Armored Personnel Carrier that utilizes hybrid electric charging and bio-fuels. Equipped with an automated gauss gun turret, the vehicle is capable of carrying up to 4 soldiers through hazardous environments without the risk of infection.
+Un nouveau véhicule blindé tout terrain utilisant un système hybride de charge électrique et de biocarburants. Il est entièrement contrôlé par une intelligence artificielle. Équipé d'une tourelle Gauss automatique, ce véhicule peut transporter jusqu'à 4 soldats dans des environnements dangereux sans risquer l'infection.
+# KEY_GROUNDVEHICLE_PP_LONG
+An advanced Armored Personnel Carrier prototype that was originally created for use in World War III. Enhanced with a mounted twin rocket launcher, developed based on the Hel I Cannon, the vehicle can transport a squad of 4 to and from any point on the battlefield.
+Un prototype de véhicule de transport de troupe avancé créé à l'origine pour la Troisième Guerre mondiale. Amélioré avec un double lance-roquettes développé sur la base du Canon Hel I, ce véhicule peut transporter une escouade de 4 soldats de n'importe quel endroit du champ de bataille.
+# KEY_GROUNDVEHICLE_SYN_LONG
+Based on aircraft technology, the Aspida is a combat ready hovercraft tha powered entirely through fusion cell technology. Capable of transporting a squad of 1, the vehicle is equipped with automated field surgery robotics, allowing it to treat or paralyze biological entities on the battlefield[n]
+Adaptant la technologie des vaisseaux, l'Aspida est un aéroglisseur prêt pour le combat propulsé par une technologie de cellules à fusion. Pouvant transporter jusqu'à 3 personnes, ce véhicule est équipé d'unités robotiques dotées de protocoles médicaux automatisés pouvant traiter ou paralyser des entités biologiques partout sur le champ de bataille.[n]
+# KEY_HEAVY_DESCRIPTION
+The champion of the battlefield, capable of dealing and withstanding massive damage. Skilled in heavy weapons and armor.
+Ce champion du champ de bataille peut à la fois infliger et encaisser de lourds dégâts. Les armes et armures lourdes sont sa spécialité.
+# KEY_INFILTRATOR_DESCRIPTION
+A covert specialist, trained in advanced Synedrion technology and tactics. Specialized in stealth and subterfuge.
+Ce spécialiste de la dissimulation a été formé aux technologies et aux tactiques les plus avancées du Synédrion. Son style de combat est axé sur la furtivité et les subterfuges.
+# KEY_MINDFRAGGER_EGG_DESCRIPTION
+#MINDFRAGGER EGG
+#MINDFRAGGER EGG
+# KEY_MINDFRAGGER_EGG_NAME
+MINDFRAGGER EGG
+ŒUF DE CORRUPTEUR
+# KEY_MUTOG_DESCRIPTION
+Mutog
+Mutog
+# KEY_MUTOG_NAME
+MUTOG
+MUTOG
+# KEY_MUTOG_POISON_AGILE_BASHER_DESCRIPTION
+Venemous agile basher mutog
+Mutog brutal agile toxique
+# KEY_MUTOG_POISON_AGILE_BASHER_NAME
+SHAMASH
+SHAMASH
+# KEY_MUTOG_POISON_AGILE_BLADED_DESCRIPTION
+Venemous agile slasher mutog
+Mutog lacéreur agile toxique
+# KEY_MUTOG_POISON_AGILE_BLADED_NAME
+NANNA
+NANNA
+# KEY_MUTOG_POISON_REGEN_BASHER_DESCRIPTION
+Venemous regenerating basher mutog
+Mutog brutal régénérant toxique
+# KEY_MUTOG_POISON_REGEN_BASHER_NAME
+GUDUD
+GUDUD
+# KEY_MUTOG_POISON_REGEN_BLADED_DESCRIPTION
+Venemous regenerating slasher mutog
+Mutog lacéreur régénérant toxique
+# KEY_MUTOG_POISON_REGEN_BLADED_NAME
+DLIBAT
+DLIBAT
+# KEY_MUTOG_RAM_AGILE_BASHER_DESCRIPTION
+Ramming agile basher mutog
+Mutog brutal agile percutant
+# KEY_MUTOG_RAM_AGILE_BASHER_NAME
+MASTABARRU
+MASTABARRU
+# KEY_MUTOG_RAM_AGILE_BLADED_DESCRIPTION
+Ramming agile slasher mutog
+Mutog lacéreur agile percutant
+# KEY_MUTOG_RAM_AGILE_BLADED_NAME
+UMUNPADDU
+UMUNPADDU
+# KEY_MUTOG_RAM_REGEN_BASHER_DESCRIPTION
+Ramming regenerating basher mutog
+Mutog brutal régénérant percutant
+# KEY_MUTOG_RAM_REGEN_BASHER_NAME
+KAIMANU
+KAIMANU
+# KEY_MUTOG_RAM_REGEN_BLADED_DESCRIPTION
+Ramming regenerating slasher mutog
+Mutog lacéreur régénérant percutant
+# KEY_MUTOG_RAM_REGEN_BLADED_NAME
+NINKASHI
+NINKASHI
+# KEY_POISONWORM_DESCRIPTION
+Poisonworm
+Ver toxique
+# KEY_POISONWORM_EGG_DESC
+Gives birth to a Poisonworm when triggered
+Donne naissance à un Ver toxique une fois activé
+# KEY_POISONWORM_EGG_NAME
+POISONWORM EGG
+ŒUF DE VER TOXIQUE
+# KEY_POISONWORM_NAME
+POISONWORM
+VER TOXIQUE
+# KEY_PRIEST_DESCRIPTION
+The peak of Anu evolution. Proficient in psychic abilities and Mutog control.
+Le parfait représentant de l'évolution d'Anu à son paroxysme. Maîtrise diverses compétences psychiques et peut contrôler les Mutogs.
+# KEY_PX_SENTRY_TURRET_DESCRIPTION
+Phoenix Base Sentry Turret
+Tourelle sentinelle de la base Phoenix
+# KEY_PX_SENTRY_TURRET_NAME
+PX BASE SENTRY TURRET
+TOURELLE SENTINELLE DE LA BASE PX
+# KEY_SCARAB_DESCRIPTION
+Phoenix Armored Fighting Vehicle
+Véhicule de combat blindé Phoenix
+# KEY_SCARAB_NAME
+PX SCARAB
+SCARABÉE PX
+# KEY_SNIPER_DESCRIPTION
+A long-distance sharpshooter capable of dealing vast amounts of damage with a single shot. Focused on accuracy and precision.
+Un tireur d'élite capable d'opérer sur de longues distances et d'infliger d'importants dégâts en un seul tir. Ses talents reposent sur une excellente précision.
+# KEY_SOLDER_DESCRIPTION
+Soldier
+Soldat
+# KEY_SOLDIER_NAME
+SOLDIER
+SOLDAT
+# KEY_SPIDER_DRONE_DESCRIPTION
+Spider Drone
+Drone araignée
+# KEY_SPIDER_DRONE_NAME
+SPIDER DRONE
+DRONE ARAIGNÉE
+# KEY_TECHNICIAN_DESCRIPTION
+An engineering specialist capable of controlling neurotech attachments. Specialized in support and mechanical devices.
+Un ingénieur spécialisé capable de contrôler des greffes neurotechnologiques. Expert en protocoles de soutien et en appareils mécaniques.

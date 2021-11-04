@@ -1,0 +1,117 @@
+Key,English,French
+KEY_AUDIO,AUDIO,AUDIO
+KEY_DIFFICULTY_DIFFICULT,HERO,HÉROS
+KEY_DIFFICULTY_DIFFICULT_DESCRIPTION,"A more challenging experience, for players who want a serious challenge.",Une expérience plus difficile pour les joueurs qui aiment relever des défis.
+KEY_DIFFICULTY_EASY,ROOKIE,BLEU
+KEY_DIFFICULTY_EASY_DESCRIPTION,"Suitable for new players to the Strategy genre. ",Convient aux nouveaux joueurs de jeux de stratégie.
+KEY_DIFFICULTY_STANDARD,VETERAN,VÉTÉRAN
+KEY_DIFFICULTY_STANDARD_DESCRIPTION,"The standard game difficulty, for players familiar with the Strategy genre.",Le niveau de difficulté standard pour les joueurs qui connaissent les jeux de stratégie.
+KEY_DIFFICULTY_VERY_DIFFICULT,LEGEND,LÉGENDAIRE
+KEY_DIFFICULTY_VERY_DIFFICULT_DESCRIPTION,The ultimate test of your strategic and tactical abilities.,L'épreuve suprême de vos capacités stratégiques et tactiques.
+KEY_MUSIC,MUSIC,MUSIQUE
+KEY_OPTIONS_AMBIENT_OCCLUSION,AMBIENT OCCLUSION,OCCLUSION AMBIANTE
+KEY_OPTIONS_AUTO_EXPOSURE,AUTO EXPOSURE,EXPOSITION AUTO
+KEY_OPTIONS_BLOOM,BLOOM,FLOU
+KEY_OPTIONS_CHOOSE_DISPLAY,DISPLAY {0},ÉCRAN {0}
+KEY_OPTIONS_CHOOSE_MONITOR,CHOOSE MONITOR,CHOIX DU MONITEUR
+KEY_OPTIONS_CHROMATIC_ABERRATION,CHROMATIC ABERRATION,ABERRATION CHROMATIQUE
+KEY_OPTIONS_COLOR_GRADING,COLOR GRADING,DÉGRADÉ DE COULEURS
+KEY_OPTIONS_CONTROLLER_SCHEME,CONTROLLER SCHEME,CONFIGURATION DE LA MANETTE
+KEY_OPTIONS_CUSTOM,CUSTOM,PERSONNALISÉ
+KEY_OPTIONS_DELETE_DESCRIPTION,Delete,Supprimer
+KEY_OPTIONS_DELETE_NAME,DELETE,SUPPRIMER
+KEY_OPTIONS_DEPTH_OF_FIELD,DEPTH OF FIELD,PROFONDEUR DE CHAMP
+KEY_OPTIONS_DISCLAIMER_STADIA_CONTROLLER,"No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.","Aucune promotion ni affiliation entre Stadia et les fabricants de manettes ou consoles autres que la marque Stadia n'est délibérée. STADIA, le logo lumineux Stadia, Google et les marques et logos associés sont des marques commerciales de Google LLC. Toutes les autres marques sont la propriété de leurs propriétaires respectifs."
+KEY_OPTIONS_ENVIRONMENT_VOLUME,ENVIRONMENT VOLUME,VOLUME DE L'ENVIRONMENT
+KEY_OPTIONS_ERROR_ACHIEVEMENTS_WRITE,An error has occured while writing achievements.,Une erreur est survenue lors de l'écriture des succès.
+KEY_OPTIONS_ERROR_LOAD_LEVEL,An error has occured while loading the game level.,Une erreur est survenue lors du chargement du niveau de jeu.
+KEY_OPTIONS_ERROR_OPTIONS_LOAD,An error has occured while loading game options.,Une erreur est survenue lors du chargement des options du jeu.
+KEY_OPTIONS_ERROR_OPTIONS_SAVE,An error has occured while saving options.,Une erreur est survenue lors de la sauvegarde des options.
+KEY_OPTIONS_ERROR_OPTIONS_WRITE,An error has occured while writing.,Une erreur est survenue lors de l'écriture.
+KEY_OPTIONS_EXIT_DESCRIPTION,Exit to Main Menu,Menu principal
+KEY_OPTIONS_EXIT_NAME,EXIT TO MAIN MENU,RETOURNER AU MENU PRINCIPAL
+KEY_OPTIONS_FREE_CAMERA_DESCRIPTION,Free Camera,Caméra libre
+KEY_OPTIONS_FREE_CAMERA_NAME,FREE CAMERA,CAMÉRA LIBRE
+KEY_OPTIONS_FULL_SCREEN,BORDERLESS,SANS BORDURE
+KEY_OPTIONS_FULL_SCREEN_EXCLUSIVE,FULL SCREEN,PLEIN ÉCRAN
+KEY_OPTIONS_GAMEPAD_DESCRIPTION,Controller,Manette
+KEY_OPTIONS_GAMEPAD_NAME,CONTROLLER,MANETTE
+KEY_OPTIONS_GAMEPLAY,Gameplay,Jouabilité
+KEY_OPTIONS_GRAIN,GRAIN,EFFET DE GRAIN
+KEY_OPTIONS_GRAPHICS,Graphics,Graphismes
+KEY_OPTIONS_GRAPHIC_DETAILS,Graphic Details,Détails graphiques
+KEY_OPTIONS_INTERFACE,Interface,Interface
+KEY_OPTIONS_INTERFACE_VOLUME,INTERFACE VOLUME,VOLUME DE L'INTERFACE
+KEY_OPTIONS_IRONMAN_MODE,IRONMAN MODE,MODE IRONMAN
+KEY_OPTIONS_IRONMAN_MODE_GAME,IRONMAN MODE INSTANCE {0},SAUVEGARDE EN MODE IRONMAN {0}
+KEY_OPTIONS_KEYBOARD_BINDINGS,KEYBOARD BINDINGS,CONFIGURATION DU CLAVIER
+KEY_OPTIONS_LANGUAGE,LANGUAGE,LANGUE
+KEY_OPTIONS_LENS_DISTORTION,LENS DISTORTION,DISTORSION OPTIQUE
+KEY_OPTIONS_LOAD_DESCRIPTION,Load,Charger
+KEY_OPTIONS_LOAD_GAME_DESCRIPTION,Load Game,Charger une partie
+KEY_OPTIONS_LOAD_GAME_NAME,LOAD GAME,CHARGER UNE PARTIE
+KEY_OPTIONS_LOAD_NAME,LOAD,CHARGER
+KEY_OPTIONS_LOAD_NEW_GAME,All unsaved game progress will be lost. Are you sure you want to load this saved game?,Toute progression non sauvegardée sera perdue. Voulez-vous vraiment charger cette sauvegarde ?
+KEY_OPTIONS_MASTER_VOLUME,MASTER VOLUME,VOLUME PRINCIPAL
+KEY_OPTIONS_MOTION_BLUR,MOTION BLUR,FLOU CINÉTIQUE
+KEY_OPTIONS_MUSIC_VOLUME,MUSIC VOLUME,VOLUME DE LA MUSIQUE
+KEY_OPTIONS_NAME_NEW_SAVE,Please write the name of this saved game.,Veuillez saisir le nom de cette sauvegarde.
+KEY_OPTIONS_OPTIONS_DESCRIPTION,Options,Options
+KEY_OPTIONS_OPTIONS_NAME,OPTIONS,OPTIONS
+KEY_OPTIONS_OVERWRITE_DESCRIPTION,Overwrite,Remplacer
+KEY_OPTIONS_OVERWRITE_NAME,OVERWRITE,REMPLACER
+KEY_OPTIONS_PARTICLE_QUALITY,PARTICLE QUALITY,QUALITÉ DES PARTICULES
+KEY_OPTIONS_PRESET,PRESET,PAR DÉFAUT
+KEY_OPTIONS_QUALITY_HIGH,HIGH,ÉLEVÉ
+KEY_OPTIONS_QUALITY_LOW,LOW,FAIBLE
+KEY_OPTIONS_QUALITY_MEDIUM,MEDIUM,MOYEN
+KEY_OPTIONS_QUALITY_ULTRA,ULTRA,ULTRA
+KEY_OPTIONS_QUALITY_VERY_HIGH,VERY HIGH,TRÈS ÉLEVÉ
+KEY_OPTIONS_QUALITY_VERY_LOW,VERY LOW,TRÈS FAIBLE
+KEY_OPTIONS_QUIT_CONFIRM,All unsaved game progress will be lost. Are you sure?,Toute progression non sauvegardée sera perdue. Confirmer ?
+KEY_OPTIONS_QUIT_DESCRIPTION,Quit Game,Quitter
+KEY_OPTIONS_QUIT_NAME,QUIT GAME,QUITTER
+KEY_OPTIONS_RESOLUTION,RESOLUTION,RÉSOLUTION
+KEY_OPTIONS_RESTORE,RESTORE DEFAULTS,RESTAURER LES PARAMÈTRES PAR DÉFAUT
+KEY_OPTIONS_RESUME_DESCRIPTION,Return to Game,Continuer
+KEY_OPTIONS_RESUME_NAME,RETURN TO GAME,RETOURNER À LA PARTIE
+KEY_OPTIONS_SAVE_DELETE,Are you sure you want to delete this save game? All progress within will be lost.,Voulez-vous vraiment supprimer cette sauvegarde ? Toute la progression sera perdue.
+KEY_OPTIONS_SAVE_DESCRIPTION,Save,Sauvegarder
+KEY_OPTIONS_SAVE_ERROR_AUTOSAVE,An error has occured during Autosave! Please make sure you have enough free memory on your device.,Une erreur est survenue lors de la sauvegarde automatique ! Veuillez vous assurer que vous avez suffisamment de mémoire disponible sur votre appareil.
+KEY_OPTIONS_SAVE_ERROR_DELETE,An error has occured during deletion! The saved game was not correctly deleted.,Une erreur est survenue lors de la suppression ! La sauvegarde n'a pas été bien supprimée.
+KEY_OPTIONS_SAVE_ERROR_OVERWRITE,An error has occured while overwriting the save file!  Please make sure you have enough free memory on your device.,Une erreur est survenue lors du remplacement de la sauvegarde ! Veuillez vous assurer que vous avez suffisamment de mémoire disponible sur votre appareil.
+KEY_OPTIONS_SAVE_ERROR_QUICKSAVE,An error has occured during Quicksave! Please make sure you have enough free memory on your device.,Une erreur est survenue lors de la sauvegarde rapide ! Veuillez vous assurer que vous avez suffisamment de mémoire disponible sur votre appareil.
+KEY_OPTIONS_SAVE_ERROR_RESTART,An error has occured during mission initialization! Mission restart is impossible. Please make sure you have enough free memory on your device.,Une erreur est survenue lors de l'initialisation de la mission ! Impossible de redémarrer la mission. Veuillez vérifier que vous avez suffisamment de mémoire disponible sur votre appareil.
+KEY_OPTIONS_SAVE_ERROR_SAVEGAME,An error has occured while saving! Please make sure you have enough free memory on your device.,Une erreur est survenue lors de la sauvegarde ! Veuillez vous assurer que vous avez suffisamment de mémoire disponible sur votre appareil.
+KEY_OPTIONS_SAVE_ERROR_SAVESPACE,An error has occured! Please make sure you have enough space on your drive.,Une erreur est survenue ! Veuillez vous assurer que vous avez suffisamment d'espace sur votre disque dur.
+KEY_OPTIONS_SAVE_GAME_DESCRIPTION,Save Game,Sauvegarder
+KEY_OPTIONS_SAVE_GAME_NAME,NEW SAVE,NOUVELLE SAUVEGARDE
+KEY_OPTIONS_SAVE_NAME,SAVE,SAUVEGARDE
+KEY_OPTIONS_SAVE_OVERWRITE,Are you sure you want to overwrite this saved game? All progress within will be replaced by your current progress.,Voulez-vous vraiment remplacer cette sauvegarde ? Toute la progression sera remplacée par votre progression actuelle.
+KEY_OPTIONS_SCREEN_MODE,SCREEN MODE,MODE D'AFFICHAGE
+KEY_OPTIONS_SCREEN_SPACE_REFLECTION,SCREEN SPACE REFLECTION,REFLETS DYNAMIQUES
+KEY_OPTIONS_SETTINGS_APPLY,Settings will apply on game restart.,Les paramètres seront appliqués après redémarrage du jeu.
+KEY_OPTIONS_SFX_VOLUME,SFX VOLUME,VOLUME DES BRUITAGES
+KEY_OPTIONS_SHADER_QUALITY,SHADER QUALITY,QUALITÉ SHADER
+KEY_OPTIONS_SHADOWS,SHADOWS,OMBRES
+KEY_OPTIONS_SHADOW_DISTANCE,SHADOW DISTANCE,DISTANCE DES OMBRES
+KEY_OPTIONS_SHADOW_QUALITY,SHADOW QUALITY,QUALITÉ DES OMBRES
+KEY_OPTIONS_SHOW_BINDINGS,SHOW BINDINGS,CONFIGURATION
+KEY_OPTIONS_SHOW_SCHEME,SHOW SCHEME,CONFIGURATION
+KEY_OPTIONS_SOUND_ENABLED,SOUND ENABLED,SON ACTIVÉ
+KEY_OPTIONS_SUBTITLES,SUBTITLES,SOUS-TITRES
+KEY_OPTIONS_SUBTITLES_OFF,OFF,DÉSACTIVÉ
+KEY_OPTIONS_SUBTITLES_ON,ON,ACTIVÉ
+KEY_OPTIONS_TEXTURE_QUALITY,TEXTURE QUALITY,QUALITÉ DES TEXTURES
+KEY_OPTIONS_USE_CONTROLLER,USE CONTROLLER,ACTIVER LA MANETTE
+KEY_OPTIONS_VERTICAL_SYNC,VERTICAL SYNC,SYNCHRONISATION VERTICALE
+KEY_OPTIONS_VIDEO,VIDEO,VIDÉO
+KEY_OPTIONS_VIGNETTE,VIGNETTE,VIGNETTE
+KEY_OPTIONS_VSYNC_DESCRIPTION,Vertical Sync,Synchronisation verticale
+KEY_OPTIONS_VSYNC_NAME,VERTICAL SYNC,SYNCHRONISATION VERTICALE
+KEY_OPTIONS_WINDOW,WINDOW,FENÊTRÉ
+KEY_QUIT,QUIT,QUITTER
+KEY_RESTART,RESTART,REDÉMARRER
+KEY_SELECT_DIFFICULTY,SELECT DIFFICULTY,CHOISISSEZ LA DIFFICULTÉ
+KEY_SELECT_TUTORIAL,PLAY PROLOGUE AND TUTORIAL,JOUER AU PROLOGUE ET AU TUTORIEL
+KEY_SOUND_FX,SOUND FX,EFFETS SONORES

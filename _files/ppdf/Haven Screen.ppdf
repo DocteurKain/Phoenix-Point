@@ -1,0 +1,198 @@
+﻿# KEY_GEOSCAPE_ZONE_CHAMBER_DESCRIPTION
+The exalted has created a structure to complete her final mutation to a higher being.
+L'Exaltée a créé une structure afin d'achever sa mutation finale et se transformer en un être supérieur.
+# KEY_GEOSCAPE_ZONE_CHAMBER_NAME
+TEMPLE OF THE EXALTED
+TEMPLE DE L'EXALTÉE
+# KEY_GEOSCAPE_ZONE_ENERGY_ZONE_DESCRIPTION
+Energy generation zones enable factories, food production, research centers and other special zones to function.
+Les zones de production d'énergie assurent le bon fonctionnement des usines, des zones de production alimentaire, des centres de recherche ainsi que d'autres zones spéciales.
+# KEY_GEOSCAPE_ZONE_ENERGY_ZONE_NAME
+ENERGY GENERATION
+PRODUCTION D'ÉNERGIE
+# KEY_GEOSCAPE_ZONE_FACTORY_DESCRIPTION
+Factory zones contribute to repair and construction of new zones, and contribute support to allied havens within influence range.
+Les usines aident à réparer et construire de nouvelles zones, et apportent un soutien aux refuges alliés situés dans leur champ d'influence.
+# KEY_GEOSCAPE_ZONE_FACTORY_NAME
+FACTORY
+USINE
+# KEY_GEOSCAPE_ZONE_FOOD_DESCRIPTION
+Food production zones provide a substantial amount of food for a haven, and contribute some food to allied havens within influence range.
+Les zones de production alimentaire fournissent à un refuge une quantité considérable de nourriture, et en verse une partie aux refuges alliés situés dans son champ d'influence.
+# KEY_GEOSCAPE_ZONE_FOOD_NAME
+FOOD PRODUCTION
+PRODUCTION ALIMENTAIRE
+# KEY_GEOSCAPE_ZONE_FORTRESS_DESCRIPTION
+Tobias West has constructed a fortress with a central command hub critical for New Jericho's strategic objectives.
+Tobias West a construit une forteresse dotée d'un centre de commandement essentiel aux objectifs stratégiques de la Nouvelle-Jéricho.
+# KEY_GEOSCAPE_ZONE_FORTRESS_NAME
+TOBIAS WEST'S FORTRESS
+FORTERESSE DE TOBIAS WEST
+# KEY_GEOSCAPE_ZONE_LAUNCH_DESCRIPTION
+Synedrion has completed a launcher for a mission to the moon to recover Pandoran matter.
+Le Synédrion a terminé la construction d'un site de décollage en vue d'une mission sur la lune ayant pour objectif de récupérer de la matière pandorienne.
+# KEY_GEOSCAPE_ZONE_LAUNCH_NAME
+MOON LAUNCHER SITE
+SITE DE DÉCOLLAGE LUNAIRE
+# KEY_GEOSCAPE_ZONE_MISSIONARY_DESCRIPTION
+A missionary temple doubles the influence range of the haven, and will convert populations of other factions within range, increasing this haven's population.
+Un temple missionnaire double le champ d'influence d'un refuge et convertit les populations d'autres factions situées à portée, augmentant ainsi sa population.
+# KEY_GEOSCAPE_ZONE_MISSIONARY_NAME
+MISSIONARY TEMPLE
+TEMPLE MISSIONNAIRE
+# KEY_GEOSCAPE_ZONE_MIST_DESCRIPTION
+Mist repellers create a mist-free zone around the Haven, reducing starvation and the risk of attack from Pandoran bases.
+Les repousseurs de brume créent une zone sans brume autour du refuge, réduisant la famine et le risque de se faire attaquer par des bases pandoriennes.
+# KEY_GEOSCAPE_ZONE_MIST_NAME
+MIST REPELLER
+REPOUSSEUR DE BRUME
+# KEY_GEOSCAPE_ZONE_RESEARCH_DESCRIPTION
+Research centers contribute research effort to faction research project.
+Les centres de recherche contribuent aux recherches des projets de recherche d'une faction.
+# KEY_GEOSCAPE_ZONE_RESEARCH_NAME
+RESEARCH CENTER
+CENTRE DE RECHERCHE
+# KEY_GEOSCAPE_ZONE_RESIDENTIAL_DESCRIPTION
+Havens will generally provide enough accomodation for their populations, but they are vulnerable to Pandoran attack.
+Les refuges proposent en général assez d'espaces habitables à leurs populations, mais ils sont toutefois vulnérables aux attaques pandoriennes.
+# KEY_GEOSCAPE_ZONE_RESIDENTIAL_ELITE_DESCRIPTION
+Havens with substantial populations belonging to either New Jericho or Disciples of Anu have elite residential disctricts for their ruling class
+Les refuges qui abritent une population considérable et qui appartiennent à la Nouvelle-Jéricho ou aux Disciples d'Anu disposent de quartiers résidentiels destinés à leurs classes dirigeantes.
+# KEY_GEOSCAPE_ZONE_RESIDENTIAL_ELITE_NAME
+ELITE RESIDENCES
+RÉSIDENCES D'ÉLITE
+# KEY_GEOSCAPE_ZONE_RESIDENTIAL_NAME
+RESIDENTIAL DISTRICT
+QUARTIER RÉSIDENTIEL
+# KEY_GEOSCAPE_ZONE_TRAINING_DESCRIPTION
+Training centers provide military force for the haven, and contribute to the protection of allied havens within influence range.
+Les centres d'entraînement procurent au refuge une force militaire, et contribuent à la protection des refuges alliés situés dans son champ d'influence.
+# KEY_GEOSCAPE_ZONE_TRAINING_ELITE_DESCRIPTION
+Elite training centers provide increased military force, and produce elite class soldiers.
+Les centres d'entraînement d'élite offrent une force militaire accrue, et produisent des soldats d'élite.
+# KEY_GEOSCAPE_ZONE_TRAINING_ELITE_NAME
+ELITE TRAINING
+ENTRAÎNEMENT D'ÉLITE
+# KEY_GEOSCAPE_ZONE_TRAINING_NAME
+TRAINING CENTER
+CENTRE D'ENTRAÎNEMENT
+# KEY_GEOSCAPE_ZONE_UPLINK_DESCRIPTION
+A satellite uplink will double the influence range of the haven, and detect Pandoran bases, allowing New Jericho to take the battle to the enemy.
+Un relais satellite permettra de doubler le champ d'influence du refuge et de détecter les bases pandoriennes, permettant à la Nouvelle-Jéricho d'attaquer ses ennemis.
+# KEY_GEOSCAPE_ZONE_UPLINK_NAME
+SATELLITE UPLINK
+RELAIS SATELLITE
+# KEY_HAVEN_COVERED
+COVERED
+COUVERT
+# KEY_HAVEN_FOOD_SUPPLY
+FOOD SUPPLY
+APPROVISIONNEMENT ALIMENTAIRE
+# KEY_HAVEN_FREE
+FREE
+LIBRE
+# KEY_HAVEN_INCURSION
+RAID
+INCURSION
+# KEY_HAVEN_MILITARY_STRENGTH
+MILITARY STRENGTH
+PUISSANCE MILITAIRE
+# KEY_HAVEN_MIST
+INCREASES STARVATION RATE AND THE RISK OF PANDORAN ATTACK
+AUGMENTE LE TAUX DE FAMINE ET LE RISQUE D'ATTAQUES PANDORIENNES
+# KEY_HAVEN_MIST_STATUS
+MIST STATUS
+ÉTAT DE LA BRUME
+# KEY_HAVEN_NEARBY_HAVENS
+NEARBY HAVENS
+REFUGES À PROXIMITÉ
+# KEY_HAVEN_PRODUCTION_CAPACITY
+PRODUCTION CAPACITY
+CAPACITÉ DE PRODUCTION
+# KEY_HAVEN_UNKNOWN
+UNKNOWN
+INCONNU
+# KEY_HAVEN_ZONE_ELITE_RESIDENTIAL_DESC_AN
+The Disciples of Anu priest class live in luxurious villas within vast temple complexes.
+La classe des prêtres des Disciples d'Anu réside dans de luxueuses villas au cœur de vastes temples.
+# KEY_HAVEN_ZONE_ELITE_RESIDENTIAL_DESC_NJ
+The New Jericho officer class earn many economic and political privileges, including more secure accommodation and amenities.
+La classe des officiers de la Nouvelle-Jéricho bénéficie de nombreux privilèges économiques et politiques, notamment d'un hébergement et d'infrastructures plus sûrs.
+# KEY_HAVEN_ZONE_ELITE_TRAINING_DESC_AN
+The Disciples of Anu priest fighters are created through advanced mutations and chemical stimulation, giving them almost magical powers.
+Les prêtres combattants des Disciples d'Anu sont nés de mutations avancées et de stimulations chimiques, leur octroyant ainsi des pouvoirs presque magiques.
+# KEY_HAVEN_ZONE_ELITE_TRAINING_DESC_NJ
+The elite training zones of New Jericho produce cranial implants for the elite technician class, enabling them to control robotic arms by thought alone.
+Les zones d'entraînement d'élite de la Nouvelle-Jéricho produisent des implants cérébraux pour la classe des techniciens d'élite, leur permettant de contrôler des bras robotiques par la seule force de leur pensée.
+# KEY_HAVEN_ZONE_ELITE_TRAINING_DESC_SY
+Synedrion's Infiltrator class is the ultimate assassin and stealth fighter, equipped with advanced technology.
+Les infiltrés du Synédrion forment une classe d'assassins redoutables et de combattants furtifs, équipée d'une technologie avancée.
+# KEY_HAVEN_ZONE_ENERGY_DESC_AN
+Disciples of Anu power generation is located within elaborate temple structures.
+Les Disciples d'Anu produisent leur énergie à l'intérieur de temples élaborés.
+# KEY_HAVEN_ZONE_ENERGY_DESC_NJ
+New Jericho power plants can use all kinds of fuel, including bio-fuels, gas and oil.
+Les centrales d'énergie de la Nouvelle-Jéricho peuvent utiliser toutes sortes de combustibles, notamment des biocarburants, du gaz et du pétrole.
+# KEY_HAVEN_ZONE_ENERGY_DESC_SY
+Synedrion have mastered fusion technology to create the most efficient and sustainable power source on earth.
+Le Synédrion maîtrise la technologie de fusion pour créer la source d'énergie la plus efficace et la plus durable au monde.
+# KEY_HAVEN_ZONE_FACTORY_DESC_AN
+The factories of the Disciples are chaotic collections of machinery and materials scavenged from surrounding lands.
+Les usines appartenant aux Disciples sont de chaotiques amalgames de pièces de machinerie et de matériaux récupérés sur les terres alentour.
+# KEY_HAVEN_ZONE_FACTORY_DESC_NJ
+New Jericho's heavily concreted factory zones are regarded as a key asset.
+Les usines bétonnées de la Nouvelle-Jéricho sont considérées comme un atout majeur.
+# KEY_HAVEN_ZONE_FACTORY_DESC_SY
+Synedrion's AI controlled fabriaction plants are efficient and flexible.
+Les usines de fabrication du Synédrion, contrôlées par une IA, sont à la fois efficaces et modulables. 
+# KEY_HAVEN_ZONE_FOOD_DESC_AN
+The Disciples have ingeniously engineered fungus mutations to create food mostly safe for human consumption.
+Les Disciples ont ingénieusement mis au point des mutations de champignons afin de créer de la nourriture presque entièrement propre à la consommation humaine.
+# KEY_HAVEN_ZONE_FOOD_DESC_NJ
+New Jericho hydroponic farms are designed for security against the slightest contamination from the mutations that curse much of the earth.
+Les fermes hydroponiques de la Nouvelle-Jéricho sont conçues pour résister à la moindre contamination pouvant être causée par les mutations qui affectent une grande partie de la terre.
+# KEY_HAVEN_ZONE_FOOD_DESC_SY
+Synedrion have made strenuous efforts to preserve many crop species and make them flourish in AI controlled environments.
+Le Synédrion a fourni des efforts colossaux afin de préserver de nombreuses espèces cultivées et les faire prospérer dans des environnements contrôlés par une IA.
+# KEY_HAVEN_ZONE_RESEARCH_DESC_AN
+Disciples of Anu research is dressed up in religious ritual, but is actually advanced in genetic modification.
+Les recherches des Disciples d'Anu se parent de rituels religieux, mais cachent en réalité une grande avancée en matière de modification génétique.
+# KEY_HAVEN_ZONE_RESEARCH_DESC_NJ
+New Jericho research is focussed on weapons and restoring technology once manufactured by Vanadium Inc.
+Les recherches de la Nouvelle-Jéricho se concentrent sur les armes et sur la restauration de la technologie jadis manufacturée par Vanadium Inc.
+# KEY_HAVEN_ZONE_RESEARCH_DESC_SY
+Syenedrion's research facilities are the most numerous and advanced of all the factions.
+Les centres de recherche du Synédrion sont les plus nombreux et les plus avancés de toutes les factions.
+# KEY_HAVEN_ZONE_RESIDENTIAL_DESC_AN
+The teeming, chaotic slums of Disciples of Anu havens house the devoted mass of followers.
+Les bidonvilles grouillants et chaotiques des Disciples d'Anu renferment une masse dévouée de croyants.
+# KEY_HAVEN_ZONE_RESIDENTIAL_DESC_NJ
+New Jericho's residential zones are heavily militarized and have a utilitarian barracks like quality.
+Les zones résidentielles de la Nouvelle-Jéricho sont fortement militarisées et s'apparentent à des casernes.
+# KEY_HAVEN_ZONE_RESIDENTIAL_DESC_SY
+Synedrion constructs the most human centred civilian amenites as an example of the world they want to create.
+Le Synédrion construit des infrastructures civiles centrées sur les humains, à l'imagine du monde qu'il souhaite créer.
+# KEY_HAVEN_ZONE_TRAINING_DESC_AN
+Disciples of Anu training zones are brutal arenas, where berserkers are pumped with various chemicals to enhance their strength and blood lust.
+Les zones d'entraînement des Disciples d'Anu sont de brutales arènes où l'on injecte différents produits chimiques aux berserkers afin de décupler leur force et leur soif sanguinaire.
+# KEY_HAVEN_ZONE_TRAINING_DESC_NJ
+New Jericho military training uses the latest virtual reality simulators developed by Vanadium Inc.
+L'entraînement militaire de la Nouvelle-Jéricho emploie des simulateurs de réalité virtuelle de dernière génération, développés par Vanadium Inc.
+# KEY_HAVEN_ZONE_TRAINING_DESC_SY
+Synedrion training uses virtual reality simulators as sophisticated as New Jerichos, but with more emphasis on non-lethal combat.
+L'entraînement du Synédrion emploie des simulateurs de réalité virtuelle aussi sophistiqués que ceux de la Nouvelle-Jéricho, mais accorde une plus grande importance au combat non meurtrier.
+# KEY_MISSION_NEEDS_AIRCRAFT_TT
+Send an aircraft with a squad to this haven to conduct a mission here
+Envoyez un vaisseau avec une escouade à ce refuge pour y effectuer une mission
+# KEY_RECRUIT_LEADER_NEGATIVE_DIPLOMACY_TT
+The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable recruiting.
+Le chef du refuge n'est pas bienveillant envers le Projet Phoenix. Améliorez les relations diplomatiques pour permettre le recrutement.
+# KEY_RECRUIT_NEEDS_AIRCRAFT_TT
+Send an aircraft to this haven to recruit this soldier.
+Envoyer un vaisseau sur ce refuge pour recruter ce soldat.
+# KEY_TRADE_LEADER_NEGATIVE_DIPLOMACY_TT
+The haven leader is not friendly towards the Phoenix Project. Improve diplomatic relations to enable trading.
+Le chef du refuge n'est pas bienveillant envers le Projet Phoenix. Améliorez les relations diplomatiques pour permettre le commerce.
+# KEY_TRADE_NEEDS_AIRCRAFT_TT
+Send an aircraft to this haven to conduct trade.
+Envoyer un vaisseau sur ce refuge pour faire du commerce.

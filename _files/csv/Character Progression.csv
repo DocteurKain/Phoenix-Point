@@ -1,0 +1,25 @@
+Key,English,French
+KEY_GEOSCAPE_ABILITY_NO_LEVEL,YOU DON'T HAVE THE NECESSARY CHARACTER LEVEL TO ACQUIRE THIS ABILITY,VOUS N'AVEZ PAS LE NIVEAU D'UNITÉ REQUIS POUR ACQUÉRIR CETTE CAPACITÉ.
+KEY_GEOSCAPE_ABILITY_NO_XP,YOU DON'T HAVE ENOUGH SKILL POINTS TO ACQUIRE THIS ABILITY,VOUS N'AVEZ PAS ASSEZ DE POINTS DE COMPÉTENCE POUR ACQUÉRIR CETTE CAPACITÉ.
+KEY_GEOSCAPE_ACQUIRE,ACQUIRE ABILITY,ACQUÉRIR CAPACITÉ
+KEY_GEOSCAPE_SPEED_TIP,Speed determines how many tiles a character can move in one turn,La vitesse détermine le nombre de cases sur lesquelles peut se déplacer une unité dans un tour.
+KEY_GEOSCAPE_STRENGTH_TIP,"Strength determines the maximum Hit Points, the weight that can be carried and how far items can be thrown","La puissance détermine le maximum de points de vie, le poids qui peut être porté et la distance de lancer des objets."
+KEY_GEOSCAPE_WILLPOWER_TIP,Willpower determines the maximum Will Points in battle which are used for abilities. Reaching zero Will Points will cause Panic,"La volonté détermine le nombre maximum de points de volonté en combat qui sont utilisés pour les capacités. Lorsque les points de volonté sont épuisés, cela provoque la panique."
+KEY_NEW_CLASS_DESCRIPTION,Choose a secondary class to train in.,Choisissez une classe secondaire à entraîner.
+KEY_NEW_CLASS_HEADER,CHOOSE SECONDARY CLASS,CHOISIR CLASSE SECONDAIRE
+KEY_NEW_CLASS_NAME,NEW CLASS,NOUVELLE CLASSE
+KEY_PROGRESSION_ACCURACY,ACCURACY,PRÉCISION
+KEY_PROGRESSION_COST,SP COST,COÛT PC
+KEY_PROGRESSION_DAMAGE,DAMAGE,DÉGÂTS
+KEY_PROGRESSION_EXPERIENCE,EXPERIENCE,EXPÉRIENCE
+KEY_PROGRESSION_PERCEPTION,PERCEPTION,PERCEPTION
+KEY_PROGRESSION_PHOENIX_SKILL_POINTS,PHOENIX SP,PC PHOENIX
+KEY_PROGRESSION_SKILL_POINTS,SP,PC
+KEY_PROGRESSION_SOLDIER_SKILL_POINTS,SOLDIER SP,PC DE SOLDAT
+KEY_PROGRESSION_SPEED,SPEED,VITESSE
+KEY_PROGRESSION_STATS_REQUIREMENTS,REQUIREMENTS,CONDITIONS
+KEY_PROGRESSION_STATS_UPDATE,IMPROVES THE FOLLOWING STATS:,AMÉLIORE LES STATS SUIVANTES :
+KEY_PROGRESSION_STRENGTH,STRENGTH,PUISSANCE
+KEY_PROGRESSION_WILLPOWER,WILLPOWER,VOLONTÉ
+KEY_UPGRADE_CONFIRMATION_DESCRIPTION,You will not be able to change that ability or reclaim the Skill Points spent on it.,Vous ne pourrez pas changer cette capacité ou récupérer les points de compétence utilisés pour l'obtenir.
+KEY_UPGRADE_CONFIRMATION_NAME,Are you sure you want to train your soldeir in this ability?,Voulez-vous vraiment que votre soldat apprenne cette capacité ?

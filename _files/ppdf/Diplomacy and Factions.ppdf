@@ -1,0 +1,96 @@
+﻿# KEY_DIPLOMACY_ANU
+The Exalted
+L'Exaltée
+# KEY_DIPLOMACY_CONTACT
+Establish contact with another faction
+Entrez en contact avec une autre faction
+# KEY_DIPLOMACY_DEATH
+The faction has been annihilated
+La faction a été anéantie
+# KEY_DIPLOMACY_FACTION_NAME_TT
+This name of the faction
+C'est le nom de la faction
+# KEY_DIPLOMACY_HAVEN_COUNT_TT
+Number of Havens affiliated to the faction
+Nombre de refuges affiliés à la faction
+# KEY_DIPLOMACY_ICON_GATE_TT
+Cannot gain reputation with this faction until the faction mission is completed successfully
+Vous ne pouvez pas vous faire une réputation auprès de cette faction avant d'avoir terminé la mission avec succès.
+# KEY_DIPLOMACY_ICON_HAVEN_TT
+Number of havens this faction controls
+Nombre de refuges que cette faction contrôle
+# KEY_DIPLOMACY_ICON_LEADER_TT
+Leader of the faction
+Chef de la faction
+# KEY_DIPLOMACY_ICON_POPULATION_TT
+Total population of all faction havens
+Population totale des refuges de toutes les factions
+# KEY_DIPLOMACY_INCREASE
+Defend havens against attack in order to improve your reputation
+Protégez les refuges contre les attaques afin d'améliorer votre réputation
+# KEY_DIPLOMACY_LOCATE
+LOCATE MISSION
+LOCALISER MISSION
+# KEY_DIPLOMACY_NJ
+Tobias West
+Tobias West
+# KEY_DIPLOMACY_RELATIONSHIP_TOWARDS_TT
+Attitude towards {0}
+Attitude envers {0}
+# KEY_DIPLOMACY_RELATIONS_INCREASE
+You must increase your reputation with this faction in order to receive further missions from them
+Vous devez augmenter votre réputation auprès de cette faction afin de recevoir d'autres missions de leur part.
+# KEY_DIPLOMACY_RESEARCH
+Faction research needed to establish diplomatic relations
+Recherche de faction requise pour établir des relations diplomatiques
+# KEY_DIPLOMACY_SYN
+Synedrion Council
+Conseil du Synédrion
+# KEY_FACTION_NAME_ALIEN
+Pandorans
+Pandoriens
+# KEY_FACTION_NAME_ANU
+Disciples of Anu
+Disciples d'Anu
+# KEY_FACTION_NAME_ENVIRONMENT
+Environment
+Environnement
+# KEY_FACTION_NAME_INACTIVE
+Inactive
+Inactif
+# KEY_FACTION_NAME_NEUTRAL
+Independent
+Indépendante
+# KEY_FACTION_NAME_NEW_JERICHO
+New Jericho
+Nouvelle-Jéricho
+# KEY_FACTION_NAME_PHOENIX
+Phoenix Project
+Projet Phoenix
+# KEY_FACTION_NAME_SYNEDRION
+Synedrion
+Synédrion
+# KEY_MISSION_DIPLOMACY_DEDICATED
+Allied
+Allié
+# KEY_MISSION_DIPLOMACY_FRIENDLY
+Supportive
+Favorable
+# KEY_MISSION_DIPLOMACY_HOSTILE
+Aggressive
+Agressif
+# KEY_MISSION_DIPLOMACY_NEUTRAL
+Friendly
+Bienveillant
+# KEY_MISSION_DIPLOMACY_SUPPORTIVE
+Aligned
+Aligné
+# KEY_MISSION_DIPLOMACY_SUSPICIOUS
+Unfriendly
+Froid
+# KEY_MISSION_DIPLOMACY_UNFRIENDLY
+Hostile
+Hostile
+# KEY_MISSION_DIPLOMACY_VERY_HOSTILE
+At War
+En guerre

@@ -1,0 +1,21 @@
+Key,English,French
+KEY_GEOSCAPE_OBJECTIVE_ALIEN_STRUCTURES,Active Pandoran structures: {0},Structures pandoriennes actives : {0}
+KEY_GEOSCAPE_OBJECTIVE_COMPLETE_RESEARCH,Complete research: {0},Completer la recherche : {0}
+KEY_GEOSCAPE_OBJECTIVE_HAVEN_DEFENSE,Stop enemy invasion at haven {0},Arrêter l'invasion ennemie au refuge {0}
+KEY_OBJECTIVE_LEVIATHAN_BUILD,The Exalted's Temple is under construction,Le Temple de l'Exaltée est en construction
+KEY_OBJECTIVE_MOONLAUNCH_BUILD,Synedrion's Moon Launch site is under construction,Le Lancement Lunaire du Synédrion est en construction
+KEY_OBJECTIVE_PHOENIX_PROJECT,Locate the remaining active Phoenix Bases,Localiser les bases Phoenix actives restantes
+KEY_OBJECTIVE_TUTORIAL_ATMOSPHERIC,Research Atmospheric Analysis,Faire des recherches sur l'analyse atmosphérique
+KEY_OBJECTIVE_TUTORIAL_EQUIPMENT,Enter the TRAINING section of the PERSONNEL tab,Ouvrir la section ENTRAÎNEMENT de l'onglet PERSONNEL
+KEY_OBJECTIVE_TUTORIAL_EXPLORATION,Explore an unexplored site and complete the mission,Explorer un site inexploré et terminer la mission
+KEY_OBJECTIVE_TUTORIAL_FACILITIES,Repair the Research facility,Réparer le centre de recherche
+KEY_OBJECTIVE_TUTORIAL_FACTORY,Build a Fabrication Plant,Construire une usine de fabrication
+KEY_OBJECTIVE_TUTORIAL_FATIGUE,Go to your Base,Rentrer à votre base
+KEY_OBJECTIVE_TUTORIAL_NAVIGATION,Go to an unexplored site,Aller sur un site inexploré
+KEY_OBJECTIVE_TUTORIAL_RESEARCH,Research the Phoenix Project,Faire des recherches sur le Projet Phoenix
+KEY_OBJECTIVE_TUTORIAL_RESOURCES,Enter the EQUIPMENT section of the PERSONNEL tab,Ouvrir la section ÉQUIPEMENT de l'onglet PERSONNEL
+KEY_OBJECTIVE_TUTORIAL_SATELLITE,Build a Satellite Uplink,Construire un relais satellite
+KEY_OBJECTIVE_TUTORIAL_SCANNING,Area Scanning,Balayage de zone
+KEY_OBJECTIVE_TUTORIAL_TRAINING,Explore another unexplored site and complete the mission,Explorer un autre site inexploré et terminer la mission
+KEY_OBJECTIVE_TUTORIAL_WORKER_ALLOCATION,Allocate units to medical bay,Affecter des unités à la station médicale
+KEY_OBJECTIVE_TWFORTRESS_BUILD,Tobias West's Fortress is under construction,La Forteresse de Tobias West est en construction

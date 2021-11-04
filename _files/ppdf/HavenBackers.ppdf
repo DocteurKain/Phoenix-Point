@@ -1,0 +1,1080 @@
+﻿# BCR10_CHOICE_0_OUTCOME_GENERAL
+Towa thanks us for helping her. She gives our operatives the coordinates of the Anu haven and offers several suggestions for how to infiltrate it without being noticed.
+Towa nous remercie pour notre aide. Elle remet à nos agents les coordonnées du refuge d'Anu et nous suggère plusieurs moyens de l'infiltrer sans être repérés.
+# BCR10_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR10_CHOICE_1_OUTCOME_GENERAL
+The Phoenix Project shouldn't be getting involved in the internal affairs of independent havens.
+Le Projet Phoenix ne devrait pas s'impliquer dans les affaires internes de refuges indépendants.
+# BCR10_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR10_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR10_FAIL_TEXT_GENERAL_0
+Unfortunately, our attempt to retrieve the sword has failed, and the Disciples have proceeded to melt it down as a symbol of the old world passing away. Hikari Towa will not be pleased.[n]
+Malheureusement, notre tentative visant à récupérer l'épée à échoué, et les Disciples l'ont fondue pour en faire un symbole de l'ancien monde qui n'est plus. Hikari Towa ne sera pas contente.
+# BCR10_FAIL_TITLE
+Loss of Valor
+Perte de valeur
+# BCR10_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR10_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR10_MISS_SUMMARY
+Find and reclaim the Imperial Regalia from the Disciples of Anu.
+Trouver et récupérer les trésors impériaux des mains des Disciples d'Anu.
+# BCR10_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]The sword Kusanagi, one of the Three Sacred Treasures, is being kept in this haven. As the Disciples have no interest in history, they probably consider it a curiosity at best, disposable at worst. We must retrieve it before it is destroyed.
+RÉSUMÉ DE LA MISSION[n][n]L'épée Kusanagi, l'une des trois reliques sacrées, est conservée dans ce refuge. Les Disciples n'ayant aucun intérêt pour l'histoire, ils la considèrent probablement comme une curiosité dans le meilleur des cas, jetable, dans le pire. Nous devons la récupérer avant qu'elle ne soit détruite.
+# BCR10_MISS_TITLE
+Stealing Valor
+Vol de vaillance
+# BCR10_OUT_CHOICE_0_OUTCOME_GENERAL
+Our mission also helped Towa flush out the traitor in her haven, which she considers equally important. In fact, our operatives somewhat suspect that tracking down the Three Sacred Treasures may have been as much a provocation to push the traitor to reveal himself as an attempt to actually secure these symbols.[n][n]Towa gladly honors her promise to pay for our services.
+Notre mission a également permis de débusquer le traître dans son refuge, ce qu'elle considère comme une victoire aussi importante que la récupération des trésors. En fait, nos agents soupçonnent que la recherche des trois trésors sacrés pourrait avoir pour but de pousser le traître à révéler son identité sous couvert de sécuriser ces symboles du passé.[n][n]Towa accepte volontiers de nous rétribuer pour nos services.
+# BCR10_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR10_OUT_TEXT_GENERAL_0
+Hikari Towa is deeply thankful for our help, and promises to stand by the Phoenix Project in the future. She has two out of three Imperial Regalia now, and is only missing the jewel Yasakani no Magatama. "But," she says with an enigmatic half-smile, "that's already being taken care of."
+Hikari Towa est très reconnaissante de notre aide et promet de soutenir le Projet Phoenix à l'avenir. Elle détient deux des trois trésors impériaux maintenant, et il ne lui manque plus que le joyau Yasakani no Magatama. « Mais, dit-elle avec un petit sourire énigmatique, on s'en occupe déjà ».
+# BCR10_OUT_TITLE
+Valor and Wisdom
+Bravoure et sagesse
+# BCR10_TEXT_GENERAL_0
+After the end of the world as we knew it, Hikari Towa found herself in an unexpected position: technically speaking, based on her bloodline, she was the Empress of Japan. The country itself was in ruins, but a group of loyalists declared her leader of their haven, Neo Takachiho, and what choice did she have but to roll with it?[n][n]Since then, she's tried to build a better life for her people, not without success, but also with some difficulties: there are plenty of people who'd like to use her as a figurehead, which she has no intention of becoming. If you're going to be Empress, might as well do it right.
+Après la fin du monde que nous connaissions, Hikari Towa s'est retrouvée dans une position inattendue : techniquement parlant, en raison de sa lignée, elle était l'impératrice du Japon. Le pays était en ruines, mais un groupe de fidèles la déclarèrent chef de leur refuge, Neo Takachiho, et quel autre choix avait-elle sinon faire avec ?[n][n]Depuis, elle a essayé de créer une vie meilleure pour son peuple, non sans succès, mais également avec ses difficultés : de nombreuses personnes aimeraient faire d'elle une figure de proue, ce qu'elle n'a pas l'intention de devenir. Quitte à devenir impératrice, autant faire les choses comme il faut.
+# BCR10_TEXT_GENERAL_1
+To consolidate her position, Towa has been trying to recover the sword Kusanagi, one of the Three Sacred Treasures, the imperial regalia of Japan. She has a possible location, but she fears someone inside her haven is trying to betray her. She is offering us a handsome reward for retrieving the sword for her.[n][n]The only problem? The sword is in a haven controlled by the Disciples of Anu.
+Pour consolider sa position, Towa essaie de récupérer l'épée Kusanagi, l'un des trois trésors sacrés, l'héritage impérial du japon. Elle connaît l'un de ses emplacements potentiels, mais redoute que quelqu'un dans son propre refuge ne tente de la trahir. Elle offre une belle récompense si nous la récupérons pour elle.[n][n]Le seul problème ? L'épée semble avoir été localisée dans un refuge sous le contrôle des Disciples d'Anu.
+# BCR10_TITLE
+The Empress
+L'impératrice
+# BCR10_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR10_WIN_TEXT_GENERAL_0
+We have successfully reclaimed the fabled sword. Hikari Towa will undoubtedly be pleased. All we need now is to go and present the regalia to her.
+Nous sommes parvenus à récupérer l'épée légendaire. Hikari Towa sera sans aucun doute ravie. Il ne nous reste plus qu'à aller lui présenter le trésor.
+# BCR10_WIN_TITLE
+We Have Your Sword
+Nous avons votre épée
+# BCR11_CHOICE_0_OUTCOME_GENERAL
+He claps his hands together.[n][n]"Wonderful! I thought you'd say no, honestly. It's a silly thing to ask for, I know. But music connects us to the cosmos. It's the language of creation. And... I suppose it has a value that can't quite be put into words."
+Il frappe des mains.[n][n]« Merveilleux, je pensais sincèrement que vous refuseriez. Voilà une chose insensée à demander à quelqu'un, je le sais. Mais la musique nous relie au cosmos. Il s'agit du langage de la création et je suppose que sa valeur transcende les mots. »
+# BCR11_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR11_CHOICE_1_OUTCOME_GENERAL
+Suddenly, a change comes over O'Hearn's face, and when he speaks, it seems to be with a different voice.[n][n]"Then what use are you to us? You, with your tiny, pathetic little minds, incapable of hearing the great song of the cosmos. Get out! OUT!"
+Soudain, le visage d'O'Hearn, mais lorsqu'il prend la parole, il semble parler d'une voix différente.[n][n]« Dans ce cas, à quoi servirez-vous ? Avec vos pitoyables petits esprits, incapables d'entendre la grande mélodie du cosmos. Sortez ! IMMÉDIATEMENT ! »
+# BCR11_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR11_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR11_FAIL_TEXT_GENERAL_0
+Our attempt to retrieve James O'Hearn's composition has sadly ended in failure.
+Hélas, notre tentative pour récupérer la composition de James O'Hearn s'est soldée par un échec.
+# BCR11_FAIL_TITLE
+Sad Trombone
+Mélodie perdue
+# BCR11_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR11_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR11_MISS_SUMMARY
+Retrieve a copy of James O'Hearn's lost composition from the ruins of a destroyed city.
+Retrouvez une copie de la composition perdue de James O'Hearn dans les ruines d'une cité dévastée.
+# BCR11_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]The target of this mission is not a sample or a device - it's sheet music. More specifically, a composition by James O'Hearn, leader of the Harmony haven.
+RÉSUMÉ DE LA MISSION[n][n]La cible de cette mission n'est pas un échantillon ou un dispositif, c'est une partition. Plus particulièrement une composition de James O'Hearn, chef du refuge Harmonie.
+# BCR11_MISS_TITLE
+Harmony of the Spheres
+Harmonie des sphères
+# BCR11_OUT_CHOICE_0_OUTCOME_GENERAL
+"I want to thank you for returning this piece of myself," O'Hearn tells our operatives. "I've felt... fragmented, lately. The pressure of keeping this place going, when not everyone believes in my leadership. I'm not quite the person I used to be. But  I hope this will help, as strange as that may seem to you. And here's your payment, as agreed. Thank you again."
+« Je voulais vous remercier d'avoir retrouvé cette part de moi-même, dit O'Hearn à nos agents. Je me sentais incomplet jusqu'à votre retour. Diriger cet endroit quand personne ne croit en ma capacité à commander. Je ne suis plus celui que j'étais. Mais j'espère que cela me sera utile, aussi étrange que cela puisse vous paraître. Voici votre récompense, comme convenu. Merci encore ! »
+# BCR11_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR11_OUT_TEXT_GENERAL_0
+O'Hearn takes the sheet music without speaking, sits down at his piano and begins to play. It's a beautiful melody, full of longing and hope. Only at the end is there a discordant note, as O'Hearn's expression briefly changes and his hands tremble. But the moment passes, and then O'Hearn seems himself again.
+O'Hearn prend la partition sans rien dire, s'assoit au piano et commence à jouer. C'est une magnifique mélodie, pleine de nostalgie et d'espoir. À la fin, cependant, se trouve une note mal accordée – l'expression de O'Hearn change brièvement et sa main tremble. Mais le moment passe et O'Hearn semble reprendre contenance.
+# BCR11_OUT_TITLE
+Musica Universalis
+Musica Universalis
+# BCR11_TEXT_GENERAL_0
+Most havens started as shelters or military installations, but Harmony was a music school. Before the Pandoravirus, James O’Hearn was a pianist and music teacher. When things fell apart, he and his students transformed the school into a fortress - more out of necessity than choice. But slowly their community grew, and O’Hearn became its leader.[n][n]O’Hearn has a mixed reputation: some say he's a sweet, kind man who cares about his people; other say he's a sociopath who cares about nothing but power. The one thing that's certain is that music is the core of his beliefs. Music plays constantly in the haven, even at night, and his compositions are played at tri-weekly services. The haven has a good relationship with the Disciples of Anu, and many of his students believe O'Hearn's music will bring them closer to the Dead God.
+La plupart des refuges ont débuté en tant que refuges ou installations militaires, mais Harmonie était une école de musique. Avant le Pandoravirus, James O'Hearn était pianiste et professeur de musique. Lorsque tout s'est effondré, avec l'aide de ses élèves, il a transformé l'école en forteresse, plus par nécessité que par choix. Mais leur communauté s'est doucement agrandie et James O'Hearn en est devenu le chef.[n][n]O'hearn a une réputation mitigée : certains disent que c'est un homme gentil et charmant ; d'autres, que c'est un sociopathe qui n'est intéressé que par le pouvoir. Ce qui est certain, c'est que la musique est au cœur de ses croyances. Il y a toujours de la musique au refuge, même la nuit, et ses compositions sont jouées durant les trois offices par semaine. Le refuge a une bonne relation avec les Disciples d'Anu et nombre de ses élèves sont convaincus que la musique de James O'Hearn les rapprochera du Dieu défunt.
+# BCR11_TEXT_GENERAL_1
+O'Hearn welcomes our operatives into the haven. He's friendly and humble.[n][n]"I wanted to... hire you, I suppose? For a mission? That's how this works, right?" he says. "I'm afraid it'll seem quite absurd, but if I pay you, it should be OK, right? I want you to return something to me. A little bit of sheet music, that's all. Something I wrote a long time ago for someone... someone who's no longer with us. In this world, anyway. Could you do that for me, if I provide the coordinates? I know where it is, but I can't send one of my students. They're simply not up to such a task."
+O'Hearn accueille vos agents dans le refuge. Il semble humble et amical.[n][n]« Je voulais vous... engager ? Pour une mission ? C'est comme cela que vous fonctionnez, je me trompe ? J'ai peur que ma requête ne vous paraisse absurde, mais si je vous rémunère, vous n'y verrez pas d'objection, je me trompe ? Je voudrais que vous me rameniez une petite partition de musique. Je l'ai écrite il y a quelque temps pour une personne... qui n'est plus avec nous aujourd'hui. Dans ce monde, je veux dire. Pourriez-vous me la récupérer si je vous fournis les coordonnées ? Je sais ou elle se trouve, mais je ne peux pas envoyer l'un de mes élèves. Aucun n'est à la hauteur de cette tâche. » dit-il.
+# BCR11_TITLE
+Harmony's Mission
+Mission pour Harmonie
+# BCR11_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR11_WIN_TEXT_GENERAL_0
+We have successfully retrieved O'Hearn's composition, which was miraculously intact. We should deliver it to Harmony as soon as possible.
+Nous avons réussi à récupérer la composition de James O'Hearn, qui était miraculeusement intacte. Nous devrions la déposer au refuge Harmonie dès que possible.
+# BCR11_WIN_TITLE
+Victory Fanfare
+La fanfare victorieuse
+# BCR12_CHOICE_0_OUTCOME_GENERAL
+"Please remember to be careful," he says. "I disagree with Synedrion on some important issues, but they're not the enemy. This is about long-term strategy, not inflicting damage."
+« Soyez prudents. Je suis en désaccord avec le Synédrion sur de nombreux problèmes importants, mais ce ne sont pas des ennemis. Nous souhaitons adopter une stratégie à long terme, pas leur causer du tort. » dit-il.
+# BCR12_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR12_CHOICE_1_OUTCOME_GENERAL
+"So be it. I'd appreciate it if you didn't tell anyone about my offer, although I suppose they may already know what I'm trying to do anyway."
+« Ainsi soit-il. J'apprécierais si vous ne parliez à personne de mon offre, bien que je les soupçonne d'être déjà au courant de ce que je m'efforce de faire. »
+# BCR12_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR12_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR12_FAIL_TEXT_GENERAL_0
+Our attempt to obtain the Synedrion research data has ended in disaster. While New Sydney’s involvement was not exposed, it’s unlikely that we will get another shot at this, and Brown-Beresford will not be pleased.
+Nous avons tenté d'obtenir les données de recherche du Synédrion, mais ça s'est fini en catastrophe. L'implication de New Sydney n'a pas été exposée, mais nous n'aurons sûrement pas d'autres occasion d'essayer et Brown-Beresford ne sera pas content.
+# BCR12_FAIL_TITLE
+Caught
+Pris la main dans le sac
+# BCR12_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR12_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR12_MISS_SUMMARY
+Steal data from Synedrion for New Sydney.
+Voler des données au synédrion pour la Nouvelle-Sydney.
+# BCR12_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]We need to liberate some data from Synedrion. Discreetly.
+RÉSUMÉ DE LA MISSION[n][n]Nous devons libérer certaines données du Synédrion. Discrètement.
+# BCR12_MISS_TITLE
+Night of Desirable Blueprints
+Nuit des plans attendus
+# BCR12_OUT_CHOICE_0_OUTCOME_GENERAL
+"Here's your payment," he continues. "Not that you did any kind of job for New Sydney. Do you remember anything? I don't. This is just a gift, because I felt like being nice. It's been a pleasure."
+« Voilà votre paiement. » continue-t-il. « Ce n'est pas comme si vous aviez rendu le moindre service à la Nouvelle-Sydney. Rappelez-vous, ce n'est jamais arrivé. Voilà un présent de notre part, par pure courtoisie. C'était un plaisir. »
+# BCR12_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR12_OUT_TEXT_GENERAL_0
+Mayor Brown-Beresford grins at our operatives when they return with the data.[n][n]"I really do believe in peace and diplomacy, you know. I want this haven to make the world a better place. But doing that is complicated. They say you should speak softly and carry a big stick, but we don't have a big stick, so we need... insurance."
+Le maire Brown-Beresford fait un grand sourire à nos agents lorsqu'ils reviennent avec les données.[n][n]« Je crois vraiment en la paix et la diplomatie, vous savez. Je veux que ce refuge contribue à créer un monde meilleur. Mais c'est compliqué. On dit qu'il faut parler doucement et se munir d'un gros bâton, mais nous n'avons pas de gros bâton, donc il nous faut... une assurance. »
+# BCR12_OUT_TITLE
+Speak Softly
+Parler doucement
+# BCR12_TEXT_GENERAL_0
+The independent haven of New Sydney was founded by a group that broke away from Synedrion. Its founder, now Mayor Harry Brown-Beresford, believed that Synedrion's commitment to co-existence with the Pandoravirus was simply unsustainable, and that a more confrontational approach was paramount. He tried convincing the rest of Synedrion, but was outvoted and eventually left, taking many of his supporters with him.[n][n]New Sydney tries its best to maintain good relations with all the major factions, including Synedrion. Brown-Beresford makes a big point of his belief in diplomacy and cooperation. But sometimes... sometimes you have to take risks.
+Le refuge indépendant de New Sydney a été fondé par un groupe qui s'est scindé du Synédrion. Son fondateur, aujourd'hui le maire Harry Brown-Beresford, pensait que l'engagement du Synédrion à coexister avec le Pandoravirus n'était simplement pas durable, et qu'une approche plus agressive était primordiale. Il a tenté de convaincre le reste du Synédrion, mais il a obtenu la minorité et s'est éventuellement retiré, accompagné d'une grande partie de ses partisans.[n][n]New Sydney fait de son mieux pour maintenir de bonnes relations avec toutes les factions principales, y compris le Synédrion. Brown-Beresford insiste lourdement sur sa croyance en la diplomatie et la coopération. Mais parfois... eh bien, il faut prendre des risques.
+# BCR12_TEXT_GENERAL_1
+As part of his attempts to maintain peace, Mayor Brown-Beresford tries to collect as much information as possible. Conflicts can arise from within factions as much as from without, and New Sydney needs to be prepared. Recently, he lost touch with a valuable source in Synedrion.[n][n]"It's all very inconvenient. There's some information that would be extremely helpful, and I almost had it. If you could recover it... discreetly, I would be happy to pay you."
+Afin de mieux préserver la paix, le maire Brown-Beresford s'efforce de récupérer le plus d'informations possible. Les conflits peuvent émerger de partout, y compris à l'intérieur d'une même faction, et la Nouvelle-Sydney doit être préparée à toute éventualité. Il a récemment perdu contact avec une source des plus efficaces à l'intérieur du Synédrion.[n][n]« Voilà qui est fâcheux. Cette source était à la recherche d'informations d'une grande utilité, et elle était sur le point de mettre la main dessus. Si vous pouviez me les faire parvenir, je serais heureux de vous récompenser. »
+# BCR12_TITLE
+New Sydney
+New Sydney
+# BCR12_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR12_WIN_TEXT_GENERAL_0
+We have successfully liberated the Synedrion research data. The data is heavily encrypted, so we can only hope that New Sydney has a means to make use of it.
+Nous avons réussi à libérer les données de recherche du Synédrion. Les données sont cryptées, et nous ne pouvons qu'espérer que New Sydney a les moyens d'en tirer quelque chose.
+# BCR12_WIN_TITLE
+It's All About Information[n]
+L'information est la clé de tout
+# BCR13_CHOICE_0_OUTCOME_GENERAL
+"As the Dead God foresaw," Saxton says, and though his face is hidden by the mask, he is clearly smiling.
+« Tout va selon les prévisions du Dieu défunt. » affirme Saxton, et bien que son visage soit recouvert d'un masque, vous sentez qu'il est en train de sourire.
+# BCR13_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR13_CHOICE_1_OUTCOME_GENERAL
+To say this would be politically unwise would be a severe understatement. Besides, Saxton does not seem trustworthy.
+Dire que cela ne serait pas avisé sur le plan politique serait clairement un euphémisme. De plus, Saxton n'a pas l'air très fiable.
+# BCR13_CHOICE_1_TEXT
+Reject mission.
+Refuser la mission.
+# BCR13_CHOICE_2_OUTCOME_GENERAL
+A message from the Shadowed Hierarch thanks us for the information, and assures us that the Father of Reformation will "feel the wrath of the Dead God, or experience its military equivalent."[n]
+Un message envoyé par le Hiérarque des Ombres nous remercie pour l'information, et nous assure que ce soit-disant Père des réformés subira la colère du Dieu défunt, ou plutôt son équivalent militaire.
+# BCR13_CHOICE_2_TEXT
+Warn the Disciples.
+Prévenir les Disciples.
+# BCR13_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR13_FAIL_TEXT_GENERAL_0
+We have disappointed the Father of the Reformed with our weakness and stupidity. He will not want to hear from us again.[n]
+Nous avons déçu le Père des Réformés par notre faiblesse et notre stupidité. Il ne veut plus entendre parler de nous.
+# BCR13_FAIL_TITLE
+Failsons and Daughters
+Fils honnis et filles
+# BCR13_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR13_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR13_MISS_SUMMARY
+Attack the Disciples of Anu on behalf of the Reformed.
+Attaquer les Disciples d'Anu pour le compte des Réformés.
+# BCR13_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]Saxton's instructions were pretty simple: kill everyone.
+RÉSUMÉ DE LA MISSION[n][n]Les instructions de Saxton sont des plus simples : ne laisser aucun survivant.
+# BCR13_MISS_TITLE
+In the Name of the Father
+Au nom du Père
+# BCR13_OUT_CHOICE_0_OUTCOME_GENERAL
+The Reformed hand over the reward, but it's clear that unless we have further business, our operatives should stay away from their leader and only come to the haven in an emergency.
+Les Réformés vous remettent la récompense, mais il devient vite évident qu'à moins d'avoir d'autres affaires avec leur chef, nos agents feraient mieux de ne pas s'approcher de lui et de ne pénétrer dans son refuge qu'en cas d'urgence.
+# BCR13_OUT_CHOICE_0_TEXT
+Continue.[n]
+Continuer.
+# BCR13_OUT_TEXT_GENERAL_0
+"You have done well," Saxton intones when our operatives return. "And you will be rewarded accordingly. But do not think that you are saved, merely because you have performed a single task for the Dead God. It will take a lifetime of servitude for the sins of your flesh to be erased! God's Gate remains closed to you, and may remain so forever."
+« Vous vous êtes bien débrouillés, et vous serez récompensés en conséquence, mais ne pensez pas que vous serez sauvés juste parce que vous avez accompli une tâche pour le Dieu défunt. Vous devrez le servir toute votre vie pour expier lés péchés de votre chair ! Le portail divin vous restera fermé, et pourrait bien le rester à jamais. » entonne Saxton au retour de vos agents.
+# BCR13_OUT_TITLE
+The Gate Is Closed
+Le portail est fermé
+# BCR13_TEXT_GENERAL_0
+Joseph Saxton, better known as the Father of the Reformed, was once a high-ranking member of the Disciples of Anu, taking orders directly from the Synod of Yearning. But then, something happened. Some say he heard a whisper, something the Exalted said to Taxiarch Nergal that no-one else was supposed to hear. On that day, Saxton rejected the Exalted and proclaimed himself the true Messiah.[n][n]He and his followers, who call themselves the Reformed, founded Kan Digirak as the center of a new, more truthful religion that would lead people to the Dead God. Since then, it has grown, but slowly. It's a strange, hostile place, and few Disciples are willing to abandon their faith in the Exalted. Those who do follow Saxton, however, would follow him into hell.
+Joseph Saxton, aussi connu sous le nom du Père des Réformés, était autrefois un membre éminent des Disciples d'Anu et recevait ses ordres directement du Synode de l'appétence. Mais un incident se produisit. Certains racontent qu'il entendit un murmure, une parole de l'Exaltée au Taxiarque Nergal que personne d'autre n'aurait dû entendre. Ce jour-là, Saxton rejeta l'Exaltée et s'autoproclama véritable messie.[n][n]Ses fidèles et lui, qui se font appeler les Réformés, bâtirent Kan Digirak pour accueillir une nouvelle religion plus fidèle qui rapprocherait le peuple du Dieu défunt. Depuis lors, le culte s'est lentement étendu. Il s'agit d'un lieu étrange et hostile, et peu de disciples sont prêts à abandonner leur foi envers L'Exaltée. Ceux qui suivent Saxton le suivraient toutefois jusqu'en enfer.
+# BCR13_TEXT_GENERAL_1
+The Father of the Reformed has allowed our operatives to speak to him because he wants to offer them a mission, the same mission he offers every well-armed group the Reformed encounter: vengeance. He wants us to attack the Disciples of Anu and cause as much damage as possible. He already has a target in mind, and a reward waiting.
+Les Père des Réformés a autorisé nos agents à venir lui parler car il souhaite leur confier une mission. La même mission qu'il offre toujours aux groupes armés que les Réformés rencontrent : assouvir leur vengeance. Il souhaite attaquer les Disciples d'Anu et leur infliger le plus de dégâts possible. Il va vous communiquer une cible, et préparera une récompense à votre attention.
+# BCR13_TITLE
+The Father of the Reformed
+Le Père des Réformés
+# BCR13_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR13_WIN_TEXT_GENERAL_0
+We have sent the message the Father of the Reformed wanted us to send. Now we will have to live with the consequences.
+Nous avons fait passer le message que le Père des réformés souhaitait véhiculer. À présent, nous devrons faire face aux conséquences.
+# BCR13_WIN_TITLE
+Father Knows Best
+Un Père sait ce qu'il y a de mieux pour vous
+# BCR14_CHOICE_0_OUTCOME_GENERAL
+"Excellent. This matches all my information about the Phoenix Project. My people will send you all the information we have immediately. Good luck, and thank you."
+« Excellent, nos informations sur le Projet Phoenix étaient donc exactes. Mes fidèles vous enverront toutes informations dont nous disposons. Bonne chance et merci encore. »
+# BCR14_CHOICE_0_TEXT
+Accept mission.[n]
+Accepter la mission.
+# BCR14_CHOICE_1_OUTCOME_GENERAL
+"Hmm. Unexpected, and disappointing. I had such high hopes... but I suppose principles are an easy thing to lose along the way."
+« Voilà qui est inattendu, et fort décevant. Je nourrissais tant d'espoirs à votre sujet... mais j'imagine qu'il est facile de perdre ses principes en chemin... »
+# BCR14_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR14_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR14_FAIL_TEXT_GENERAL_0
+The mission to capture the lab has failed. With the damage to the facility, we may never be able to retrieve the necessary data.
+La mission pour capturer le laboratoire a échoué. Avec les dégâts infligés à l'installation, nous pourrions très bien ne jamais pouvoir récupérer les données que nous convoitions.
+# BCR14_FAIL_TITLE
+Another Camlann
+Un autre Camlann
+# BCR14_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR14_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR14_MISS_SUMMARY
+Capture a lab for John "Merlin" Smith, leader of Avalon.
+Capturer un laboratoire pour John « Merlin » Smith, le chef d'Avalon.
+# BCR14_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]This lab was used by a secret government organization to illegally test thought transfer implants on unwilling human subjects. We must secure it and retrieve all the data we can find.
+RÉSUMÉ DE LA MISSION[n][n]Ce laboratoire utilisé par une organisation secrète à la solde du gouvernement servait à effectuer des tests illégaux visant à transférer des implants sur des cobayes humains. Nous devons le sécuriser et récupérer toutes les données que nous pourrons trouver.
+# BCR14_MISS_TITLE
+The Hand of Merlin
+La main de Merlin
+# BCR14_OUT_CHOICE_0_OUTCOME_GENERAL
+"So I'm very grateful for your help. You've given me hope, that one day I can enjoy a moment... just a single moment... of silence."
+« Je vous suis très reconnaissant de votre aide. Vous m'avez redonné espoir, et je sais qu'un jour peut-être, je pourrai profiter d'un moment... de silence. »
+# BCR14_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR14_OUT_TEXT_GENERAL_0
+"So here it is," Merlin says, studying the data. "My gift. My curse. All set down in little numbers. How strange. Somehow, it makes it all seem a lot more ordinary. I'm glad, in a way. I shouldn't start believing my own myths, should I? No matter how useful they are."
+« Tout est là, mon don, ma malédiction. Les données sont archivées sous forme numérique. Comme c'est étrange. D'une certaine façon, cela me rend bien plus ordinaire. Je suis heureux, dans un sens, de ne pas croire à mes propres fables. Peu importe leur utilité » dit Merlin en étudiant les données.
+# BCR14_OUT_TEXT_GENERAL_1
+"I can hear it all, you know," Merlin continues. "All my soldiers' thoughts. It was supposed to be a system for giving orders more quickly, but it does a lot more than that. I can hear their fears, their doubts, their hopes... all of it, all the time. And I can't switch it off. People in the haven think I'm all-knowing, because I'm always aware of everything my soldiers see. But it's... it's a burden. It's hard enough to be responsible for people's lives, but their souls? It's too much."
+« Je peux toutes les entendre, vous savez ? » Continue Merlin. « Toutes les pensées de mes soldats. Ce système était censé permettre de donner des ordres plus rapidement, mais il fait bien plus que cela. Je peux entendre leurs peurs, leurs doutes, leurs espoirs, tous leurs sentiments, sans interruption. Et je ne peux pas l'arrêter. Les habitants de mon refuge pensent que je suis omniscient, car je peux voir tout ce que mes soldats voient. Mais il s'agit d'un fardeau. C'est déjà assez dur d'être responsable de la vie des gens, mais leurs âmes en plus ? C'en est trop. »
+# BCR14_OUT_TITLE
+The Burden
+Le poids du passé
+# BCR14_TEXT_GENERAL_0
+Before World War 3, John Smith seemed as ordinary as his name, just another one of the millions of soldiers sent to fight and die for governments who saw them as nothing but statistics. But in the war, he showed that he had a unique aptitude for strategy - he acted fast and achieved decisive victories before the enemy had even figured out what was happening. His troops gave him the nickname Merlin, because he moved like a wizard. Then came the implants, the thought transfer experiments... and soon enough, a legend was born.[n][n]When the old nation states tore themselves apart, Merlin decided that his first loyalty was to his team. He ignored his orders and founded the haven now known as Avalon.
+Avant la 3e Guerre mondiale, John Smith était considéré comme quelqu'un d'aussi ordinaire que le nom qu'il portait, l'un des millions de soldats envoyés se battre et mourir pour des gouvernements qui ne les voyaient que comme des chiffres. Mais durant la guerre, il montra un talent indéniable pour la stratégie. Il agissait rapidement et prenait des décisions menant vers la victoire de son camp avant même que l'ennemi ne réalise ce qui lui était arrivé. Ses troupes le surnommèrent Merlin car il agissait comme un magicien. Ensuite, les implants furent développés, suivis des expériences sur les transferts de pensées, et une légende naquit suite à tous ces événements.[n][n]Lorsque les vieilles nations finirent par s'entredéchirer, Merlin décida que sa loyauté allait d'abord à son groupe. Il ignora tous les ordres qu'il avait reçus et fonda un refuge qui prit le nom d'Avalon.
+# BCR14_TEXT_GENERAL_1
+"There are people who think I'm an actual wizard," he laughs, speaking to our operatives. "I don't discourage it. It's a strange world we find ourselves in, my friends, and I need every resource I can get. And I'm sure you remember that old Arthur C. Clarke quote about sufficiently advanced technology. But even Merlin himself can't solve every problem. The technology that was used to create my implants is... experimental, to say the least. The process wasn't entirely voluntary, and there's still a lot I don't know about what my government did to me. I have the coordinates of a lab that might provide answers. Can you help me secure it?"
+« Certaines personnes croient que je suis un véritable magicien. » dit-il, hilare, en s'adressant à nos agents. « Je ne fais rien pour décourager cette rumeur. Nous nous trouvons dans un monde bien étrange, mes amis, et j'ai besoin de toutes les ressources nécessaires. Et je suis sûr que vous vous souvenez de cette citation d'Arthur C. Clarke sur les technologies suffisamment avancées. Mais même Merlin en personne est incapable de résoudre tous les problèmes. La technologie utilisée pour créer mes implants était expérimentale. Le procédé n'était pas volontaire, et j'ignore beaucoup de choses sur les transformations apportées par le gouvernement. Je connais les coordonnées d'un laboratoire qui pourra m'éclairer à ce sujet. Pourriez-vous m'aider à le sécuriser ?»
+# BCR14_TITLE
+A Soldier of Avalon
+Soldat d'Avalon
+# BCR14_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR14_WIN_TEXT_GENERAL_0
+We have successfully captured the lab and retrieved the data. What any of it means, however, is hard to tell without the specialized knowledge only "Merlin" possesses.
+Nous sommes parvenus à capturer le labo et à récupérer les données. Ce que cela implique, cependant, est difficile à déterminer sans le savoir spécialisé de « Merlin ».
+# BCR14_WIN_TITLE
+Ancient Secrets
+Anciens secrets
+# BCR151_FAIL_CHOICE_0_TEXT
+OK
+OK
+# BCR151_FAIL_TEXT_GENERAL_0
+This was a disaster. With little hope remaining that the brain implant can be retrieved intact in a future attempt, we have to abandon this mission.
+C'était une catastrophe. Ayant peu d'espoir que l'implant cérébral puisse être récupéré intact lors d'une autre tentative, nous devons abandonner cette mission.
+# BCR151_FAIL_TITLE
+Enemies On All Sides
+Ennemis de tous les côtés
+# BCR151_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR151_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR151_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]The blighted ruins of The Great Endeavour are overrun by Pandoravirus victims. Deployment of overwhelming force is advised.
+RÉSUMÉ DE LA MISSION[n] [n] Les ruines délabrées de la Grande entreprise sont envahies de victimes du Pandoravirus. Le déploiement d'une force écrasante est conseillé.
+# BCR151_MISS_TITLE
+The Good, The Bad, And The Ugly
+Le Bon, la Brute et le Truand
+# BCR151_WIN_CHOICE_0_TEXT
+OK
+OK
+# BCR151_WIN_TEXT_GENERAL_0
+After securing the area, our team conducted a thorough search. An intact brain implant was successfully retrieved. Time to head back to New Warsaw.
+Après avoir sécurisé la zone, notre équipe a réalisé une recherche approfondie. Un implant cérébral intact a pu être récupéré. Il est temps de retourner à la Nouvelle Varsovie.
+# BCR151_WIN_TITLE
+Favorable Odds
+Perspectives favorables
+# BCR15_CHOICE_0_OUTCOME_GENERAL
+"Once, I led a haven named The Great Endeavour. Only a wasteland remains there now. An item of great value to me was lost there."
+Autrefois, je dirigeais un refuge nommé la Grande entreprise. Ce n'est plus qu'une terre en friche à présent. J'ai perdu un objet qui m'était très précieux là-bas.
+# BCR15_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR15_E_CHOICE_0_OUTCOME_GENERAL
+"Splendid! Be warned, though, New Jericho may oppose your involvement in this matter. They do not consider you a friend."
+Formidable ! Mais attention, la Nouvelle-Jéricho pourrait s'opposer à votre implication dans cette affaire. Ils ne vous considèrent pas comme un allié.
+# BCR15_E_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR15_E_CHOICE_1_OUTCOME_GENERAL
+Tomasz Lu Baer squints. "Perhaps I misjudged you. You are not the friend New Warsaw needs."
+Tomasz Lu Baer plisse les yeux. « Je vous ai peut-être mal jugé. Vous n'êtes pas l'allié dont a besoin la Nouvelle Varsovie. »
+# BCR15_E_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR15_E_TEXT_GENERAL_0
+"This item - a brain implant - can you to retrieve it for me? I will compensate you well for your effort."
+Cet objet, un implant cérébral, pouvez-vous le récupérer et me le rapporter ? Vos efforts seront bien récompensés.
+# BCR15_E_TITLE
+Enemies In High Places
+Ennemis haut placés
+# BCR15_FAIL_CHOICE_0_TEXT
+OK
+OK
+# BCR15_FAIL_TEXT_GENERAL_0
+This was a disaster. With little hope remaining that the brain implant can be retrieved intact in a future attempt, we have to abandon this mission.
+C'était une catastrophe. Ayant peu d'espoir que l'implant cérébral puisse être récupéré intact lors d'une autre tentative, nous devons abandonner cette mission.
+# BCR15_FAIL_TITLE
+Blighted
+Compromis
+# BCR15_F_CHOICE_0_OUTCOME_GENERAL
+"Splendid! I should add that my connections in New Jericho can be of help in this matter. As far as I understand, Tobias West holds you in respect."
+Formidable ! Je dois ajouter que mes relations de la Nouvelle-Jéricho peuvent être utiles. Si je comprends bien, Tobias West a un certain respect pour vous.
+# BCR15_F_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR15_F_CHOICE_1_OUTCOME_GENERAL
+Tomasz Lu Baer squints. "Perhaps I misjudged you. You are not the friend New Warsaw needs."
+Tomasz Lu Baer plisse les yeux. « Je vous ai peut-être mal jugé. Vous n'êtes pas l'allié dont a besoin la Nouvelle Varsovie. »
+# BCR15_F_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR15_F_TEXT_GENERAL_0
+"This item - a brain implant - can you to retrieve it for me? I will compensate you well for your effort."
+Cet objet, un implant cérébral, pouvez-vous le récupérer et me le rapporter ? Vos efforts seront bien récompensés.
+# BCR15_F_TITLE
+Friends In High Places
+Amis haut placés
+# BCR15_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR15_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR15_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]The blighted ruins of The Great Endeavour are overrun by Pandoravirus victims. Deployment of overwhelming force is advised.
+RÉSUMÉ DE LA MISSION[n] [n] Les ruines délabrées de la Grande entreprise sont envahies de victimes du Pandoravirus. Le déploiement d'une force écrasante est conseillé.
+# BCR15_MISS_TITLE
+Deep Thoughts Recollection
+Réflexion intense
+# BCR15_OUT_CHOICE_0_OUTCOME_GENERAL
+Tomasz Lu Baer's face darkens. "So be it. Leave New Warsaw."
+Le visage de Tomasz Lu Baer s'assombrit. « Très bien. Quittez la Nouvelle Varsovie. »
+# BCR15_OUT_CHOICE_0_TEXT
+"No. We never found it." [Keep the brain implant]
+Non. Nous ne l'avons pas trouvé. [Garder l'implant cérébral]
+# BCR15_OUT_CHOICE_1_OUTCOME_GENERAL
+Tomasz smiles. "I knew I could count on you! Let this be the start of an unbreakable friendship."
+Tomasz sourit. « Je savais que je pouvais compter sur vous ! Que ceci marque le début d'une amitié indéfectible. »
+# BCR15_OUT_CHOICE_1_TEXT
+Give the brain implant to Tomasz Lu Baer.
+Donner l'implant cérébral à Tomasz Lu Baer.
+# BCR15_OUT_CHOICE_2_OUTCOME_GENERAL
+Tomasz Lu Baer's face darkens. "So be it. Leave New Warsaw."
+Le visage de Tomasz Lu Baer s'assombrit. « Très bien. Quittez la Nouvelle Varsovie. »
+# BCR15_OUT_CHOICE_2_TEXT
+"No. We never found it." [Give the brain implant to New Jericho]
+Non. Nous ne l'avons pas trouvé. [Donner l'implant à la Nouvelle-Jéricho]
+# BCR15_OUT_TEXT_GENERAL_0
+Tomasz Lu Baer hastily meets you. "Do you have it? Is it intact?"
+Tomasz Lu Baer vous rencontre à la hâte. « Est-ce que vous l'avez ? Est-il intact ? »
+# BCR15_OUT_TITLE
+An Ending Of Sorts
+Une sorte de fin
+# BCR15_TEXT_GENERAL_0
+New Warsaw is a well-organized and prosperous haven. You are introduced to Tomasz Lu Baer, who is in charge of the settlement. "Do not let appearances fool you," Lu Baer muses. "Running a haven is not an easy job, but I do have prior experience. Which brings us to our fortuitous meeting."
+La Nouvelle Varsovie est un refuge prospère bien organisé. On vous présente Tomasz Lu Baer qui est responsable de la colonie. « Ne vous fiez pas aux apparences », dit Lu Baer pensivement. « Diriger un refuge n'est pas une tâche facile, mais j'ai de l'expérience. Ce qui nous amène à notre rencontre fortuite. »
+# BCR15_TITLE
+The Great Endeavour
+La Grande entreprise
+# BCR15_WIN_CHOICE_0_TEXT
+OK
+OK
+# BCR15_WIN_TEXT_GENERAL_0
+After securing the area, our team conducted a thorough search. An intact brain implant was successfully retrieved. Time to head back to New Warsaw.
+Après avoir sécurisé la zone, notre équipe a réalisé une recherche approfondie. Un implant cérébral intact a pu être récupéré. Il est temps de retourner à la Nouvelle Varsovie.
+# BCR15_WIN_TITLE
+What's In A Box
+Boîte à mystère
+# BCR1_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR1_CHOICE_1_OUTCOME_GENERAL
+Cyneweard is disappointed. [n][n]"So the Phoenix Project is no better than New Jericho," he says. "How pathetic. Mark my words: this inflexibility, which you mistake for morality, will be the end of you. You are now longer welcome at Longinus Point."
+Cyneweard est déçu par votre refus.[n][n]« Le Projet Phoenix ne vaut donc pas mieux que la Nouvelle-Jéricho. C'est pathétique. Retenez bien mes paroles : cette inflexibilité, que vous prenez à tort pour un sens de la morale, causera votre perte. Vous n'êtes plus les bienvenus à Longinus Point. » vous dit-il.
+# BCR1_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR1_CHOICE_2_OUTCOME_GENERAL
+New Jericho is swift to act, and soon Longinus Point is burning.
+La Nouvelle-Jéricho ne met pas longtemps à agir, et peu de temps après, Longinus Point devient la proie des flammes.
+# BCR1_CHOICE_2_TEXT
+Share our operatives' insights about Longinus Point security with New Jericho.
+Partager les renseignements acquis par nos agents sur la sécurité de Longinus Point avec la Nouvelle-Jéricho.
+# BCR1_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR1_FAIL_TEXT_GENERAL_0
+We have failed to secure the genetic scientist. This botched attempt may have negative repercussions.
+Nous n'avons pas réussi à mettre le généticien en sécurité. Cette tentative bâclée pourrait avoir des répercussions négatives.
+# BCR1_FAIL_TITLE
+Gold to Lead[n]
+De l'or en plomb
+# BCR1_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR1_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR1_MISS_SUMMARY
+Free a geneticist held by the Disciples of Anu for the leader of Longinus Point.
+Libérer un généticien retenu par les Disciples d'Anu pour le compte du chef de Longinus Point.
+# BCR1_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]The Disciples of Anu are holding a geneticist that Longinus Point wishes to recruit. We must free the geneticist while trying not to attract undue attention.
+RÉSUMÉ DE LA MISSION[n][n]Les Disciples d'Anu détiennent un généticien que Longinus Point souhaite recruter. Nous devons libérer le généticien en essayant de ne pas éveiller les soupçons.
+# BCR1_MISS_TITLE
+The Alchemist
+L'alchimiste
+# BCR1_OUT_CHOICE_0_OUTCOME_GENERAL
+For our efforts, Cyneweard has his people share several crates of resources.
+En récompense de nos efforts, Cyneweard demande à ses hommes de partager plusieurs caisses de ressources avec nous.
+# BCR1_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR1_OUT_TEXT_GENERAL_0
+Justinian Cyneweard is pleased with our work. The geneticist is immediately escorted to the Longinus Point research facility.[n][n]"Tobias West is not going to like this," Cyneweard says. "But we've fought him off before and we'll fight him off again, if necessary. We're glad the Phoenix Project doesn't share his inflexibility in these matters. This war isn't going to be won by embracing purity. No, what we need is transformation. That's what Alchemy is all about, in the end."
+Justinian Cyneweard est satisfait de notre travail. Le généticien est immédiatement escorté au centre de recherche de Longinus Point.[n][n]« Ça ne va pas plaire à Tobias West ", dit Cyneweard. « Mais nous l'avons déjà affronté et nous l'affronterons à nouveau s'il le faut. Nous sommes contents que le Projet Phoenix ne partage pas son inflexibilité sur ces questions. On ne remportera pas cette guerre en épousant la pureté. Non, ce qui est nécessaire, c'est la transformation. C'est de ça que traite l'alchimie, au final. »
+# BCR1_OUT_TITLE
+Magnum Opus
+Magnum Opus
+# BCR1_TEXT_GENERAL_0
+Longinus Point is a well-armed and extremely isolated haven that rarely deals with the outside world. Its leader, Justinian Cyneweard, once a prominent member of New Jericho, split with Tobias West over the latter's obsession with genetic purity - taking much of Vanadium's old Advanced Genetics Warfare Division with him. The split led to an extremely bloody two-day battle in June of 2043, and they have remained sworn enemies since.
+Longinus Point est un refuge bien armé et extrêmement isolé qui traite rarement avec le monde extérieur. Son chef, Justinian Cyneweard, jadis membre éminent de la Nouvelle-Jéricho, s'est séparé de Tobias West en raison de l'obsession de cleui-ci pour la pureté génétique ; il a emporté une grande partie de l'ancien Service de combat génétique avancé de Vanadium. Cette scission a entraîné une bataille extrêmement sanglante de deux jours en juin 2043. Ils sont restés ennemis jurés depuis.
+# BCR1_TEXT_GENERAL_1
+Cyneweard has contacted our operatives and allowed them into the haven, but only because he needs our help. "After we broke with West," he explains, "we named our new organization Alchemy, because we intended to have the kind of flexibility West is incapable of. But it seems we are lacking the right alchemist."[n][n]The alchemist in question is a geneticist now working for the Disciples of Anu. Cyneweard wants this individual retrieved, and is willing to pay for our services.
+Cyneweard a contacté nos agents et les a autorisés à se rendre dans son refuge, mais uniquement parce qu'il a besoin de notre aide. « Après avoir fait sécession avec West, nous avons fondé une nouvelle organisation nommée Alchimie, car nous voulions faire preuve de la souplesse d'esprit dont West a toujours été incapable, mais il nous manque le parfait alchimiste pour ce faire. » explique-t-il.[n][n]L'alchimiste dont il parle est un généticien qui travaille actuellement pour les Disciples d'Anu. Cyneweard veut que nous lui ramenions cet individu, et il est prêt à rétribuer nos services.
+# BCR1_TITLE
+Longinus Point
+Longinus Point
+# BCR1_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR1_WIN_TEXT_GENERAL_0
+The geneticist has been successfully extracted from the Anu settlement, and is willing to join Longinus Point.[n][n]"Frankly, I'm sort of relieved," he says. "I've heard of Cyneweard, and not always positive stuff, but working for the Disciples was... unnerving. There's more to their plans than meets the eye. Even the scientists don't get to see the bigger picture."
+Le généticien a bien été évacué du campement d'Anu et est enclin à rejoindre Longinus Point.[n][n]« Franchement, je suis plutôt soulagé, dit-il, j'ai entendu parlé de Cyneweard, et pas toujours des choses positives, mais travailler avec les Disciples était... perturbant. Leur projet est bien plus détaillé que ce qu'il y paraît. Ils ne donnent même pas toutes les informations aux scientifiques. »
+# BCR1_WIN_TITLE
+Lead to Gold
+Du plomb en or
+# BCR2_CHOICE_0_OUTCOME_GENERAL
+"Excellent," Hughes says. "I'm glad the Phoenix Project understands that this struggle is about more than just killing the bad guys. It's also about what kind of future we want to invest in. Otherwise history will just repeat itself."
+« Excellent, je suis heureux que le Projet Phoenix comprenne que ce combat implique davantage que la simple élimination d'individus malintentionnés. Il est également question de déterminer le type d'avenir dans lequel nous voulons investir. Sinon l'histoire ne fera que se répéter. » vous dit Hughes.
+# BCR2_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR2_CHOICE_1_OUTCOME_GENERAL
+Hughes sighs.[n][n]"I'm used to people ignoring me when I start talking about energy," he says, "because it seems so intangible, even though it's the core of everything we do. But I had hoped that the Phoenix Project would have a little more insight.'
+Hughes soupire :[n][n]« Je suis habitué à ce qu'on m'ignore lorsque je parle d'énergie, car elle semble si impalpable, même lorsqu'elle est à la base de toutes nos actions. Mais j'avais espéré que le Projet Phoenix ferait preuve de davantage de perspicacité. » dit-il.
+# BCR2_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR2_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR2_FAIL_TEXT_GENERAL_0
+Our attempts to secure the lab have failed, and the research data has been moved or destroyed.
+Nous n'avons pas réussi à sécuriser le laboratoire et les données de recherche ont été déplacées ou détruites.
+# BCR2_FAIL_TITLE
+Should Have Given It More Energy
+Nous aurions dû y mettre davantage d'énergie
+# BCR2_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR2_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR2_MISS_SUMMARY
+Secure the enemy lab to retrieve research stolen from Aatxe.
+Sécurisez le laboratoire ennemi pour permettre la récupération des recherches dérobées à Aatxe.
+# BCR2_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]A group of unknown individuals masquerading as members of Synedrion have stolen valuable energy research from Aatxe. We must secure the lab and retrieve the research.
+RÉSUMÉ DE LA MISSION[n][n]Un groupe d'individus inconnus se faisant passer pour le Synédrion a volé de précieuses données de recherches sur l'énergie d'Aatxe. Nous devons sécuriser le laboratoire et récupérer les recherches.
+# BCR2_MISS_TITLE
+Energize This
+Énergie de l'avenir
+# BCR2_OUT_CHOICE_0_OUTCOME_GENERAL
+"But no matter what, I believe in what we're doing here," he continues. "Aaxte may just be a footnote right now, certainly compared to the big players,  but maybe one day this tech will change the world. Not now, not next year... but one day, our actions will bear fruit, and our little contribution to humanity's knowledge will make a big difference."
+« Mais quoi qu'il arrive, je crois en ce que nous faisons ici. Aatxe est peut-être insignifiante en comparaison du gros poisson, mais peut-être qu'un jour, cette technologie changera le monde à jamais. Pas dans l'immédiat ni dans les années à venir, mais un jour, nos actions porteront leurs fruits et notre petite contribution à la connaissance humaine pourrait faire une énorme différence. » continue-t-il.
+# BCR2_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR2_OUT_TEXT_GENERAL_0
+Hughes and the rest of the Aaxte council are very happy to see their research restored to them.[n][n]"I struggle to understand why someone would try to steal our research - I mean, I understand copying it, but why try to ensure that we can't continue it ourselves?" Hughes says, clearly frustrated. "This is precisely the sort of neoliberal logic that led to the old system's collapse: competition above all else, even above the survival of the species! It's... I don't know. I just really don't get it."
+Hughes et le reste du conseil d'Aaxte sont ravis que leurs recherches leur soient restaurées.[n][n]« J'ai du mal à comprendre pourquoi quelqu'un voudrait voler nos recherches. Je comprends qu'on veuille les copier, mais pourquoi vouloir s'assurer que nous ne puissions pas les continuer nous-mêmes ? » s'interroge Hughes, avec une frustration évidente. « C'est précisément le genre de logique néolibérale qui a mené à l'effondrement du système : la compétition avant tout, même la survie de l'espèce ! C'est... Je ne sais pas, Je ne comprends pas, c'est tout. »
+# BCR2_OUT_TITLE
+Big Hughes Energy
+Grande énergie d'Hughes
+# BCR2_TEXT_GENERAL_0
+Erik-Logan Hughes is the leader of an independent haven called Aatxe. A soft-spoken, intellectual man with a degree in urban planning, he approaches life in the post-apocalypse as a technical rather than moral problem.[n][n]"It's all a matter of preparation," he says. "Planning. It's not really the Pandoravirus that destroyed the world, you know. Between nationalist authoritarianism and neoliberal dogmatism, we simply didn't have the tools to defend ourselves as a species. It was a matter of systemic failure. But how, then, do we build a new system? Here at Aatxe, we understand that the foundation of a functional system is energy. Without sustainable, reliable energy sources, there is no future."
+Erik-Logan Hughes est le chef d'un refuge indépendant nommé Aatxe. Un homme intellectuel et calme diplômé en urbanisme, il aborde la vie dans ce monde post-apocalyptique comme un problème technique plutôt que moral.[n][n]« Tout est question de préparation », dit-il. « La préparation. Ce n'est pas vraiment le Pandoravirus qui a détruit le monde, vous savez. Entre l'autoritarisme nationaliste et le dogmatisme néolibéral, nous n'avions simplement plus d'instruments pour nous défendre en tant qu'espèce. Il était question d'un échec systémique. Alors, comment bâtir un nouveau système ? Ici, à Aatxe, nous comprenons que la base d'un système qui fonctionne, c'est l'énergie. Sans sources d'énergie fiables et durables, il n'y a pas d'avenir. »
+# BCR2_TEXT_GENERAL_1
+"Geothermal and hydro are my personal favorites, of course," Hughes says with a smile. "But we have to plan further ahead than that. To that end, we were developing a completely new approach to energy generation, something truly radical... until someone stole all of our research. An unknown group, masquerading as members of Synedrion, disabled our defenses and pillaged our lab. We managed to track them to their base, but we don't have the resources to launch a raid. Can you help us?"
+« Les énergies géothermales et hydrauliques sont mes préférées. » dit Hughes avec un grand sourire. « Mais nous voulons frapper un grand coup. Voilà pourquoi nous développions une approche totalement nouvelle de la production d'énergie, quelque chose de vraiment révolutionnaire, jusqu'à ce que quelqu'un ne s'empare de toutes nos recherches. Un groupe inconnu, qui se faisait passer pour des membres du Synédrion, a désactivé nos défenses et mis à sac nos laboratoires. Nous sommes parvenus à retracer l'emplacement de leur base, mais nous manquons de ressources pour lancer une opération. Pourriez-vous nous aider ? »
+# BCR2_TITLE
+Energy Is Eternal Delight
+L'énergie, un plaisir éternel
+# BCR2_WIN_CHOICE_0_TEXT
+OK.[n]
+OK.
+# BCR2_WIN_TEXT_GENERAL_0
+We have secured the lab and retrieved the research. We have not, however, managed to identify the origin of these pseudo-Synedrion members. Their equipment seems authentic, but some of it is out of date. Perhaps they are members of a breakaway faction, or another faction's attempt to undermine their reputation.
+Nous avons sécurisé le laboratoire et récupéré les recherches. Par contre, nous n'avons pas pu identifier l'origine de ces pseudo-membres du Synédrion. Leur équipement semble authentique, mais il est dépassé. Ils sont peut-être membres d'une faction dissidente. Ça peut également être une tentative d'une autre faction de ruiner sa réputation.
+# BCR2_WIN_TITLE
+Power Play
+Jeux de puissance
+# BCR3_CHOICE_0_OUTCOME_GENERAL
+Representative Eysbroek transfers the Vault's coordinates, and wishes our operatives the best of luck.
+Le représentant Eysbroek transfert les coordonnées de la Réserve et souhaite bonne chance à nos agents.
+# BCR3_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR3_CHOICE_1_OUTCOME_GENERAL
+Representative Eysbroek expresses his surprise and disappointment. He hopes that Synedrion will be able to take on this mission instead.
+Le représentant Eysbroek exprime sa surprise ainsi que sa déception. Il espère que le Synédrion pourra accomplir cette mission suite à votre refus.
+# BCR3_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR3_CHOICE_2_OUTCOME_GENERAL
+Clinging to the purity of the old world is meaningless. Those species are gone now, and it's better this way. The new, adapted species will be closer to biological perfection.[n]
+S'accrocher à la pureté de l'ancien monde n'a aucun sens. Ces espèces ont disparu et c'est peut-être mieux ainsi. Les nouvelles espèces sont plus adaptées à l'environnement actuel et plus proches de la perfection biologique.
+# BCR3_CHOICE_2_TEXT
+Denounce the concept of saving the seeds of the old world.
+Dénoncer le fait de protéger les graines de l'ancien monde.
+# BCR3_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR3_FAIL_TEXT_GENERAL_0
+Our attempts to secure the Svalbard seed vault have ended in failure.
+Nos tentatives pour sécuriser la Réserve mondiale de semences de Svalbard se sont soldées par un échec.
+# BCR3_FAIL_TITLE
+The Seeds of Destruction
+Les graines de la destruction
+# BCR3_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR3_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR3_MISS_SUMMARY
+Eliminate all threats near the Svalbard Global Seed Vault.
+Éliminer toutes les menaces près de la Réserve mondiale de semences de Svalbard.
+# BCR3_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]We must secure the area around the Svalbard Global Seed Vault so that it can be ascertained whether any of the seed samples survived.
+RÉSUMÉ DE LA MISSION[n][n]Nous devons sécuriser la zone autour de la Réserve mondiale de semences de Svalbard pour pouvoir établir si des échantillons de semences ont survécu.
+# BCR3_MISS_TITLE
+The Bulwark
+La fortification
+# BCR3_OUT_CHOICE_0_OUTCOME_GENERAL
+"And if we ever win this war," Representative Eysbroek continues, "these seeds could help us rebuild the Earth's ecosystem - or even design a better one! Today the Phoenix Project has accomplished something truly remarkable. I'm only sorry that we don't have a better reward for this treasure you have unearthed."
+« Et si jamais nous remportons cette guerre, » continue le représentant Eysbroek, « ces graines pourraient nous aider à restaurer l'ancien écosystème terrestre, ou même en concevoir un meilleur ! Aujourd'hui, le Projet Phoenix a accompli quelque chose de vraiment remarquable. Je suis seulement navré de n'avoir de meilleure récompense en échange de ces merveilles que vous nous avez dénichées. »
+# BCR3_OUT_CHOICE_0_TEXT
+Continue.[n]
+Continuer.
+# BCR3_OUT_TEXT_GENERAL_0
+Representative Eysbroek is overjoyed by the samples our operatives retrieved.[n][n]"These may not seem like much to you," he says, "but think of just how much information is encoded in a single strand of DNA! If a seed is like a book, a story about how the world used to be, you have recovered an entire library."
+Le représentant Eysbroek est pus que ravi avec les échantillons que nos agents ont récupéré.[n][n]« Cela ne vous semble peut-être pas important, déclare-t-il, mais imaginez la quantité d'information codée dans un seul brin d'ADN ! Si une graine était comme un livre, une histoire concernant le monde comme il était jadis, vous venez de récupérer une bibliothèque entière. »
+# BCR3_OUT_TITLE
+Seeds of the Future
+Graines du futur
+# BCR3_TEXT_GENERAL_0
+Dokkum is an anarcho-syndicalist haven closely associated with Synedrion, but not entirely part of it. Representative Boris Eysbroek has contacted our operatives on behalf of Dokkum to request the assistance of the Phoenix Project. [n]
+Dokkum est un refuge anarcho-syndicaliste étroitement lié au Synédrion, mais il n'en fait pas complètement partie. Le représentant Boris Eysbroek a contacté nos agents au nom de Dokkum afin de demander l'aide du Projet Phoenix.
+# BCR3_TEXT_GENERAL_1
+A team of Dokkum explorers has managed to discover the precise location of the Svalbard Global Seed Vault, a seed bank thought to contain more than one million samples. Whether the structure is still intact is unknown, as the area is infested with Pandorans, but if even a fraction of the samples have survived, they could play an essential role in restoring Earth's ecosystem.[n][n]Representative Eysbroek would like the Phoenix Project to help secure the area around the Vault.
+Une équipe d'explorateurs Dokkum est parvenue à localiser l'emplacement exact de la réserve mondiale de semences de Svalbard, une banque de graines censée contenir plus d'un million d'échantillons de graines. Nul ne sait si le bâtiment est encore intact ni si elle grouille de pandoriens, mais si ne serait-ce qu'une petite partie des graines a survécu, elles pourraient jouer un rôle essentiel pour restaurer l'ancien écosystème de la Terre.[n][n]Le représentant Eysbroek voudrait l'aide du Projet Phoenix pour sécuriser le périmètre autour de la réserve.
+# BCR3_TITLE
+Earth Seed
+Semences de la Terre
+# BCR3_WIN_CHOICE_0_OUTCOME_GENERAL
+Our operatives have managed to retrieve a handful of samples from a nearby secondary storage facility. This facility was begun in the 2030s, when the collapse of human civilization seemed imminent, and only contained a selection of the most critically important crop species.[n][n]Perhaps these will be enough to make a difference.
+Nos agents ont réussi à récupérer une poignée d'échantillons d'un entrepôt secondaire à proximité. Cette installation a commencé dans les années 2030, lorsque l'effondrement de la civilisation semblait imminent, et contenait uniquement une sélection des espèces de cultures les plus importantes.[n][n]Peut-être que cela suffira à faire la différence.
+# BCR3_WIN_CHOICE_0_TEXT
+Search for samples.
+Chercher des échantillons.
+# BCR3_WIN_TEXT_GENERAL_0
+While we have successfully secured the area, our operatives report that unfortunately the entrance to the Svalbard Global Seed Vault has collapsed, and the facility itself seems to have been flooded when the permafrost melted.
+Nous avons bien sécurisé la zone, mais nos agents nous signalent que l'entrée de la Réserve mondiale de semences de Svalbard s'est malheureusement écroulée et que l'établissement semble avoir été inondé avec la fonte du pergélisol.
+# BCR3_WIN_TITLE
+Reap What You Sow
+On récolte ce que l'on sème
+# BCR4_CHOICE_0_OUTCOME_GENERAL
+Jack just nods. There's no need to say more - people have to help each other in these times.
+Jack se contente d'acquiescer. Pas besoin de mots : tout le monde devrait s'entraider en ces temps difficiles.
+# BCR4_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR4_CHOICE_1_OUTCOME_GENERAL
+Jack shrugs. If we don't help him, he'll have to find someone else. No point wasting his breath.
+Jack secoue la tête. Si nous ne l'aidons pas, il devra trouver quelqu'un d'autre pour l'aider. Il ne veut pas gaspiller sa salive plus longtemps.
+# BCR4_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR4_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR4_FAIL_TEXT_GENERAL_0
+The Pandoran colony turned out to be stronger than expected, and our efforts to destroy it have been thwarted.
+La colonie pandorienne s'est avérée plus forte que prévue et nos efforts pour la détruire ont été déjoués.
+# BCR4_FAIL_TITLE
+Shafted
+Au fond de la mine
+# BCR4_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR4_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR4_MISS_SUMMARY
+Destroy the Pandoran colony blocking the mine.
+Détruire la colonie pandorienne bloquant l'accès à la mine.
+# BCR4_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]A Pandoran colony is beginning to grow here, blocking one of R.E.M.E.'s mines. We have to destroy it before it reaches its full size.
+RÉSUMÉ DE LA MISSION[n][n]Une colonie pandorienne commence à se développer ici, bloquant l'une des mines de la R.E.M.E. Nous devons la détruire avant qu'elle n'atteigne sa taille maximale.
+# BCR4_MISS_TITLE
+What's Mine Is Mine
+Ça ne paie pas de mine
+# BCR4_OUT_CHOICE_0_OUTCOME_GENERAL
+"That's how this all started, you know," Jack says. "Arrogant folks with power, only ever thinking about themselves. I'm telling you, this whole Pandoravirus thing could've been nipped in the bud, but they were all asleep at the wheel. Glad to see the Phoenix Project's different. Here's your payment - hard work should always be rewarded."
+« Voilà comment tout a commencé. Les nantis arrogants ne pensaient qu'à eux-mêmes. Les événements en chaîne du Pandoravirus auraient pu être empêchés, s'ils n'étaient pas restés dans leur tour dorée. Je suis heureux de voir que le Projet Phoenix est différent. Voici votre paiement, bien mérité au vu de vos efforts. » vous dit Jack.
+# BCR4_OUT_CHOICE_0_TEXT
+Continue.[n]
+Continuer.
+# BCR4_OUT_TEXT_GENERAL_0
+Jachlan Wisopp ("Call me Jack, for Chrisssake") is glad to hear the mine is accessible again. Work, as he sees it, is the only way to get out of the mess humanity's in. We have to keep digging away at the problem until it's fixed.[n]
+Jachlan Wisopp (« Appelez-moi Jack, bon sang ») est ravi d'apprendre que la mine est à nouveau accessible. Le travail, comme il le voit, est le seul moyen de se sortir du pétrin dans lequel se trouve l'humanité. Nous devons continuer à creuser jusqu'à ce que le problème soit résolu.
+# BCR4_OUT_TITLE
+Hard Work
+Dur labeur
+# BCR4_TEXT_GENERAL_0
+"We call it R.E.M.E., as in 'ream' - get your minds out of the gutter, you slobs, it means digging a hole. Proper name's Rare Earth and Mineral Extraction Corporation Site Alpha, but who has the time to say all that, eh?"[n][n]Jachlan Wisopp, known to his people as Jack, is unfazed by the apocalypse. He's had two careers: one in the military, the other running a small Australian mining company. This has left with him with a practical attitude: if there's a problem, you don't moan about it, you fix it.
+« Nous l'appelons R.E.M.E. – activez-vous un peu, bande de flemmards, ça veut dire creuser un trou. Le nom complet c'est Site alpha de la société Earth and Mineral Extraction, mais qui a le temps de dire tout ça, hein ? »[n][n]Jachlan Wisopp, connu comme Jack, est indifférent à l'apocalypse. Il avait deux carrières : une dans l'armée, l'autre en tant que directeur d'une petite entreprise minière australienne. Il en a gardé une attitude pratique : s'il y a un problème, on ne se plaint pas, on le résout.
+# BCR4_TEXT_GENERAL_1
+The current problem his haven is facing is a little bigger, however.[n][n]"We mine and we trade, alright? That's how we survive. Mining's hard work on the best of days, but now we've got a Pandoran colony growing right on top of one of our mines. There's a lot of problems I know how to solve, but this one... well, we could some help."
+Le problème auquel son refuge est confronté est toutefois un peu plus grave que cela.[n][n]« Nous minons et échangeons les minerais ainsi récoltés, vous savez ? Voilà comment nous survivons. Miner est une tâche ingrate la plupart du temps, mais voilà qu'une colonie pandorienne s'est développée dans l'une de nos mines. Je suis plutôt débrouillard, mais dans ce genre de cas, nous aurions bien besoin de votre aide... »[n][n]
+# BCR4_TITLE
+Treasures of the Earth
+Trésors de la Terre
+# BCR4_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR4_WIN_TEXT_GENERAL_0
+Our operatives have successfully destroyed the colony before it could fully develop. The threat has been averted, at least for now. The people of R.E.M.E. will be pleased.[n]
+Nos agents ont réussi à détruire la colonie avant qu'elle ne puisse se développer pleinement. La menace est évitée, tout du moins pour l'instant. Les gens de la R.E.M.E. seront ravis.
+# BCR4_WIN_TITLE
+Victory is Mine
+Succès minier
+# BCR5_CHOICE_0_OUTCOME_GENERAL
+"As anticipated," Spark says with an enigmatic smile, handing our operatives a map of the prison where his brother is being held. "I will do my best to convince the Disciples that this is a Cedar Ark operation. I don't mind taking the blame, and if they overestimate our capabilities, so much the better."
+« Comme prévu, » dit Spark en esquissant un sourire énigmatique, puis il remet à nos agents un plan de la prison où son frère est détenu. « Je ferai de mon mieux pour convaincre les Disciples qu'il s'agissait d'une opération menée par l'Arche de Cèdre. Cela ne me dérange pas d'en prendre la responsabilité, et s'ils surestiment nos capacités, cela n'en sera que mieux. »
+# BCR5_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR5_CHOICE_1_OUTCOME_GENERAL
+"I thought you'd refuse," Spark says with an enigmatic smile. "But sometimes it's worth giving it a shot anyway, don't you think?"
+« J'ai bien cru que vous refuseriez. » dit Spark en esquissant un sourire énigmatique. « Mais parfois, cela ne coûte rien de demander, ne pensez-vous pas ? »
+# BCR5_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR5_CHOICE_2_OUTCOME_GENERAL
+The Blind Legate thanks us for letting him know that Cedar Ark is attempting to free Mason Spark, a man the Disciples consider extremely dangerous. They will double his security immediately.[n][n]Unsurprisingly, Mike Spark is enraged and vows that we will regret this betrayal.
+Le Légat Aveugle nous remercie de l'avoir informé que l'Arche de Cèdre tente de libérer Mason Spark, un individu extrêmement dangereux d'après les Disciples. Ils vont immédiatement doubler la sécurité.[n][n]Sans surprise, Mike Spark est furieux et jure de nous faire payer cette trahison.
+# BCR5_CHOICE_2_TEXT
+Inform the Disciples.
+Informer les Disciples.
+# BCR5_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR5_FAIL_TEXT_GENERAL_0
+The mission has failed, and Mason Spark has been moved to a different, more secure facility. Relations with Cedar Ark might remain strained.
+La mission a échoué et Mason Spark a été transféré vers une autres installation plus sécurisée. Les relations avec l'Arche de cèdre pourraient rester tendues.
+# BCR5_FAIL_TITLE
+It Does Not Spark Joy
+Une cuisante déconvenue
+# BCR5_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR5_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR5_MISS_SUMMARY
+Rescue Mason Spark from a Disciples of Anu prison.
+Sauver Mason Spark dans les prisons des Disciples d'Anu.
+# BCR5_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]We must free Mason Spark, high-ranking member of the Cedar Ark Executive Council, from the Disciples of Anu haven.
+RÉSUMÉ DE LA MISSION[n][n]Nous devons libérer Mason Spark, membre de haut rang du Conseil exécutif de l'Arche de cèdre, du refuge des Disciples d'Anu.
+# BCR5_MISS_TITLE
+O Brother, Where Anu Thou?[n]
+Ô, mon frère, où es-tu ?
+# BCR5_OUT_CHOICE_0_OUTCOME_GENERAL
+In addition to the promised reward, he offers our operatives a cryptic clue: "The war against the Pandoravirus is only a small battle in a much greater conflict. I am certain that we will win this battle, but all our predictions break down when it comes to the war that truly matters. Soon, we will need to learn to think and plan on a much larger scale."
+En plus de la récompense promise, il offre à nos agents cet obscur indice : « La guerre contre le pandoravirus n'est qu'un combat insignifiant dans un conflit à plus grande échelle. Je suis persuadé que nous remporterons cette guerre, mais toutes nos prédictions s'effondrent lorsqu'il est question de cette guerre à grande échelle dont nous ne voyons que la face émergée. Bientôt, nous devrons planifier et réfléchir à plus grande échelle. »
+# BCR5_OUT_CHOICE_0_TEXT
+Continue.[n]
+Continuer.
+# BCR5_OUT_TEXT_GENERAL_0
+Mason Spark is safely back at Cedar Ark, and his brother, though unsurprised by our success, is very pleased with the Phoenix Project.
+Mason Spark est de retour sain et sauf à l'Arche de cèdre, et son frère, bien que n'étant pas surpris de notre réussite, est satisfait du travail du Projet Phoenix.
+# BCR5_OUT_TITLE
+A Prophecy
+Une prophétie
+# BCR5_TEXT_GENERAL_0
+Cedar Ark is a remote haven built by the billionaire philanthropist Mike Spark, an old competitor of Tobias West's. Spark, like West, generally kept a low profile, so not much is known about him except for his dedication to environmental causes. He is said to have financed the Svalbard Global Seed Vault, and was involved with the first attempts to develop a filtration system that could stop the Pandoravirus.[n][n]The population of Cedar Ark was carefully selected from around the world, and all of its inhabitants are extremely loyal to Spark. On the surface, everything seems relatively normal, but there is one unusual detail - the people of Cedar Ark refer to themselves as "the destined." Destined for what is unclear.
+L'Arche de cèdre est un refuge éloigné construit par le philanthrope milliardaire Mike Spark, un ancien concurrent de Tobias West. Spark, tout comme West, a généralement fait profil bas, on n'en sait donc peu à son sujet, mise à part son dévouement aux causes environnementales. Il aurait financé la Réserve mondiale des semences de Svalbard et a participé aux premiers essais de développement d'un système de filtration qui pourrait arrêter le Pandoravirus.[n][n]La population de l'Arche de cèdre a été sélectionnée avec soin tout autour du monde, et tous ses habitants vouent une loyauté sans faille à Spark. En surface, tout semble à peu près normal, mais il y a un détail peu ordinaire : les habitants de l'Arche de cèdre s'appellent eux-mêmes « les Destinés ». Destinés à quoi, nous ne le savons pas.
+# BCR5_TEXT_GENERAL_1
+Upon arriving at Cedar Ark, our operatives are invited to meet the head of the Cedar Ark Executive Council, Mike Spark himself. Spark is a quiet man, but very focused. He seems to have expected our operatives' arrival and offers them a mission: extracting his brother from a Disciples of Anu prison in exchange for a reward.
+À leur arrivée dans l'Arche de Cèdre, nos agents sont invités à rencontrer son dirigeant, Mike Spark en personne. Spark est un homme peu loquace mais très concentré. Il semblait attendre l'arrivée de nos agents et leur propose une mission : libérer son frère d'une prison des Disciples d'Anu en échange d'une récompense.
+# BCR5_TITLE
+Cedar Ark
+Arche de Cèdre
+# BCR5_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR5_WIN_TEXT_GENERAL_0
+We have managed to find and free the target, and the entire operation has been successfully passed off as a Cedar Ark raid. All that remains is to return to Cedar Ark and claim our reward from Mike Spark.
+Nous avons réussi à trouver et libérer la cible et toute l'opération a été présentée comme un raid de l'Arche de cèdre. Il ne nous reste qu'à retourner au refuge pour demander notre récompense à Mike Spark.
+# BCR5_WIN_TITLE
+A Spark of Freedom
+La liberté à tout prix
+# BCR6_CHOICE_0_OUTCOME_GENERAL
+"Good," he says. "I appreciate it. Sometimes stuff just needs to get done, you understand."
+« Bien, j'apprécie le geste. Parfois, il faut savoir se mouiller. J'espère que vous comprendrez. » vous dit-il.
+# BCR6_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR6_CHOICE_1_OUTCOME_GENERAL
+"Unfortunate," he says, shaking his head. "But then, I'm not sure I'd take such a mission from a stranger, either. Still, I had to try. No hard feelings."
+« C'est fâcheux, mais moi-même j'ignore si je pourrais accepter une telle mission d'un parfait inconnu. Mais cela valait la peine d'essayer. Sans rancune. » dit-il en secouant la tête.
+# BCR6_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR6_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR6_FAIL_TEXT_GENERAL_0
+The mission has unfortunately ended in failure, and retrieving the equipment for Ulysses J. Black will not be possible.
+La mission s'est malheureusement soldée par un échec, et récupérer l'équipement pour Ulysses J. Black ne sera pas possible.
+# BCR6_FAIL_TITLE
+To Rust
+Rouille et ruines
+# BCR6_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR6_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR6_MISS_SUMMARY
+Secure the Syndrion research lab.
+Sécuriser les laboratoires de recherche du Synédrion.
+# BCR6_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]We must secure this Synedrion research facility to recover the equipment Ulysses J. Black has requested.
+RÉSUMÉ DE LA MISSION[n][n]Nous devons sécuriser ce centre de recherche du Synédrion pour récupérer l'équipement qu'Ulysses J. Black a demandé.
+# BCR6_MISS_TITLE
+Thunder and Sunshine
+Éclair et soleil
+# BCR6_OUT_CHOICE_0_OUTCOME_GENERAL
+"I suppose I'll keep going a while longer, as long as this haven needs me. And as long as there's a chance of seeing West's empire fall. But honestly, all I really want is to go back home to Miami and enjoy a Mojito while watching the sun rise over the ocean. I don't suppose the Phoenix Project can arrange that, huh?"
+« Je suppose que je serai encore un long moment en activité, tant que le refuge aura besoin de mes services. Et tant que j'aurai une chance de voir l'empire de West tomber en ruines. Mais en toute honnêteté, je n'aspire qu'à retourner siroter un mojito à Miami, tout en admirant l'océan. J'imagine que le Projet Phoenix ne pourrait rien y faire, si ? »
+# BCR6_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR6_OUT_TEXT_GENERAL_0
+Ulysses J. Black is thankful for the equipment we have retrieved for him. For a moment, his features soften.[n][n]"What a world this has become," he sighs. "A truly fallen world. And we ourselves... diminished. But how does that old poem go? Tho' much is taken, much abides; and tho' / We are not now that strength which in old days / Moved earth and heaven, that which we are, we are; / One equal temper of heroic hearts, / Made weak by time and fate, but strong in will / To strive, to seek, to find, and not to yield."
+Ulysses J. Black est reconnaissant pour l'équipement que nous avons récupéré pour lui. Pendant un instant, son visage s'adoucit.[n][n]« Quel monde c'est devenu », dit-il en soupirant. « Un monde qui s'est vraiment effondré. Et nous-mêmes... nous sommes diminués. C'est quoi ce vieux poème déjà ? Nous avons beaucoup pris ; beaucoup nous reste, / Et si nous avons perdu cette force / Qui autrefois remuait la terre et le ciel, / Ce que nous sommes, nous le sommes, / Des cœurs héroïques et d'une même trempe, / Affaiblis par le temps et le destin, / Mais forts par la volonté / De chercher, lutter, trouver, et ne rien céder. »
+# BCR6_OUT_TITLE
+This Gray Spirit
+Cet esprit gris
+# BCR6_TEXT_GENERAL_0
+Scheria is a friendly, culturally diverse haven which has taken in many refugees over the last decade, although it remains somewhat isolationist when it comes to the bigger factions. Its founder is the thoughtful and charismatic Ulysses J. Black, the former owner of a global cybernetics company who was ousted after a hostile takeover by Vanadium Inc.[n][n]"You better not trust West, that lying sack of Pandoran slime," he tells our operatives. "Honestly, I don't even think he took my company away from me because of the actual cybernetics. It's all part of his great plan, I guess. But honestly, who gives a crap about his plan?"
+Scheria est un refuge accueillant avec une diversité culturelle, qui a accueilli de nombreux réfugiés au cours des dix dernières années, bien qu'il reste isolationniste lorsqu'il s'agit de factions plus importantes. Son fondateur est le charismatique et réfléchi Ulysses J. Black, l'ancien propriétaire d'une entreprise cybernétique qui a été évincée après un rachat hostile par Vanadium Inc.[n][n]« Vous feriez bien de ne pas vous fier à West, ce gros tas de bave pandorienne menteur », annonce-t-il à nos agents. « Franchement, je ne pense même pas qu'il m'ait pris mon entreprise pour la cybernétique. Ça fait juste partie de son plan général. Mais qui ça intéresse son satané plan ? »
+# BCR6_TEXT_GENERAL_1
+"Anyway," he continues, "what I want from you people is this: go to the Synedrion research lab at these coordinates, retrieve the equipment on this list, and bring it all to me for a nice reward. No questions asked. You up for that?"
+« Bref, » continue-t-il. « j'attends de vous que vous vous rendiez au laboratoire de recherche du Synédrion à ces coordonnées, que vous retrouviez l'équipement inscrit sur cette liste et que vous me le rameniez sans poser de questions. Vous serez grassement récompensé. Cela vous intéresse-t-il ? »
+# BCR6_TITLE
+An Idle King
+Un roi désœuvré
+# BCR6_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR6_WIN_TEXT_GENERAL_0
+We have successfully managed to retrieve the equipment Ulysses J. Black requested. These seem to be parts for advanced cybernetic devices, mostly organ replacements. It's possible Black is far less human, biologically speaking, than he appears.
+Nous avons réussi à récupérer l'équipement qu'Ulysses J. Black demandait. Cela semble être des pièces pour des dispositifs cybernétiques avancés, principalement des remplacements d'organes. C'est possible que Black soit bien moins humain, biologiquement parlant, qu'il n'y paraisse.
+# BCR6_WIN_TITLE
+Beyond the Utmost
+Au-delà de l'essentiel
+# BCR7_CHOICE_0_OUTCOME_GENERAL
+"Thank you," Fabio says. "I appreciate your help. Sometimes we have to rely on other people, even if it's frightening. That's the first lesson we learned during the war."
+« Merci, j'apprécie votre aide. Parfois, nous devons faire confiance à d'autres personnes, même si l'idée même est effrayante. Voilà la première leçon que nous devons tirer de la guerre. » déclare Fabio.
+# BCR7_CHOICE_0_TEXT
+Agree to extract Felipe.
+Accepter d'évacuer Felipe.
+# BCR7_CHOICE_1_OUTCOME_GENERAL
+As it turns out, the problem can be solved diplomatically: Felipe, whose mutations are quite extensive, has willingly joined the Monastic Order of Silent Contemplation, and Fabio's messages were not relayed to avoid disturbing Felipe's meditation. In this case, however, an exception will be made with the blessing of the Exalted, and the two brothers will be temporarily reunited.[n][n]Fabio and Felipe have chosen paths that are not compatible with each other; but they are brothers, and they will find a way of dealing with it. Family, as a wise man once said, should not end in blood.[n]
+Aussi improbable que cela puisse paraître, le souci peut être résolu par la voie diplomatique. Felipe, dont les mutations sont nombreuses, a rejoint de son plein gré l'Ordre monastique de la contemplation silencieuse, et Felipe n'avait pas reçu les messages de Fabio pour ne pas troubler sa méditation. Toutefois, une exception sera accordée aux deux frères qui pourront se rencontrer pendant une courte durée.[n][n]Fabio et Felipe ont choisi des voies incompatibles, mais ils restent frères et ils trouveront sûrement un moyen de concilier leurs différences. La famille, selon un homme sage, ne devrait jamais terminer en bains de sang.
+# BCR7_CHOICE_1_TEXT
+Contact the Disciples of Anu to inquire about Felipe.
+Contacter les Disciples d'Anu pour les interroger sur la situation de Felipe.
+# BCR7_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR7_FAIL_TEXT_GENERAL_0
+The mission has ended in failure. We will never know whether this individual really was Felipe Mena. We can only hope he was not.
+La mission s'est soldée par un échec. Nous ne saurons jamais si cet individu était réellement Felipe Mena. Nous ne pouvons qu'espérer que non.
+# BCR7_FAIL_TITLE
+Sometimes I Feel Like A Brotherless Child
+Parfois, j'ai l'impression d'être un enfant unique
+# BCR7_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR7_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR7_MISS_SUMMARY
+Extract Felipe Mena from a Disciples of Anu haven.
+Délivrer Felipe Mena d'un refuge des Disciples d'Anu.
+# BCR7_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]We must extract an individual who we think is Felipe Mena, brother of Fabio Mena, from this haven - ideally without attracting too much attention.
+RÉSUMÉ DE LA MISSION[n][n]Nous devons évacuer un individu que nous pensons être Felipe Mena, le frère de Fabio Mena, de ce refuge ; dans l'idéal, sans attirer l'attention.
+# BCR7_MISS_TITLE
+Undercover Brother
+Frère infiltré
+# BCR7_OUT_CHOICE_0_OUTCOME_GENERAL
+Fabio thanks our operatives, but it's clear that the decision about what to do next weighs heavy on him.[n][n]"Still, even though our paths are very different, it's good that you found him. We will have to find a way to do what we believe in without hurting each other. That's what family is all about, right? Whatever else happens, we'll always be brothers."
+Fabio remercie nos agents, mais la suite des événements reposera sur ses épaules.[n][n]« Même si nos chemins sont différents, j'apprécie que vous l'ayez retrouvé. Nous avons du chemin à faire pour parvenir à nous entendre sans nous entredéchirer. J'imagine que c'est le lot de nombreuses familles, n'est-ce pas ? Mais quoi qu'il arrive, nous serons toujours frères. »[n][n][n]
+# BCR7_OUT_CHOICE_0_TEXT
+Continue.[n]
+Continuer.
+# BCR7_OUT_TEXT_GENERAL_0
+Fabio Mena is faced with a difficult dilemma: his brother, the man we extracted, is extensively mutated. Moreover, he didn't need rescuing, but had joined the Disciples of Anu on purpose, to learn how to control his powers. The only reason he came along with us is because he thought it was an opportunity to prevent further bloodshed, by showing Fabio that the Disciples can save people.
+Fabio Mena est confronté à un dilemme : son frère, l'homme que nous avons récupéré, a subi des mutations considérables. En outre, il n'avait pas besoin d'être sauvé, car il avait rejoint les Disciples d'Anu de son plein gré pour apprendre à contrôler ses pouvoirs. Il a uniquement accepté de nous accompagner ici parce qu'il pensait que ce serait une occasion d'éviter d'autres massacres en montrant à Fabio que les Disciples peuvent sauvent les gens.
+# BCR7_OUT_TITLE
+Brother's Keeper
+Gardien de notre frère
+# BCR7_TEXT_GENERAL_0
+Bastión Irazú is an independent haven founded by refugees during World War 3. It grew to its present size when the surviving nation states finally collapsed during the Second Mist. It welcomes people with mutations, but is not allied with the Disciples of Anu, as its people are generally suspicious of religious leaders. The haven's mayor is one of its first citizens, Fabio Mena, a Costa Rican engineer specialized in communications who accidentally found himself becoming a leader.[n][n]"Please, just call me Fabio, most people here do," he says. "Being called mayor is strange. I'm just a man who tries to keep this place running."
+Bastión Irazú est un refuge indépendant fondé par des réfugiés lors de la Troisième Guerre mondiale. Il a atteint sa taille actuelle lorsque les États-nations survivants se sont finalement effondrés pendant la Seconde Brume. Il accueille les gens avec des mutations, mais il n'est pas allié aux Disciples d'Anu, car son peuple se méfie généralement des chefs religieux. Le maire du refuge est l'un de ses premiers habitants, Fabio Mena, un ingénieur costaricain spécialisé dans les communications qui s'est accidentellement retrouvé chef.[n][n]« Appelez-moi Fabio, comme tout le monde ici », nous demande-t-il. « C'est étrange qu'on m'appelle 'Monsieur le maire'. Je suis juste un homme qui essaie de faire fonctionner cet endroit. »
+# BCR7_TEXT_GENERAL_1
+There is something Fabio requires our help with.[n][n]"My brother, Felipe... well, it's a really long story, but he disappeared during the First Mist, and I've been looking for him. I know what you're thinking: he's dead. But our family... well, again, it's a really long story. Let's say there are reasons he may have survived. And recently I found out he may be living in a haven controlled by the Disciples of Anu. I've been trying to send word, but they won't forward my messages to him. So I need you to rescue him."
+Fabio semble avoir besoin de votre aide.[n][n]Mon frère, Felipe... a disparu durant la Première Brume, et je l'ai cherché partout. Je sais ce que vous pensez : il doit être mort. Mais notre famille... non, c'est une trop longue histoire pour être racontée. Disons que je pense que j'ai découvert qu'il pourrait avoir survécu. Et qu'il pourrait vivre dans un refuge contrôlé par les Disciples d'Anu. J'ai tenté de le contacter, mais aucun de mes messages ne lui est parvenu. Je voudrais que vous alliez le délivrer. »
+# BCR7_TITLE
+Brothers In Arms
+Frères d'armes
+# BCR7_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR7_WIN_TEXT_GENERAL_0
+We have successfully managed to escape with the civilian. What is more, he has confirmed that he is indeed Felipe Mena, brother of Fabio Mena. Although he appears like an ordinary human at first, a closer look reveals a large amount of subtle mutations. We will have to see what Fabio makes of this.
+Nous avons réussi à échapper avec le civil. Qui plus est, il confirme être Felipe Mena, le frère de Fabio Mena. À première vue, c'est un humain ordinaire, mais un examen plus attentif révèle un grand nombre de mutations subtiles. Nous verrons ce que Fabio en pense.
+# BCR7_WIN_TITLE
+Brother From An Anu Mother
+Un frère d'une mère Anu
+# BCR8_CHOICE_0_OUTCOME_GENERAL
+"Good, good," he says with a smile, and something inside him seem to produce a whirring sound. Our operatives choose not to discover what it was.
+« Bien, bien. » dit-il en esquissant un sourire après que son corps ait émit un vrombissement. Nos agents préfèrent ne pas découvrir ce dont il s'agissait.
+# BCR8_CHOICE_0_TEXT
+Accept mission.[n]
+Accepter la mission.
+# BCR8_CHOICE_1_TEXT
+Refuse mission.
+Refuser la mission.
+# BCR8_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR8_FAIL_TEXT_GENERAL_0
+The mission was a failure, and New Jericho will have moved the blueprints to another location. Perhaps it would be best to simply ignore Phantom's Forge from now on, so as not to incur their wrath.
+La mission a échoué et la Nouvelle-Jéricho aura transféré les plans vers un autre endroit. Il serait peut-être plus simple d'ignorer la Forge du Fantôme à l'avenir, pour ne pas risquer sa colère.
+# BCR8_FAIL_TITLE
+Cyberfail[n]
+Cyber-échec
+# BCR8_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR8_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR8_MISS_SUMMARY
+Retrieve the blueprints for new cybernetics from a New Jericho lab.
+Retrouver les plans de nouveaux implants cybernétiques dans les labos de la Nouvelle-Jéricho.
+# BCR8_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]We must retrieve the blueprints for new cybernetic tech that New Jericho is developing, so we can hand them over to R. D. Wood of Phantom's Forge, who will undoubtedly do something harmless and benevolent with them.
+RÉSUMÉ DE LA MISSION[n][n]Nous devons récupérer les plans d'une nouvelle technologie cybernétique que la Nouvelle-Jéricho développe pour pouvoir les donner à R. D. Wood de la Forge du Fantôme, qui prévoit sans aucun doute une utilisation inoffensive et bienveillante.
+# BCR8_MISS_TITLE
+Cybernetics for Cybernetic Deity
+Cybernétique pour déité cybernétique
+# BCR8_OUT_CHOICE_0_OUTCOME_GENERAL
+"You think I'm mad, of course. I don't hold it against you. In a sense, I am. I have moved so far outside the constraining box of conventional wisdom that my actions cannot but seem mad. But one day, you will understand. When you have a new brain, and new eyes, and a spine of steel... then you will see what I can see. And then, when there are many like me... perhaps I will be less alone."
+« Vous me croyez fou, j'en suis sûr. Je ne vous en veux pas. Dans un certain sens, vous avez raison. Je me suis tellement éloigné des contraintes de la raison conventionnelles que mes actions doivent être un peu folles. Mais vous comprendrez un jour. Lorsque vous disposerez d'une nouvelle unité cérébrale, de nouveaux implants oculaires et d'une nouvelle colonne d'acier... vous verrez le monde comme moi. Et lorsque nous serons plus nombreux, alors peut-être, me sentirai-je moins seul.
+# BCR8_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR8_OUT_TEXT_GENERAL_0
+When our operatives inform R.D. Wood of their success, his cybernetic eye glows with appreciation. He smiles to reveal his new titanium tongue. His teeth are bright and sharp.[n][n]"Excellent. Our transformation will continue," he says. "You know, the Disciples of Anu almost got it right. We can be perfected. But not through biology. Not through the Pandoravirus. No! The future will be forged, and I will create the New Humanity! Oh, don't you love the apocalypse? All the old crud has been swept away, and now nothing stands in our way."
+Lorsque nos agents informent R.D. Wood de leur réussite, son œil cybernétique scintille d'appréciation. Il sourit, révélant sa nouvelle langue de titane. Ses dents sont brillantes et pointues.[n][n]« Excellent. Notre transformation continue », affirme-t-il. « Vous savez, les Disciples d'Anu avaient presque raison. Nous pouvons nous perfectionner. Mais pas avec la biologie. Pas avec le Pandoravirus. Non ! L'avenir sera forgé, et je créerai la Nouvelle Humanité ! Oh, n'aimez-vous pas l'apocalypse ? Toutes les vieilles saletés ont été balayées et il ne reste plus rien pour nous arrêter. »
+# BCR8_OUT_TITLE
+Upgraded
+Mise à niveau effectuée
+# BCR8_TEXT_GENERAL_0
+Phantom's Forge is one of the stranger independent havens. Cybernetics are mandatory here: every single inhabitant is as much machine as flesh. The haven's leader, Ryan Dustin Wood, is a frightening, eccentric figure who rules with an iron fist - literally. Dark rumors about his excesses in pursuit of mechanical perfection circulate in other havens, but the inhabitants seem happy enough... assuming those are real smiles, and real teeth.[n][n]Philosophically, Wood is most open to New Jericho, although he disdains their obsession with "primitive humanity." But right now, New Jericho has what he needs, and ideological matters are secondary.
+La Forge du Fantôme est l'un de ces étranges refuges indépendants. La cybernétique est obligatoire ici : chaque habitant est autant machine que chair. Le chef du refuge, Ryan Dustin Wood, est un personnage excentrique effrayant qui règne d'une main de fer - au sens propre. Des rumeurs glauques sur ses excès à la poursuite de la perfection mécanique circulent dans d'autres refuges, mais les habitants semblent assez heureux... en supposant que ce sont de vrais sourires et de vraies dents.[n][n]Sur le plan philosophique, Wood est assez ouvert à la Nouvelle-Jéricho, bien qu'il méprise leur obsession pour « l'humanité primitive ». Mais pour l'instant, la Nouvelle-Jéricho possède ce dont il a besoin, et les questions idéologiques sont secondaires.
+# BCR8_TEXT_GENERAL_1
+"They're working on the tech I need," he hisses. "I know it. A new generation of cybernetic implants. We had a deal. They promised they would deliver. But they didn't. Keeping it all for themselves. Profit first, progress later. Liars!"[n][n]Wood wants us to infiltrate a New Jericho lab and retrieve the blueprints for the cybernetic prototypes they're developing. He's willing to pay for our services.
+« Ils travaillent sur la technologie que je convoite. Une nouvelle génération d'implants cybernétiques. Nous avions un accord. Ils m'avaient promis de me les apporter. Mais ils ne l'ont pas fait. Ils ont gardé toutes ces pièces pour eux. Ils privilégient le profit sur le progrès, quelle bande de menteurs ! » siffle-t-il d'un air furieux.[n][n]Wood veut que nous infiltrions les laboratoires de la Nouvelle-Jéricho afin de récupérer les plans des prototypes cybernétiques en cours de développement. Il souhaiterait louer nos services.
+# BCR8_TITLE
+Phantom's Forge
+Forge du Fantôme
+# BCR8_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR8_WIN_TEXT_GENERAL_0
+We have successfully managed to obtain the cybernetic blueprints from New Jericho, hopefully without alerting them to our involvement. Now is the time to return to Phantom's Forge and see what Wood has to offer for them.
+Nous avons réussi à obtenir les plans cybernétiques de la Nouvelle-Jéricho, en espérant ne pas avoir attiré son attention sur notre implication. Il est maintenant temps de retourner à la Forge du Fantôme pour voir ce que Wood peut nous offrir en échange.
+# BCR8_WIN_TITLE
+One Step Closer
+Plus près du but
+# BCR9_CHOICE_0_OUTCOME_GENERAL
+"Thank you," he says. "We always try to keep things practical here, and the truth is that the tome doesn't have any practical purpose. But the information within it connects us to all the people who came before us, and perhaps sometimes we need to be a little... romantic."
+« Je vous remercie. Nous devons toujours rester pragmatiques, et à la vérité, la valeur ce tome est tout sauf pragmatique. Mais les informations qu'il contient nous lie aux personnes qui nous ont précédés, et peut-être devrions-nous parfois faire preuve d'un peu de romantisme... » dit-il.
+# BCR9_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# BCR9_CHOICE_1_OUTCOME_GENERAL
+"I understand," he says. "You have other priorities. That makes sense. I will attempt to retrieve the book myself, when I can."
+« Je comprends.  Vous avez d'autres priorités. Je tenterai de trouver ce tome moi-même, lorsque je serai en mesure de le faire. » dit-il.
+# BCR9_CHOICE_1_TEXT
+Reject mission.
+Refuser la mission.
+# BCR9_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# BCR9_FAIL_TEXT_GENERAL_0
+The mission has ended in failure.
+La mission s'est soldée par un échec.
+# BCR9_FAIL_TITLE
+Entombed[n]
+L'appel de la tombe
+# BCR9_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# BCR9_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# BCR9_MISS_SUMMARY
+Eliminate the Pandorans in Walter Ivan Toso’s family crypt.
+Éliminer les pandoriens dans la crypte familiale de Walter Ivan Toso.
+# BCR9_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]We must eliminate the Pandorans in what used to be Walter Ivan Toso’s family crypt. The place does not seem welcoming, even for a crypt.
+RÉSUMÉ DE LA MISSION[n][n]Nous devons éliminer les Pandoriens dans ce qui était jadis la crypte familiale de Walter Ivan Toso. L'endroit n'a rien d'accueillant, même pour une crypte.
+# BCR9_MISS_TITLE
+Bloodlines
+Lignées
+# BCR9_OUT_CHOICE_0_OUTCOME_GENERAL
+"We have our ways, our traditions," Toso continues. "And they matter to us. They help keep us sane. But we must never forget that we are part of the greater family tree. I hope this book will become a symbol of our connection to the rest of the world, and a reminder that wars against other humans are like hurting your own family. Thank you for your help. I hope this reward will be adequate."
+« Nous avons nos propres manières d'agir et nos traditions, » continue Toso. « Et ces valeurs nous aident à ne pas perdre pied. Nous ne devons jamais oublier que nous faisons partie d'une si prestigieuse famille. J'espère que ce livre deviendra un symbole de notre connexion avec le reste du monde et un rappel que les guerres internes de l'humanité sont semblables à un conflit familial. Merci de votre aide, j'espère que vous apprécierez votre récompense. »
+# BCR9_OUT_CHOICE_0_TEXT
+Continue.
+Continuer.
+# BCR9_OUT_TEXT_GENERAL_0
+Toso studies the book with a thoughtful smile.[n][n]"See, if you go back just a few generations," he says, pointing at a page in the book, "you start finding connections to so many other people in this haven. We're all connected to each other, and those connections matter. And when you think about it, even those of our citizens who are not from here - you don't have to go so far back to find a link to them, either. Humanity is one."
+Toso étudie le livre avec un sourire penseur.[n][n]« Vous voyez, en retournant quelques générations en arrière, indique-t-il, on commence à trouver des connexions à tellement d'autres personnes dans ce refuge. Nous sommes tous connectés et ces connexions sont importantes. Au final, quand on y réfléchit, même nos citoyens qui ne sont pas originaires d'ici, eh bien, il n'est pas nécessaire de retourner beaucoup en arrière pour trouver un lien avec eux aussi. L'humanité est unie.
+# BCR9_OUT_TITLE
+Family Tree
+Arbre généalogique
+# BCR9_TEXT_GENERAL_0
+The people of Zena are friendly, but cautious. Built around the remains of an old fortress, Zena is a place of refuge from the endless wars of the world. Its leader, Walter Ivan Toso, remembers World War 3 all too vividly, and isn't interested in getting involved in another pointless struggle.[n][n]"I was in the army, and I was good at it," he says, speaking with a slight Italian accent, "but if it was up to me, I would just spent my time making wine, not fighting other human beings."
+Les habitants de Zena sont sympathiques, mais prudents. Construit autour des ruines d'une ancienne forteresse, Zena est un lieu de refuge contre les guerres sans fin de ce monde. Son chef, Walter Ivan Toso, se souvient de la Troisième Guerre mondiale trop clairement et s'impliquer dans un autre conflit inutile ne l'intéresse pas.[n][n]« J'étais dans l'armée et j'étais un bon soldat, nous explique-t-il avec un léger accent italien, mais si ça ne tenait qu'à moi, je passerais mon temps à fabriquer du vin, pas à combattre d'autres êtres humains. »
+# BCR9_TEXT_GENERAL_1
+"There is something the Phoenix Project could help me with. It's... superficial, perhaps. But I've been thinking a lot about family lately. I almost lost my own family during the war, you know. Took me years to track them down - I only found them a few months ago. And since then I can't stop thinking about our links to the past, to the old world. I don't want to go back, I know we can't, but we shouldn't forget about those links. They are the story of how we got here."[n][n]Toso would like us to recover an old genealogical tome from what used to be his family's crypt.
+« J'aurais besoin de l'aide du Projet Phoenix. Cela vous paraîtra sans doute superficiel. Mais j'ai beaucoup réfléchi à ma famille récemment. J'ai presque perdu l'intégralité de ma propre famille durant la guerre, vous savez. Retrouver sa trace m'a pris des années, et je n'y suis parvenu qu'il y a quelques mois. Et depuis, je n'arrive pas à m'arrêter de penser aux liens du passé qui nous reliaient à l'ancien monde. Je ne veux pas retourner dans le passé, et je sais que c'est impossible, mais nous ne devrions pas oublier les liens qui nous y rattachent. Car ils ont influé sur notre devenir. »[n][n]Toso voudrait que nous récupérions un vieux tome généalogique dans ce qui semble avoir été la crypte de sa famille.
+# BCR9_TITLE
+Links to the Past[n]
+Liens vers le passé
+# BCR9_WIN_CHOICE_0_TEXT
+OK.
+OK.
+# BCR9_WIN_TEXT_GENERAL_0
+We have successfully obtained the tome from what used to be the Toso family crypt. The Pandorans that had infested the underground lair have been eliminated, leaving us with the sole task of returning to Walter and presenting him with our findings.
+Nous avons réussi à obtenir le tome dans ce qui était la crypte familiale des Toso. Les Pandoriens qui avaient infesté la Tanière souterraine ont été éliminés, nous laissant avec la seule mission de retourner voir Walter pour lui présenter nos découvertes.
+# BCR9_WIN_TITLE
+Decrypted
+Décrypté

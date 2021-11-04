@@ -1,0 +1,1386 @@
+﻿# KEY_ACID_IMMUNITY_DESCRIPTION
+Immune to the effects of Acid
+Immunité contre les états caustiques.
+# KEY_ACID_IMMUNITY_NAME
+ACID IMMUNITY
+IMMUNITÉ CONTRE L'ACIDE
+# KEY_ACID_RESISTANCE_DESCRIPTION
+Reduces effect of Acid Damage by half
+Réduit l'effet des dégâts caustiques de moitié.
+# KEY_ACID_RESISTANCE_NAME
+ACID RESISTANT
+RÉSISTANCE À L'ACIDE
+# KEY_ADRENALINE_RUSH_DESCRIPTION
+All abilities cost a maximum of 1 Action Point until the end of the turn. Next turn, you will be dazed. Will Point abilities cannot be used until the end of your turn.
+Toutes les capacités coûtent un maximum de 1 point d'action jusqu'à la fin du tour. Au tour suivant, l'unité sera étourdie. Les capacités nécessitant des points de volonté sont indisponibles jusqu'à la fin du tour.
+# KEY_ADRENALINE_RUSH_NAME
+ADRENALINE RUSH
+POUSSÉE D'ADRÉNALINE
+# KEY_ARMOUR_BREAK_DESCRIPTION
+The next attack deals 30 additional Shred Damage
+L'attaque suivante inflige 30 points supplémentaires de dégâts de déchiquetage.
+# KEY_ARMOUR_BREAK_NAME
+ARMOR BREAK
+ANTI-BLINDAGE
+# KEY_ASSAULT_PROFICIENCY_DESCRIPTION
+Proficiency with assault rifles and shotguns.
+Maîtrise des fusils d'assaut et des fusils à pompe.
+# KEY_ASSAULT_PROFICIENCY_NAME
+ASSAULT TRAINING
+ENTRAÎNEMENT D'UNITÉ D'ASSAUT
+# KEY_ASSAULT_RIFLES_TALENT_DESCRIPTION
+Proficiency with Assault Rifles at +10% Accuracy
+Maîtrise des fusils d'assaut et +10 % de précision.
+# KEY_ASSAULT_RIFLES_TALENT_NAME
+ASSAULT RIFLE PROFICIENCY
+MAÎTRISE DES FUSILS D'ASSAUT
+# KEY_BASH_DESCRIPTION
+Hit enemy with held item
+Frappez l'ennemi avec l'objet tenu.
+# KEY_BASH_NAME
+BASH
+COGNER
+# KEY_BERSERKER_TRAINING_DESCRIPTION
+Proficiency with melee weapons and handguns
+Maîtrise des armes de contact et des pistolets.
+# KEY_BERSERKER_TRAINING_NAME
+BERSERKER TRAINING
+ENTRAÎNEMENT DE BERSERKER
+# KEY_BIOCHEMIST_PERSONALTRACK_DESC
+All attacks that damage a target also inflict 1 viral damage (per bullet)
+Toute attaque qui endommage une cible inflige aussi 1 point de dommage viral (par balle)
+# KEY_BIOCHEMIST_PERSONALTRACK_NAME
+BIOCHEMIST
+Biochimiste
+# KEY_BLOODLUST_DESCRIPTION
+Damage and Speed are increased proportional to the hit points lost (up to +50%)
+Les dégâts et la vitesse augmentent proportionnellement à la santé perdue (jusqu'à +50 %).
+# KEY_BLOODLUST_NAME
+BLOODLUST
+FÉROCITÉ
+# KEY_BODY_SLAM_DESCRIPTION
+Charge at enemy, dealing damage based on weight carried. The Action Cost is increased based on the distance to the target.
+Foncez sur l'ennemi et infligez des dégâts basés sur le poids porté. Le coût d'action augmente en fonction de la distance de la cible.
+# KEY_BODY_SLAM_NAME
+BODY SLAM
+CHARGE VIOLENTE
+# KEY_BRAINIAC_PERSONALTRACK_DESC
+Additional +2 to Willpower and 10 Perception range
++2 points de volonté et portée de perception augmentée de 10
+# KEY_BRAINIAC_PERSONALTRACK_NAME
+FARSIGHTED
+PRÉVOYANT
+# KEY_CAUTIOUS_PERSONALTRACK_DESC
+20% bonus accuracy and -10% damage dealt
+Précision augmentée de 20 % et dommage infligé diminués de 10 %
+# KEY_CAUTIOUS_PERSONALTRACK_NAME
+CAUTIOUS
+PRUDENT
+# KEY_CHIRON_JUMP_DESCRIPTION
+Leap to target location
+Bondissez à l'emplacement cible.
+# KEY_CHIRON_JUMP_NAME
+JUMP
+SAUTER
+# KEY_CHIRON_LAUNCH_ACIDWORM_DESCRIPTION
+Launch {NumberOfProjectilesFired} Acidworms at a target area
+Lancez {NumberOfProjectilesFired} vers caustiques sur une zone cible.
+# KEY_CHIRON_LAUNCH_ACIDWORM_NAME
+LAUNCH ACIDWORMS
+LANCER VERS CAUSTIQUES
+# KEY_CHIRON_LAUNCH_FIREWORM_DESCRIPTION
+Launch {NumberOfProjectilesFired} Fireworms at a target area
+Lancez {NumberOfProjectilesFired} vers de feu sur une zone cible.
+# KEY_CHIRON_LAUNCH_FIREWORM_NAME
+LAUNCH FIREWORMS
+LANCER VERS DE FEU
+# KEY_CHIRON_LAUNCH_GOO_DESCRIPTION
+Launch {NumberOfProjectilesFired} Goo bombs at a target area
+Lancez {NumberOfProjectilesFired} bombes visqueuses sur une zone cible.
+# KEY_CHIRON_LAUNCH_GOO_NAME
+LAUNCH GOO BOMBS
+LANCER BOMBES VISQUEUSES
+# KEY_CHIRON_LAUNCH_MORTAR_DESCRIPTION
+Launch {NumberOfProjectilesFired} explosive bombs at a target area
+Lancez {NumberOfProjectilesFired} bombes explosives sur une zone cible.
+# KEY_CHIRON_LAUNCH_MORTAR_NAME
+LAUNCH EXPLOSIVES
+LANCER EXPLOSIFS
+# KEY_CHIRON_LAUNCH_POISONWORM_DESCRIPTION
+Launch {NumberOfProjectilesFired} Poisonworms at a target area
+Lancez {NumberOfProjectilesFired} vers toxiques sur une zone cible.
+# KEY_CHIRON_LAUNCH_POISONWORM_NAME
+LAUNCH POISONWORMS
+LANCER VERS TOXIQUES
+# KEY_CHIRON_STABILITY_STANCE_DESCRIPTION
+Enter Stability Stance. Movement is disabled, and launching accuracy and projectile count are increased.
+Passez en posture de stabilité. Le déplacement est désactivé, et la précision de lancer et le nombre de projectiles sont augmentés.
+# KEY_CHIRON_STABILITY_STANCE_NAME
+STABILITY STANCE
+POSTURE DE STABILITÉ
+# KEY_CHIRON_STANDARD_STANCE_DESCRIPTION
+Enter Standard Stance. Movement is allowed, and launch accurancy and quantity return to standard levels.
+Passez en posture normale. Le déplacement est possible, et la précision de lancer et le nombre de projectiles reviennent aux niveaux normaux.
+# KEY_CHIRON_STANDARD_STANCE_NAME
+STANDARD STANCE
+POSTURE NORMALE
+# KEY_CHIRON_STOMP_DESCRIPTION
+Perform Stomping Attack affecting a 10 tile radius with a chance to Shock. Damage diminishes with range.
+Effectuez un piétinement qui affecte un rayon de 10 cases avec une chance de décharge. Les dégâts diminuent avec la distance.
+# KEY_CHIRON_STOMP_NAME
+STOMP SHOCK ATTACK
+PIÉTINEMENT ÉLECTRIQUE
+# KEY_CHIRON_STRIKE_DESCRIPTION
+Perform Melee Attack with front legs
+Effectuez une attaque au corps à corps avec vos pattes avant.
+# KEY_CHIRON_STRIKE_NAME
+SMASHING STRIKE
+FRAPPE ÉCRASANTE
+# KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_DISC
+Gain Shotgun proficiency with +20% accuracy and Melee Weapon proficiency with +20% damage
+Obtenez la maîtrise des fusils à pompe avec +20 % de précision et la maîtrise des armes de contact avec +20 % de dégâts
+# KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_NAME
+CLOSE QUARTERS SPECIALIST
+SPÉCIALISTE DU CORPS À CORPS
+# KEY_CLOSE_QUARTERS_DESCRIPTION
+Attacks from enemies within 10 tiles deal 25% less Damage.
+Les attaques d'ennemis dans un rayon de 10 cases infligent 25 % de dégâts en moins.
+# KEY_CLOSE_QUARTERS_NAME
+CLOSE QUARTERS EVADE
+ESQUIVE RAPPROCHÉE
+# KEY_CRAFTY_PERSONALTRACK_DESC
+Gain mounted weapon proficiency with +20% range and +10% damage
+Obtenez la maîtrise des armes greffées avec +20 % de portée et +10 % de dégâts
+# KEY_CRAFTY_PERSONALTRACK_NAME
+BOMBARDIER
+BOMBARDIER
+# KEY_DEADLY_DUO_DESCRIPTION
+Take two shots with double accuracy
+Effectuez deux tirs avec une précision double.
+# KEY_DEADLY_DUO_NAME
+DEADLY DUO
+DUO MORTEL
+# KEY_DEATH_BELCH_DESCRIPTION
+Spawn multiple small creatures on death
+Crée de multiples petites créatures lors de sa mort
+# KEY_DEATH_BELCH_NAME
+DEATH BELCH
+ÉJECTION MORTELLE
+# KEY_DECOY_DESCRIPTION
+Deploy holographic decoy at the chosen location. The decoy is treated as a real target by all enemies.
+Déployez un leurre holographique à l'endroit choisi. Le leurre est traité comme une cible réelle par tous les ennemis.
+# KEY_DECOY_NAME
+DEPLOY DECOY
+DÉPLOYER LEURRE
+# KEY_DEPLOY_SHIELD_DESCRIPTION
+Deploy a shield in a given direction
+Déployez un bouclier dans une direction donnée.
+# KEY_DEPLOY_SHIELD_NAME
+DEPLOY SHIELD
+DÉPLOYER BOUCLIER
+# KEY_DEPLOY_SPIDER_DESCRIPTION
+Deploy a controllable Spider Drone. If you don't have an Infiltrator in your squad, drones will revert to AI control.
+Déployez un drone araignée que vous contrôlez. Si vous avez des Infiltrés dans votre escouade, les drones repassent sous contrôle de l'IA.
+# KEY_DEPLOY_SPIDER_NAME
+DEPLOY SPIDER DRONE
+DÉPLOYER DRONE-ARAIGNÉE
+# KEY_DEPLOY_SPIDER_PACK_DESCRIPTION
+Deploy 3 Spider Drones with one action
+Déployez 3 drones-araignées en une action.
+# KEY_DEPLOY_SPIDER_PACK_NAME
+SPIDER DRONE PACK
+PACK DE DRONES-ARAIGNÉES
+# KEY_DEPLOY_TURRET_DESCRIPTION
+Deploy a static turret in an adjacent space
+Déployez une tourelle statique dans un espace adjacent.
+# KEY_DEPLOY_TURRET_NAME
+DEPLOY TURRET
+DÉPLOYER TOURELLE
+# KEY_DEVOTED_DESCRIPTION
+Additional +2 to Willpower
++2 points de volonté
+# KEY_DEVOTED_NAME
+DEVOTED
+DÉVOTION
+# KEY_DROP_ITEM_DESCRIPTION
+Drop this item on the ground
+Déposez cet objet par terre.
+# KEY_DROP_ITEM_NAME
+DROP
+DÉPOSER
+# KEY_EAGLE_EYED_DESCRIPTION
+Additional +25% to Perception
+Perception +25 %.
+# KEY_EAGLE_EYED_NAME
+EAGLE EYED
+VUE PERÇANTE
+# KEY_EAGLE_EYE_DESCRIPTION
+Perception range is doubled
+La portée de perception est doublée.
+# KEY_EAGLE_EYE_NAME
+EAGLE EYE
+ŒIL DE LYNX
+# KEY_ELECTRIC_STRIKE_DESCRIPTION
+Target is paralyzed if shock value is greater than target's current Hit Points
+La cible est paralysée si la valeur de la décharge est supérieure aux points de vie actuels de la cible.
+# KEY_ELECTRIC_STRIKE_NAME
+ELECTRIC STRIKE
+FRAPPE ÉLECTRIQUE
+# KEY_END_TURN
+END TURN
+TERMINER TOUR
+# KEY_END_TURN_DESCRIPTION
+End turn for this character only
+Terminez le tour uniquement pour cette unité.
+# KEY_END_TURN_NAME
+END TURN
+TERMINER TOUR
+# KEY_ENTER_VEHICLE_DESCRIPTION
+Enter the vehicle
+Montez dans le véhicule.
+# KEY_ENTER_VEHICLE_NAME
+ENTER VEHICLE
+MONTER DANS VÉHICULE
+# KEY_EVACUATE_DESCRIPTION
+Evacuate character or vehicle safely from the battlefield
+Évacuez une unité ou un véhicule du champ de bataille en toute sécurité.
+# KEY_EVACUATE_NAME
+EVACUATE
+ÉVACUER
+# KEY_EXERTION_DESCRIPTION
+Move up to half your movement range. Limited to 2 uses per turn.
+Déplacez-vous dans la moitié du rayon normal de déplacement. Maximum 2 utilisations par tour.
+# KEY_EXERTION_NAME
+DASH
+COURIR
+# KEY_EXIT_VEHICLE_DESCRIPTION
+Exit the vehicle
+Sortez du véhicule.
+# KEY_EXIT_VEHICLE_NAME
+EXIT VEHICLE
+SORTIR DU VÉHICULE
+# KEY_EXPERT_HEALER_DESCRIPTION
+Restore +50% additional Hit Points when healing
++50 % de points de vie supplémentaires en restaurant votre santé.
+# KEY_EXPERT_HEALER_NAME
+EXPERT HEALER
+EXPERTISE DE SOINS
+# KEY_EXPERT_HEAVY_WEAPONS_DESCRIPTION
+Additional +20% Damage when using Heavy weapons
++20 % de dégâts supplémentaires en utilisant des armes lourdes.
+# KEY_EXPERT_HEAVY_WEAPONS_NAME
+EXPERT HEAVY WEAPONS
+EXPERTISE DES ARMES LOURDES
+# KEY_EXPERT_LIGHT_WEAPONS_DESCRIPTION
+Additional +20% Damage when using Rifles and Handguns
++20 % de dégâts supplémentaires en utilisant des fusils et pistolets.
+# KEY_EXPERT_LIGHT_WEAPONS_NAME
+EXPERT RIFLES AND HANDGUNS
+EXPERTISE DES FUSILS ET PISTOLETS
+# KEY_EXPERT_MELEE_DESCRIPTION
+Additional +25% Damage when using Melee weapons
++25 % de dégâts supplémentaires en utilisant des armes de contact.
+# KEY_EXPERT_MELEE_NAME
+EXPERT MELEE
+EXPERTISE DU CORPS À CORPS
+# KEY_EXPERT_MOUNTED_WEAPONS_DESCRIPTION
+Additional +20% range when using Mounted weapons
++20 % de portée supplémentaire en utilisant des armes greffées.
+# KEY_EXPERT_MOUNTED_WEAPONS_NAME
+EXPERT MOUNTED WEAPONS
+EXPERTISE DES ARMES GREFFÉES
+# KEY_EXPERT_PACKER_DESCRIPTION
+Carry +25% maximum weight
+Portez +25 % de poids maximum.
+# KEY_EXPERT_PACKER_NAME
+EXPERT PACKER
+EXPERTISE DU RANGEMENT
+# KEY_EXPERT_RUNNER_DESCRIPTION
+Additional +2 Speed
+Vitesse +2 points.
+# KEY_EXPERT_RUNNER_NAME
+EXPERT RUNNER
+EXPERTISE DE LA COURSE
+# KEY_EXPERT_SHOOTER_DESCRIPTION
+Shoot with +20% Accuracy
++20 % de précision de tir.
+# KEY_EXPERT_SHOOTER_NAME
+EXPERT SHOOTER
+EXPERTISE DU TIR
+# KEY_EXPERT_THROWER_DESCRIPTION
+Throw at +50% distance
++50 % de distance de lancer.
+# KEY_EXPERT_THROWER_NAME
+EXPERT THROWER
+EXPERTISE DU LANCER
+# KEY_FIRE_FLAME_DESCRIPTION
+Shoot a stream of fire in a cone area
+Tirez un jet de flammes dans une zone en cône.
+# KEY_FIRE_FLAME_NAME
+SPRAY FIRE
+JET DE FEU
+# KEY_FIRE_IMMUNITY_DESCRIPTION
+Immune to all Fire Damage
+Immunité contre tous les dégâts de feu.
+# KEY_FIRE_IMMUNITY_NAME
+IMMUNE TO FIRE
+IMMUNITÉ CONTRE LE FEU
+# KEY_FIRE_RESISTANCE_DESCRIPTION
+Reduces effect of Fire Damage by half
+Réduit l'effet des dégâts de feu de moitié.
+# KEY_FIRE_RESISTANCE_NAME
+FIRE RESISTANT
+RÉSISTANCE AU FEU
+# KEY_FIRE_VULNERABILITY_DESCRIPTION
+Double effect of Fire Damage
+Double l'effet des dégâts de feu.
+# KEY_FIRE_VULNERABILITY_NAME
+VULNERABLE TO FIRE
+VULNÉRABILITÉ AU FEU
+# KEY_FIRE_WEAPON_DESCRIPTION
+Shoot at target enemy or target point
+Tirez sur un ennemi ou sur une cible.
+# KEY_FIRE_WEAPON_NAME
+FIRE WEAPON
+UTILISER ARME
+# KEY_FISHMAN_CLASS_ABILITY_DESCRIPTION
+Triton class
+Classe Triton
+# KEY_FISHMAN_CLASS_ABILITY_NAME
+TRITON CLASS
+CLASSE TRITON
+# KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_DESCRIPTION
+Melee strike with upper arms
+Frappez au contact avec les avants-bras.
+# KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_NAME
+UPPER ARM STRIKE
+FRAPPE DE L'AVANT-BRAS
+# KEY_FISHMAN_DOUBLEPARALYSE_ABILITY_DESCRIPTION
+Perform a melee attack that deals Paralyzing Damage to target.
+Effectuez une attaque au corps à corps qui inflige des dégâts paralysants à la cible.
+# KEY_FISHMAN_DOUBLEPARALYSE_ABILITY_NAME
+PARALYZING STRIKE
+FRAPPE PARALYSANTE
+# KEY_FISHMAN_DOUBLEPERCEPTION_DESCRIPTION
+Character's perception range is doubled
+La portée de perception de l'unité est doublée.
+# KEY_FISHMAN_DOUBLEPERCEPTION_NAME
+DOUBLE PERCEPTION
+DOUBLE PERCEPTION
+# KEY_FISHMAN_PAINCHAMELEON_ABILITY_DESCRIPTION
+Become invisible when dealt damage, and hide in a nearby location
+Devenez invisible lorsque vous subissez des dégâts et cachez-vous à proximité.
+# KEY_FISHMAN_PAINCHAMELEON_ABILITY_NAME
+PAIN CHAMELEON
+CAMÉLÉON DE DOULEUR
+# KEY_FISHMAN_PARALYSE_ABILITY_DESCRIPTION
+Perform a melee attack that deals Paralyzing Damage to target.
+Effectuez une attaque au corps à corps qui inflige des dégâts paralysants à la cible.
+# KEY_FISHMAN_PARALYSE_ABILITY_NAME
+PARALYZING STRIKE
+FRAPPE PARALYSANTE
+# KEY_FISHMAN_REGENERATION_ABILITY_DESCRIPTION
+Restore 10 HP to all body parts each turn
+Restaurez 10 PV à toutes les parties du corps à chaque tour.
+# KEY_FISHMAN_REGENERATION_ABILITY_NAME
+REGENERATION
+RÉGÉNÉRATION
+# KEY_FISHMAN_SENSE_LOCATE_ABILITY_DESCRIPTION
+Enemies within 12 tiles are located
+Les ennemis dans un rayon de 12 cases sont détectés.
+# KEY_FISHMAN_SENSE_LOCATE_ABILITY_NAME
+SENSE LOCATE
+SENS DE DÉTECTION
+# KEY_FISHMAN_SILENTECHO_ABILITY_DESCRIPTION
+All weapon attacks are silent
+Toutes les attaques avec des armes sont silencieuses.
+# KEY_FISHMAN_SILENTECHO_ABILITY_NAME
+SILENT ECHO
+ÉCHOS SILENCIEUX
+# KEY_FISHMAN_SPAWNMIST_ABILITY_DESCRIPTION
+Emit covering mist around the creature
+Émet de la brume autour de la créature.
+# KEY_FISHMAN_SPAWNMIST_ABILITY_NAME
+EMIT MIST
+ÉMETTEUR DE BRUME
+# KEY_FISHMAN_WEAPONPROFICIENCY_ABILITY_DESCRIPTION
+Proficiency using assault weapons and sniper weapons
+Maîtrise des armes de l'unité d'assaut et du tireur d'élite.
+# KEY_FISHMAN_WEAPONPROFICIENCY_ABILITY_NAME
+TRITON WEAPON PROFICIENCY
+MAÎTRISE DES ARMES DE TRITON
+# KEY_FOCUSED_PERSONALTRACK_DESC
+Gain Sniper Rifle proficiency with +25% damage and -4 Willpower
+Obtiens la maîtrise des Armes de précision avec un bonus de + 25 % de dommage infligé et - 4 Volonté
+# KEY_FOCUSED_PERSONALTRACK_NAME
+SNIPERIST
+TIREUR À LONGUE DISTANCE
+# KEY_GOODSHOT_PERSONALTRACK_DESC
+Gain Assault Rifle proficiency with +10% damage and +20% accuracy
+Obtenez la maîtrise des fusils d'assaut avec +10 % de dégâts et +20 % de précision
+# KEY_GOODSHOT_PERSONALTRACK_NAME
+TROOPER
+FANTASSIN
+# KEY_GOO_IMMUNITY_DESCRIPTION
+Goo does not trap or restrict movement
+La gelée ne piège pas et ne limite pas les déplacements.
+# KEY_GOO_IMMUNITY_NAME
+IMMUNE TO GOO
+IMMUNITÉ CONTRE LA GELÉE
+# KEY_GRENADES_TALENT_DESCRIPTION
+Proficiency with Grenades at +10% range
+Maîtrise des grenades avec +10 % de portée.
+# KEY_GRENADES_TALENT_NAME
+GRENADE PROFICIENCY
+MAÎTRISE DES GRENADES
+# KEY_GRENADE_SPAM_DESCRIPTION
+Throw grenades at a 50% greater distance and for no Action Points until the end of the turn
+Lancez des grenades à une distance 50 % supérieure sans utiliser de points d'action jusqu'à la fin du tour.
+# KEY_GRENADE_SPAM_NAME
+GRENADE SPAM
+GRENADES À VOLONTÉ
+# KEY_GUNSLINGER_DESCRIPTION
+Use a proficient weapon without spending Action Points
+Utilisez une arme maîtrisée sans utiliser de points d'action.
+# KEY_GUNSLINGER_NAME
+GUNSLINGER
+FRANC-TIREUR
+# KEY_GYM_RAT_DESCRIPTION
+Additional +2 to Strength
++2 points de puissance.
+# KEY_GYM_RAT_NAME
+GYM RAT
+CULTURISTE
+# KEY_HANDGUNS_TALENT_DESCRIPTION
+Proficiency with Handguns at +10% Accuracy
+Maîtrise des pistolets et +10 % de précision.
+# KEY_HANDGUNS_TALENT_NAME
+HANDGUN PROFICIENCY
+MAÎTRISE DES PISTOLETS
+# KEY_HEAVY_BOOM_BLAST_DESCRIPTION
+The Action Point cost of Grenades, and other explosive weapons, is reduced by 1 and their range is increased by 50% until the end of the turn.
+Le coût en Points d'Actions des grenades et autres armes explosives est diminué de 1 et leur portée est augmentée de 50 % jusqu'à la fin du tour.
+# KEY_HEAVY_BOOM_BLAST_NAME
+BOOM BLAST
+BADABOUM
+# KEY_HEAVY_BRAWLER_DESCRIPTION
+Get Melee weapon proficiency and perform Bash and Melee attacks with 50% increased damage.
+Obtenez la maîtrise des armes de contact et réalisez des attaques au corps à corps et « Cogner » avec 50 % de dégâts supplémentaires.
+# KEY_HEAVY_BRAWLER_NAME
+BRAWLER
+BAGARREUR
+# KEY_HEAVY_INSPIRE_DESCRIPTION
+Killing an enemy grants allies 1 additional Will Point
+Éliminer un ennemi octroie 1 point de volonté supplémentaire aux alliés.
+# KEY_HEAVY_INSPIRE_NAME
+INSPIRE
+INSPIRATION
+# KEY_HEAVY_LIFTER_DESCRIPTION
+Double weight that can be carried without causing movement penalty
+Doublez le poids qui peut être porté sans pénaliser le déplacement.
+# KEY_HEAVY_LIFTER_NAME
+HEAVY LIFTER
+GROS BRAS
+# KEY_HEAVY_PROFICIENCY_DESCRIPTION
+Proficiency with Heavy Weapons, Mounted Weapons, and Jet Pack.
+Maîtrise des armes lourdes, des armes greffées et du jet pack.
+# KEY_HEAVY_PROFICIENCY_NAME
+HEAVY TRAINING
+ENTRAÎNEMENT DE MASTODONTE
+# KEY_HEAVY_WARCRY_DESCRIPTION
+All enemies within 10 tiles have their Action Points reduced to 2 for the next turn
+Tous les ennemis à 10 cases de distance voient leurs Points d'Actions diminués de 2 pour le prochain tour.
+# KEY_HEAVY_WARCRY_NAME
+WAR CRY
+CRI DE GUERRE
+# KEY_HEAVY_WEAPONS_TALENT_DESCRIPTION
+Proficiency with Heavy Weapons at +10% Accuracy
+Maîtrise des armes lourdes et +10 % de précision.
+# KEY_HEAVY_WEAPONS_TALENT_NAME
+HEAVY WEAPON PROFICIENCY
+MAÎTRISE DES ARMES LOURDES
+# KEY_HELPFUL_PERSONALTRACK_DESC
+30% bonus healing and +2 Willpower
+30 % de restauration des PV bonus et +2 points de volonté
+# KEY_HELPFUL_PERSONALTRACK_NAME
+HEALER
+GUÉRISSEUR
+# KEY_HIDE_DESCRIPTION
+Disappear from view for the next turn by finding a hiding spot within 5 tiles
+Disparaissez au prochain tour en vous cachant dans un rayon de 5 cases.
+# KEY_HIDE_NAME
+HIDE
+SE CACHER
+# KEY_IGNORE_PAIN_DESCRIPTION
+Disabled body parts remain functional. Cannot Panic or be Mind Controlled.
+Les parties du corps désactivées fonctionnent toujours. Panique et contrôle mental impossibles.
+# KEY_IGNORE_PAIN_NAME
+IGNORE PAIN
+IGNORER DOULEUR
+# KEY_INDUCE_PANIC_DESCRIPTION
+Cause a target to panic if its current Will Points are less than the Priest's
+Causez la panique d'une cible si ses points de volonté sont inférieurs à ceux du prêtre.
+# KEY_INDUCE_PANIC_NAME
+INDUCE PANIC
+ÉTAT DE PANIQUE
+# KEY_INFECTED_BLOOD_DESCRIPTION
+Add 1 Virus Damage for each Hit Point damage inflicted in melee
++1 point de dégâts de virus pour chaque point de dégâts de santé infligé en corps à corps.
+# KEY_INFECTED_BLOOD_NAME
+INFECTED BLOOD
+SANG INFECTÉ
+# KEY_INFILTRATOR_PROFICIENCY_DESCRIPTION
+Proficiency with Crossbows and Spider Drone deployment. Base line stealth factor is 25% as long as the character isn't revealed.
+Maîtrise des arbalètes et du déploiement de drones-araignées. Le facteur de base de la furtivité est de 25 % tant que l'unité n'est pas détectée.
+# KEY_INFILTRATOR_PROFICIENCY_NAME
+INFILTRATOR TRAINING
+ENTRAÎNEMENT D'INFILTRÉ
+# KEY_INFILTRATOR_STEALTH_DESCRIPTION
+Base line Stealth factor is 25% as long as the character isn't revealed.
+Le facteur de base de la furtivité est de 25 % tant que l'unité n'est pas détectée.
+# KEY_INFILTRATOR_STEALTH_NAME
+STEALTH
+FURTIVITÉ
+# KEY_INSTIL_FRENZY_DESCRPITION
+Instils Frenzy in friendly characters within 20 tiles for two turns, increasing their Speed by 50% and making them immune to panic
+Provoquez la frénésie d'unités alliées dans un rayon de 20 cases pendant deux tours ; augmente leur vitesse de 50 % et les immunise contre la panique.
+# KEY_INSTIL_FRENZY_NAME
+INSTIL FRENZY
+PROVOQUER FRÉNÉSIE
+# KEY_INTERACT_DESCRIPTION
+Complete the objective at this location
+Complétez l'objectif à cette localisation
+# KEY_INTERACT_NAME
+OBJECTIVE
+OBJECTIF
+# KEY_INVENTORY_DESCRIPTION
+Exchange, pick up or drop items
+Échangez, ramassez ou déposez des objets.
+# KEY_INVENTORY_NAME
+INVENTORY
+INVENTAIRE
+# KEY_JET_JUMP_DESCRIPTION
+Jet jump to a location within 20 tiles
+Propulsez-vous à un emplacement dans un rayon de 20 cases.
+# KEY_JET_JUMP_NAME
+JET JUMP
+PROPULSION
+# KEY_LAUNCH_GRENADE_DESCRIPTION
+Fire grenade at a target location
+Lancez une grenade à un emplacement cible.
+# KEY_LAUNCH_GRENADE_NAME
+LAUNCH GRENADE
+LANCER GRENADE
+# KEY_LAUNCH_MISSILES_DESCRIPTION
+Launch two missiles at a target location
+Lancez deux missiles à un emplacement cible.
+# KEY_LAUNCH_MISSILES_NAME
+LAUNCH MISSILES
+LANCER MISSILES
+# KEY_LAUNCH_MISSILE_DESCRIPTION
+Launch a missile at a target location
+Lancez un missile à un emplacement cible.
+# KEY_LAUNCH_MISSILE_NAME
+LAUNCH MISSILE
+LANCER MISSILE
+# KEY_LAUNCH_MIST_BOMB_DESCRIPTION
+Launch a bomb that explodes in a cloud of mist on impact
+Lance une bombe qui explose en un nuage de brume lors de l'impact
+# KEY_LAUNCH_MIST_BOMB_NAME
+LAUNCH MIST BOMB
+LANCE UNE BOMBE DE BRUME
+# KEY_MACHINE_ENTITY_DESCRIPTION
+Machines have no Willpower, and are immune to biological effects
+Les machines n'ont aucune volonté et sont immunisées contre les états biologiques.
+# KEY_MACHINE_ENTITY_NAME
+MACHINE ENTITY
+ENTITÉ MÉCANIQUE
+# KEY_MASS_HATCH_DESCRIPTION
+Hatch all eggs within 20 tiles.
+Faites éclore tous les œufs dans un rayon de 20 cases.
+# KEY_MASS_HATCH_NAME
+MASS HATCH
+ÉCLOSION EN MASSE
+# KEY_MASTER_MARKSMAN_DESCRIPTION
+Accuracy with a proficient weapon is increased by 30% while there are no spotted enemies within 10 tiles
++50 % de précision avec une arme maîtrisée lorsque aucun ennemi n'est détecté dans un rayon de 10 cases.
+# KEY_MASTER_MARKSMAN_NAME
+MASTER MARKSMAN
+TIREUR PRO
+# KEY_MELEE_RIPOSTE_DESCRIPTION
+Attack enemies that enter or attack from melee range
+Attaquez les ennemis qui entrent ou attaquent au corps à corps.
+# KEY_MELEE_RIPOSTE_NAME
+MELEE RIPOSTE
+RIPOSTE RAPPROCHÉE
+# KEY_MELEE_WEAPONS_TALENT_DESCRIPTION
+Proficiency with Melee Weapons at +10% Damage
+Maîtrise des armes de contact avec +10 % de dégâts.
+# KEY_MELEE_WEAPONS_TALENT_NAME
+MELEE WEAPON PROFICIENCY
+MAÎTRISE DES ARMES DE CONTACT
+# KEY_MIND_CONTROL_DESCRIPTION
+Gain control of an enemy with WP cost equal to enemy's current WPs. Costs 1-10 WPs per turn to maintain, depending on target type.
+Permet de prendre le contrôle d'un ennemi pour un coût en PVo équivalent aux PVo ennemis. Coûte 1-10 PVo par tour pour maintenir le contrôle selon le type de cible.
+# KEY_MIND_CONTROL_MINDFRAGGER_DESCRIPTION
+Gain control of an enemy
+Prenez le contrôle d'un ennemi.
+# KEY_MIND_CONTROL_MINDFRAGGER_NAME
+MIND CONTROL
+CONTRÔLE MENTAL
+# KEY_MIND_CONTROL_NAME
+MIND CONTROL
+CONTRÔLE MENTAL
+# KEY_MIND_CONTROL_RELEASE_DESCRIPTION
+Release target from mind control
+Libérez la cible du contrôle mental.
+# KEY_MIND_CONTROL_RELEASE_NAME
+RELEASE
+LIBÉRATION
+# KEY_MIST_BREATHER_DESCRIPTION
+Consume all mist within a 3 tile radius. Each 2 mist tiles consumed restores 1 Will Point.
+Consommez toute la brume dans un rayon de 3 cases. 2 cases de brume restaurent 1 point de volonté.
+# KEY_MIST_BREATHER_NAME
+BREATHE MIST
+BRUME DÉCISIVE
+# KEY_MOTION_DETECTION_DESCRIPTION
+Locate all nearby enemies, even behind obstructions
+Localisez tous les ennemis à proximité, même derrière des obstacles.
+# KEY_MOTION_DETECTION_NAME
+MOTION DETECTION
+DÉTECTION DE MOUVEMENT
+# KEY_MOUNTED_WEAPONS_TALENT_DESCRIPTION
+Proficiency with Mounted Weapons at +10% Accuracy
+Maîtrise des armes greffées et +10 % de précision.
+# KEY_MOUNTED_WEAPONS_TALENT_NAME
+MOUNTED WEAPON PROFICIENCY
+MAÎTRISE DES ARMES GREFFÉES
+# KEY_MOVE_NAME
+MOVE
+SE DÉPLACER
+# KEY_MUTATION_ELECTROKICK_DESCRIPTION
+Perform a melee kick, and daze target if shock value is greater than target's Hit Points
+Donnez un coup de pied - la cible sera étourdie si ses points de vie sont inférieurs à la valeur de la décharge.
+# KEY_MUTATION_ELECTROKICK_NAME
+ELECTRIC KICK
+COUP DE PIED ÉLECTRIQUE
+# KEY_MUTATION_ELECTROTENTACLE_DESCRIPTION
+Perform a melee attack, and apply paralyze damage
+Effectuez une attaque au corps à corps qui inflige des dégâts de paralysie.
+# KEY_MUTATION_ELECTROTENTACLE_NAME
+TENTACLE ATTACK
+ATTAQUE TENTACULAIRE
+# KEY_MUTATION_ENTER_STANCE_DESCRIPTION
+Enter Stability Stance. Movement is disabled and accuracy is increased by 20%.
+Passez en posture de stabilité. Le déplacement est désactivé et la précision augmente de 20 %.
+# KEY_MUTATION_ENTER_STANCE_NAME
+STABILITY STANCE
+POSTURE DE STABILITÉ
+# KEY_MUTATION_EXIT_STANCE_DESCRIPTION
+Enter Standard Stance. Movement is enabled and accuracy is returned to normal.
+Passez en posture normale. Le déplacement est possible et la précision revient à la normale.
+# KEY_MUTATION_EXIT_STANCE_NAME
+STANDARD STANCE
+POSTURE NORMALE
+# KEY_MUTATION_JUMP_DESCRIPTION
+Jump up or down one building level
+Sautez d'un étage vers le haut ou le bas.
+# KEY_MUTATION_JUMP_NAME
+JUMP
+SAUTER
+# KEY_MUTATION_MELEERETALIATION_DESCRIPTION
+Melee riposte with tentacles in response to nearby enemy attacks.
+Ripostez au corps à corps avec des tentacules contre les attaques d'ennemis à proximité.
+# KEY_MUTATION_MELEERETALIATION_NAME
+TENTACLE RETALIATION
+REPRÉSAILLES TENTACULAIRES
+# KEY_MUTATION_REGENERATE_DESCRIPTION
+Restore 10 Hit Points to arms and torso at the end of each turn
+Restaurez 10 points de vie aux bras et au torse à la fin de chaque tour.
+# KEY_MUTATION_REGENERATE_NAME
+TISSUE REGENERATION
+RÉGÉNÉRATION DES TISSUS
+# KEY_MUTATION_STOMPERING_DESCRIPTION
+Perform Shock Attack affecting a 5-tile radius, dazing targets if shock value > target Hit Points. Shock Damage falls off with range.
+Effectuez une attaque électrique affectant un rayon de 5 cases. Étourdit les cibles si la valeur de la décharge > aux points de vie de la cible. Les dégâts électriques baissent avec la distance.
+# KEY_MUTATION_STOMPERING_NAME
+STOMP
+PIÉTINEMENT
+# KEY_MUTOG_DEVOUR_DESCRIPTION
+On killing an enemy, restore Hit Points equal to 50% of the target's maximum Hit Points
+À l'élimination d'un ennemi, récupérez l'équivalent de 50 % des points de vie max de la cible en points de vie.
+# KEY_MUTOG_DEVOUR_NAME
+DEVOUR
+DÉVORER
+# KEY_MUTOG_HEAD_ATTACK_DESCRIPTION
+Perform melee attack with head
+Effectuez une attaque au corps à corps avec votre tête.
+# KEY_MUTOG_HEAD_ATTACK_NAME
+HEADBUTT
+COUP DE TÊTE
+# KEY_MUTOG_LEAP_DESCRIPTION
+Leap to target location within 10 tiles. 
+Bondissez à l'emplacement cible dans un rayon de 10 cases.
+# KEY_MUTOG_LEAP_NAME
+LEAP
+BONDIR
+# KEY_MUTOG_MASTER_DESCRIPTION
+Control a Mutog in battle
+Contrôlez un Mutog en combat.
+# KEY_MUTOG_MASTER_NAME
+MUTOG MASTER
+MUTOGUISTE
+# KEY_MUTOG_MIND_SENSE_DESCRIPTION
+All organic enemies within 15 tiles are automatically revealed
+Tous les ennemis organiques dans un rayon de 15 cases sont automatiquement révélés.
+# KEY_MUTOG_MIND_SENSE_NAME
+MIND SENSE
+SENS SPIRITUEL
+# KEY_MUTOG_PAW_BASH_DESCRIPTION
+Perform melee attack with paw
+Effectuez une attaque au corps à corps avec votre patte.
+# KEY_MUTOG_PAW_BASH_NAME
+PAW STRIKE
+COUP DE PATTE
+# KEY_MUTOG_PRIMAL_INSTINCT_DESCRIPTION
+Gain 2 Action Points upon killing an enemy
+Obtenez 2 points d'action en éliminant un ennemi.
+# KEY_MUTOG_PRIMAL_INSTINCT_NAME
+PRIMAL INSTINCT
+INSTINCT PRIMITIF
+# KEY_MUTOG_RAM_DESCRIPTION
+Charge forward ramming everything in the way
+Foncez sur tout ce qui se trouve sur votre chemin.
+# KEY_MUTOG_RAM_NAME
+RAM
+BÉLIER
+# KEY_MUTOG_REGEENRATION_NAME
+REGENERATE
+RÉGÉNÉRER
+# KEY_MUTOG_REGENERATION_DESCRIPTION
+Each leg restores 10 Hit Points to an injured body part
+Chaque jambe restaure 10 points de vie à une partie du corps blessée.
+# KEY_MUTOG_TONGUELASH_DESCRIPTION
+Perform poison attack with tongue
+Effectuez une attaque toxique avec votre langue.
+# KEY_MUTOG_TONGUELASH_NAME
+POISON TONGUE
+LANGUE TOXIQUE
+# KEY_MUTOG_TRAILBASH_DESCRIPTION
+Perform a melee attack with tail, and daze target if shock value is greater than target's Hit Points
+Effectuez une attaque au corps à corps avec votre queue. Étourdit la cible si ses points de vie sont inférieurs à la valeur de la décharge.
+# KEY_MUTOG_TRAILBASH_NAME
+TAIL BASH
+COUP DE QUEUE
+# KEY_MUTOG_TRAILSLICE_DESCRIPTION
+Perform slicing melee attack with tail, with a high chance of causing bleeding
+Effectuez une attaque lacérante avec votre queue. Chance élevée de causer un saignement.
+# KEY_MUTOG_TRAILSLICE_NAME
+TAIL SLICE
+QUEUE LACÉRANTE
+# KEY_NIGHT_VISION_ABILITY_DESCRIPTION
+No penalty incurred for dark environments
+Aucune pénalité dans les environnements sombres.
+# KEY_NIGHT_VISION_ABILITY_NAME
+NIGHT VISION
+VISION NOCTURNE
+# KEY_ONSLAUGHT_DESCRIPTION
+An ally within 10 tiles recovers 2 Action Points. Limited to one use per turn.
+Un allié dans un rayon de 10 cases récupère 2 points d'action. Limité à une utilisation par tour.
+# KEY_ONSLAUGHT_NAME
+ONSLAUGHT
+OFFENSIVE
+# KEY_OVERWATCH_CONEWIDTH
+CONE WIDTH
+LARGEUR DU CÔNE
+# KEY_OVERWATCH_DESCRIPTION
+Select a target position to direct overwatch attacks against enemies that enter the trigger cone during the enemy turn
+Sélectionnez un emplacement pour diriger les attaques de vigilance sur les ennemis qui entrent dans le cône de déclenchement pendant le tour de l'ennemi.
+# KEY_OVERWATCH_FOCUS_DESCRIPTION
+Accuracy of overwatch attacks increased by 50%
++50 % de précision des attaques de vigilance.
+# KEY_OVERWATCH_FOCUS_NAME
+OVERWATCH FOCUS
+GRANDE VIGILANCE
+# KEY_OVERWATCH_NAME
+OVERWATCH
+VIGILANCE
+# KEY_PDWS_TALENT_DESCRIPTION
+Proficiency with PDWs at +10% Accuracy
+Maîtrise des PDW et +10 % de précision.
+# KEY_PDWS_TALENT_NAME
+PDW PROFICIENCY
+MAÎTRISE DES PDW
+# KEY_PITCHER_PERSONALTRACK_DESC
+25% bonus Grenade range and +2 Speed
+25 % de portée de grenade bonus et +2 points de vitesse
+# KEY_PITCHER_PERSONALTRACK_NAME
+QUARTERBACK
+QUART ARRIÈRE
+# KEY_POISON_IMMUNITY_DESCRIPTION
+Immune to poison damage
+Immunité contre les dégâts toxiques.
+# KEY_POISON_IMMUNITY_NAME
+POISON IMMUNITY
+IMMUNITÉ CONTRE LE POISON
+# KEY_POISON_RESISTANCE_DESCRIPTION
+Poison damage is reduced by half
+Les dégâts toxiques sont réduits de moitié.
+# KEY_POISON_RESISTANCE_NAME
+POISON RESISTANT
+RÉSISTANCE AU POISON
+# KEY_POWER_SURGE_DESCRIPTION
+Powerful electric melee attack that deals 30 Hit Points damage to all enemy body parts
+Attaque électrique puissante au corps à corps qui inflige 30 points de vie de dégâts à toutes les parties du corps des ennemis.
+# KEY_POWER_SURGE_NAME
+POWER SURGE
+SURTENSION
+# KEY_PRIEST_RADIANT_HOPE_DESCRIPTION
+Living allied units within 7 tiles recover 2 Will Points at the start of turn
+Toutes les unités alliées vivantes dans un rayon de 7 cases récupèrent 2 points de volonté au début du tour.
+# KEY_PRIEST_RADIANT_HOPE_NAME
+RADIANT HOPE
+ESPOIR RADIEUX
+# KEY_PRIEST_TRAINING_DESCRIPTION
+Proficiency with viral weapons
+Maîtrise des armes virales.
+# KEY_PRIEST_TRAINING_NAME
+PRIEST TRAINING
+ENTRAÎNEMENT DE PRÊTRE
+# KEY_PSYCHIC_BLAST_DESCRIPTION
+Deal 100 damage to all enemy entities within 10 tiles
+Infligez 100 points de dégâts à toutes les entités ennemies dans un rayon de 10 cases.
+# KEY_PSYCHIC_BLAST_NAME
+MIND CRUSH
+MORAL ANÉANTI
+# KEY_PSYCHIC_IMMUNITY_DESCRIPTION
+Immune to psychic attacks and influences
+Immunité contre les attaques et influences psychiques.
+# KEY_PSYCHIC_IMMUNITY_NAME
+PSYCHIC IMMUNITY
+IMMUNITÉ PSYCHIQUE
+# KEY_PSYCHIC_RESISTANCE_DESCRIPTION
+Psychic damage values are halved
+Les dégâts psychiques sont réduits de moitié.
+# KEY_PSYCHIC_RESISTANCE_NAME
+PSYCHIC RESISTANCE
+RÉSISTANCE PSYCHIQUE
+# KEY_PSYCHIC_SCREAM_DESCRIPTION
+Reduce the Will Points of all enemy units within a limited range
+Réduisez les points de volonté de toutes les unités ennemies dans un rayon limité.
+# KEY_PSYCHIC_SCREAM_NAME
+PSYCHIC SCREAM
+CRI PSYCHIQUE
+# KEY_PSYCHIC_SCREAM_PRIEST_DESCRIPTION
+Scream, reducing the Will Points of all enemy units in an 8 tile radius.
+Criez, ce qui réduit les points de volonté de tous les ennemis dans un rayon de  8 cases.
+# KEY_PSYCHIC_WARD_DESCRIPTION
+Allies within 10 tiles are immune to Panic and Psychic damage attacks
+Les alliés dans un rayon de 10 cases sont immunisés contre les attaques infligeant des dégâts de panique et psychiques.
+# KEY_PSYCHIC_WARD_NAME
+PSYCHIC WARD
+SERVICE PSYCHIQUE
+# KEY_QUEEN_FIRE_CANNONS_DESCRIPTION
+Fire cannons in a forward direction
+Effectue un tir des canons vers l'avant
+# KEY_QUEEN_FIRE_CANNONS_NAME
+FIRE BLASTER CANNONS
+TIREZ LES CANONS
+# KEY_QUEEN_GOOSPITTER_DESCRIPTION
+Spit stream of goo within a cone area
+Crache un jet de gelée dans une zone en cône.
+# KEY_QUEEN_GOOSPITTER_NAME
+GOO STREAM
+JET VISQUEUX
+# KEY_QUEEN_LEAP_DESCRIPTION
+Leap to target location, destroying everything along the path
+Saute vers une cible choisie et détruis tout sur son passage
+# KEY_QUEEN_LEAP_NAME
+MONSTER LEAP
+SAUT MONSTRUEUX
+# KEY_QUEEN_PREPARE_CANNON_DESCRIPTION
+Prepare to fire cannons in forward direction
+Prépare les canons à tirer vers l'avant
+# KEY_QUEEN_PREPARE_CANNON_NAME
+PREPARE CANNONS
+PRÉPAREZ LES CANONS
+# KEY_RAGE_BURST_DESCRIPTION
+Shoot 5 times spread across an arc with a direct-fire weapon
+Tirez 5 fois en arc avec une arme à projectiles directs.
+# KEY_RAGE_BURST_NAME
+RAGE BURST
+EXPLOSION DE RAGE
+# KEY_RALLY_DESCRIPTION
+Each ally within 10 tiles recovers 1 Action Point. Limited to one use per turn.
+Chaque allié récupère 1 point d'action. Limité à une utilisation par tour.
+# KEY_RALLY_NAME
+RALLY THE TROOPS
+RALLIER LES TROUPES
+# KEY_RAPID_CLEARANCE_DESCRIPTION
+Recover 2 Action Points for each enemy killed, until the end of the turn
+Récupérez 2 points d'action pour chaque ennemi éliminé jusqu'à la fin du tour.
+# KEY_RAPID_CLEARANCE_NAME
+RAPID CLEARANCE
+LIQUIDATION RAPIDE
+# KEY_READY_FOR_ACTION_DESCRIPTION
+Reloading and Inventory actions do not cost any Action Points
+La recharge d'armes et les actions d'inventaire ne coûtent aucun point d'action.
+# KEY_READY_FOR_ACTION_NAME
+READY FOR ACTION
+PRÊT POUR L'ACTION
+# KEY_RECKLESS_PERSONALTRACK_DESC
+10% bonus damage dealt and -10% accuracy
+10 % de dégâts bonus infligés et -10 % de précision
+# KEY_RECKLESS_PERSONALTRACK_NAME
+RECKLESS
+INSOUCIANT
+# KEY_RECOVER_DESCRIPTION
+Recover Will Points equal to half Willpower, and become immune to Panic for one turn. End the character's current turn.
+Restaure des points de volonté d'une valeur équivalente à la moitié de la volonté et octroie l'immunité contre la panique pendant un tour. Termine le tour en cours de l'unité.
+# KEY_RECOVER_NAME
+RECOVER
+RÉCUPÉRER
+# KEY_REGENERATION_TORSO_DESCRIPTION
+Restore 10 Hit Points to all injured body parts and General Hit Points each turn
+Récupère 10 PVs à toutes les parties du corps et points de vie généraux chaque tour.
+# KEY_REGENERATION_TORSO_NAME
+REGENERATE
+RÉGÉNÉRATION
+# KEY_RELOAD
+RELOAD
+RECHARGER
+# KEY_RELOAD_DESCRIPTION
+Reload a weapon or re-charge an equipment item. Current weapon ammunition will be lost.
+Rechargez une arme ou une pièce d'équipement. Les munitions actuelles de l'arme seront perdues.
+# KEY_RELOAD_NAME
+RELOAD
+RECHARGER
+# KEY_REMOVE_LARVA_DESCRIPTION
+Remove Mindfragger from ally
+Retirez le Corrupteur de l'allié.
+# KEY_REMOVE_LARVA_NAME
+REMOVE MINDFRAGGER
+RETIRER CORRUPTEUR
+# KEY_RESISTED
+Resisted
+Résistance
+# KEY_RESOURCEFULL_PERSONALTRACK_DESC
+25% bonus carry weight and +2 Strength
+Bonus de + 25 % de poids transportés et + 2 Puissance
+# KEY_RESOURCEFULL_PERSONALTRACK_NAME
+RESOURCEFUL
+BIEN PRÉPARÉ
+# KEY_RESTRICTED_MOVEMENT_DESCRIPTION
+Cannot climb ladders or pipes
+Impossible de monter aux échelles ou conduits.
+# KEY_RESTRICTED_MOVEMENT_NAME
+CANNOT CLIMB
+IMPOSSIBLE DE MONTER
+# KEY_RETIREVE_TURRET_DESCRIPTION
+Retrieve a turret from an adjacent space
+Récupérez une tourelle d'un espace adjacent.
+# KEY_RETIREVE_TURRET_NAME
+RETRIEVE TURRET
+RÉCUPÉRER TOURELLE
+# KEY_RETURNFIRE_DESCRIPTION
+Shoot back at an enemy when it attacks, provided the soldier is using a direct-fire projectile weapon with proficiency, and the enemy is within half perception range.
+Effectuez un tir de riposte sur un ennemi qui attaque un allié sur une portée de perception de moitié.
+# KEY_RETURNFIRE_NAME
+RETURN FIRE
+TIR DE RIPOSTE
+# KEY_SCYLLA_LEAP_DESC
+Leap to a target location, destroying everything in its path
+Bondissez sur un emplacement, ce qui détruit tout sur votre passage.
+# KEY_SCYLLA_LEAP_NAME
+MONSTER LEAP
+SAUT DE MONSTRE
+# KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_DESC
+Gain PDW and Handgun proficiency with +10% damage, +10% accuracy and +10 tiles hearing range
+Obtenez la maîtrise des PDW et des pistolets avec +10 % de dégâts, +10 % de précision et +10 cases de portée de son
+# KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_NAME
+SELF DEFENSE SPECIALIST
+SPÉCIALISTE EN AUTODÉFENSE
+# KEY_SHOOT_SPIKE_DESCRIPTION
+Launch a poisoned spike at a target
+Lancez un pic toxique sur une cible.
+# KEY_SHOOT_SPIKE_NAME
+SHOOT SPIKE
+LANCER PIC
+# KEY_SHOTGUNS_TALENT_DESCRIPTION
+Proficiency with Shotguns at +10% Accuracy
+Maîtrise des fusils à pompe et +10 % de précision.
+# KEY_SHOTGUNS_TALENT_NAME
+SHOTGUN PROFICIENCY
+MAÎTRISE DES FUSILS À POMPE
+# KEY_SILENCED_WEAPONS_TALENT_DESCRIPTION
+Proficiency with Silenced Weapons with +10% Accuracy bonus
+Maîtrise des armes silencieuses et + 10 % de précision.
+# KEY_SILENCED_WEAPONS_TALENT_NAME
+SILENCED WEAPON PROFICIENCY
+MAÎTRISE DES ARMES SILENCIEUSES
+# KEY_SIREN_INJECTING_STRIKE_DESCRIPTION
+Inflict viral damage, reducing Will Points over multiple turns
+Infligez des dégâts viraux qui réduisent les points de volonté pendant plusieurs tours.
+# KEY_SIREN_INJECTING_STRIKE_NAME
+INJECTING STRIKE
+INJECTION
+# KEY_SIREN_SLASHING_STRIKE_DESCRIPTION
+Perform a melee attack that causes bleeding if it deals damage
+Effectuez une attaque au corps à corps qui cause un saignement en cas de dégâts
+# KEY_SIREN_SLASHING_STRIKE_NAME
+SLASHING STRIKE
+ATTAQUE LACÉRANTE
+# KEY_SIREN_VOMIT_ACID_DESCRIPTION
+Ejects Acid in an area cone
+Projette de l'acide dans une zone en cône
+# KEY_SIREN_VOMIT_ACID_NAME
+ACID SPRAY
+JET CAUSTIQUE
+# KEY_SNEAK_ATTACK_DESCRIPTION
+Damage dealt while not spotted is increased by 50%
+Les dégâts infligés sans se faire détecter augmentent de 50%
+# KEY_SNEAK_ATTACK_NAME
+SNEAK ATTACK
+ATTAQUE FURTIVE
+# KEY_SNEAK_DESCRIPTION
+Double stealth factor of armor
+L'armure a un facteur de furtivité double.
+# KEY_SNEAK_NAME
+SNEAK
+DISCRÉTION
+# KEY_SNIPERS_RIFLES_TALENT_DESCRIPTION
+Proficiency with Sniper Rifles at +10% Accuracy
+Maîtrise des fusils de précision et +10 % de précision.
+# KEY_SNIPER_EXTREME_FOCUS_DESCRIPTION
+Overwatch cost is reduced by 1 Action Point
+Le coût de Vigilance est réduit de 1 point d'action.
+# KEY_SNIPER_EXTREME_FOCUS_NAME
+EXTREME FOCUS
+ATTENTION EXTRÊME
+# KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION
+Mark an enemy target. Until the end of the turn, each hit from an attack or individual round gets +10 damage. This effect does not stack.
+Marque un ennemi. Jusqu'à la fin du tour, chaque coup d'une attaque ou d'une manche individuelle ajoute 10 points de dégâts. Cet effet n'est pas cumulable.
+# KEY_SNIPER_MARK_FOR_DEATH_NAME
+MARKED FOR DEATH
+DÉSIGNÉ POUR MOURIR
+# KEY_SNIPER_PROFICIENCY_DESCRIPTION
+Proficiency with sniper rifles and handguns.
+Maîtrise des fusils de précision et des pistolets.
+# KEY_SNIPER_PROFICIENCY_NAME
+SNIPER TRAINING
+ENTRAÎNEMENT DE TIREUR D'ÉLITE
+# KEY_SNIPER_QUICK_AIM_DESCRIPTION
+The Action Point cost of the next shot with a proficient weapon is reduced by 1.
+Le tir suivant avec une arme maîtrisée coûte 1 point d'action de moins.
+# KEY_SNIPER_QUICK_AIM_NAME
+QUICK AIM
+VISÉE RAPIDE
+# KEY_SNIPER_RIFLES_TALENT_NAME
+SNIPER RIFLE PROFICIENCY
+MAÎTRISE DES FUSILS DE PRÉCISION
+# KEY_SNIPER_WEAK_SPOT_DESCRIPTION
+Disabling a body part also removes that body part's armor.
+Désactiver une partie du corps retire également son armure.
+# KEY_SNIPER_WEAK_SPOT_NAME
+WEAK SPOT
+POINT FAIBLE
+# KEY_SONIC_BLAST_DESCRIPTION
+Emit a sonic blast in a cone area that dazes targets if blast value is greater than targets' Will Points
+Émettez une explosion sonique dans une zone en cône qui étourdit les cibles si la valeur de l'explosion est supérieure à leurs points de volonté.
+# KEY_SONIC_BLAST_NAME
+SONIC BLAST
+EXPLOSION SONIQUE
+# KEY_SONIC_IMMUNITY_DESCRIPTION
+Immune to daze effects
+Immunité contre les états d'étourdissement
+# KEY_SONIC_IMMUNITY_NAME
+DAZE IMMUNITY
+IMMUNITÉ CONTRE L'ÉTOURDISSEMENT
+# KEY_SONIC_RESISTANCE_DESCRIPTION
+Shock or sonic damage values are halved
+Les dégâts électriques ou soniques sont réduits de moitié.
+# KEY_SONIC_RESISTANCE_NAME
+DAZE RESISTANCE
+RÉSISTANCE À L'ÉTOURDISSEMENT
+# KEY_SPAWN_ACIDWORM_DESCRIPTION
+Give birth to a Acidworm
+Faites apparaître un Ver caustique.
+# KEY_SPAWN_ACIDWORM_NAME
+SPAWN ACIDWORM
+GÉNÉRER VER CAUSTIQUE
+# KEY_SPAWN_FIREWORM_DESCRIPTION
+Give birth to a Fireworm
+Faites apparaître un Ver de feu.
+# KEY_SPAWN_FIREWORM_NAME
+SPAWN FIREWORM
+GÉNÉRER VER DE FEU
+# KEY_SPAWN_MINDFRAGGER_DESCRIPTION
+Give birth to a Mindfragger
+Générez un Corrupteur.
+# KEY_SPAWN_MINDFRAGGER_NAME
+SPAWN MINDFRAGGER
+GÉNÉRER CORRUPTEUR
+# KEY_SPAWN_MIST_ABILITY_DESCRIPTION
+Spawn a cloud of mist around the creature
+Générez un nuage brumeux autour de la créature.
+# KEY_SPAWN_MIST_ABILITY_NAME
+SPAWN MIST
+GÉNÉRER BRUME
+# KEY_SPAWN_POISONWORM_DESCRIPTION
+Give birth to a Poisonworm
+Faites apparaître un Ver toxique.
+# KEY_SPAWN_POISONWORM_NAME
+SPAWN POISONWORM
+GÉNÉRER VER TOXIQUE
+# KEY_SPECIAL_SOW_DESCRIPTION
+Plant modified seeds in the ground.
+Plantez des graines modifiées dans le sol.
+# KEY_SPECIAL_SOW_NAME
+SOW SEEDS
+PLANTER GRAINES
+# KEY_SPIDER_EXPLODE_DESCRIPTION
+Self destruct explosion
+Explosion d'auto-destruction
+# KEY_SPIDER_EXPLODE_NAME
+DETONATE
+DÉTONATION
+# KEY_SPIT_POISON_DESCRIPTION
+Spit poison at enemy or target
+Crachez du poison sur un ennemi ou une cible.
+# KEY_SPIT_POISON_NAME
+SPIT POISON
+JET TOXIQUE
+# KEY_STANDBY_ABILITY_DESCRIPTION
+Enter Standby Mode until further instructions
+Entrez en mode Stand-by jusqu'à nouvel ordre.
+# KEY_STANDBY_ABILITY_NAME
+STANDBY
+STAND-BY
+# KEY_STEALTH_SPECIALIST_DESCRIPTION
+Additional +25% to stealth factor of armor
+Facteur de furtivité de l'armure +25 %.
+# KEY_STEALTH_SPECIALIST_NAME
+STEALTH SPECIALIST
+EXPERT DE LA FURTIVITÉ
+# KEY_STRIKE_DESCRIPTION
+Perform a melee attack against an adjacent enemy
+Attaquez un ennemi adjacent au corps à corps.
+# KEY_STRIKE_NAME
+STRIKE
+FRAPPER
+# KEY_STRONGMAN_PERSONALTRACK_DESC
+Gain Heavy weapons proficiency with +20% accuracy, +2 Strength and -15 perception
+Obtenez la maîtrise des armes lourdes avec +20 % de précision, +2 points de puissance et -15 points de perception
+# KEY_STRONGMAN_PERSONALTRACK_NAME
+STRONGMAN
+HOMME FORT
+# KEY_STRUCTURE_ABILITY_DESCRIPTION
+Key structural target
+Cible structurelle clé
+# KEY_STRUCTURE_ABILITY_NAME
+KEY STRUCTURE
+STRUCTURE CLÉ
+# KEY_SURPRISE_ATTACK_DESCRIPTION
+Attacks from behind gain shock value equal to 3 times the damage dealt
+Les attaques par-derrière octroient une valeur électrique équivalente à 3 fois les dégâts infligés.
+# KEY_SURPRISE_ATTACK_NAME
+SURPRISE ATTACK
+ATTAQUE-SURPRISE
+# KEY_SURVEILLANCE_DESCRIPTION
+Activate special ability if enemies are within detection range
+Activez une capacité spéciale si les ennemis sont à portée de détection.
+# KEY_SURVEILLANCE_NAME
+PROXIMITY DETECTION
+DÉTECTION À PROXIMITÉ
+# KEY_SY_VEHICLE_FULL_RESTORE_DESCRIPTION
+Fully heal and repair target, remove 50% Paralysis
+Restaure et répare la cible, retire 50 % de la paralysie.
+# KEY_SY_VEHICLE_FULL_RESTORE_NAME
+FULL RESTORE
+RESTAURATION COMPLÈTE
+# KEY_TAKE_TWO_SHOTS_WITH_DOUBLE_ACCURACY
+Take two shots with double accuracy
+Effectuez deux tirs avec une précision double.
+# KEY_TAKE_UP_TO_3_BURSTS_AT_ONE_OR_MORE_T
+Take up to 3 bursts at one or more targets, with no action cost.
+Effectuez jusqu'à 3 rafales sur au moins une cible, sans coût d'action.
+# KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_DESCRIPTION
+Give yourself and allies within 20 tiles a bonus of 20 armour for 1 turn. This effect does not stack.
+Octroyez-vous et à vos alliés dans un rayon de 20 cases un bonus de 20 points d'armure pendant 1 tour. Cet effet n'est pas cumulable.
+# KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_NAME
+ELECTRIC REINFORCEMENT
+RENFORCEMENT ÉLECTRIQUE
+# KEY_TECHNICIAN_FAST_USE_DESCRIPTION
+The Action Point cost of Medkits, Stimpacks, and Robotic Arm abilities is reduced by 1
+Les capacités Médikits, Stimpacks et Bras robotique coûtent 1 point d'action de moins.
+# KEY_TECHNICIAN_FAST_USE_NAME
+FAST USE
+USAGE RAPIDE
+# KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION
+Restore 10 Hit Points and 10 Armor to all body parts of the selected target. Disabled body parts are restored.
+Restaurez 10 points de vie et 10 points d'armure à toutes les parties du corps de la cible. Les parties du corps désactivées sont restaurées.
+# KEY_TECHNICIAN_FIELD_MEDIC_NAME
+FIELD MEDIC
+MÉDECIN DE TERRAIN
+# KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION
+Take control of a turret or vehicle weapon and shoot at a target. 
+Prenez le contrôle d'une tourelle ou d'une arme embarquée sur un véhicule pour tirer sur une cible.
+# KEY_TECHNICIAN_MANUAL_CONTROL_NAME
+REMOTE CONTROL
+CONTRÔLE À DISTANCE
+# KEY_TECHNICIAN_PROFICIENCY_DESCRIPTION
+Proficiency with PDWs, robotic arms, and turret deployment.
+Maîtrise des PDW, des bras robotiques et du déploiement de tourelles.
+# KEY_TECHNICIAN_PROFICIENCY_NAME
+TECHNICIAN TRAINING
+ENTRAÎNEMENT DE TECHNICIEN
+# KEY_TECHNICIAN_RELOAD_TURRET_DESCRIPTION
+Reload turret. Current turret ammunition will be lost.
+Rechargez la tourelle. Les munitions actuelles de la tourelle seront perdues.
+# KEY_TECHNICIAN_RELOAD_TURRET_NAME
+RELOAD TURRET
+RECHARGER TOURELLE
+# KEY_TECHNICIAN_REMOTE_DEPLOYMENT_DESCRIPTION
+Turrets can be thrown and deployed for 1 Action Point
+Les tourelles peuvent être lancées et déployées pour 1 point d'action.
+# KEY_TECHNICIAN_REMOTE_DEPLOYMENT_NAME
+REMOTE DEPLOYMENT
+DÉPLOIEMENT À DISTANCE
+# KEY_TECHNICIAN_REPAIR_DESCRIPTION
+Restore {GeneralHealAmount} Hit Points to mechanical devices
+Restaurez {GeneralHealAmount} points de vie aux dispositifs mécaniques.
+# KEY_TECHNICIAN_REPAIR_NAME
+TECHNICIAN REPAIR
+RÉPARATION DE TECHNICIEN
+# KEY_TECHNICIAN_RESTORE_DESCRIPTION
+Restore {GeneralHealAmount} to the general Hit Points and remove 50% paralysis of an allied unit using 1 charge
+Restaurez {GeneralHealAmount} aux points de vie généraux et retirez 50 % de paralysie d'une unité alliée avec 1 charge.
+# KEY_TECHNICIAN_RESTORE_NAME
+TECHNICIAN HEAL
+SOIN DE TECHNICIEN
+# KEY_TELEPATHIC_ATTACK_DESCRIPTION
+Reduce the Will Points of all enemy units in a 20 tile radius
+Réduisez les points de volonté de toutes les unités ennemies dans un rayon de 20 cases.
+# KEY_TELEPATHIC_ATTACK_NAME
+PSYCHIC SCREAM
+CRI PSYCHIQUE
+# KEY_THIEF_PERSONALTRACK_DESC
+25% bonus stealth and +1 speed
+25 % de furtivité bonus et +1 point de vitesse
+# KEY_THIEF_PERSONALTRACK_NAME
+THIEF
+VOLEUR
+# KEY_THROW_GRENADE_DESCRIPTION
+Throw grenade at a target position
+Lancez une grenade sur une position cible.
+# KEY_THROW_GRENADE_NAME
+THROW GRENADE
+LANCER GRENADE
+# KEY_TURRET_COMBO_DESCRIPTION
+Take a shot at a target, and all turrets will shoot at the same target.
+Tirez sur une cible et toutes les tourelles tireront dessus aussi.
+# KEY_TURRET_COMBO_NAME
+TURRET COMBO
+COMBO DE TOURELLES
+# KEY_USE_ADVANCED_MEDKIT_DESCRIPTION
+Restore {GeneralHealAmount} Hit Points and remove bleeding, poison, and 50% paralysis
+Restaure {GeneralHealAmount} points de vies, supprime toute infection virale, et retire 50 % de la paralysie.
+# KEY_USE_ADVANCED_MEDKIT_NAME
+USE MEDKIT
+UTILISER MÉDIKIT
+# KEY_USE_ADVANCED_VIROPHAGE_KIT_DESCRIPTION
+Restore {GeneralHealAmount} Hit Points, and remove 50% paralysis and all viral infection
+Restaure {GeneralHealAmount} points de vies, supprime toute infection virale, et retire 50 % de la paralysie.
+# KEY_USE_ADVANCED_VIROPHAGE_KIT_NAME
+VIROPHAGE MEDKIT
+MÉDIKIT VIROPHAGE
+# KEY_USE_ATTACHED_EQUIPMENT_DESCRIPTION
+Use Jet Jump ability without risk of fumbling
+Utilisez la capacité Propulsion sans risque d'erreur.
+# KEY_USE_ATTACHED_EQUIPMENT_NAME
+JETPACK PROFICIENCY
+MAÎTRISE DU JETPACK
+# KEY_USE_MEDKIT_DESCRIPTION
+Restore {GeneralHealAmount} Hit Points and remove bleeding and poison
+Restaure {GeneralHealAmount} points de vies et supprime toute infection virale.
+# KEY_USE_MEDKIT_NAME
+USE MEDKIT
+UTILISER MÉDIKIT
+# KEY_USE_STIMPACK_DESCRIPTION
+Instill Frenzy on target, increasing movement by 50% for 2 turns, with panic immunity
+Provoquez la frénésie de la cible, augmentant ses déplacements de 50 % pendant 2 tours, avec une immunité contre la panique
+# KEY_USE_STIMPACK_NAME
+USE STIMPACK
+UTILISER STIMPACK
+# KEY_USE_THROW_TURRET_DESCRIPTION
+Throw a turret at a selected ground location. The turret will deploy automatically.
+Lancez une tourelle sur un emplacement terrestre. Elle se déploie automatiquement.
+# KEY_USE_THROW_TURRET_NAME
+THROW TURRET
+LANCER TOURELLE
+# KEY_USE_VIROPHAGE_KIT_DESCRIPTION
+Restore {GeneralHealAmount} Hit Points and remove all viral infection
+Restaure {GeneralHealAmount} points de vies et supprime toute infection virale.
+# KEY_USE_VIROPHAGE_KIT_NAME
+VIROPHAGE MEDKIT
+MÉDIKIT VIROPHAGE
+# KEY_VANISH_DESCRIPTION
+Move within 5 tiles and disappear from view for the next turn (or until spotted)
+Déplacez-vous dans un rayon de 5 cases et disparaissez du champ de vision au tour suivant (ou jusqu'à détection).
+# KEY_VANISH_NAME
+VANISH
+DISPARAÎTRE
+# KEY_VCEHICLE_RAM_DESCRIPTION
+Ram in a straight line in the selected direction, destroying or damaging everything in its path.
+Foncez droit devant vous dans la direction choisie, détruisant ou endommageant tout sur votre passage.
+# KEY_VCEHICLE_RAM_NAME
+RAM
+BÉLIER
+# KEY_VIRUS_IMMUNITY_DESCRIPTION
+Immune to the effects of Virus attacks
+Immunité contre les effets des attaques virales.
+# KEY_VIRUS_IMMUNITY_NAME
+IMMUNE TO VIRUS
+IMMUNITÉ CONTRE LES VIRUS
+# KEY_VIRUS_RESISTANCE_DESCRIPTION
+Reduces effect of Virus Damage by half
+Réduit l'effet des dégâts de virus de moitié
+# KEY_VIRUS_RESISTANCE_NAME
+VIRUS RESISTANT
+RÉSISTANCE AU VIRUS
+# KEY_WEAPON_BASH_DESCRIPTION
+Bash adjacent enemy, with shock and damage value equal to Strength times item weight. Half the damage is done to item/hand.
+Cognez un ennemi adjacent avec un objet. La valeur de la décharge et des dégâts est équivalente à la puissance multipliée par le poids de l'objet. L'objet/la main reçoit la moitié des dégâts.
+# KEY_WEAPON_BASH_NAME
+BASH ATTACK
+COUP VIOLENT
+# KEY_WORM_ACID_EXPLODE_DESCRIPTION
+Burst in a cloud of acid inflicting Acid Damage in a 3 tile radius
+Explosion dans un nuage d'acide qui inflige des dégâts caustiques dans un rayon de 3 cases.
+# KEY_WORM_ACID_EXPLODE_NAME
+ACID BURST
+EXPLOSION CAUSTIQUE
+# KEY_WORM_EXPLODE_DESCRIPTION
+Burst in a wave of fire dealing Fire Damage in a 3 tile radius.
+Explosion dans un vague de feu qui inflige des dégâts de feu dans un rayon de 3 cases.
+# KEY_WORM_EXPLODE_NAME
+FIRE BURST
+EXPLOSION DE FEU
+# KEY_WORM_POISON_EXPLODE_DESCRIPTION
+Burst in a cloud of poison inflicting Poison Damage in a 3 tile radius
+Explosion dans un nuage de poison qui inflige des dégâts toxiques dans un rayon de 3 cases.
+# KEY_WORM_POISON_EXPLODE_NAME
+POISON BURST
+EXPLOSION TOXIQUE
+# KEY_YUGGOTH_ATTACK_DESCRIPTION
+Apply a mark on an enemy, which damages it, and enemies within 5 tiles, at the start of each turn.
+Applique une marque sur un ennemi, celle-ci lui cause des dommages, ainsi qu'à tous les ennemis localisés à 5 cases, au début de chaque tour.
+# KEY_YUGGOTH_ATTACK_NAME
+MARK OF THE VOID
+MARQUE DU VIDE
+# KEY_YUGGOTH_DEFENCE_DESCRIPTION
+75% resistance to acid, explosions, and fire
+75 % de résistance à l'acide, aux explosions, et au feu
+# KEY_YUGGOTH_DEFENCE_NAME
+ACID, EXPLOSIVES, AND FIRE RESISTANCE
+ACIDE, EXPLOSIFS, ET RÉSISTANCE AU FEU

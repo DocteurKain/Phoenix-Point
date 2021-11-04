@@ -1,0 +1,660 @@
+﻿# KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_COMPLETE
+Species classification MYR-A[n]Placed higher in the Myrmidon's evolution chain, this species shows great cunning when performing its armed reconnaissance duties. What makes it exceptionally dangerous is its tendency to violently burst in an explosion of acid when threatened.
+Classification de l'espèce MYR-A[n] Placée plus haut dans la chaîne de l'évolution du Myrmidon, cette espèce s'avère très futée lors de ses missions de reconnaissance armée. Ce qui la rend exceptionnellement dangereuse, c'est sa tendance à violemment exploser en projetant de l'acide quand elle se sent menacée.
+# KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_NAME
+ACID MYRMIDON
+MYRMIDON CAUSTIQUE
+# KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_ALN_ACID_SWARMER_RESEARCHDEF_UNLOCK
+A new sub mutation of the Myrmidon species is reported to cause violent explosions of acid produced by special internal organs.
+On signale qu'une nouvelle sous-mutation de l'espèce Myrmidon provoque de violentes explosions d'acide produit par des organes internes spéciaux.
+# KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_COMPLETE
+Species classification MYR-1[n]The Myrmidon creatures are known to take advantage of their large numbers and winged bodies to secure strategic locations and serve as armed reconnaissance troops for the Pandorans.
+Classification de l'espèce MYR-1[n] Les Myrmidons sont connus pour tirer parti de leur grand nombre et de leurs corps ailés pour s'emparer de zones stratégiques et servir de troupes de reconnaissance armées pour les Pandoriens.
+# KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_NAME
+MYRMIDON
+MYRMIDON
+# KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_REVEAL
+
+placeh
+# KEY_FS_ALN_BASIC_SWARMER_RESEARCHDEF_UNLOCK
+A new, nimble mutation of the Pandoravirus brought by the Festering Skies.
+Une nouvelle mutation agile du Pandoravirus apportée par les Ciels de poison.
+# KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_COMPLETE
+Species classification CN-Alpha[n]A highly evolved form of the Pandoravirus has been reported to attack human settlements by attaching itself to structures and machinery to form a powerful symbiotic connection. Affected havens are completely overtaken by the creature and all of their citizens are kept in a mindless state serving the Pandorans.[n]Recent reports indicate Corruption Nodes are able to establish similar telepathic connection with AI-operated aircraft and using it to attack other humans. Despite the evidence of high intelligence, no attempt at peaceful contact with the creature has been successful yet.
+Classification de l'espèce CN-Alpha[n] On signale qu'une forme très évoluée du Pandoravirus attaque des colonies humaines en s'attachant aux machines et aux structures formant une forte connexion symbiotique. Les refuges affectés sont complètement contrôlés par la créature et tous les citoyens sont conservés dans un état d'abrutissement bien utile aux Pandoriens.[n] De récents rapports indiquent que les Nœuds de corruption sont capables d'établir une connexion télépathique similaire avec les vaisseaux opérés par IA qu'ils utilisent ensuite pour attaquer d'autres humains. Malgré les preuves d'une intelligence supérieure, aucune tentative de contact pacifique avec la créature n'a pour le moment porté ses fruits.
+# KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_NAME
+CORRUPTION NODE
+NŒUD DE CORRUPTION
+# KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_ALN_CORRUPTION_NODE_RESEARCHDEF_UNLOCK
+A monstrous entity whose anatomy doesn't resemble any Pandoravirus mutation in our database able to take over machines and entire settlements by telepathic attacks.
+Une entité monstrueuse dont l'anatomie ne ressemble en rien aux mutations de Pandoravirus de notre base de données. Elle est capable de prendre le contrôle de machines et de colonies entières par attaques télépathiques.
+# KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_COMPLETE
+Species classification PF-Alpha[n]The largest species of winged Pandoran discovered to date shows superior strength and intelligence. Its complex and unpredictable behavioral patterns make it the greatest airborne threat to humanity. The study of its movements is of utmost importance given its cunning and destructive potential. Threat level: critical.
+Classification de l'espèce PF-Alpha[n] La plus grande espèce de Pandorien ailé découverte à ce jour indique une force et une intelligence supérieures. Ses comportements complexes et imprévisibles en font la menace volante la plus redoutable pour l'humanité. L'observation de ses déplacements est une priorité étant donné son potentiel fourbe et destructeur. Niveau de menace : critique.
+# KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_NAME
+ABADDON
+ABADDON
+# KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_REVEAL
+
+Placeholder text
+# KEY_FS_ALN_LARGE_FLYER_RESEARCHDEF_UNLOCK
+
+Placeholder text
+# KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_COMPLETE
+Species classification PF-M[n]This new mutation spawned from the Festering Skies is aggressive and tenacious. Its well-coordinated flight patterns indicate a sinister sense of purpose. Field reports and collected footage shows that Berith strikes are carefully planned in advance and executed with alarming haste and precision. Threat level: very high.
+Classification de l'espèce PF-M[n] Cette nouvelle mutation est apparue dans les Ciels de poison. Elle est agressive et tenace. Ses trajectoires de vol indiquent une détermination sinistre. Les rapports de terrain et les images recueillies montrent que les attaques de Berith sont soigneusement planifiées et réalisées avec une vitesse et une précision alarmantes. Niveau de menace : très élevé.
+# KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_NAME
+BERITH
+BERITH
+# KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_REVEAL
+
+Placeholder text
+# KEY_FS_ALN_MEDIUM_FLYER_RESEARCHDEF_UNLOCK
+
+Placeholder text
+# KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_COMPLETE
+Species classification PF-1[n]This newly discovered mutation of the Pandoravirus was first spotted after the hatching of the Behemoth. It is likely bred inside the Festering Skies. It shows signs of great intelligence, probably remotely guided by some sort of hive mind. Charun specimens are highly aggressive and are known to attack both airborne and stationary human targets. Threat level: high.
+Classification de l'espèce PF-1[n] Cette mutation récemment découverte du Pandoravirus a été repérée pour la première fois après l'éclosion du Béhémoth. Elle a probablement été produite dans les Ciels de poison. Elle montre des signes de grande intelligence et est sûrement guidée par une sorte d'intelligence collective. Les spécimens de Charun sont très agressifs et attaquent les cibles humaines en vol ou stationnaires. Niveau de menace : élevé.
+# KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_NAME
+CHARUN
+CHARUN
+# KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_REVEAL
+
+Placeholder text
+# KEY_FS_ALN_SMALL_FLYER_RESEARCHDEF_UNLOCK
+
+Placeholder text
+# KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_COMPLETE
+Species classification MYR-POD[n]Field reports indicate the shell of this creature is harder to penetrate and even dissolve using acid. The egg is reactive to approaching humans and machines, and when threatened, shows ability to quickly release the Myrmidon hibernating  inside.
+Classification de l'espèce MYR-POD[n] [n] Les rapports sur le terrain indiquent que la coquille de cette créature est plus difficile à transpercer ou même à dissoudre avec de l'acide. L'œuf réagit à l'approche d'humains et de machines, et lorsqu'il se sent menacé, il peut rapidement libérer le Myrmidon en hibernation qu'il contient.
+# KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_NAME
+MYRMIDON EGG
+ŒUF DE MYRMIDON
+# KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_ALN_SWARMER_EGG_RESEARCHDEF_UNLOCK
+An organism containing singular Myrmidon inside. Its shell shows great resistance to external dangers including acid and poison exposure.
+Un organisme contenant un Myrmidon. Sa coquille est très résistante aux dangers externes, y compris à l'acide et au poison.
+# KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_COMPLETE
+Species classification MYR-P[n]An evolved form of the recently discovered Myrmidon mutants with internal chambers filled with chemicals similar to some known species of Pandoran worms. When threatened, the creature releases the chemicals to cause a powerful explosion of poisonous gas.
+Classification de l'espèce MYR-P[n] Une forme évoluée de Myrmidons mutants récemment découverts qui sont dotés de cavités internes remplies de substances chimiques semblables à celles d'espèces connues de vers pandoriens. Lorsqu'elle se sent menacée, cette créature libère des substances chimiques visant à provoquer une grosse explosion de gaz toxique.
+# KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_NAME
+VENOMOUS MYRMIDON
+MYRMIDON VENIMEUX
+# KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_ALN_VENOMOUS_SWARMER_RESEARCHDEF_UNLOCK
+A new sub mutation of the Myrmidon species has been known to attack humans with bursts of poisonous gas.
+Une nouvelle sous-mutation de l'espèce Myrmidon attaque les humains avec des explosions de gaz toxique.
+# KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_BENEFIT
+Battle-ready Tiamat is available for production
+Le Tiamat de combat est disponible à la production
+# KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_COMPLETE
+The Disciples of Anu have completed one of their most sacred rituals - the Rite of Winged Warfare. [n][n]The Gospel of the Exalted instructs this doctrine should be set in motion only if a great danger must be met high in the air. The rite includes anointments of airships for war and inscriptions of weaponry with oaths of vengeance. Multiple choirs of young children take turns chanting for days on end until the ceremony is complete.
+Les Disciples d'Anu ont terminé l'un de leurs rituels les plus sacrés – le Rite de la Guerre aérienne.[n] [n] L'Évangile de l'Exaltée invite à mettre cette doctrine en œuvre uniquement si un grand dans danger doit être affronté dans les airs. Le rite inclut des onctions de vaisseaux pour la guerre et des inscriptions de serments de vengeance sur les armes. Plusieurs chorales de jeunes enfants chantent chacune leur tour pendant des jours jusqu'à la fin de la cérémonie.
+# KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_NAME
+Anu Winged Warfare Doctrine
+Doctrine de la guerre ailée d'Anu
+# KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_AN_AERIAL_WARFARE_RESEARCHDEF_UNLOCK
+The Gospel of the Exalted warns of a "great enemy in the sky" and offers clear instructions for waging aerial warfare.
+L'Évangile de l'Exaltée met en garde contre un « puissant ennemi dans le ciel » et fournit des instructions claires pour mener une guerre aérienne.
+# KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_BENEFITS
+Ninurta's Mace is available for production
+La Massue de Ninurta est disponible à la production
+# KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_COMPLETE
+Named after a a weapon of ancient myth, this heavy bombard exemplifies the Disciples' vengeance against airborne enemies. As the Rite of Winged Warfare dictated, the barrels of these special guns are inscribed with oaths of destruction and praises to the Dead God.
+Tenant son nom d'une arme d'un mythe ancien, cet armement lourd illustre parfaitement la vengeance des Disciples contre les ennemis volants. Comme l'exige le Rite de la Guerre ailée, les canons de ces armes spéciales portent les inscriptions de serments de destruction et d'éloges du Dieu défunt.
+# KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_NAME
+Ninurta's Mace
+Massue de Ninurta
+# KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_AN_BOMBARD_MODULE_RESEARCHDEF_UNLOCK
+Disciples of Anu heavy air-to-air cannon
+Le canon aérien lourd des Disciples d'Anu.
+# KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_BENEFITS
+ECM Jammer is available for production
+Le brouilleur CME est disponible à la production
+# KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_COMPLETE
+The successful use of electromagnetic jammer technology is not something the enemies of Anu expect to see in combat, and that's where the genius of the device lies. Usable at short ranges, this special module completely shuts down radar guidance systems, making even the most advanced air-to-air warheads practically unusable.
+Les ennemis d'Anu ne s'attendent pas à une bonne utilisation de la technologie de brouillage électromagnétique en combat, et c'est pour cette raison que le dispositif est formidable. Ce module peut s'utiliser à courte portée et désactive complètement les systèmes de guidage par radar, ce qui rend même les ogives air-air les plus sophistiquées pratiquement inutiles.
+# KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_NAME
+ECM Jammer
+Brouilleur CME
+# KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_AN_ECM_JAMMER_MODULE_RESEARCHDEF_UNLOCK
+Electromagnetic jammer module used to disable radar-guided missiles
+Un module de brouilleur électromagnétique utilisé pour désactiver les missiles guidés par radar.
+# KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_BENEFITS
+Ishara's Bane is available for production
+Le Fléau d'Ishara est disponible à la production
+# KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_COMPLETE
+Hardly any other air-to-air contraption has stirred as much discussion among the scientific society as Ishara's Bane. Using live Mutogs as a weapon of aerial conflict has ran the gamut from praise of genius to outrage questioning the practice's humanity and even sanity.[n][n]So far, Anu priests have been closely monitoring the ongoing conversation on the subject - mostly for personal amusement, rather than public relations or scientific progress.
+Presque aucun autre engin aérien n'a fait autant parler de lui dans le milieu de la science que le Fléau d'Ishara. L'utilisation d'un Mutog vivant comme arme de combat aérien provoque des réactions allant de l'éloge du génie à l'outrage questionnant l'humanité, voire le bon sens de cette pratique.[n] [n] Jusqu'à présent, les prêtres d'Anu surveillent de près la conversation sur le sujet – plutôt pour leur amusement personnel que pour les relations publiques ou les avancées scientifiques.
+# KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_NAME
+Ishara's Bane
+Fléau d'Ishara
+# KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_AN_MUTOG_CATAPULT_MODULE_RESEARCHDEF_UNLOCK
+Disciples of Anu Mutog catapult
+La catapulte Mutog des Disciples d'Anu
+# KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_BENEFITS
+Oracle is available for production
+L'Oracle est disponible à la production
+# KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_COMPLETE
+The pinnacle of Anu innovation is appropriately dubbed the Oracle. Its complicated operation requires the following of specific installation procedures and spiritual attunement only performed by high priests. Once operational, the module allows a priest to telepathically guide air-to-air missiles in battle, rendering conventional countermeasures useless and making Anu a force to be reckoned with in aerial warfare.
+Le summum de l'innovation des Disciples d'Anu est nommé à-propos l'Oracle. Son utilisation compliquée exige de suivre des procédures d'installation spécifiques et une harmonisation spirituelle qui n'est effectuée que par des grands prêtres. Une fois opérationnel, ce module permet à un prêtre de guider les missiles air-air en combat par télépathie, ce qui rend les contre-mesures conventionnelles inutiles et fait d'Anu une force militaire à ne pas sous-estimer dans la guerre aérienne.
+# KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_NAME
+Oracle
+Oracle
+# KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_AN_ORACLE_MODULE_RESEARCHDEF_UNLOCK
+A special Disciples of Anu module granting weapons psychic guidance in battle
+Un module spécial des Disciples d'Anu qui équipe les armes d'un guidage psychique en combat.
+# KEY_FS_AN_RAM_MODULE_RESEARCHDEF_BENEFITS
+Ravager is available for production
+Le Ravageur est disponible à la production
+# KEY_FS_AN_RAM_MODULE_RESEARCHDEF_COMPLETE
+The close-combat doctrine of Anu warfare is followed even in the air. Taking advantage of the Tiamat's large structure and high stability, the Disciples have found ways to ram into enemy aircraft - a tactic so surprising, that it almost always pays off.
+La doctrine de combat rapproché d'Anu est observée jusque dans le ciel. En tirant profit de la grande structure et de la bonne stabilité du Tiamat, les Disciples ont trouvé des moyens de percuter les vaisseaux ennemis – une tactique tellement surprenante qu'elle est presque toujours efficace.
+# KEY_FS_AN_RAM_MODULE_RESEARCHDEF_NAME
+Ravager 
+Ravageur
+# KEY_FS_AN_RAM_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_AN_RAM_MODULE_RESEARCHDEF_UNLOCK
+Disciples of Anu ramming module
+Le module percutant des Disciples d'Anu.
+# KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_BENEFITS
+Reinforced Bulkheads are available for production
+Les cloisons renforcées sont disponibles à la production
+# KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_COMPLETE
+The Disciples of Anu are very efficient in identifying and maximizing their strengths in battle. A good example are the reinforced bulkheads found on many Tiamats, allowing them to stay afloat longer and even ram enemies without risking critical damage to their own aircraft.
+Les Disciples d'Anu identifient et maximisent leurs forces en combat avec efficacité. La preuve en sont les cloisons renforcées qu'on trouve sur de nombreux Tiamats. Elles permettent de rester à flot plus longtemps et même de percuter les ennemis sans risquer de subir des dégâts critiques sur leur propre vaisseau.
+# KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_NAME
+Reinforced Bulkheads
+Cloisons renforcées
+# KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_RESEARCHDEF_UNLOCK
+A sizable upgrade to the aircraft's hull increases its durability in combat
+Une amélioration importante de la coque du vaisseau augmente sa durabilité en combat.
+# KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_BENEFITS
+Battle-ready Thunderbird is available for production
+L'Oiseau de foudre de combat est disponible à la production
+# KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_COMPLETE
+While ground warfare remains New Jericho's preferred method of Pandoran destruction, the faction has invested heavily in an Air Force Division. For the past few years their own innovation team, partnered with a collective of external researchers, has reached great progress in perfecting air-to-air weaponry, extra-light armor plating, and arming a large Thunderbird squadron for aerial conflict.[n][n]In a publicly broadcast speech, Tobias West has expressed great satisfaction with the developments of the Air Force program and announced a large military parade where he will personally test pilot a brand new Thunderbird pattern aircraft.
+Bien que la guerre au sol reste la méthode préférée de la Nouvelle-Jéricho pour éliminer les Pandoriens, la faction a fait de gros investissements dans sa division aérienne. Au cours des dernières années, son équipe pour l'innovation, en collaboration avec un collectif de chercheurs externes, a fait de grandes avancées dans le perfectionnement de son arsenal aérien, de son blindage extra-léger, et de son armement d'un grand escadron d'Oiseaux de foudre pour la guerre aérienne.[n] [n] Dans un discours public, Tobias West a exprimé sa grande satisfaction quant aux avancées du programme des forces aériennes et a annoncé un grand défilé militaire où il testerait lui-même un tout nouveau modèle de vaisseau Oiseau de foudre.
+# KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_NAME
+New Jericho Air Force Division
+Division aérienne de la Nouvelle-Jéricho
+# KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_NJ_AERIAL_WARFARE_RESEARCHDEF_UNLOCK
+Tobias West has ordered the formation of New Jericho Air Force Division tasked with taking on the new airborne threat. It appears the program has been secretly in development for years and only now revealed to the public.
+Tobias West a ordonné la formation d'une division aérienne pour la Nouvelle-Jéricho. Celle-ci devra prendre en charge la nouvelle menace volante. Il semble que la mise en œuvre de ce programme se prépare depuis des années, pourtant il n'est révélé au public que maintenant.
+# KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_BENEFITS
+Armor Plates is available for production
+Les plaques de blindage sont disponibles à la production
+# KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_COMPLETE
+New Jericho military innovation follows the same principles every weapon construction has obeyed since the prehistoric age - make it so you kill the enemy before it kills you. [n][n]The complex arming procedures of the Air Force program dictate equal parts of effort and attention are to be spent on offense and defense. The result of this balanced approach is the recent development of superior armor plating light enough to allow an aircraft to maneuver effortlessly, but strong enough to protect its hull from incoming gunfire.
+L'innovation militaire de la Nouvelle-Jéricho observe les mêmes principes que toute construction d'arme depuis la nuit des temps – son but est de tuer l'ennemi avant qu'il ne vous tue.[n] [n] Les procédures complexes d'armement élaborées par le programme des forces aériennes imposent autant d'efforts et d'attention à l'attaque qu'à la défense. Cette méthode équilibrée a permis de fabriquer un blindage supérieur assez léger pour qu'un vaisseau puisse manœuvrer sans difficulté, mais assez résistant pour protéger sa coque contre les tirs ennemis.
+# KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_NAME
+Armor Plates
+Plaques de blindage
+# KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_NJ_ARMOR_PLATES_MODULE_RESEARCHDEF_UNLOCK
+This ultra-light reinforced plating ensures great stability and prevents impact damage to the aircraft's surface.
+Ce blindage renforcé ultraléger garantit une bonne stabilité et évite les dégâts d'impact à la surface du vaisseau.
+# KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_BENEFITS
+Cruise Control is available for production
+Le régulateur de vitesse est disponible à la production
+# KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_COMPLETE
+Even if a machine's construction is flawless, there is always one big weakness in any navigation system - the human factor. Even the most experienced pilots are known to make impulsive decisions in times of crisis. Luckily, New Jericho's improved AI takes emotion out of the equation and makes sure every route selected is optimized. Using this tech, our aircraft can now reach their destinations faster, taking into account factors such as weather and even the presence of enemies.
+Même si la construction d'une machine est parfaite, il y a toujours un gros point faible dans tout système de navigation – le facteur humain. Même les pilotes les plus expérimentés peuvent prendre des décisions impulsives en période de crise. Heureusement, la nouvelle IA perfectionnée de la Nouvelle-Jéricho exclut les émotions et s'assure que tous les itinéraires sélectionnés sont optimaux. Grâce à cette technologie, notre vaisseau peut désormais atteindre sa destination plus rapidement, en prenant en compte les facteurs tels que les conditions météorologiques et même la présence d'ennemis.
+# KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_NAME
+Cruise Control
+Régulateur de vitesse
+# KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_NJ_CRUISE_CONTROL_MODULE_RESEARCHDEF_UNLOCK
+This superior navigation AI system allows aircraft to move faster and find optimal routes across enemy-infested skies.
+Ce système sophistiqué d'IA de navigation permet au vaisseau de se déplacer plus rapidement et de trouver des itinéraires optimaux dans le ciel infesté d'ennemis.
+# KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_BENEFITS
+Fuel Tank is available for production
+Le réservoir de carburant est disponible à la production
+# KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_COMPLETE
+Modern flight technology owes big part of its development to earlier discoveries made for efficient land travel. One such discovery is efficient fuel consumption. Applying principles first tested on Armadillo armored transports, New Jericho aircraft can now optimize fuel consumption to drastically improve the range of its flying warmachines.  
+La technologie moderne de vol doit une grande partie de sa conception aux découvertes antérieures pour améliorer l'efficacité des déplacements terrestres, comme la réduction de la consommation de carburant. En appliquant les principes d'abord testés sur les transporteurs blindés Priodontes, les vaisseaux de la Nouvelle-Jéricho peuvent désormais optimiser leur consommation de carburant pour considérablement améliorer la portée de ses machines de guerre volantes.
+# KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_NAME
+Fuel Tank
+Réservoir de carburant
+# KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_NJ_FUEL_TANK_MODULE_RESEARCHDEF_UNLOCK
+This efficient module allows the aircraft to travel greater distances, while only negligibly increasing its overall weight 
+Ce module efficace permet au vaisseau de parcourir de plus longues distances sans augmenter considérablement son poids global.
+# KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_BENEFITS
+Gadfly RC-6 is available for production
+Le Taon RC-6 est disponible à la production
+# KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_COMPLETE
+A rotary cannon with formidable firepower, the Gadfly RC-6 is named so after the characteristic noise the drum is making while firing a volley of 6 destructive rounds in the air.
+Un canon rotatif doté d'une formidable puissance de tir, le Taon RC-6 est ainsi nommé en raison du bruit singulier que fait le tambour en tirant une salve de 6 cartouches destructrices.
+# KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_NAME
+Gadfly RC-6
+Taon RC-6
+# KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_NJ_FURY_POD_MODULE_RESEARCHDEF_UNLOCK
+A renowned fury pod pattern often employed by New Jericho pilots to lay heavy fire from short distances
+Un modèle de pod de fureur célèbre souvent employé par les pilotes de la Nouvelle-Jéricho pour tirer des rafales à courte distance.
+# KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_BENEFITS
+Marauder AC-4 is available for production
+Le Maraudeur AC-4 est disponible à la production
+# KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_COMPLETE
+When it comes to aerial combat, New Jericho is always looking for a the best weight-to-firepower ratio achievable. The standard-issue Marauder AC-4 autocannons are based on electromagnetic linear motors to launch bursts of heavy fire at impressive range.
+Quand il s'agit de combat aérien, la Nouvelle-Jéricho cherche toujours le meilleur ratio masse/puissance de tir possible. Les canons automatiques du Maraudeur AC-4 standard se basent sur des moteurs linéaires électromagnétiques pour tirer des rafales à une portée impressionnante.
+# KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_NAME
+Marauder AC-4
+Maraudeur AC-4
+# KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_NJ_RAILGUN_MODULE_RESEARCHDEF_UNLOCK
+New Jericho's standard-issue air-to-air railgun autocannon.
+Le canon électrique automatique aérien standard de la Nouvelle-Jéricho.
+# KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_BENEFITS
+Armageddon AAM is available for production
+L'Armageddon AAM est disponible à la production
+# KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_COMPLETE
+New Jericho spares no expense or man hours when it comes to improving its arsenal. Since the launch of the Air Force program, researchers have been exploring numerous ways of making their most powerful warheads light enough to be carried by aircraft and launched at close targets. By all accounts they've succeeded. [n][n]The Armageddon air-to-air missile is the pinnacle of New Jericho innovation and their ultimate answer to any and all airborne threats to humanity.
+La Nouvelle-Jéricho ne lésine pas sur le budget ou les heures de travail quand il s'agit d'améliorer son arsenal. Depuis le lancement du programme des forces aériennes, les chercheurs ont exploré de nombreuses options pour alléger leurs ogives les plus puissantes et ainsi permettre de les transporter à bord d'un vaisseau pour les utiliser sur des cibles proches. De toute évidence, ils ont réussi.[n] [n] Le missile air-air Armageddon est le summum de l'innovation de la Nouvelle-Jéricho et la réponse par excellence à tous les ennemis volants qui menacent l'humanité.
+# KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_NAME
+Armageddon AAM
+Armageddon AAM
+# KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_NJ_TACTICAL_NUKE_MODULE_RESEARCHDEF_UNLOCK
+The proudest invention of the New Jericho Air Force wears a name appropriate to its destructive firepower 
+L'invention et la fierté des forces aériennes de la Nouvelle-Jéricho porte un nom qui fait justice à sa puissance de tir destructrice.
+# KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_BENEFITS
+Battle-ready Manticore is available for production
+La Manticore de combat est disponible à la production
+# KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_COMPLETE
+Our researchers have been tirelessly analyzing intelligence reports, footage, and witness testimonials to learn everything they can about the Behemoth, the newly discovered flying species, and the Festering Skies. The Pandorans seem to be organized by a higher form of intelligence and their flight patterns are far from random. Careful observation of air movements reveals the Pandorans complete very specific objectives such as reconnaissance, raids, and in many cases infestation of human settlements. [n][n]Our course of action is clear: arm a squadron of Manticores and systematically attack the Pandoran patrols to prevent their rampage. While we intercept the attacks, a dedicated researcher unit will be working around the clock to study the Pandorans' behavior further and make ongoing improvements to our air-to-air arsenal.
+Nos chercheurs ont analysé sans relâche les rapports du service de renseignement, des images et des témoignages pour en apprendre le plus possible sur le Béhémoth, l'espèce volante qui vient d'être découverte, et les Ciels de poison. Les Pandoriens semblent être organisés par une forme d'intelligence et leurs comportements de vol n'ont rien d'aléatoire. Une observation attentive des déplacements aériens révèle que les Pandoriens effectuent des missions très spécifiques, notamment la reconnaissance, les raids, et dans beaucoup de cas, l'infestation de colonies humaines.[n] [n] Notre plan d'action est clair : armer un escadron de Manticores et attaquer systématiquement les patrouilles pandoriennes pour les empêcher de tout détruire. Pendant que nous interceptons les attaques, une unité de recherche dédiée étudiera en continu le comportement des Pandoriens pour améliorer davantage notre arsenal aérien.
+# KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_NAME
+Phoenix Aerial Combat Program
+Programme de combat aérien de Phoenix
+# KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_AERIAL_WARFARE_RESEARCHDEF_UNLOCK
+The attacks of the Behemoth and the lesser flying Pandorans require immediate retaliation. We need to mobilize and arm our Manticore squadron and prepare it for aerial combat.
+Les attaques du Béhémoth et des Pandoriens volants inférieurs nécessitent une riposte immédiate. Nous devons mobiliser et armer notre escadron de Manticores et le préparer au combat aérien.
+# KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_BENEFITS
+Afterburner is available for production
+Le module de postcombustion est disponible à la production
+# KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_COMPLETE
+The Manticores are small and nimble, and that's their greatest strength. With the new afterburner modules equipped, our ships can effortlessly maneuver around enemy gunfire and perform great feats of navigation. 
+Les Manticores sont petites et agiles, c'est d'ailleurs leurs plus gros atouts. Équipés de ces nouveaux modules de postcombustion, nos vaisseaux pourront éviter sans difficulté les tirs ennemis et effectuer des exploits en termes de navigation.
+# KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_NAME
+Afterburner is available for production
+Le module de postcombustion est disponible à la production
+# KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_AFTERBURNER_MODULE_RESEARCHDEF_UNLOCK
+An upgrade to the Manticore's engines will make our aircraft significantly more nimble and manoeuvrable
+Une amélioration des moteurs de la Manticore rendra notre vaisseau considérablement plus agile et maniable.
+# KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_COMPLETE
+Summary: The first Corruption Node was discovered shortly after the emergence of the Behemoth, and our scientists speculate there is a strong connection between it and the Festering Skies. The shape of the creature is alien and unnatural, and the vast majority of its DNA structure does not resemble anything we've previously observed. Pandoran specialists speculate this creature is the most advanced form of Pandoravirus mutation, something the Disciples of Anu often refer to as "The True Form". It exhibits a very advanced and powerful form of intelligence, though all attempts to communicate with it, or even catch one alive, have been futile. All unarmed humans in contact with a Corruption Node have been telepathically overpowered to the point of complete loss of free will and their settlements overtaken.[n][n]Genetic origins: 6% teuthida, 5% octopoda, 2% caudata, 9% human, 78% unknown[n][n]Function: Attaches to human facilities to create some sort of symbiotic connection. Its powerful telepathic emission can mind-control humans and even take over human technology, something we haven't seen other Pandoran species attempt.[n][n]Offensive mutations: Takes over and controls entire human settlements and technology, including aircraft.[n][n]Defensive mutations: Spreads viral agents around it's body to fend off attackers.[n][n]Mobility: Once attached, the body remains completely immobile.[n][n]Weakness:  It seems to have one-sided telepathic connection with its victims. Once the body is dead, all mind-control connection with all entities is broken.
+Synthèse : le premier Nœud de corruption a été découvert peu de temps après l'émergence du Béhémoth, et d'après nos scientifiques, il y aurait un lien étroit entre celui-ci et les Ciels de poison. Cette créature a une forme complètement étrangère et anormale et une grande partie de sa structure ADN ne ressemble en rien à ce que nous avons observé jusqu'ici. D'après les spécialistes des Pandoriens, cette créature serait la forme la plus sophistiquée de la mutation pandorienne, ce que les Disciples d'Anu appellent souvent « La Véritable forme ». Elle fait preuve d'une forme d'intelligence avancée et puissante, bien que toute tentative de communiquer avec ou même d'en attraper une en vie se soit avérée futile. Tous les humains non armés en contact avec le Nœud de corruption ont été manipulés par télépathie au point de perdre leur libre arbitre et le contrôle de leur refuge.[n] [n] Origines génétiques : 6 % teuthide, 5 % octopode, 2 % urodèle, 9 % humain, 78 % inconnu[n] [n] Fonction : s'attache aux installations humaines pour créer une sorte de connexion symbiotique. Sa puissante capacité télépathique lui permet de contrôler mentalement les humains, voire de prendre le contrôle de leur technologie – ce que nous n'avons observé chez aucune autre espèce de Pandorien.[n] [n] Mutations offensives : prend le contrôle de colonies et de technologies humaines, y compris les vaisseaux.[n] [n] Mutations défensives : propage des agents viraux autour de son corps pour repousser les agresseurs.[n] [n] Mobilité : une fois attaché, le corps reste immobile.[n] [n] Point faible : il semble que cette créature ait une connexion unilatérale avec ses victimes. Une fois que le corps meurt, le contrôle mental des entités est brisé.
+# KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_NAME
+Corruption Node Autopsy
+Autopsie d'un Nœud de corruption
+# KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_ALIEN_CORRUPTION_NODE_RESEARCHDEF_UNLOCK
+Specimen: CORRUPTION NODE[n]A species that look utterly alien, even compared to other highly mutated Pandorans. Its unusual anatomy and powerful brain activity, even after its death, need to be carefully studied.
+Spécimen : NŒUD DE CORRUPTION[n] Une espèce à l'apparence complètement étrangère, même comparée aux autres Pandoriens mutants. Son anatomie inhabituelle et sa forte activité cérébrale, même après sa mort, doivent être soigneusement étudiées.
+# KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_BENEFITS
+Damage inflicted on Myrmidons is increased by 10%.
+Les dégâts infligés aux Myrmidons augmentent de 10 %.
+# KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_COMPLETE
+Summary: By studying the Myrmidon's behavior in captivity, we can determine that they are extremely dependant on the hive mind organism that controls them. Surrounded by other creatures of its kind, the Myrmidon will perform highly strategic movements aiming to reinforce key battlefield areas. Left on its own, the creature reverts back to its primal self-defense instincts and often bursts in an explosion of poisonous gas. [n][n]Countermeasures: All operatives who spot one of these creatures should exercise extreme caution, as they usually attack in groups, surrounding their target and quickly reinforcing key positions. Always attack Myrmidons from a safe distance.
+Synthèse : en étudiant le comportement d'un Myrmidon en captivité, nous pouvons déterminer qu'ils sont extrêmement dépendants de l'organisme collectif qui les contrôle. Entouré d'autres créatures de son espèce, le Myrmidon effectue des déplacements très stratégiques visant à renforcer des zones clés du champ de bataille. Seule, la créature revient à ses instincts primitifs d'autodéfense et explose souvent en projetant un gaz toxique.[n] [n] Contre-mesures : les agents qui détectent l'une de ces créatures doivent faire preuve d'une extrême prudence, car ils attaquent souvent en groupes, cernant leur cible et servant rapidement de renfort à des positions clés. Attaquez toujours des Myrmidons à une distance sûre.
+# KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_NAME
+Myrmidon Vivisection
+Vivisection de Myrmidon
+# KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_REVEAL
+A live Myrmidon specimen is required in order to continue with its research. The Myrmidon requires 1 free laboratory space in the Containment Facility.
+Un spécimen vivant de Myrmidon est requis pour continuer cette recherche. Le Myrmidon nécessite 1 espace libre dans le laboratoire du centre de confinement.
+# KEY_FS_PX_ALIEN_LIVE_SWARMER_RESEARCHDEF_UNLOCK
+Capturing a live Myrmidon brings valuable insight into the creature's behaviour outside of the coordinated strikes guided by a hive mind intelligence.
+Capturer un Myrmidon vivant apporte des informations précieuses sur le comportement de cette créature en dehors des attaques coordonnées et guidées par une intelligence collective.
+# KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_COMPLETE
+The specimen’s service has shown resistance to various hostile elements, including acid and poison exposure. The egg contains strands of insectoid, Pandoran and unknown DNA. Close observation shows the egg is reactive to approaching humans and even machinery, and the shell serves more like a stasis pod, rather than an incubation or mutation chamber.
+L'étude du spécimen a montré une résistance à plusieurs éléments hostiles, notamment l'exposition à l'acide et au poison. L'œuf contient des brins d'ADN d'insectoïde, de Pandorien et inconnu. Une observation approfondie indique que l'œuf réagit à l'approche d'humains et même de machines, et que la coquille sert plus de capsule de stase que de chambre d'incubation ou de mutation.
+# KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_NAME
+Myrmidon Egg
+Œuf de Myrmidon
+# KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_ALIEN_SWARMER_EGG_RESEARCHDEF_UNLOCK
+The specimen is a large organic vessel that contains a single Myrmidon. At present, the exact method of how the egg is created and distributed remains unknown.
+Le spécimen est un grand réceptacle organique contenant un seul Myrmidon. À présent, la méthode exacte de création et de distribution de cet œuf reste inconnue.
+# KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_BENEFITS
+
+
+# KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_COMPLETE
+Summary: Myrmidons are relatively simple organisms, but their group tactics and strategic use of terrain suggests they are guided by some sort of hive mind intelligence. Remarkable feature of their bodies are their light wings capable of performing short-distance flights, making them the perfect reconnaissance trooper for the Pandorans. Their nimble legs provide stability and very fast walking speed. Closer inspection of their internal organs shows close resemblance with various Pandoran worm species.[n][n]Genetic origins: 12% oecophylla, 11% brachyura, 12% annelida, 65% unknown[n][n]Function: This small Pandoran mutation seems to excel in supporting raids by flanking targets and securing strategic zones.[n][n]Offensive mutations: Capable of releasing dangerous gas explosions.[n][n]Defensive mutations: These creatures move in large numbers but attack in groups of few, strategically reinforcing certain areas.[n][n]Mobility: Very nimble and capable of short-distance flight[n][n]Weakness: Vulnerable to gunfire
+Synthèse : les Myrmidons sont des organismes relativement simples, mais leurs tactiques de groupe et leur utilisation stratégique du terrain suggèrent qu'ils sont guidés par une sorte d'intelligence collective. Leurs corps sont dotés d'une caractéristique remarquable : des ailes légères qui leur permettent de voler sur de courtes distances. Cette capacité fait d'eux les soldats de reconnaissance parfaits des Pandoriens. Ils ont des pattes lestes qui leur procurent stabilité et vitesse de marche rapide. Un examen de leurs organes internes indique une forte ressemblance à plusieurs spécimens de vers pandoriens.[n] [n] Origines génétiques : 12 % Oecophylla, 11 % Brachyura, 12 % annélide, 65 % inconnu[n] [n] Fonction : ce petit Pandorien mutant semble trouver sa place dans le renfort de raids en contournant les cibles par le flanc et en s'emparant des zones stratégiques.[n] [n] Mutations offensives : capable de déclencher de dangereuses explosions de gaz.[n][n] Mutations défensives : ces créatures se déplacent en grand nombre, mais attaquent en petits groupes, renforçant stratégiquement certaines zones.[n] [n] Mobilité : très agile et capable de vols courts.[n] [n] Point faible : vulnérable contre les armes à feu.
+# KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_NAME
+Myrmidon Autopsy
+Autopsie de Myrmidon
+# KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_ALIEN_SWARMER_RESEARCHDEF_UNLOCK
+Myrmidons are small and nimble Pandorans often used to support attacks on human settlements.
+Les Myrmidons sont de petits Pandoriens agiles souvent utilisés en renfort dans les attaques de colonies humaines.
+# KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_BENEFITS
+Brokkr AC-3 is available for production
+Le Brokkr AC-3 est disponible à la production
+# KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_COMPLETE
+A perfect compliment to the Nomad air-to-air missiles, the Brokkr Autocannon provides suppressing fire and is often employed to force the enemy to partake in unfavorable maneuvers to avoid the threat.
+Un complément parfait pour les missiles air-air Nomades, le canon automatique Brokkr procure un système d'extinction d'incendies et est souvent employé pour forcer l'ennemi à participer à des manœuvres désavantageuses afin d'éviter la menace.
+# KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_NAME
+Brokkr AC-3
+Brokkr AC-3
+# KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_AUTOCANNON_MODULE_RESEARCHDEF_UNLOCK
+Standard issue Manticore autocannon
+Canon automatique standard de Manticore
+# KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_BENEFITS
+Nomad AAM is available for production
+Le Nomade AAM est disponible à la production
+# KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_COMPLETE
+A large part of the launch of the Phoenix Aerial Combat Program has been the arming of transport Manticore vehicles for combat. The vanguard of our aerial operation has been equipped with powerful Nomad-class air-to-air missiles - Phoenix Project's choice of standard issue munitions due to their reliability and high accuracy.
+Une grande partie du lancement du Programme de combat aérien de Phoenix consiste à armer les véhicules de transport Manticore pour le combat. L'avant-garde de notre opération aérienne est équipée de puissants missiles air-air Nomades – le choix du Projet Phoenix de munitions standard en raison de leur fiabilité et de leur grande précision.
+# KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_NAME
+Nomad AAM
+Nomade AAM
+# KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_BASIC_MISSILE_MODULE_RESEARCHDEF_UNLOCK
+Standard issue Manticore air-to-air missile
+Missile air-air standard de Manticore
+# KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_BENEFITS
+Thunderbolt HC-9 is available for production
+L'Éclair HC-9 est disponible à la production
+# KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_COMPLETE
+The "threat from above" has made the Synedrion even more open to information-sharing and cooperation, and this has gotten the attention of New Jericho. The two, together with a team of Phoenix engineers have been hard at work perfecting a Synedrion-patent laser guiding system. Using the core principles of electrolaser guidance in combination with extremely powerful New Jericho generators, our joint team has successfully developed the state-of-the-art Thunderbolt HC-9. [n]It's rumored that Tobias West himself, who was actively involved in the project, has begun referring to the weapon as "the pinnacle of air-to-air warfare". 
+La « menace du ciel » a contribué à ce que le Synédrion s'ouvre davantage au partage d'informations et à la coopération, et ceci a attiré l'attention de la Nouvelle-Jéricho. Les deux factions, ainsi qu'une équipe d'ingénieurs de Phoenix ont travaillé dur pour perfectionner un système de guidage de laser breveté par le Synédrion. Combinant les principes essentiels du guidage électrolaser et des générateurs extrêmement puissants fournis par la Nouvelle-Jéricho, notre équipe a réussi à créer une arme sophistiquée, l'Éclair HC-9.[n] On dit que Tobias West qui a activement pris part au projet fait référence à cette arme comme étant « le summum de la guerre aérienne ».
+# KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_NAME
+Thunderbolt HC-9
+Éclair HC-9
+# KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_ELECTROLASER_MODULE_RESEARCHDEF_UNLOCK
+A powerful electrolaser weapon developed by New Jericho experts and based on Synedrion technology
+Une arme à électrolaser puissante créée par les experts de la Nouvelle-Jéricho et basée sur la technologie du Synédrion.
+# KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_BENEFITS
+Escape Pods are available for production
+Les capsules de sauvetage sont disponibles à la production
+# KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_COMPLETE
+The PX Manticore aircraft is regarded as one of the safest state-of-the-art flying machines, and for a good reason. In times of crisis, our new escape pod models provide means of timely emergency ejection and safe landing for every onboard operative. Even if the machine is completely destroyed the odds of survival of the crew are practically guaranteed.
+Le vaisseau Manticore PX est considéré comme l'un des engins volants à la pointe et des plus sûrs, et pour cause. En période de crise, nos nouveaux modèles de capsules de sauvetage permettent une éjection d'urgence et un atterrissage sans danger pour les agents à bord. Même si l'engin est complètement détruit, les chances de survie de l'équipage sont pratiquement garanties.
+# KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_NAME
+Escape Pods
+Capsules de sauvetage
+# KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_ESCAPE_PODS_MODULE_RESEARCHDEF_UNLOCK
+This upgrade will protect all Phoenix operatives even if a Manticore is shot down from the sky
+Cette amélioration protègera tous les agents Phoenix même si la Manticore est abattue dans les airs.
+# KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_BENEFITS
+Flares are available for production
+Les fusées éclairantes sont disponibles à la production
+# KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_COMPLETE
+The Pandoran species known as Myrmidons are a recent discovery, but our scientist are putting it to good use. Using biochemical analysis of their entrails, we were able to synthesize a high-energy flare fuel that bursts with blinding light upon ignition. Using this technology, we designed specialized rockets that can be used not only as a signaling mechanism, but as an effective distraction to airborne enemies.
+L'espèce pandorienne connue comme le Myrmidon est certes une découverte récente, mais nos scientifiques en font déjà bon usage. En effectuant une analyse biochimique de leurs entrailles, nous avons pu synthétiser un carburant à haute énergie qui explose dans une lumière aveuglante au contact du feu. À l'aide de cette technologie, nous avons conçu des fusées spéciales qui peuvent servir de mécanisme de signalisation, mais également de distraction efficace contre les ennemis volants.
+# KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_NAME
+Flares
+Fusées éclairantes
+# KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_FLARES_MODULE_RESEARCHDEF_UNLOCK
+We can employ some of our knowledge of Pandoran biochemistry to significantly upgrade our flare fuel
+Nous pouvons employer certaines de nos connaissances en biochimie pandorienne pour améliorer considérablement notre carburant pour fusées.
+# KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_BENEFITS
+Orochi HC-1 is available for production
+L'Orochi HC-1 est disponible à la production
+# KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_COMPLETE
+The Orochi-pattern heavy cannons are highly effective against smaller aerial targets, making them the perfect tool for intercepting Pandoran raids.
+Les canons lourds en disposition Orochi sont extrêmement efficaces contre les plus petites cibles volantes, ce qui en fait l'arme parfaite pour intercepter les raids de Pandoriens.
+# KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_NAME
+Orochi HC-1
+Orochi HC-1
+# KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_HEAVY_CANNON_MODULE_RESEARCHDEF_UNLOCK
+Manticore Heavy Cannon
+Canon lourd de Manticore
+# KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_BENEFITS
+Hand of Tyr is available for production
+La Main de Tyr est disponible à la production
+# KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_COMPLETE
+To Synedrion's great disbelief, the Disciples of Anu, New Jericho, and the Phoenix Project have been actively cooperating on the design and construction of a brand new weapon pattern. [n][n]Project "Hand of Tyr" is based on hypersonic technology that we successfully developed in conjunction with New Jericho tech experts and invaluable, if at times frustrating, guidance by a clique of innovation-minded priests of Anu.[n][n]One particularly excited engineer has jokingly proclaimed she's found the key to uniting two rival factions - a shared love for destruction.
+Au grand étonnement du Synédrion, les Disciples d'Anu, la Nouvelle-Jéricho et le Projet Phoenix coopèrent activement dans la conception et la fabrication d'un tout nouveau type d'arme.[n] Le projet « Main de Tyr » se base sur une technologie hypersonique que nous avons créée conjointement avec les experts technologiques de la Nouvelle-Jéricho et les conseils précieux, bien que parfois frustrants, d'un groupe de prêtres d'Anu soucieux de l'innovation.[n] [n] Une ingénieure particulièrement enthousiaste a prétendu en plaisantant qu'elle avait fini par trouver ce qui unissait deux factions rivales : la passion pour la destruction.
+# KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_NAME
+Hand of Tyr
+Main de Tyr
+# KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_RESEARCHDEF_UNLOCK
+Through an uncharacteristic sharing of valuable know-how between us, New Jericho, and the Disciples of Anu, our joint team has developed a unique aircraft weapon.
+Dans un élan de partage inhabituel de savoir-faire entre la Nouvelle-Jéricho, les Disciples d'Anu et nous-mêmes, notre équipe conjointe a créé une arme unique pour vaisseau.
+# KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_BENEFITS
+Masked Manticore is available for production
+La Manticore masquée est disponible à la production
+# KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_COMPLETE
+One of our laboratories dedicated to studying the Festering Skies has recently made an exceptional breakthrough - a way to fuse Pandoran DNA with aircraft alloy. Influenced by the Tiamat technology that fuses living flesh with machinery, our team has perfected the method and added one huge advantage - testing proves that Pandorans can't distinguish the material from their own flesh. [n][n]This powerful technology now allows us to construct a new kind of masked aircraft and fly it straight to the Festering Skies without being attacked from all sides.  [n][n]Let's just hope that other factions share our enthusiasm for this genius contraption. If not, we'll have yet another airborne enemy to worry about.
+L'un de nos laboratoires dédiés à l'étude des Ciels de poison a récemment fait une découverte – un moyen de fusionner l'ADN de Pandorien avec l'alliage d'un vaisseau. Inspirée de la technologie Tiamat qui fusionne de la chair vivante avec une machine, notre équipe a perfectionné cette méthode qui présente un nouvel avantage énorme – les tests prouvent que les Pandoriens sont incapables de distinguer le matériau de leur propre chair.[n] [n] Cette importante technologie nous permet désormais de construire un nouveau type de vaisseau masqué et de nous rendre directement dans les Ciels de poison sans nous faire attaquer de tous les côtés.[n] [n] Espérons maintenant que les autres factions partagent notre enthousiasme pour cet engin de génie. Autrement, nous aurons un autre ennemi volant à prendre en compte.
+# KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_NAME
+Masked Manticore
+Manticore masquée
+# KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_MASKED_MANTICORE_RESEARCHDEF_UNLOCK
+Using the experimental fusion of alloys and Pandoran DNA will allow us to reach the Festering Skies undetected.
+La fusion expérimentale d'alliage et d'ADN de Pandorien nous permettra d'atteindre les Ciels de poison sans nous faire repérer.
+# KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_BENEFITS
+Fenrir RC-7 is available for production
+Le Fenrir RC-7 est disponible à la production
+# KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_COMPLETE
+Our Aerial Combat Program team of researches has been employing data gathered from recent dogfight engagements in the air to develop a brand new style of weapon. The Fenrir RC-7, named after its characteristic burst of seven virophage-infused projectiles, is sure to increase our effectiveness when fighting airborne Pandorans.
+Notre équipe de chercheurs pour le Programme de combat aérien utilise des données recueillies au cours de récents combats aériens pour créer une toute nouvelle arme. Le Fenrir RC-7, qui tient son nom de sa projection singulière de sept projectiles virophages, augmentera certainement notre efficacité lors de combats contre des Pandoriens volants.
+# KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_NAME
+Fenrir RC-7
+Fenrir RC-7
+# KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_PX_VIROPHAGE_GUN_MODULE_RESEARCHDEF_UNLOCK
+A powerful Manticore virophage rotary cannon
+Un puissant canon rotatif virophage pour Manticore.
+# KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_BENEFITS
+Battle-ready Helios is available for production
+L'Hélios de combat est disponible à la production
+# KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_COMPLETE
+The emergence of the Behemoth and the aerial raids on human settlements immediately became Synedrion's number one concern. Despite their great discomfort in making decisions in haste, an ad hoc council had to be quickly elected, agree on strategy, and set a course of action. Luckily, petty debates and interpersonal conflicts among council members were kept to a minimum. After a thoughtful and productive conversation, the council agreed that the skies belong to all humans and protecting them is the only way to ensure prosperity. [n][n]Some of the most talented engineers from across the globe were summoned and provided with extensive funding to equip Synedrion aircraft for combat. The Sky Defense Ops amassed popularity in the matter of days, and became celebrated as heroes of progress and defenders of humanity.
+L'apparition du Béhémoth et des raids aériens sur les colonies humaines sont devenus les priorités immédiates du Synédrion. Malgré sa gêne à prendre des décisions à la hâte, un conseil ad hoc a dû être rapidement élu, convenir d'une stratégie et mettre en œuvre un plan d'action. Heureusement, les débats insignifiants et les conflits interpersonnels entre les membres du conseil ont été réduits au minimum. Après une conversation réfléchie et productive, le conseil a convenu que le ciel appartenait à tous les humains et que le protéger était le seul moyen de garantir la prospérité.[n][n] On a fait appel aux ingénieurs les plus talentueux de la planète qui ont reçu d'importants moyens pour préparer leurs vaisseaux au combat. L'opération Défense du ciel a recueilli une forte popularité en seulement quelques jours, et dans l'opinion publique, ses agents sont considérés comme les héros du progrès et les défenseurs de l'humanité.
+# KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_NAME
+Synedrion Sky Defense Ops
+Opération Défense du ciel du Synédrion
+# KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_SYN_AERIAL_WARFARE_RESEARCHDEF_UNLOCK
+The Synedrion are deeply concerned about the Festering Skies and the unknown dangers they hide. In a rare display of almost unanimous agreement, they've elected a team of highly skilled pilots to form the Sky Defense Operation Corps.
+Le Synédrion est extrêmement préoccupé par les Ciels de poison et les menaces inconnues qu'ils dissimulent. Dans un événement rare de quasi-unanimité, le Synédrion a élu une équipe de pilotes hautement qualifiés pour former le Corps d'opération Défense du ciel.
+# KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_BENEFITS
+Medusa AAM is available for production
+La Méduse AAM est disponible à la production
+# KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_COMPLETE
+Based on electromagnetic pulse technology, this weapon is dedicated to seeking and destroying heavy machinery and electronics. While the Synedrion have been known to occasionally share such weapons with allies, the exact construction method and associated documentation are kept in utmost confidentiality. EMP tech is a prize possession that's earned, never granted.
+Basée sur la technologie d'impulsions électromagnétiques, cette arme est dédiée à la poursuite et à la destruction de machines lourdes et de dispositifs électroniques. Le Synédrion est connu pour partager de temps à autre ce genre d'armes avec ses alliés, mais la méthode exacte de fabrication et les documents associés sont conservés dans la plus grande confidentialité. La technologie EMP est une possession précieuse qui se mérite, elle n'est jamais donnée.
+# KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_NAME
+Medusa AAM
+Méduse AAM
+# KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_SYN_EMP_MISSILE_MODULE_RESEARCHDEF_UNLOCK
+Synedrion's special EMP air-to-air missile
+Le missile air-air EMP spécial du Synédrion.
+# KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_BENEFITS
+Fire Suppression System is available for production
+Le système d'extinction des incendies est disponible à la production
+# KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_COMPLETE
+The utopian Synedrion deny the "fight fire with fire" maxim in both philosophical and practical ways. Many of their battle-ready aircraft come equipped with innovative fire suppression systems, as well as external shells crafted from hardened alloy, carefully designed to withstand the elements. This combination has proven to be extremely efficient. So much so, that other factions are currently in negotiations for commissioning modified versions of the pattern for their own vessels.
+L'utopique Synédrion réfute l'adage « combattre le feu par le feu » au sens philosophique comme pratique. Son vaisseau de combat est équipé de systèmes innovants d'extinction d'incendies qui s'avèrent tellement efficaces que les autres factions sont en pleines négociations pour commander les versions modifiées du modèle pour leurs propres vaisseaux.
+# KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_NAME
+Fire Suppression System
+Système d'extinction d'incendies
+# KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_RESEARCHDEF_UNLOCK
+An effective fire prevention system that's standard issue for battle-ready Helios aircraft
+Un système efficace de prévention des incendies qui est standard pour le vaisseau de combat Hélios.
+# KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_BENEFITS
+Hibernation Pods are available for production
+Les capsules d'hibernation sont disponibles à la production
+# KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_COMPLETE
+Probably inspired by the advanced Pandoran egg evolutions, Synedrion researchers have been able to recreate the invigorating effect of stasis sleep in the form of hibernation pod chambers. Compact enough to be included in every type of aircraft, this miraculous invention allows personnel to fall in deep slumber for short durations of time while the onboard navigation AI is taking the aircraft to its destination. Some soldiers have been expressing preference for the pods over standard military beds, affectionately calling the facility "the blanket fort".
+Probablement inspirés des évolutions avancées de l'œuf pandorien, les chercheurs du Synédrion ont réussi à recréer l'effet revigorant du sommeil cryogénique sous forme de chambres d'hibernation. Assez compacte pour l'inclure dans tout type de vaisseau, cette invention miraculeuse permet au personnel de tomber dans un profond sommeil de courte durée pendant que le système de navigation embarqué pilote le vaisseau jusqu'à sa destination. Certains soldats ont exprimé leur préférence pour ces capsules comparées aux lits militaires normaux, nommant affectueusement cette structure « le fort de couvertures ».
+# KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_NAME
+Hibernation Pods
+Capsules d'hibernation
+# KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_SYN_HYBERNATION_PODS_MODULE_RESEARCHDEF_UNLOCK
+Synedrion's advanced hibernation pod technology allows soldiers to effectively rest and recuperate mid-air
+La technologie avancée de capsule d'hibernation du Synédrion permet aux soldats de se reposer et de récupérer en vol.
+# KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_BENEFITS
+Prometheus AAM is available for production
+Le Prométhée AAM est disponible à la production
+# KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_COMPLETE
+The Prometheus air-to-air incinerator is Synedrion's primary way of dealing with organic threats in the sky. Some speculate that the pain from the hellfire unleashed on flying Pandorans afflicts psychological damage to the supreme intelligence that's guiding them. Others deny this theory as superstitious wishful thinking. Whatever the case, the Prometheus AAM has proven to be an extremely effective weapon in aerial warfare.
+L'incinérateur aérien Prométhée est l'arme que le Synédrion utilise principalement pour éliminer les ennemis organiques du ciel. Certains avancent que la douleur des feux de l'enfer déversés sur les Pandoriens volants cause des dégâts psychologiques à l'intelligence suprême qui les guide. D'autres réfutent cette théorie qu'ils voient comme un optimisme superstitieux. Peu importe qui a raison, le Prométhée AAM s'avère d'une efficacité extrême dans la guerre aérienne.
+# KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_NAME
+Prometheus AAM
+Prométhée AAM
+# KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_RESEARCHDEF_UNLOCK
+Synedrion incinerator missile
+Missile incinérateur du Synédrion.
+# KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_BENEFITS
+Artemis MK. I is available for production
+L'Artémis MK. I est disponible à la production
+# KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_COMPLETE
+Poetically named after the ancient goddess of the hunt, the Artemis MK. I missiles perfectly embody the key traits of their namesake - accuracy, swiftness, and malice towards enemies.
+Portant le nom poétique de l'ancienne déesse de la chasse, les missiles Artémis MK. I incarnent parfaitement les traits principaux de son homonyme – précision, rapidité et cruauté envers ses ennemis.
+# KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_NAME
+Artemis MK. I
+Artémis MK. I
+# KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_SYN_LASER_GUN_MODULE_RESEARCHDEF_UNLOCK
+Synedrion's first choice of air-to-air weapon
+Le premier choix d'arme aérienne du Synédrion.
+# KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_BENEFITS
+Security Station is available for production
+Le poste de sécurité est disponible à la production
+# KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_COMPLETE
+Synedrion are very serious about the wellbeing of their people and are especially sensitive to bioweapon attacks, condemning them as war crimes. To prevent incidents, many Helios-pattern aircraft come equipped with a complex line of internal defenses, including modified weathertight doors and automated, motion-sensitive security drones. The network is capable of withstanding and neutralizing various biological weapon attacks, including even the Disciples of Anu's unorthodox use of Mutogs for aerial warfare.
+Le Synédrion prend le bien-être de son peuple très au sérieux et il est particulièrement sensible aux attaques des armes biologiques, les qualifiant de crimes de guerre. Pour éviter les incidents, de nombreux vaisseaux de modèle Hélios sont équipés d'une gamme complexe de défenses internes, y compris des portes modifiées étanches et des drones automatiques de sécurité sensibles au mouvement. Le réseau peut résister à diverses attaques d'armes biologiques et les neutraliser. Ceci inclut l'utilisation peu orthodoxe des Mutogs par les Disciples d'Anu dans la guerre aérienne.
+# KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_NAME
+Security Station
+Poste de sécurité
+# KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_REVEAL
+
+
+# KEY_FS_SYN_SECURITY_STATION_MODULE_RESEARCHDEF_UNLOCK
+A complex security system protecting aircraft from bioweapon attacks
+Un système de sécurité complexe qui protège le vaisseau contre les attaques d'armes biologiques.

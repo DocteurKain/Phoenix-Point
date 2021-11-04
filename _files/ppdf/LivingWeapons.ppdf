@@ -1,0 +1,123 @@
+﻿# PROG_LW1_CHOICE_0_OUTCOME_GENERAL
+We managed to pinpoint a location, and we should send a squad to investigate. It's a longshot, but given what we now know about Pandoran mutations, Danchev might have been on to something.
+Nous avons réussi à localiser un endroit, et nous devrions envoyer une escouade pour examiner les lieux. Ça a peu de chances d'aboutir, mais étant donné ce que nous savons sur les mutations pandoriennes, Danchev aurait pu suivre une piste intéressante.
+# PROG_LW1_CHOICE_0_TEXT
+Decrypt the files
+Décrypter les fichiers.
+# PROG_LW1_FAIL_CHOICE_0_TEXT
+OK
+OK
+# PROG_LW1_FAIL_TEXT_GENERAL_0
+We met more resistance than expected, and the secrets of the catabcombs remain hidden.
+Nous nous sommes heurtés à plus de résistance que prévu, et les secrets des catacombes restent un mystère.
+# PROG_LW1_FAIL_TITLE
+An Unfortunate Setback
+Un contretemps malheureux
+# PROG_LW1_MISS_CHOICE_0_TEXT
+Enter the tunnels
+Entrer dans les tunnels.
+# PROG_LW1_MISS_CHOICE_1_TEXT
+CANCEL
+Annuler
+# PROG_LW1_MISS_SUMMARY
+Alexander Danchev's  bio-engineering site
+Site de bio-ingénierie d'Alexander Danchev
+# PROG_LW1_MISS_TEXT_GENERAL_0
+We have found some kind of Pandoran colony strewn with Arthron remains. There is an abondoned Scarab outside.
+Nous avons trouvé une sorte de colonie pandorienne jonchée de restes d'Arthrons. Il y a un Scarabée abandonné dehors.
+# PROG_LW1_MISS_TITLE
+Catacombs of Despair
+Catacombes du désespoir
+# PROG_LW1_TEXT_GENERAL_0
+While analyzing the Arthron exoskeleton biochemistry we recovered the notes of Alexander Danchev, a Phoenix scientist who became obsessed with bio-engineering an armored suit made from Arthron derived chitin. He constantly referred to revelations that came from his dreams, and he began to alienate his colleagues with his weird behavior. Randolph Symes eventually banned him from this line of research. Unfortunately, his madness consumed him and he fled Phoenix Point with valuable lab equipment.
+En analysant la biochimie de l'exosquelette de l'Arthron, nous avons récupéré les notes d'Alexander Danchev, un scientifique de Phoenix qui était obnubilé par la bio-ingénierie d'une armure en chitine dérivée d'Arthron. Il faisait constamment référence aux révélations qui lui venaient en rêves, et il commença à aliéner ses collègues avec son comportement étrange. Randolph Symes finit par lui interdire ce courant de recherche. Hélas, sa folie le consuma et il fuit Phoenix Point avec de l'équipement de laboratoire précieux.
+# PROG_LW1_TEXT_GENERAL_1
+Danchev's files contain encrypted plans for an expedition to a "Pandoran mutation center" located through his dreams. We can attempt to decipher his files and get the location.
+Les fichiers de Danchev contiennent des plans cryptés pour une expédition dans un « centre de mutation pandorien » qu'il a localisé dans ses rêves. Nous pouvons tenter de déchiffrer ses fichiers et obtenir l'emplacement.
+# PROG_LW1_TITLE
+The Madness of Alexander Danchev
+La folie d'Alexander Danchev
+# PROG_LW1_WIN_CHOICE_0_OUTCOME_GENERAL
+Not only have we recovered the living armor, but we have found another location that Danchev might have visited.
+Non seulement nous avons récupéré l'armure vivante, mais nous avons également trouvé le lieu que Danchev pourrait avoir visité.
+# PROG_LW1_WIN_CHOICE_0_TEXT
+Take everything useful we can find
+Prendre tout ce qui a de la valeur.
+# PROG_LW1_WIN_TEXT_GENERAL_0
+Alexander Danchev was certainly here, but he must have left in a hurry. There are abandoned items in a chamber, including a remarkable armored suit. It is actually a mutated, living organism bio-engineered using some unknown technology. It still seems "alive" and functional.
+Alexander Danchev est certainement venu ici, mais il a dû partir à la hâte. Il y a des objets abandonnés dans une salle, y compris une armure remarquable. C'est un organisme vivant mutant résultant de la bio-ingénierie et utilisant une technologie inconnue. Elle semble toujours « vivante » et en état de fonctionnement.
+# PROG_LW1_WIN_TITLE
+Living Armor
+Armure vivante
+# PROG_LW2_FAIL_CHOICE_0_TEXT
+OK
+OK
+# PROG_LW2_FAIL_TEXT_GENERAL_0
+The prize we seek remains beyond our grasp.
+Le prix que nous cherchons est toujours hors de notre portée.
+# PROG_LW2_FAIL_TITLE
+A Tunnel Too Far
+Un tunnel de trop
+# PROG_LW2_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# PROG_LW2_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# PROG_LW2_MISS_SUMMARY
+Bio-engineering site 2
+Site de bio-ingénierie 2
+# PROG_LW2_MISS_TEXT_GENERAL_0
+We have found another Pandoran colony with evidence of a massacre. Twisted, contorted Arthron corpses lie scattered around the entrance. Perhaps a consequence of Alexander Danchev's experiments?
+Nous avons trouvé une autre colonie pandorienne avec des preuves de massacre. Des corps tordus et crispés d'Arthron sont éparpillés autour de l'entrée. Peut-être est-ce la conséquence des expériences d'Alexander Danchev ?
+# PROG_LW2_MISS_TITLE
+Once more into the Maze
+À nouveau dans le labyrinthe
+# PROG_LW2_WIN_CHOICE_0_OUTCOME_GENERAL
+The extraordinary bio-engineered gun appears to be still "alive". Our soldiers gave it sustenance from Arthron corpses and it regained full functionality.
+L'arme extraordinaire résultant de la bio-ingénierie semble être toujours « vivante ». Nos soldats l'ont nourri de morceaux des corps d'Arthron et elle a retrouvé une fonctionnalité complète.
+# PROG_LW2_WIN_CHOICE_0_TEXT
+Take the living weapon
+Prendre l'arme vivante.
+# PROG_LW2_WIN_TEXT_GENERAL_0
+Alexander Danchev clearly fought a long battle here using an unsual "living weapon" that produces its own acid projectile. The weapon remains, but Danchev is no longer here.
+Il est évident qu'Alexander Danchev a mené un long combat ici à l'aide de son « arme vivante » peu ordinaire qui produit son propre projectile caustique. L'arme est restée, mais pas Danchev.
+# PROG_LW2_WIN_TITLE
+A Living Weapon
+Une arme vivante
+# PROG_LW3_FAIL_CHOICE_0_TEXT
+Unfortunately, we fail at the end.
+Malheureusement, nous avons échoué en fin de compte.
+# PROG_LW3_FAIL_TEXT_GENERAL_0
+The enemy might was overwhelming, but we can make another attempt.
+La volonté de l'ennemi était écrasante, mais nous pouvons essayer à nouveau.
+# PROG_LW3_FAIL_TITLE
+Crushed!
+Défaite écrasante
+# PROG_LW3_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# PROG_LW3_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# PROG_LW3_MISS_SUMMARY
+Alexander Danchev's last stand
+Dernière bataille d'Alexander Danchev
+# PROG_LW3_MISS_TEXT_GENERAL_0
+We have encountered another alien structure. This time there are no signs of battle outside.
+Nous avons trouvé une autre structure extraterrestre. Cette fois-ci, il n'y a aucun signe de bataille à l'extérieur.
+# PROG_LW3_MISS_TITLE
+Tomb of the Mad Scientist
+Tombeau du savant fou
+# PROG_LW3_WIN_CHOICE_0_OUTCOME_GENERAL
+The weapon is heavy - and very hungry. It is restored to full functionality, and a few preliminary tests suggest that it spews highly poisonous projectiles at a high rate. A weapon suitable for a heavy class of soldier.
+L'arme est lourde – et affamée. Elle récupère toute sa fonctionnalité et quelques tests préliminaires suggèrent qu'elle crache des projectiles très toxiques à haute vitesse. Une arme adaptée pour une classe lourde de soldat.
+# PROG_LW3_WIN_CHOICE_0_TEXT
+Take the living weapon
+Prendre l'arme vivante.
+# PROG_LW3_WIN_TEXT_GENERAL_0
+Whatever happened here, it seems that Alexander Danchev was harvesting bio-material from Pandorans. A risky business, which ultimately spelled his doom. The only things left from his body were fragments of bone and cloth. His ultimate creation survived him - another living weapon of great power.
+Peu importe ce qui est arrivé ici, il semble qu'Alexander Danchev récoltait du bio-matériel sur les Pandoriens. Une occupation risquée, qui lui aura finalement causé sa perte. Il ne reste que des fragments d'os et du tissu de son cadavre. Sa dernière création lui a survécu : une autre arme vivante d'une grande puissance.
+# PROG_LW3_WIN_TITLE
+Epitaph
+Épitaphe

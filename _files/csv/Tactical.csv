@@ -1,0 +1,105 @@
+Key,English,French
+KEY_ABILITY,ABILITY,CAPACITÉ
+KEY_ACCURACY_COLON,ACCURACY:,PRÉCISION :
+KEY_ACTION_COST,ACTION POINTS: {0},POINTS D'ACTION : {0}
+KEY_ACTION_LEFT,ACTION LEFT,ACTION RESTANTE
+KEY_ACTION_POINTS_CLEAN,ACTION POINTS,POINTS D'ACTION
+KEY_ARMOR,ARMOR,ARMURE
+KEY_ARMOUR,ARMOR:,ARMURE :
+KEY_ARMOUR_SHRED_CHANCE,ARMOR SHRED CHANCE: {0}%,CHANCE DE DÉCHIQUETAGE D'ARMURE : {0} %
+KEY_ATTACK_NAME,ATTACK,ATTAQUER
+KEY_CRATE_SPOTTED,CRATE SPOTTED,CAISSE DÉTECTÉE
+KEY_DAMAGE,DAMAGE,DÉGÂTS
+KEY_DAMAGED_EQUIPMENT,EQUIPMENT DAMAGED: {0},ÉQUIPEMENT ENDOMMAGÉ : {0}
+KEY_DAMAGE_DEALT_ONE,Damage {0},Dégâts {0}
+KEY_DAMAGE_DEALT_TWO,Damage {0} - {1},Dégâts {0} - {1}
+KEY_DAMAGE_PARAM,DAMAGE: {0},DÉGÂTS : {0}
+KEY_DAMAGE_PER_SHOT,Damage per shot:,Dégâts par tir :
+KEY_DESTROYED_EQUIPMENT,EQUIPMENT DESTROYED: {0},ÉQUIPEMENT DÉTRUIT : {0}
+KEY_DISABLED_BODYPART_SUFFIX,DISABLED: {0},DÉSACTIVÉE : {0}
+KEY_DISABLED_CLEAN,DISABLED,DÉSACTIVÉ
+KEY_DISABLE_EFFECTS,DISABLE EFFECTS:,DÉSACTIVER ÉTATS :
+KEY_ENABLED_BODYPART_SUFFIX,PART ENABLED: {0},PARTIE ACTIVÉE : {0}
+KEY_END_TURN_PROMPT,Your active soldiers are out of Action Points. Do you want to end your turn?,Vos soldats actifs n'ont plus de points d'action. Voulez-vous terminer votre tour ?
+KEY_ENEMY_SPOTTED,ENEMY SPOTTED,ENNEMI DÉTECTÉ
+KEY_FOOD_CRATE_DESCRIPTION,A resource crate that contains food,Une caisse de ressources qui contient des vivres.
+KEY_FOOD_CRATE_NAME,Food Crate,Caisse de vivres
+KEY_FREE_AIM_IF_DISABLED,If disabled:,Si mutilé :
+KEY_FREE_AIM_TAB_TO_SWITCH,TAB to switch target,Appuyez sur TAB pour changer de cible
+KEY_FREE_AIM_TAB_TO_SWITCH_REBIND,[<color=#ECBA62>{[NextCharacter]}</color>] to switch target,Appuyez sur [<color=#ECBA62>{[NextCharacter]}</color>] pour changer de cible
+KEY_FUMBLED_NAME,FUMBLED,RATÉ
+KEY_GEOSCAPE_RECRUIT_ATTACK_DESCRIPTION,You cannot recruit soldiers while the haven is under attack,Vous ne pouvez pas recruter de soldats pendant une attaque du refuge
+KEY_HIT_POINTS_CLEAN,Hit Points,Points de vie
+KEY_INFO_DESCRIPTION,View current status and all available information,Affichez l'état en cours et toutes les informations disponibles
+KEY_INFO_NAME,INFO,INFOS
+KEY_INTERACT_ACTIVATE_DESCRIPTION,Activate device,Activer le dispositif
+KEY_INTERACT_ACTIVATE_NAME,ACTIVATE,ACTIVER
+KEY_LEVEL_NAME,Level,Niveau
+KEY_MATERIALS_CRATE_DESCRIPTION,A resource crate that contains base building materials,Une caisse de ressources qui contient des matériaux de construction de base.
+KEY_MATERIALS_CRATE_NAME,Materials Crate,Caisse de matériaux
+KEY_MAX_HIT_POINTS,MAX Hit Points:,Points de vie MAX :
+KEY_MESSAGE_ACTOR_DISABLED,Unit unable to perform action due to being psychically or physically incapacitated.,Unité incapable d’agir car elle a été neutralisée psychiquement ou physiquement.
+KEY_MESSAGE_ALREADY_AT_MAXIMUM_AP,Character is already at maximum Action Points,L'unité a déjà le maximum de points d'action.
+KEY_MESSAGE_ALREADY_AT_MAXIMUM_WP,Will Points are already at maximum,Les points de volonté sont déjà au maximum.
+KEY_MESSAGE_BLOCKED_BY_STATUS,A status effect is preventing the use of this ability,Un état empêche l'utilisation de cette capacité
+KEY_MESSAGE_BODY_PART_DISABLED,Body part disabled: {BodyPartSourceName},Partie du corps désactivée : {BodyPartSourceName}
+KEY_MESSAGE_BODY_PART_UNTARGETABLE,That body part cannot be targeted,Cette partie du corps ne peut pas être ciblée.
+KEY_MESSAGE_CHARACTERIS_PANICKED,The character has Panicked,L'unité est déjà en état de Panique.
+KEY_MESSAGE_CHARACTER_HAS_FLOOR_SUPPORT,Character has floor support,L'unité est sur une surface solide.
+KEY_MESSAGE_CHARACTER_OFF_FIELD,Character is not on the battlefield,L'unité n'est pas sur le champ de bataille.
+KEY_MESSAGE_EQUIPMENT_DISABLED,Item broken: {TargetEquipmentName},Objet cassé : {TargetEquipmentName}
+KEY_MESSAGE_EQUIPMENT_FULLY_LOADED,Item is already fully loaded/charged,L'objet est déjà chargé.
+KEY_MESSAGE_EQUIPMENT_NOT_ACTIVE,Item not active: {TargetEquipmentName},Objet non actif : {TargetEquipmentName}
+KEY_MESSAGE_EQUIPMENT_NOT_SELECTED,Item not selected: {TargetEquipmentName},Objet non sélectionné : {TargetEquipmentName}
+KEY_MESSAGE_GEO_NO_RESOURCES_ARMADILLO,You don't have enough resources to build a vehicle,Vous n'avez pas assez de ressources pour construire un véhicule
+KEY_MESSAGE_GEO_NO_RESOURCES_SOLDIER,You don't have enough resources to hire a soldier,Vous n'avez pas assez de ressources pour recruter un soldat
+KEY_MESSAGE_NEEDS_MOVEMENT_LEFT,The character is out of Action Points,L'unité n'a plus de points d'action
+KEY_MESSAGE_NOT_DISABLED,Not disabled,Pas désactivé
+KEY_MESSAGE_NOT_ENOUGH_AP,Not enough Action Points,Points d'action insuffisants
+KEY_MESSAGE_NOT_ENOUGH_HANDS,Not enough free hands,Mains libres insuffisantes
+KEY_MESSAGE_NOT_ENOUGH_WP,Not enough Will Points,Points de volonté insuffisants
+KEY_MESSAGE_NOT_MOUNTED,Character is not in a vehicle,L'unité n'est pas dans un véhicule.
+KEY_MESSAGE_NOT_PROFFICIENT,The Soldier is not proficient with this weapon/equipment,Le soldat ne maîtrise pas cette arme/cet équipement
+KEY_MESSAGE_NO_AMMO_IN_INVENTORY,No ammo in inventory,Aucune munition dans l'inventaire
+KEY_MESSAGE_NO_LINE_OF_SIGHT,No direct line of sight,Pas de ligne de mire directe
+KEY_MESSAGE_NO_MEMBERS_IN_SQUAD,There are no other members in your squad,Il n'y a pas d'autres membres dans votre escouade.
+KEY_MESSAGE_NO_MORE_AMMO,Out of ammunition - reload to use,Munitions épuisées - rechargez pour utiliser
+KEY_MESSAGE_NO_MORE_CHARGES,Out of charges - reload to use,Charges épuisées - rechargez pour utiliser
+KEY_MESSAGE_NO_MORE_USES_THIS_TURN,Cannot be used again this turn,Autre utilisation impossible dans ce tour
+KEY_MESSAGE_NO_SUITABLE_EQUIPMENT,No suitable equipment,Aucun équipement adapté
+KEY_MESSAGE_NO_TURRET_IN_INVENTORY,No turret in inventory,Aucune tourelle dans l'inventaire
+KEY_MESSAGE_NO_VALID_TARGET,There is no valid target,Il n'y a pas de cible valide.
+KEY_MESSAGE_OTHER_ABILITY_NEEDED,Another ability is required,Une autre capacité est requise.
+KEY_MESSAGE_OTHER_WEAPON_ABILITY_NEEDED,Another weapon ability is required,Une autre capacité d'arme est requise.
+KEY_MESSAGE_OUT_OF_WEAPON_ACTION_RANGE,Target out of weapon action range,Cible hors de portée d'action de l'arme
+KEY_MESSAGE_OUT_OF_WEAPON_ATTACK_RANGE,Target out of weapon attack range,Cible hors de portée d'attaque de l'arme
+KEY_MESSAGE_REQUIREMENTS_NOT_MET,Requirements have not been met,Les conditions requises ne sont pas remplies.
+KEY_MESSAGE_SQUAD_AT_FULL_WP,Entire squad is already at full Will Points,L'escouade a déjà le max de points de volonté.
+KEY_MESSAGE_STUNNED,Character is Dazed and doesn't have enough Action Points,L'unité est étourdie et n'a pas suffisamment de points d'action
+KEY_MESSAGE_TARGET_TOO_CLOSE,No space to shoot,Pas d'espace pour tirer
+KEY_MESSAGE_TURN_ENDED,The turn has ended,Le tour est terminé.
+KEY_MOVEMENT,MOVEMENT,DÉPLACEMENT
+KEY_MOVE_RANGE,MOVE RANGE:,PORTÉE DE DÉPLACEMENT :
+KEY_MOVE_TO_SELECTED_POSITION,Move to selected position,Accéder à la position sélectionnée
+KEY_NUMBER_OF_SHOTS,x {0} shots,x {0} tirs
+KEY_NUMBER_OF_SHOTS_PARAM,SHOTS: {0},TIRS : {0}
+KEY_OUT_OF_AMMO__RELOAD,OUT OF AMMO - RELOAD,MUNITIONS ÉPUISÉES - RECHARGEZ
+KEY_PERCEPTION_COLON,PERCEPTION:,PERCEPTION :
+KEY_RANGE,RANGE:,PORTÉE :
+KEY_REMOVE_ABILITY,REMOVE ABILITY:,RETIRER CAPACITÉ :
+KEY_RETURN_FIRE,RETURN FIRE,TIR DE RIPOSTE
+KEY_SHOTS,SHOTS:,TIRS :
+KEY_SHOTS_BASIC,SHOTS,TIRS
+KEY_STEALTH_COLON,STEALTH:,FURTIVITÉ :
+KEY_TECH_CRATE_DESCRIPTION,A resource crate that contains high-tech manufacturing resources,Une caisse de ressources qui contient des ressources de fabrication high-tech.
+KEY_TECH_CRATE_NAME,Tech Crate,Caisse de technologies
+KEY_TURNS_ALIEN_ACTIVITY,PANDORAN ACTIVITY,ACTIVITÉ PANDORIENNE
+KEY_TURNS_PHOENIX_FORCES,PHOENIX FORCES,FORCES PHOENIX
+KEY_TURN_ENDED,TURN ENDED,TOUR TERMINÉ
+KEY_WARNING_FRIENDLY_UNIT,"Warning, friendly unit!","Attention, unité alliée !"
+KEY_WILL_POINTS,WILL POINTS: {0},POINTS DE VOLONTÉ : {0}
+KEY_WILL_POINTS_CLEAN,WILL POINTS,POINTS DE VOLONTÉ
+KEY_WILL_POINTS_NO_VAR,WILL POINTS:,POINTS DE VOLONTÉ :
+KEY_ZOOM,(T/G ZOOM IN/ZOOM OUT),(T/G AGRANDIR/RÉDUIRE)
+KEY_ZOOM_CONTROLLER,ZOOM IN/ZOOM OUT,AGRANDIR/RÉDUIRE.
+KEY_ZOOM_REBIND,([<color=#ECBA62>{[Discrete Zoom In]}</color>]/[<color=#ECBA62>{[Discrete Zoom Out]}</color>] ZOOM IN/ZOOM OUT),([<color=#ECBA62>{[Discrete Zoom In]}</color>]/[<color=#ECBA62>{[Discrete Zoom Out]}</color>] AGRANDIR/RÉDUIRE)

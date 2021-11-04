@@ -1,0 +1,97 @@
+Key,English,French
+ACHIEVEMENT_01_DESC,Build a base facility,Construisez un base
+ACHIEVEMENT_01_NAME,Novice Builder,Constructeur en herbe
+ACHIEVEMENT_02_DESC,Fully build up a base,Construisez une base complète
+ACHIEVEMENT_02_NAME,Base to the Max,Base au max
+ACHIEVEMENT_03_DESC,Build a facility of each type,Construisez une installation de chaque type
+ACHIEVEMENT_03_NAME,Master Builder,Maître d'œuvre
+ACHIEVEMENT_04_DESC,Control 4 Phoenix bases,Contrôlez 4 bases Phoenix
+ACHIEVEMENT_04_NAME,Phoenix Empire,Empire Phoenix
+ACHIEVEMENT_05_DESC,Reach friendly reputation with a faction,Obtenez une réputation de bienveillance avec une faction
+ACHIEVEMENT_05_NAME,Novice Diplomat,Diplomate en herbe
+ACHIEVEMENT_06_DESC,Reach aligned reputation with a faction,Obtenez une réputation d'alignement avec une faction
+ACHIEVEMENT_06_NAME,Advanced Diplomat,Diplomate avancé
+ACHIEVEMENT_07_DESC,Reach allied reputation with a faction,Obtenez une réputation d'allié avec une faction
+ACHIEVEMENT_07_NAME,We're in it Together,Nous sommes une équipe
+ACHIEVEMENT_08_DESC,Reach allied reputation with all factions (does not have to be in the same game),Obtenez la réputation d'allié avec toutes les factions (pas forcément dans la même partie)
+ACHIEVEMENT_08_NAME,Friends with Everyone,Amis avec tout le monde
+ACHIEVEMENT_09_DESC,Deal with the Pandoran threat at any difficulty level,Occupez-vous d'une menace pandorienne à n'importe quel niveau de difficulté
+ACHIEVEMENT_09_NAME,Standard Victory,Victoire normale
+ACHIEVEMENT_10_DESC,Beat the game without allying with any faction,Terminez le jeu sans alliance avec aucune faction
+ACHIEVEMENT_10_NAME,The Phoenix Path,La voie de Phoenix
+ACHIEVEMENT_11_DESC,Beat the game at Hero difficulty level,Terminez le jeu au niveau de difficulté Héros
+ACHIEVEMENT_11_NAME,Heroic Victory,Victoire héroïque
+ACHIEVEMENT_12_DESC,Beat the game at Legend difficulty level,Terminez le jeu au niveau de difficulté Légende
+ACHIEVEMENT_12_NAME,Legendary Victory,Victoire légendaire
+ACHIEVEMENT_13_DESC,"Beat the game at Hero or Legend difficulty in Ironman Mode ",Terminez le jeu au niveau de difficulté Héros ou Légende en mode Ironman
+ACHIEVEMENT_13_NAME,Ironman Elite,Élite Ironman
+ACHIEVEMENT_14_DESC,Complete all different game endings,Terminez le jeu avec toutes les fins possibles
+ACHIEVEMENT_14_NAME,All Possibilities,Tout est possible
+ACHIEVEMENT_15_DESC,Recruit a soldier,Recrutez un soldat
+ACHIEVEMENT_15_NAME,Squad Builder,Créateur d'escouade
+ACHIEVEMENT_16_DESC,Complete a scan,Effectuez un balayage
+ACHIEVEMENT_16_NAME,Scanner,Balayage
+ACHIEVEMENT_17_DESC,Recruit a soldier of each class (does not have to be in the same game),Recrutez un soldat de chaque classe (pas forcément dans la même partie)
+ACHIEVEMENT_17_NAME,Squad Diversity,Diversité dans l'escouade
+ACHIEVEMENT_18_DESC,Trade 10000 total resources of any kind,Échangez 10 000 ressources de n'importe quel type
+ACHIEVEMENT_18_NAME,Master Trader,Expert du commerce
+ACHIEVEMENT_19_DESC,Scrap items worth 10000 total resources,Recyclez des articles d'une valeur de 10 000 ressources totales
+ACHIEVEMENT_19_NAME,Scrap Merchant,Recycleur
+ACHIEVEMENT_20_DESC,Capture each type of Pandoran (does not have to be in the same game),Capturez chaque type de Pandorien (pas forcément dans la même partie)
+ACHIEVEMENT_20_NAME,Menagerie,Ménagerie
+ACHIEVEMENT_21_DESC,Manufacture an item,Fabriquez un objet
+ACHIEVEMENT_21_NAME,Novice Manufacturer,Fabricant en herbe
+ACHIEVEMENT_22_DESC,Manufacture an air vehicle,Fabriquez un véhicule aérien
+ACHIEVEMENT_22_NAME,Phoenix Airways,Voies aériennes de Phoenix
+ACHIEVEMENT_23_DESC,Manufacture an item of each type (does not have to be in the same game),Fabriquez un objet de chaque type (pas forcément dans la même partie)
+ACHIEVEMENT_23_NAME,Master Manufacturer,Maître fabricant
+ACHIEVEMENT_24_DESC,Sabotage a haven zone,Sabotez une zone de refuge
+ACHIEVEMENT_24_NAME,Sabotage Plot,Complot de sabotage
+ACHIEVEMENT_25_DESC,Raid a haven zone for its resources,Pillez les ressources d'un refuge
+ACHIEVEMENT_25_NAME,Raider,Pilleur
+ACHIEVEMENT_26_DESC,Survive an ambush mission,Survivez dans une mission d'embuscade
+ACHIEVEMENT_26_NAME,Survivor,Survivant
+ACHIEVEMENT_27_DESC,Steal an aircraft,Volez un vaisseau
+ACHIEVEMENT_27_NAME,Master Thief,Expert du vol
+ACHIEVEMENT_28_DESC,Destroy a Pandoran Nest,Détruisez un Nid pandorien.
+ACHIEVEMENT_28_NAME,Nest Destroyer,Destructeur de Nid
+ACHIEVEMENT_29_DESC,Destroy a Pandoran Lair,Détruisez une Tanière pandorienne.
+ACHIEVEMENT_29_NAME,Lair Destroyer,Destructeur de Tanière
+ACHIEVEMENT_30_DESC,Destroy a Pandoran Citadel,Détruisez une Citadelle pandorienne.
+ACHIEVEMENT_30_NAME,Citadel Destroyer,Destructeur de Citadelle
+ACHIEVEMENT_31_DESC,Retrieve all resources from a scavenging mission,Récupérez toutes les ressources d'un site de ressources
+ACHIEVEMENT_31_NAME,Claim all the Loot,À nous le butin
+ACHIEVEMENT_32_DESC,Steal research from a haven research zone,Volez la recherche de la zone de recherche d'un refuge
+ACHIEVEMENT_32_NAME,Master Spy,Expert de l'espionnage
+ACHIEVEMENT_33_DESC,Complete all Phoenix research projects,Terminez tous les projets de recherche de Phoenix
+ACHIEVEMENT_33_NAME,Scientific Rigor,Rigueur scientifique
+ACHIEVEMENT_34_DESC,Complete all research projects of one faction,Terminez tous les projets de recherche d'une faction
+ACHIEVEMENT_34_NAME,Faction Researcher,Chercheur de faction
+ACHIEVEMENT_35_DESC,Complete live Scylla research,Terminez l'étude d'une Scylla vivante
+ACHIEVEMENT_35_NAME,Pandoran Queen,Reine pandorienne
+ACHIEVEMENT_36_DESC,Complete all research projects (does not have to be in the same game),Terminez tous les projets de recherche (pas forcément dans la même partie)
+ACHIEVEMENT_36_NAME,Master Scientist,Expert scientifique
+ACHIEVEMENT_37_DESC,Max out the base stats of a soldier,Atteignez le max des statistiques de la base pour un soldat
+ACHIEVEMENT_37_NAME,Super Soldier,Super soldat
+ACHIEVEMENT_38_DESC,Obtain solders of each dual class combination (does not have to be in the same game),Obtenez des soldats de chaque combinaison de double classe (pas forcément dans la même partie)
+ACHIEVEMENT_38_NAME,Class Creator,Créateur de classe
+ACHIEVEMENT_39_DESC,"Kill 3 enemies in a single turn with a single soldier - without using explosives ",Éliminez 3 ennemis en un tour avec un seul soldat - sans utiliser d'explosifs
+ACHIEVEMENT_39_NAME,On a Roll,Vent en poupe
+ACHIEVEMENT_40_DESC,Beat a haven defense mission with no civilian deaths or no structural damage,Terminez une mission de défense de refuge sans mort de civils ou de structures endommagées
+ACHIEVEMENT_40_NAME,Flawless Mission,Mission sans faille
+ACHIEVEMENT_41_DESC,Kill 500 Pandorans (does not have to be in same game),Éliminez 500 Pandoriens (pas forcément dans la même partie)
+ACHIEVEMENT_41_NAME,Rack 'em Up,Accumulation
+ACHIEVEMENT_42_DESC,"Cause an enemy to fall to its death ",Causez la chute mortelle d'un ennemi
+ACHIEVEMENT_42_NAME,Splat,Floc
+ACHIEVEMENT_43_DESC,Evacuate a soldier who is bleeding,Évacuez un soldat qui saigne
+ACHIEVEMENT_43_NAME,Medevac,Évacuation médicale
+ACHIEVEMENT_44_DESC,Kill a mindfragger with overwatch when it is jumping on someone's head,Éliminez un Corrupteur en mode vigilance quand il saute sur la tête de quelqu'un
+ACHIEVEMENT_44_NAME,Mindfragger Interdiction,Zone interdite aux Corrupteurs
+ACHIEVEMENT_45_DESC,Kill a Siren when it has someone under mind control,Éliminez une Sirène qui contrôle un agent
+ACHIEVEMENT_45_NAME,Free a Mind,Esprit libre
+ACHIEVEMENT_46_DESC,Mind control 3 enemies at the same time with the same priest,Prenez le contrôle mental de 3 ennemis en même temps avec le même prêtre
+ACHIEVEMENT_46_NAME,Under my Thumb,Sous mon influence
+ACHIEVEMENT_47_DESC,Use every character skill (does not have to be in the same game),Utilisez la compétence de chaque soldat (pas forcément dans la même partie)
+ACHIEVEMENT_47_NAME,Skill Master,Maître des compétences
+ACHIEVEMENT_48_DESC,"Complete the tutorial ",Terminez le didacticiel
+ACHIEVEMENT_48_NAME,First Base,Première base

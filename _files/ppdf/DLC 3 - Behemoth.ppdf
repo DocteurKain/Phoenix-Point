@@ -1,0 +1,1059 @@
+﻿# KEY_ABILITY_INTERCEPT_DESCRIPTION
+Engage enemy aircraft in air combat
+Engagez le vaisseau ennemi dans un combat aérien
+# KEY_ABILITY_INTERCEPT_NAME
+INTERCEPT ENEMY AIRCRAFT
+INTERCEPTER LE VAISSEAU ENNEMI
+# KEY_AIRCRAFT_ITEM_STAT_CHARGES
+Charges
+RECHARGES
+# KEY_AIRCRAFT_ITEM_STAT_COOLDOWN
+Cooldown
+RECHARGE
+# KEY_AIRCRAFT_ITEM_STAT_DURATION
+Duration
+DURÉE
+# KEY_AIRCRAFT_ITEM_STAT_PREPARATION
+Preparation
+PRÉPARATION
+# KEY_AIRCRAFT_PP_2_LONG
+Phoenix Infiltration Aircraft
+Vaisseau d'infiltration Phoenix
+# KEY_ALN_ACID_SWARMER_DESCRIPTION
+Acid Myrmidon
+Myrmidon Caustique
+# KEY_ALN_ACID_SWARMER_NAME
+ACID MYRMIDON
+MYRMIDON CAUSTIQUE
+# KEY_ALN_CORRUPTION_NODE_DESCRIPTION
+Corruption Node
+Nœud de Corruption
+# KEY_ALN_CORRUPTION_NODE_NAME
+CORRUPTION NODE
+NŒUD DE CORRUPTION
+# KEY_ALN_EXPLOSIVE_EGG_DESCRIPTION
+Explosive Egg
+Œuf Explosif
+# KEY_ALN_EXPLOSIVE_EGG_NAME
+EXPLOSIVE EGG
+ŒUF EXPLOSIF
+# KEY_ALN_SWARMER_DESCRIPTION
+Myrmidon
+Myrmidon
+# KEY_ALN_SWARMER_EGG_DESCRIPTION
+Myrmidon Egg
+Œuf de Myrmidon
+# KEY_ALN_SWARMER_EGG_NAME
+MYRMIDON EGG
+ŒUF DE MYRMIDON
+# KEY_ALN_SWARMER_NAME
+MYRMIDON
+MYRMIDON
+# KEY_ALN_VENOMOUS_SWARMER_DESCRIPTION
+Venomous Myrmidon
+Myrmidon Venimeux
+# KEY_ALN_VENOMOUS_SWARMER_NAME
+VENOMOUS MYRMIDON
+MYRMIDON VENIMEUX
+# KEY_AUTO_BATTLE_TOOLTIP
+AUTO-BATTLE ON/OFF
+COMBAT AUTOMATIQUE OUI/NON
+# KEY_BEHEMOTH_ATTACK_OBJECTIVES
+INJECT BEHEMOTH WITH BIOWEAPON
+INJECTER LE BÉHÉMOTH AVEC UNE ARME BIOLOGIQUE
+# KEY_BEHEMOTH_ATTACK_TITLE
+NEUTRALIZE THE BEHEMOTH
+NEUTRALISER LE BÉHÉMOTH
+# KEY_CORRUPTION_NODE_BODY_DESCRIPTION
+Corruption Node's body looks shapeless and alien
+Le corps de mon Nœud de corruption est difforme et étrange
+# KEY_CORRUPTION_NODE_BODY_NAME
+CORRUPTION NODE BODY
+CORPS DE NŒUD DE CORRUPTION
+# KEY_CORRUPTION_NODE_VIRAL_ATTACK_DESCRIPTION
+The Corruption Node spreads viral infection damaging nearby characters
+Le Nœud de corruption propage une infection virale qui inflige des dégâts aux agents à proximité
+# KEY_CORRUPTION_NODE_VIRAL_ATTACK_NAME
+VIRAL PULSE
+PULSATION VIRALE
+# KEY_DEPLOYMENTSCREENOBJECTIVE_ESCAPEFROMHELL
+REACH THE ARMED MANTICORE AND ESCAPE
+ATTEINDRE LA MANTICORE ARMÉE ET FUIR
+# KEY_DLC3_AIRCRAFT_ROSTER_MODULE
+MODULE
+MODULE
+# KEY_DLC3_AIRCRAFT_ROSTER_WEAPONS
+WEAPONS
+ARMES
+# KEY_DLC3_AIRFORCE
+AIR FORCE
+ARMÉE DE L'AIR
+# KEY_DLC3_ALN_LARGE_FLYER_LONG
+The largest species of winged Pandoran discovered to date shows superior strength and intelligence. Its complex and unpredictable behavioral patterns make it the greatest airborne threat to humanity.
+La plus grande espèce de Pandorien ailé découverte à ce jour. Elle est dotée d'une force et d'une intelligence supérieures, et ses comportements complexes et imprévisibles en font la menace volante la plus redoutable pour l'humanité.
+# KEY_DLC3_ALN_LARGE_FLYER_NAME
+ABADDON
+ABADDON
+# KEY_DLC3_ALN_MEDIUM_FLYER_LONG
+This new mutation spawned from the Festering Skies is aggressive and tenacious. Its well-coordinated flight patterns indicate a sinister sense of purpose. Berith strikes are carefully planned in advance and executed with alarming haste and precision.
+Cette nouvelle mutation est apparue dans les Ciels de poison. Elle est agressive et tenace. Ses trajectoires de vol indiquent une détermination sinistre. Les attaques de Berith sont soigneusement planifiées et réalisées avec une vitesse et une précision alarmantes.
+# KEY_DLC3_ALN_MEDIUM_FLYER_NAME
+BERITH
+BERITH
+# KEY_DLC3_ALN_SMALL_FLYER_LONG
+This newly discovered mutation of the Pandoravirus likely bred inside the Festering Skies. It shows signs of great intelligence, probably remotely guided by some sort of hive mind. Charun specimens are highly aggressive and are known to attack both airborne and stationary human targets.
+Cette mutation récemment découverte du Pandoravirus a probablement été produite dans les Ciels de poison. Elle montre des signes de grande intelligence et elle est sûrement guidée par une sorte d'intelligence collective. Les spécimens de Charun sont très agressifs et attaquent les cibles humaines en vol ou stationnaires.
+# KEY_DLC3_ALN_SMALL_FLYER_NAME
+CHARUN
+CHARUN
+# KEY_DLC3_BEHEMOTH_SPEED
+Currently moving at {0} kph
+Se déplace actuellement à {0} km/h
+# KEY_DLC3_BEHEMOTH_STATE_COUNTER
+Disruption Points {0}/{1}
+Points de perturbation {0}/{1}
+# KEY_DLC3_BEHEMOTH_STATE_LAND
+The Behemoth is roaming the land
+Le Béhémoth sillonne le territoire
+# KEY_DLC3_BEHEMOTH_STATE_RETREATING
+The Behemoth is heading towards the ocean
+Le Béhémoth se dirige vers l'océan
+# KEY_DLC3_BEHEMOTH_STATE_UNDERWATER
+The Behemoth is underwater
+Le Béhémoth est submergé
+# KEY_DLC3_CAMERA_SHAKE
+(FESTERING SKIES) CAMERA SHAKE
+(CIELS DE POISON) VIBRATION CAMÉRA
+# KEY_DLC3_CANT_REDIRECT_AIRCRAFT
+Can't redirect a disengaging aircraft
+Impossible de rediriger un vaisseau en retrait
+# KEY_DLC3_COUNTERMEASURE_ELECTRONIC
+Counters radar-guided weapons
+CONTRE-MESURES ÉLECTRONIQUES
+# KEY_DLC3_COUNTERMEASURE_EVASION
+Counters visual-guided weapons
+CONTRE-MESURES CONTRE LA FUITE
+# KEY_DLC3_COUNTERMEASURE_FIRE
+Counters fire weapons
+CONTRE-MESURES CONTRE LE FEU
+# KEY_DLC3_COUNTERMEASURE_INFRARED
+Counters heat-guided weapons
+CONTRE-MESURES CONTRE LES INFRAROUGES
+# KEY_DLC3_COUNTERMEASURE_SECURITY
+Counters bioweapons
+CONTRE-MESURES DE SÉCURITÉ
+# KEY_DLC3_DAMAGE_ACID_DESCRIPTION
+Damages armor over time
+Dégâts infligés à l'armure sur la durée
+# KEY_DLC3_DAMAGE_ACID_NAME
+Acid damage
+Dégâts caustiques
+# KEY_DLC3_DAMAGE_ARMOR_PENETRATION_NAME
+Ignores Armor
+Ignore l'armure
+# KEY_DLC3_DAMAGE_BIOWEAPON_DESCRIPTION
+Damages the aircraft over time
+Dégâts infligés au vaisseau sur la durée
+# KEY_DLC3_DAMAGE_BIOWEAPON_NAME
+Bioweapon damage
+Dégâts d'arme biologique
+# KEY_DLC3_DAMAGE_EMP_DESCRIPTION
+Deals extra damage to non-organic aircraft
+Inflige des dégâts supplémentaires aux vaisseaux non organiques
+# KEY_DLC3_DAMAGE_EMP_NAME
+EMP damage
+Dégâts EMP
+# KEY_DLC3_DAMAGE_FIRE_DESCRIPTION
+Damages the aircraft over time
+Dégâts infligés au vaisseau sur la durée
+# KEY_DLC3_DAMAGE_FIRE_NAME
+Fire damage
+Dégâts de feu
+# KEY_DLC3_DAMAGE_INCENDIARY_DESCRIPTION
+Has chance to cause a fire
+Peut causer des incendies
+# KEY_DLC3_DAMAGE_INCENDIARY_NAME
+Incendiary damage
+Dégâts incendiaires
+# KEY_DLC3_DAMAGE_REGULAR_DESCRIPTION
+Damage done to aircraft's Hull Points
+Points de dégâts infligés à la coque du vaisseau
+# KEY_DLC3_DAMAGE_REGULAR_NAME
+Damage
+Dégâts
+# KEY_DLC3_DAMAGE_SHOCK_DESCRIPTION
+Temporarily disables modules
+Désactive temporairement les modules
+# KEY_DLC3_DAMAGE_SHOCK_NAME
+Shock damage
+Dégâts électriques
+# KEY_DLC3_DAMAGE_SHRED_DESCRIPTION
+Damages armor upon impact
+Dégâts infligés à l'armure à l'impact
+# KEY_DLC3_DAMAGE_SHRED_NAME
+Shred damage
+Dégâts de déchiquetage
+# KEY_DLC3_DAMAGE_VIROPHAGE_DESCRIPTION
+Deals extra damage to organic aircraft
+Inflige des dégâts supplémentaires aux vaisseaux organiques
+# KEY_DLC3_DAMAGE_VIROPHAGE_NAME
+Virophage damage
+Dégâts virophages
+# KEY_DLC3_DISENGAGING
+DISENGAGING
+EN RETRAIT
+# KEY_DLC3_EILEEN_DESCRIPTION
+Synedrion Pilot
+Pilote du Synédrion
+# KEY_DLC3_EILEEN_NAME
+Citizen Eileen
+Citoyenne Eileen
+# KEY_DLC3_ENEMY_AIRCRAFT_CONDITION
+ENEMY AIRCRAFT CONDITION
+ÉTAT DU VAISSEAU ENNEMI
+# KEY_DLC3_FACTION_INTERCEPTION_LOSS
+{0} {1} was destroyed by {2} {3}
+Le vaisseau {1} de la faction {0} a été détruit par un vaisseau {3} de la faction {2}
+# KEY_DLC3_FACTION_INTERCEPTION_WIN
+{0} {1} successfully intercepted {2} {3}
+Le vaisseau {1} de la faction {0} a intercepté le vaisseau {3} de la faction {2}
+# KEY_DLC3_FILTER_ALL
+Filter: All
+Filtre : tout
+# KEY_DLC3_FILTER_MODULES
+Filter: Modules
+Filtre : modules
+# KEY_DLC3_FILTER_WEAPONS
+Filter: Weapons
+Filtre : armes
+# KEY_DLC3_GEOBONUS_ARMOR
+Provides {bonus} additional armor
+Accorde {bonus} points d'armure supplémentaires
+# KEY_DLC3_GEOBONUS_HITPOINTS
+Provides {bonus} additional Hull Points
+Accorde {bonus} points de coque supplémentaires
+# KEY_DLC3_GEOBONUS_ORACLE
+Provides weapons with psychic guidance
+Donne un guidage psychique aux armes
+# KEY_DLC3_GEOBONUS_RANGE
+Geoscape range increased by {bonus}
+Portée du Geoscape augmentée de {bonus}
+# KEY_DLC3_GEOBONUS_RECUPERATION
+Protects onboard personnel if the aircraft is destroyed
+Protège le personnel à bord si le vaisseau est détruit
+# KEY_DLC3_GEOBONUS_SPEED
+Geoscape speed increased by {bonus}
+Vitesse du Geoscape augmentée de {bonus}
+# KEY_DLC3_GEOBONUS_STAMINA
+Onboard personnel recovers Stamina
+Le personnel à bord récupère de l'endurance
+# KEY_DLC3_GEOSCAPE_MESSAGE_VEHICLE_REPAIRED
+{0} and all modules fully repaired
+{0} et tous les modules sont réparés.
+# KEY_DLC3_GEO_OBJECTIVE_ALIEN_FLYERS
+Active Pandoran Flyers: {0}
+Pandoriens ailés actifs : {0}
+# KEY_DLC3_GEO_OBJECTIVE_BEHEMOTH
+The Behemoth is roaming
+Le Béhémoth rôde
+# KEY_DLC3_GROUND_FORCES
+GROUND FORCES
+TROUPES AU SOL
+# KEY_DLC3_GUIDANCE_HEAT
+Heat Guidance
+GUIDAGE THERMIQUE
+# KEY_DLC3_GUIDANCE_PHYCHIC
+Psychic Guidance
+GUIDAGE PSYCHIQUE
+# KEY_DLC3_GUIDANCE_RADAR
+Radar Guidance
+GUIDAGE RADAR
+# KEY_DLC3_GUIDANCE_VISUAL
+Visual Guidance
+GUIDAGE VISUEL
+# KEY_DLC3_HULL_POINTS
+HULL POINTS
+POINTS DE COQUE
+# KEY_DLC3_INFESTED
+Infested
+Infesté
+# KEY_DLC3_INTERCEPTION_AIRCRAFT_CONDITION
+AIRCRAFT CONDITION
+ÉTAT DU VAISSEAU
+# KEY_DLC3_INTERCEPTION_DISENGAGE
+DISENGAGE
+SE RETIRER
+# KEY_DLC3_INTERCEPTION_ENGAGE
+ENGAGE
+ENGAGER
+# KEY_DLC3_INTERCEPTION_FAILED
+Your characters have suffered Stamina and Hit Point loss. Survivors will be transported to the nearest Phoenix base.
+Vos agents ont perdu de l'endurance et des points de vie. Les survivants seront transportés à la base Phoenix la plus proche.
+# KEY_DLC3_INTERCEPTION_MISSION_RESULT_DISENGAGED
+DISENGAGED
+RETIRÉ
+# KEY_DLC3_INTERCEPTION_MISSION_TITLE
+DESTROY ENEMY AIRCRAFT
+DÉTRUIRE UN VAISSEAU ENNEMI
+# KEY_DLC3_INTERCEPTION_PXPEDIA
+Accuracy: % odds to hit the target, miss otherwise. Can be modified by weather.[n][n]Guidance: The type of guidance employed by a weapon. Most guidance types can be evaded via specialized modules.[n][n]Armor: Protects the Hull and the Modules.[n][n]Hull: When Hull drops to 0, the aircraft is destroyed.[n][n]Modules: Many modules (but not all) lose their functionality when down to 0. Extra damage overflows as Hull damage.[n][n]Acid: Each tick of Acid damages Armor, then decreases the Acid stack by 10. When Armor is down to 0, Acid damages the Hull and the Modules simultaneously. Additional applications of Acid stack.[n][n]Fire Onboard: Each tick of Fire causes 40 damage to the Hull and each Module. Fire applications do not stack, nor does the damage diminish in time.[n][n]Bioweapon Onboard: Each tick of Bioweapon causes 40 damage to the Hull and each Module. Bioweapon applications do not stack, nor does the damage diminish in time.[n][n]EMP: extra damage against Phoenix and Faction aircraft.[n][n]Virophage: extra damage against Pandoran and Infested aircraft.[n][n]Shred: reduces Armor.[n][n]Shock: divide value by Module current hit points, this is the number of seconds the Module is unusable.[n][n]Armor Penetration: ignores Armor.[n][n]
+Précision : probabilités en % de toucher la cible, autrement elle est manquée. Influencée par les conditions météorologiques.[n][n] Guidage : le type de guidage employé par une arme. La plupart des guidages peuvent être déjoués avec des modules spécialisés.[n] [n] Armure : protège la coque et les modules.[n] [n] Coque : lorsque la coque tombe à 0, le vaisseau est détruit.[n] [n] Modules : de nombreux modules (mais pas tous) perdent leur fonctionnalité quand ils tombent à 0. Les dégâts supplémentaires sont comptés comme dégâts de coque.[n] [n] Acide : chaque intervalle d'acide endommage l'armure, puis réduit le cumul d'acide de 10 points. Lorsque l'armure est à 0, l'acide inflige simultanément des dégâts à la coque et aux modules. Applications supplémentaires de cumul d'acide.[n] [n] Feu à bord : chaque intervalle de feu inflige 40 points de dégâts à la coque et à chaque module. Les applications du feu ne se cumulent pas et les dégâts ne diminuent pas avec le temps.[n][n] Arme biologique à bord : chaque intervalle de l'arme biologique cause 40 points de dégâts à la coque et à chaque module. Les applications de l'arme biologique ne se cumulent pas et les dégâts ne diminuent pas avec le temps.[n] [n] EMP : dégâts supplémentaires contre Phoenix et les vaisseaux de la faction.[n] [n] Virophage : dégâts supplémentaires contre les Pandoriens et les vaisseaux infestés.[n] [n] Déchiquetage : réduit les points d'armure.[n] [n] Décharge : divisez la valeur par le nombre actuel de points de vie du module, ce qui donne le nombre de secondes durant lesquelles le module est inutilisable.[n] [n] Perforation d'armure : ignore l'armure.
+# KEY_DLC3_INTERCEPTION_REPAIR_AIRCRAFT
+Reach a Phoenix base in order to repair, reload and edit weapons and modules
+Atteignez une base Phoenix pour réparer, recharger et modifier les armes et les modules
+# KEY_DLC3_INT_AUTO_BATTLE
+AUTO-BATTLE
+COMBAT AUTOMATIQUE
+# KEY_DLC3_INT_BLOCKED
+BLOCKED
+BLOQUÉ
+# KEY_DLC3_INT_CHARGING_MODULE
+CHARGING MODULE
+MODULE EN CHARGE
+# KEY_DLC3_INT_CHOSE_TARGET
+CHOOSE A TARGET
+CHOISISSEZ UNE CIBLE
+# KEY_DLC3_INT_COUNTER_BIOWEAPON_NEUTRALIZED
+Bioweapon Neutralized
+Arme biologique neutralisée
+# KEY_DLC3_INT_COUNTER_EVADED
+EVADED
+ESQUIVÉ
+# KEY_DLC3_INT_COUNTER_FIRE_NEUTRALIZED
+Fire Neutralized
+Feu neutralisé
+# KEY_DLC3_INT_DMG_ARMOR_PIERCED
+ARMOR PIERCED
+ARMURE PERFORÉE
+# KEY_DLC3_INT_DMG_ARMOR_SHREDDED
+ARMOR SHREDDED
+ARMURE DÉCHIQUETÉE
+# KEY_DLC3_INT_DMG_BIOWEAPON
+BIOWEAPON APPLIED
+ARME BIOLOGIQUE APPLIQUÉE
+# KEY_DLC3_INT_DMG_FIRE
+FIRE APPLIED
+FEU APPLIQUÉ
+# KEY_DLC3_INT_DMG_SHOCKED
+SHOCKED
+ÉLECTRIFIÉ
+# KEY_DLC3_INT_ENEMY_MODULE_DESTROYED
+ENEMY {0} DESTROYED
+ENNEMI {0} DÉTRUIT
+# KEY_DLC3_INT_ENEMY_WEAPON_IN_RANGE
+ENEMY {0} IN RANGE
+ENNEMI {0} À PORTÉE
+# KEY_DLC3_INT_HIT
+HIT
+TOUCHÉ
+# KEY_DLC3_INT_MISS
+MISS
+RATÉ
+# KEY_DLC3_INT_MODULE
+MODULE
+MODULE
+# KEY_DLC3_INT_MODULE_LOST
+MODULE LOST
+MODULE PERDU
+# KEY_DLC3_INT_MODULE_NOT_READY
+MODULE NOT READY
+LE MODULE N'EST PAS PRÊT
+# KEY_DLC3_INT_OUT_OF_AMMO
+{0} OUT OF AMMO
+{0} : MUNITIONS ÉPUISÉES
+# KEY_DLC3_INT_OUT_OF_RANGE
+{0} OUT OF RANGE
+{0} : HORS DE PORTÉE
+# KEY_DLC3_INT_S1_P1
+<color=#ECBA62>Manticore AI Core:</color> AIRBORNE HOSTILE DETECTED.
+Centre IA de Manticore : ENNEMI VOLANT DÉTECTÉ.
+# KEY_DLC3_INT_S1_P2
+<color=#ECBA62>Eileen:</color> What the hell? This thing is huge! Arm all weapons!
+Eileen : C'est quoi ce truc ? C'est énorme ! Préparez toutes les armes !
+# KEY_DLC3_INT_S2_P1
+<color=#ECBA62>Eileen:</color> We are under fire! 
+Eileen : Nous nous faisons attaquer !
+# KEY_DLC3_INT_S2_P2
+<color=#ECBA62>Manticore AI Core:</color> BRACE FOR IMPACT.
+Centre IA de Manticore : PRÉPAREZ-VOUS POUR L'IMPACT.
+# KEY_DLC3_INT_S2_P3
+An aircraft is destroyed when its Hull Points drop to 0. 
+Un vaisseau est détruit quand ses points de coque sont à 0.
+# KEY_DLC3_INT_S2_P4
+Make sure to Disengage before that happens!
+Retirez-vous avant que cela ne se produise !
+# KEY_DLC3_INT_S3_P1
+<color=#ECBA62>Manticore AI Core:</color> NOMAD LAUNCHER OPERATIONAL.[n]
+<color=#ECBA62>Centre IA de Manticore :</color> LANCE-MISSILES NOMADE OPÉRATIONNEL.
+# KEY_DLC3_INT_S3_P2
+<color=#ECBA62>Eileen:</color> Return fire! 
+Eileen : Ripostez !
+# KEY_DLC3_INT_S3_P3_C
+To aim a weapon system, select your Weapon, then select the target icon.[n]
+Pour viser avec un dispositif armé, sélectionnez votre arme, puis l'icône cible.
+# KEY_DLC3_INT_S3_P3_K
+To aim a weapon system left click your Weapon, then left-click the target icon.[n]
+Pour viser avec un dispositif armé, effectuez un clic gauche sur l'arme, puis sur l'icône cible.
+# KEY_DLC3_INT_S4_P1
+Our aircraft has a defensive Module. The Afterburner makes us dodge any visually guided projectile, including the acid spit used by this Pandoran flyer.
+Notre vaisseau dispose d'un module défensif. Le module de postcombustion nous permet d'éviter n'importe quel projectile guidé visuellement, y compris la projection jet d'acide de ce Pandorien volant.
+# KEY_DLC3_INT_S4_P2
+<color=#ECBA62>Eileen:</color> Engage the Afterburner![n]
+Eileen : Engagez le module de postcombustion !
+# KEY_DLC3_INT_S5_P1
+Damage done to disabled Modules is transferred directly to the Hull.
+Les dégâts subis par les modules hors service sont transférés directement à la coque.
+# KEY_DLC3_INT_S5_P2
+<color=#ECBA62>Eileen:</color> Let’s finish this Pandoran monster![n]
+Eileen : Finissons-en avec ce monstre pandorien !
+# KEY_DLC3_INT_S5_P3
+<color=#ECBA62>Manticore AI Core:</color> THREAT ELIMINATED.
+Centre IA de Manticore : MENACE ÉLIMINÉE.
+# KEY_DLC3_INT_S6_P1
+<color=#ECBA62>Manticore AI Core:</color> CODE RED! EMERGENCY DISENGAGE PROTOCOL ACTIVATED.
+Centre IA de Manticore : CODE ROUGE ! PROTOCOLE DE RETRAIT D'URGENCE ACTIVÉ.
+# KEY_DLC3_INT_S6_P2
+<color=#ECBA62>Eileen:</color> Thanks for sharing! Now go, go, go!
+Eileen : Merci pour l'info ! Maintenant, en avant !
+# KEY_DLC3_INT_S6_P3_C
+Select Disengage or press :BACK:. 
+Sélectionnez Se retirer ou appuyez sur :BACK:.
+# KEY_DLC3_INT_S6_P3_K
+Select Disengage or press {[EndTurn]}
+Sélectionnez Se retirer ou appuyez sur {[EndTurn]}
+# KEY_DLC3_INT_TARGET_ACQUIRED
+TARGET ACQUIRED
+CIBLE DÉFINIE
+# KEY_DLC3_INT_TOGGLE_TIME_HOTKEY
+Pause/Unpause
+Mettre en pause/Reprendre
+# KEY_DLC3_INT_TOGGLE_TOOLTIPS_HOTKEY
+Show/Hide Tooltips
+Afficher/Masquer les conseils
+# KEY_DLC3_INT_USE_MODULE_HOTKEY
+Use Module
+Utiliser le module
+# KEY_DLC3_INT_WARNING_BIOWEAPON
+WARNING: Bioweapon on board!
+AVERTISSEMENT : Arme biologique à bord !
+# KEY_DLC3_INT_WARNING_FIRE
+WARNING: Fire on board!
+AVERTISSEMENT : Feu à bord !
+# KEY_DLC3_INT_WARNING_HP_20
+WARNING: HP below 20%
+AVERTISSEMENT : PV inférieurs à 20 %
+# KEY_DLC3_INT_WARNING_HP_50
+WARNING: HP below 50%
+AVERTISSEMENT : PV inférieurs à 50 %
+# KEY_DLC3_INT_WEAPON
+WEAPON
+ARME
+# KEY_DLC3_INT_WEAPON_1
+WEAPON 1
+ARME 1
+# KEY_DLC3_INT_WEAPON_2
+WEAPON 2
+ARME 2
+# KEY_DLC3_INT_WEAPON_3
+WEAPON 3
+ARME 3
+# KEY_DLC3_INT_WEAPON_4
+WEAPON 4
+ARME 4
+# KEY_DLC3_INT_WEAPON_5
+WEAPON 5
+ARME 5
+# KEY_DLC3_INT_WEAPON_6
+WEAPON 6
+ARME 6
+# KEY_DLC3_INT_WEAPON_LOST
+{0} LOST
+ARME {0} PERDUE
+# KEY_DLC3_LOSSES
+LOSSES
+PERTES
+# KEY_DLC3_MOUNTEGG_NAME
+MOUNT EGG
+MONT ŒUF
+# KEY_DLC3_MOVEMENT_PENTALY
+{0} SPEED
+{0} POINTS DE VITESSE
+# KEY_DLC3_PANDORAN
+Pandoran
+Pandorien
+# KEY_DLC3_REBIND_ENEMY_1
+ENEMY WEAPON/MODULE 1
+ARME/MODULE ENNEMI(E) 1
+# KEY_DLC3_REBIND_ENEMY_2
+ENEMY WEAPON/MODULE 2
+ARME/MODULE ENNEMI(E) 2
+# KEY_DLC3_REBIND_ENEMY_3
+ENEMY WEAPON/MODULE 3
+ARME/MODULE ENNEMI(E) 3
+# KEY_DLC3_REBIND_ENEMY_4
+ENEMY WEAPON/MODULE 4
+ARME/MODULE ENNEMI(E) 4
+# KEY_DLC3_REBIND_ENEMY_5
+ENEMY WEAPON/MODULE 5
+ARME/MODULE ENNEMI(E) 5
+# KEY_DLC3_REBIND_ENEMY_6
+ENEMY WEAPON/MODULE 6
+ARME/MODULE ENNEMI(E) 6
+# KEY_DLC3_REBIND_ENEMY_HULL
+ENEMY HULL
+COQUE ENNEMIE
+# KEY_DLC3_REBIND_FRIENDLY_1
+FRIENDLY WEAPON 1
+ARME ALLIÉE 1
+# KEY_DLC3_REBIND_FRIENDLY_2
+FRIENDLY WEAPON 2
+ARME ALLIÉE 2
+# KEY_DLC3_REBIND_FRIENDLY_3
+FRIENDLY MODULE
+MODULE ALLIÉ
+# KEY_DLC3_ROSTER_HOTKEY_LOCATE
+Locate
+Trouver
+# KEY_DLC3_ROSTER_HOTKEY_RENAME
+Rename
+Renommer
+# KEY_DLC3_STATUS_HIGH_WINDS_DESCRIPTION
+Grenades, grenade launchers, and missile launchers have halved range
+La portée des grenades, des lance-grenades et des lance-missiles est réduite de moitié
+# KEY_DLC3_STATUS_HIGH_WINDS_NAME
+HIGH WINDS
+GRAND VENT
+# KEY_DLC3_STORAGE
+STORAGE
+ENTREPÔT
+# KEY_DLC3_TAC_HINT_ACID_SWARMER_DESCRIPTION
+The body of this advanced form of Myrmidon mutation produces dangerous acids. It's advisable to shoot it from a safe distance to prevent exposure to the dangerous chemicals.
+Le corps de cette forme de Myrmidon mutant produit de dangereux acides. Il est conseillé de tuer cette créature à une distance sûre pour éviter une exposition aux substances chimiques.
+# KEY_DLC3_TAC_HINT_ACID_SWARMER_NAME
+PANDORAN SUPPLEMENTAL - ACID MYRMIDON
+SUPPLÉMENT PANDORIEN – MYRMIDON CAUSTIQUE
+# KEY_DLC3_TAC_HINT_CORRUPTION_NODE_DESCRIPTION
+We've discovered the neural core that managed to telepathically overwhelm the entire haven. [n]This monstrous Pandoran does not resemble anything we've previously encountered. It's body has an unnatural structure devoid of any human features. [n]Our squad needs to exercise extreme caution approaching such a creature. An aggressive offensive seems to be our best course of action.
+Nous avons découvert le centre neural qui a réussi à prendre le contrôle de tout le refuge par télépathie.[n] Ce monstre pandorien ne ressemble à aucun autre rencontré jusqu'ici. Son corps est doté d'une structure anormale sans aucun trait humain.[n] Notre escouade doit faire preuve d'une extrême prudence à l'approche de cette créature. Une attaque agressive semble être notre meilleur plan d'action.
+# KEY_DLC3_TAC_HINT_CORRUPTION_NODE_NAME
+PANDORAN - CORRUPTION NODE
+PANDORIEN – NŒUD DE CORRUPTION
+# KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_DESCRIPTION
+"Phoenix, respond! Phoenix? Damn...[n]If anybody receives this transmission: This is Citizen Eileen speaking. Your squad is missing, presumed K.I.A. I am taking off with the armed Manticore. Stand by for future transmissions. Eileen out."
+"Phoenix, répondez ! Phoenix ? Merde... Si quelqu'un reçoit cette transmission : C'est la citoyenne Eileen qui vous parle. Votre escouade a disparu, présumée K.I.A. Je décolle avec la Manticore armée. Attendez les prochaines transmissions. Eileen terminé."
+# KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_NAME
+TRANSMISSION
+TRANSMISSION
+# KEY_DLC3_TAC_HINT_EILEEN_STORY_WIN_DESCRIPTION
+"Is everybody on board? I'm afraid we can't afford to stay any longer... things are getting really ugly down there...[n]My name is Citizen Eileen and it is my duty to see you returned safely. This was my home haven, but... we need to go. Prepare for takeoff!"
+« Est-ce que tout le monde est à bord ? Je crains que nous ne puissions rester plus longtemps... la situation se détériore rapidement là-bas...[n]Je suis la citoyenne Eileen et je dois veiller à ce que vous rentriez en toute sécurité. C'était mon refuge, mais... nous devons partir. Préparez-vous pour le décollage ! »
+# KEY_DLC3_TAC_HINT_EILEEN_STORY_WIN_NAME
+TO THE SKIES
+BRANCHIES DE BÉHÉMOTH
+# KEY_DLC3_TAC_HINT_EXPLOSIVE_EGG_DESCRIPTION
+This Pandoran egg is different from what we've previously seen. The dangerous chemicals inside make it prone to exploding, so our soldiers need to approach with caution.
+Cet œuf pandorien est différent de ce qu'on a vu auparavant. Les dangereuses substances chimiques qu'il contient le rendent sujet à l'explosion, nos soldats doivent donc s'en approcher avec prudence.
+# KEY_DLC3_TAC_HINT_EXPLOSIVE_EGG_NAME
+PANDORAN - EXPLOSIVE EGG
+PANDORIEN – ŒUF EXPLOSIF
+# KEY_DLC3_TAC_HINT_GILLS_DESCRIPTION
+The behemoth's stomp puts our whole team in great danger. Disabling the creature's gills will hinder its breathing cycle and significantly slow it down.
+Le piétinement du Béhémoth met toute notre équipe en grand danger. Désactiver les branchies de cette créature entravera son cycle respiratoire et la ralentira considérablement.
+# KEY_DLC3_TAC_HINT_GILLS_NAME
+BEHEMOTH'S GILLS
+BRANCHIES DE BÉHÉMOTH
+# KEY_DLC3_TAC_HINT_INJECTORS_DESCRIPTION
+Our operatives are armed with a powerful bioweapon. We should exploit the weak spots on the Behemoth's skin and inject the virophage agent there.
+Nos agents sont équipés d'une puissante arme biologique. Nous devrions exploiter les points faibles de la peau du Béhémoth pour lui injecter l'agent virophage.
+# KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_DESCRIPTION
+"Phoenix? I see you're getting close. More crabmen are approaching from all sides, so hurry up! I'm waiting for you inside the Manticore."
+Phoenix? Je vois que vous vous rapprochez. D'autres hommes-crabes arrivent de tous les côtés, faites vite ! Je vous attends dans la Manticore.
+# KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_NAME
+TRANSMISSION
+TRANSMISSION
+# KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_DESCRIPTION
+If the Synedrion are to be trusted, this hangar contains a fully operational Manticore armed for aerial battle. A pilot is waiting for us inside. We should reach it as soon as possible, avoiding any unnecessary engagements with the enemy.
+Si nous nous fions au Synédrion, ce hangar contient une Manticore opérationnelle armée pour le combat aérien. Un pilote nous attend à l'intérieur. Nous devrions l'atteindre au plus vite en évitant tout combat inutile contre l'ennemi.
+# KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_NAME
+ARMED AIRCRAFT
+VAISSEAU ARMÉ
+# KEY_DLC3_TAC_HINT_MANTICORE_RUN_STORY_DESCRIPTION
+Looks like the Pandorans have besieged the haven from all sides, including the sky above. The massive seismic eruption has cut off the main entrance and our transport was lost in the sinkhole. We'll need to find another way out.
+On dirait que les Pandoriens ont assiégé le refuge de tous les côtés, y compris du ciel. L'énorme éruption sismique a coupé l'entrée principale et notre véhicule a disparu dans le gouffre. Nous allons devoir trouver un autre moyen de partir.
+# KEY_DLC3_TAC_HINT_MANTICORE_RUN_STORY_NAME
+TRAPPED
+PIÉGÉS
+# KEY_DLC3_TAC_HINT_NJECTORS_NAME
+VIROPHAGE INJECTION
+INJECTION VIROPHAGE
+# KEY_DLC3_TAC_HINT_SWARMER_DESCRIPTION
+Myrmidons are nimble Pandorans capable of flight at short distances. Their primary goal is to secure strategic zones on the battlefield.
+Les Myrmidons sont des Pandoriens agiles qui peuvent voler sur de courtes distances. Leur but premier consiste à s'emparer des zones stratégiques sur le champ de bataille.
+# KEY_DLC3_TAC_HINT_SWARMER_EGG_DESCRIPTION
+Each of these eggs contains a hibernating Myrmidon inside ready to burst out.[n]It's advisable for our operatives to shoot if from a safe distance.
+Chacun de ces œufs contient un Myrmidon en hibernation prêt à sortir.[n] Nous recommandons à nos agents de tirer dessus à une distance sûre.
+# KEY_DLC3_TAC_HINT_SWARMER_EGG_NAME
+PANDORAN - MYRMIDON EGG
+PANDORIEN – ŒUF MYRMIDON
+# KEY_DLC3_TAC_HINT_SWARMER_NAME
+PANDORAN - MYRMIDON
+PANDORIEN – MYRMIDON
+# KEY_DLC3_TAC_HINT_VENOMOUS_SWARMER_DESCRIPTION
+This sub mutation of the Myrmidon species has developed internal organs producing dangerous gasses. Be careful with your positioning when shooting these creatures down, because they might explode.
+Cette sous-mutation de l'espèce Myrmidon a développé des organes internes qui produisent de dangereux gaz. Faites attention à votre position quand vous abattez ces créatures, elles peuvent exploser.
+# KEY_DLC3_TAC_HINT_VENOMOUS_SWARMER_NAME
+PANDORAN SUPPLEMENTAL - VENOMOUS MYRMIDON
+SUPPLÉMENT PANDORIEN – MYRMIDON VENIMEUX
+# KEY_DLC3_TAC_INJECTOR_OBJECTIVE_DESCRIPTION
+Exploit a weakness on the back of the Behemoth to inject our virophage weapon. The injecting process will take 2 turns.
+Exploitez un point faible sur le dos du Béhémoth pour injecter notre agent virophage. Le processus d'injection dure 2 tours.
+# KEY_DLC3_TAC_INJECTOR_OBJECTIVE_NAME
+INJECT BIOWEAPON
+ARME BIOLOGIQUE D'INJECTION
+# KEY_DLC3_TAC_INJECTOR_STATUS_DESCRIPTION
+This operative is in the process of injecting the Behemoth with our virophage weapon. They won't be able to perform any other tasks for 2 turns.
+Cet agent est en train d'injecter le Béhémoth avec notre arme virophage. Il ne pourra pas réaliser d'autres actions pendant 2 tours.
+# KEY_DLC3_TAC_INJECTOR_STATUS_NAME
+STATUS - INJECTING
+ÉTAT - INJECTION
+# KEY_DLC3_THE_GIFT
+THE GIFT
+LE CADEAU
+# KEY_DLC3_TUT_AIR_FORCE_TAB_DESCRIPTION
+This is the AIR FORCE tab. Here you'll be able to view, equip, and manage all your aircraft.
+Voici l'onglet ARMÉE DE L'AIR. Il vous permet de consulter, d'équiper et de gérer tous vos vaisseaux.
+# KEY_DLC3_TUT_AIR_FORCE_TAB_NAME
+MANAGE AIRCRAFT
+GÉRER LE VAISSEAU
+# KEY_DLC3_TUT_BEHEMOTH_DESCRIPTION
+The Behemoth is stronger than we feared. It is capable of razing havens to the ground and its travel pattern indicates sinister intelligence. Observing its behavior leads us to believe the targets for its next destructive rampage are the two nearby havens.
+Le Béhémoth est plus puissant qu'on ne le craignait. Il est capable de raser des refuges et son schéma de déplacements indique une intelligence malveillante. L'observation de son comportement nous porte à croire que les cibles de son prochain carnage sont deux refuges voisins.
+# KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_DESCRIPTION
+The Behemoth will constantly emerge from the ocean and begin a horrible rampage, ruining several havens. We must do all we can to hinder its advance.[n]Various acts of defiance against the creature will score Disruption points (DP). [n][n]These include destroying a Charun (1 DP), a Berith (2 DP), or an Abaddon (4 DP), and cleansing an Infested Haven (5 DP).[n][n]When enough Disruption points are scored, the Behemoth will cease its rampage and go back to the ocean.[n][n]<i>"Only this once, we shall embrace humanity and ally with our sinful brethren in the Grand Rite of Winged Warfare. For the sake of the Dead God and all living things!"  - The Exalted</i>
+Le Béhémoth émerge constamment de l'océan et commence à tout saccager, détruisant plusieurs refuges. Nous devons faire notre possible pour entraver sa progression.[n] Plusieurs actes de résistance contre cette créature rapporteront des points de perturbation (PP).[n] [n] Ceci inclut la destruction d'un Charun (1 PP), d'un Berith (2 PP) ou d'un Abaddon (4 PP) et le nettoyage d'un refuge infesté (5 PP).[n] [n] Lorsque vous atteignez un certain nombre de points de perturbation, le Béhémoth cesse sa destruction et retourne dans l'océan.[n] [n] <i>« Cette fois seulement, nous accepterons l'humanité et nous nous allierons à nos frères immoraux dans le Grand rite de la Guerre ailée. Au nom du Dieu défunt et de toutes les créatures vivantes ! » - L'Exaltée</i>
+# KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_NAME
+DISRUPTING THE BEHEMOTH
+PERTURBER LE BÉHÉMOTH
+# KEY_DLC3_TUT_BEHEMOTH_NAME
+THE BEHEMOTH
+LE BÉHÉMOTH
+# KEY_DLC3_TUT_BOMBARDMENT_DESCRIPTION
+The largest species of winged Pandorans will target human settlements for SUSTAINED BOMBARDMENT.  It's advisable to intercept them before they complete their mission.[n][n]<i>A new type of Pandoran with a wingspan much bigger than the rest of the newly-discovered species has begun congregating and attacking human settlements. Its tactics resemble sustained bombardment. [n][n]Worried scientist speculate they are adopted by studying the behavior and possibly the very minds of human pilots.</i>
+L'espèce la plus grosse de Pandoriens ailés cible les colonies humaines avec des BOMBARDEMENTS SOUTENUS. Il est recommandé de les intercepter avant qu'ils ne terminent leur mission.[n] [n] <i>Un nouveau type de Pandorien d'une envergure bien plus importante que les autres espèces récemment découvertes a commencé à se rassembler pour attaquer des colonies humaines. Sa tactique ressemble à des bombardements soutenus.[n] [n] Des scientifiques inquiets émettent l'hypothèse qu'ils ont adopté cette technique en étudiant le comportement et peut-être même l'esprit des pilotes humains.
+# KEY_DLC3_TUT_BOMBARDMENT_NAME
+PANDORAN BOMBARDMENT FLIGHT
+VOL DE BOMBARDEMENT PANDORIEN
+# KEY_DLC3_TUT_INFESTATION_DESCRIPTION
+Pandorans spawned from Behemoth will SEED CORRUPTING SPORES and hatch Mindfraggers inside human settlements.[n][n]<i>Multiple havens have been reporting a worrisome behavior by the flying Pandoran species. The raids seem to be targeted at specific, key structures, and proceed to quickly corrupting the entire haven. In some cases, the settlement and its citizens are completely overtaken by the Pandoran intelligence.[n][n]We are carefully recording the data from such raids under classification code IF standing for "Infestation flights".</i>
+Les Pandoriens nés du Béhémoth SÈMENT DES SPORES DE CORRUPTION et font éclore des Corrupteurs dans les colonies humaines.[n] [n] <i>Plusieurs refuges signalent qu'une espèce de Pandoriens volants se comporte de façon inquiétante. Les raids semblent prendre pour cible des structures essentielles spécifiques avant de continuer à infester tout le refuge. Dans certains cas, la colonie et ses habitants sont complètement contrôlés par l'intelligence pandorienne.[n] [n] Nous enregistrons actuellement minutieusement les données de ces raids sous un code de classification VI abrégé de « Vols d'infestation ».</i>
+# KEY_DLC3_TUT_INFESTATION_NAME
+PANDORAN INFESTATION FLIGHT
+VOL D'INFESTATION PANDORIEN
+# KEY_DLC3_TUT_RAID_DESCRIPTION
+Hostile flights of pandorans will ATTACK HUMAN HAVENS on regular intervals. [n][n]<i>Our researchers have no doubt the behavior of the flying Pandorans is dictated by a hive-mind intelligence of some kind. Recently, creatures armed with bioweapons have begun attacking in carefully orchestrated strikes. [n][n]The Phoenix intelligence has prioritized the study of these raid flights so we can identify and intercept them before more havens are damaged.</i>
+Des vols hostiles de Pandoriens ATTAQUENT DES REFUGES HUMAINS à intervalles réguliers.[n] [n] <i>Nos chercheurs sont persuadés que le comportement des Pandoriens volants est dicté par une certaine intelligence collective. Ces derniers temps, des créatures équipées d'armes biologiques ont commencé à réaliser des attaques soigneusement orchestrées.[n][n] Le service de renseignements de Phoenix a donné la priorité à l'étude de ces raids pour nous permettre de les intercepter avant que d'autres refuges ne soient mis à sac.<i>
+# KEY_DLC3_TUT_RAID_NAME
+PANDORAN RAID FLIGHT
+RAID PANDORIEN
+# KEY_DLC3_TUT_RECON_DESCRIPTION
+The Behemoth sends small Pandoran flyers to SCOUT NEARBY HAVENS.[n][n]<i>Pandoran specialists have been carefully analyzing the aerial movements of the new species and determined they are executing what could be, for lack of better term,best described as "reconnaissance missions".</i>
+Le Béhémoth envoie des petits Pandoriens volants pour EXPLORER LES REFUGES VOISINS.[n] [n] <i>Les experts en matière de Pandoriens analysent minutieusement les vols de la nouvelle espèce et ont déterminé qu'ils réalisent ce qui pourrait être décrit comme des « missions de reconnaissance », faute de trouver un meilleur terme.</i>
+# KEY_DLC3_TUT_RECON_NAME
+PANDORAN RECON FLIGHT
+VOL DE RECONNAISSANCE PANDORIEN
+# KEY_DLC3_TUT_SUPPLY_DESCRIPTION
+The Behemoth sends flying Pandorans to raid human settlements and HARVEST THEIR RESOURCES.[n][n]<i>Scientists observing the Behemoth have identified a dangerous behavioral pattern - sending off its flock to raid isolated human communities to steal food and materials. [n][n]We've codenamed these raids "supply flights", as they happen too often to be discarded as accidental.</i>
+Le Béhémoth envoie des Pandoriens volants attaquer des colonies humaines et RÉCOLTER LEURS RESSOURCES.[n] [n] <i>Les scientifiques qui observent le Béhémoth ont identifié un schéma de comportements dangereux – il envoie sa nuée de créatures pour attaquer les communautés humaines isolées et voler leur nourriture et leurs matériaux. [n] [n]Nous avons donné à ces raids le nom de code « vols d'approvisionnement », car ceux-ci se produisent trop souvent pour être considérés comme étant accidentels.</i>
+# KEY_DLC3_TUT_SUPPLY_NAME
+PANDORAN SUPPLY FLIGHT
+VOL D'APPROVISIONNEMENT PANDORIEN
+# KEY_DLC3_VEHICLE_ROSTER_IN_TRANSIT
+In Transit
+En transit
+# KEY_DLC3_VEHICLE_ROSTER_NO_VEHICLES
+No aircraft available. [n]You can manufacture new aircraft in the MANUFACTURING tab.
+Aucun vaisseau disponible.[n] Vous pouvez fabriquer un nouveau vaisseau dans l'onglet FABRICATION.
+# KEY_DLC3_WEATHEREFFECT_CLEAR
+No penalties to Accuracy
+Aucune pénalité de précision
+# KEY_DLC3_WEATHEREFFECT_MIST
+Pandoran weapons have {0} Accuracy
+Les armes pandoriennes ont {0} de précision
+# KEY_DLC3_WEATHEREFFECT_OVERCAST
+Visually guided weapons have {0} Accuracy
+Les armes guidées visuellement ont {0} de précision
+# KEY_DLC3_WEATHEREFFECT_STORM
+Radar guided weapons have {0} Accuracy
+Les armes guidées par radar ont {0} de précision
+# KEY_DLC3_WEATHER_CLEAR_NAME
+CLEAR
+DÉGAGÉ
+# KEY_DLC3_WEATHER_INTERCEPTION_NAME
+WEATHER
+CONDITIONS MÉTÉO
+# KEY_DLC3_WEATHER_MIST_NAME
+MIST
+BRUME
+# KEY_DLC3_WEATHER_NAME
+WEATHER:
+CONDITIONS MÉTÉO :
+# KEY_DLC3_WEATHER_OVERCAST_NAME
+OVERCAST
+COUVERT
+# KEY_DLC3_WEATHER_STORM_NAME
+STORM
+ORAGE
+# KEY_EGG_EXPLOSIVE_EXPLODE_DESCRIPTION
+The egg violently explodes damaging all nearby characters
+L'œuf explose violemment infligeant des dégâts aux agents à proximité
+# KEY_EGG_EXPLOSIVE_EXPLODE_NAME
+EXPLODE
+EXPLOSION
+# KEY_FS_ALN_ACID_SPIT_DESCRIPTION
+Pandoran air-to-air weapon
+Arme aérienne pandorienne de courte portée
+# KEY_FS_ALN_ACID_SPIT_NAME
+Acid Spit
+Jet d'acide
+# KEY_FS_ALN_NAPALM_BREATH_DESCRIPTION
+Pandoran incendiary air-to-air weapon
+Arme aérienne pandorienne incendiaire
+# KEY_FS_ALN_NAPALM_BREATH_NAME
+Napalm Breath
+Souffle de napalm
+# KEY_FS_ALN_NAPALM_RAM_DESCRIPTION
+Pandoran air-to-air close quarters weapon
+Arme aérienne pandorienne de combat rapproché
+# KEY_FS_ALN_NAPALM_RAM_NAME
+Ram
+Bélier
+# KEY_FS_ALN_SPIKES_DESCRIPTION
+Pandoran long-range air-to-air weapons
+Arme aérienne pandorienne de courte portée
+# KEY_FS_ALN_SPIKES_NAME
+Spikes
+Piques
+# KEY_FS_ALN_TICK_DESCRIPTION
+Pandoran air-to-air bioweapon
+Arme biologique aérienne pandorienne
+# KEY_FS_ALN_TICK_NAME
+Tick
+Tique
+# KEY_FS_ALN_VOID_CHAMBER_DESCRIPTION
+Pandoran air-to-air weapon
+Arme aérienne pandorienne
+# KEY_FS_ALN_VOID_CHAMBER_NAME
+Void Chamber
+Chambre de vide
+# KEY_FS_AN_BOMBARD_MODULE_DESCRIPTION
+Anu Heavy Cannon
+Canon lourd d'Anu
+# KEY_FS_AN_BOMBARD_MODULE_NAME
+Ninurta's Mace
+Massue de Ninurta
+# KEY_FS_AN_ECM_JAMMER_MODULE_DESCRIPTION
+Radar Countermeasures
+Contre-mesures contre les radars
+# KEY_FS_AN_ECM_JAMMER_MODULE_NAME
+ECM Jammer
+Brouilleur CME
+# KEY_FS_AN_MUTOG_CATAPULT_MODULE_DESCRIPTION
+Anu Mutog Catapult
+Catapulte de Mutog d'Anu
+# KEY_FS_AN_MUTOG_CATAPULT_MODULE_NAME
+Ishara's Bane
+Fléau d'Ishara
+# KEY_FS_AN_ORACLE_MODULE_DESCRIPTION
+Anu Guidance Module
+Module de guidage d'Anu
+# KEY_FS_AN_ORACLE_MODULE_NAME
+Oracle
+Oracle
+# KEY_FS_AN_RAM_MODULE_DESCRIPTION
+Anu Ramming Module
+Module percutant d'Anu
+# KEY_FS_AN_RAM_MODULE_NAME
+Ravager
+Ravageur
+# KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_DESCRIPTION
+Anu Defensive Module
+Module défensif d'Anu
+# KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_NAME
+Reinforced Bulkheads
+Cloisons renforcées
+# KEY_FS_NJ_ARMOR_PLATES_MODULE_DESCRIPTION
+New Jericho Defensive Module
+Module défensif de la Nouvelle-Jéricho
+# KEY_FS_NJ_ARMOR_PLATES_MODULE_NAME
+Armor Plates
+Plaques de blindage
+# KEY_FS_NJ_CRUISE_CONTROL_MODULE_DESCRIPTION
+New Jericho Navigation Module
+Module de navigation de la Nouvelle-Jéricho
+# KEY_FS_NJ_CRUISE_CONTROL_MODULE_NAME
+Cruise Control
+Régulateur de vitesse
+# KEY_FS_NJ_FUEL_TANK_MODULE_DESCRIPTION
+New Jericho Navigation Module
+Module de navigation de la Nouvelle-Jéricho
+# KEY_FS_NJ_FUEL_TANK_MODULE_NAME
+Fuel Tank
+Réservoir de carburant
+# KEY_FS_NJ_FURY_POD_MODULE_DESCRIPTION
+New Jericho Fury Pod
+Pod de fureur de la Nouvelle-Jéricho
+# KEY_FS_NJ_FURY_POD_MODULE_NAME
+Gadfly RC-6
+Taon RC-6
+# KEY_FS_NJ_RAILGUN_MODULE_DESCRIPTION
+New Jericho Railgun
+Canon électrique de la Nouvelle-Jéricho
+# KEY_FS_NJ_RAILGUN_MODULE_NAME
+Marauder AC-4
+Maraudeur AC-4
+# KEY_FS_NJ_TACTICAL_NUKE_MODULE_DESCRIPTION
+New Jericho Tactical Nuclear Missile
+Missile nucléaire tactique
+# KEY_FS_NJ_TACTICAL_NUKE_MODULE_NAME
+Armageddon AAM
+Armageddon AAM
+# KEY_FS_PX_AFTERBURNER_MODULE_DESCRIPTION
+Evasion Countermeasures
+Contre-mesures contre la fuite
+# KEY_FS_PX_AFTERBURNER_MODULE_NAME
+Afterburner
+Postcombustion
+# KEY_FS_PX_AUTOCANNON_MODULE_DESCRIPTION
+Phoenix Autocannon
+Canon automatique de Phoenix
+# KEY_FS_PX_AUTOCANNON_MODULE_NAME
+Brokkr AC-3
+Brokkr AC-3
+# KEY_FS_PX_BASIC_MISSILE_MODULE_DESCRIPTION
+Phoenix Air-To-Air Missile
+Missile air-air de Phoenix
+# KEY_FS_PX_BASIC_MISSILE_MODULE_NAME
+Nomad AAM
+Nomade AAM
+# KEY_FS_PX_ELECTROLASER_MODULE_DESCRIPTION
+Electrolaser Heavy Cannon
+Canon lourd à électrolaser
+# KEY_FS_PX_ELECTROLASER_MODULE_NAME
+Thunderbolt HC-9
+Éclair HC-9
+# KEY_FS_PX_ESCAPE_PODS_MODULE_DESCRIPTION
+Phoenix Safety Module
+Module de sécurité de Phoenix
+# KEY_FS_PX_ESCAPE_PODS_MODULE_NAME
+Escape Pods
+Capsules de sauvetage
+# KEY_FS_PX_FLARES_MODULE_DESCRIPTION
+Infrared Countermeasures
+Contre-mesures contre les infrarouges
+# KEY_FS_PX_FLARES_MODULE_NAME
+Flares
+Fusées éclairantes
+# KEY_FS_PX_HEAVY_CANNON_MODULE_DESCRIPTION
+Phoenix Heavy Cannon
+Canon lourd de Phoenix
+# KEY_FS_PX_HEAVY_CANNON_MODULE_NAME
+Orochi HC-1
+Orochi HC-1
+# KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_DESCRIPTION
+Hypersonic Missile
+Missile hypersonique
+# KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_NAME
+Hand of Tyr
+Main de Tyr
+# KEY_FS_PX_VIROPHAGE_GUN_MODULE_DESCRIPTION
+Virophage Rotary Cannon
+Canon rotatif virophage de Phoenix
+# KEY_FS_PX_VIROPHAGE_GUN_MODULE_NAME
+Fenrir RC-7
+Fenrir RC-7
+# KEY_FS_SYN_EMP_MISSILE_MODULE_DESCRIPTION
+Synedrion EMP MIssile
+Missile EMP du Synédrion
+# KEY_FS_SYN_EMP_MISSILE_MODULE_NAME
+Medusa AAM
+Méduse AAM
+# KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_DESCRIPTION
+Fire Countermeasures
+Contre-mesures contre le feu
+# KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_NAME
+Fire Suppression System
+Système d'extinction d'incendies
+# KEY_FS_SYN_HYBERNATION_PODS_MODULE_DESCRIPTION
+Crew Recuperation Module
+Module de récupération de l'équipage
+# KEY_FS_SYN_HYBERNATION_PODS_MODULE_NAME
+Hibernation Pods
+Capsules d'hibernation
+# KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_DESCRIPTION
+Synedrion Incinerator Missile
+Missile incinérateur du Synédrion
+# KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_NAME
+Prometheus AAM
+Prométhée AAM
+# KEY_FS_SYN_LASER_GUN_MODULE_DESCRIPTION
+Synedrion Laser Gun
+Fusil laser du Synédrion
+# KEY_FS_SYN_LASER_GUN_MODULE_NAME
+Artemis MK. I
+Artémis MK. I
+# KEY_FS_SYN_SECURITY_STATION_MODULE_DESCRIPTION
+Bioweapon Countermeasures
+Contre-mesures contre les armes biologiques
+# KEY_FS_SYN_SECURITY_STATION_MODULE_NAME
+Security Station
+Poste de sécurité
+# KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_FAILED
+Pandoran raid flight successfully intercepted!
+Raid des Pandoriens intercepté !
+# KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_STARTED
+Pandorans have initiated a raid flight!
+Les Pandoriens ont commencé un raid !
+# KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_SUCCESSFUL
+Pandorans have completed a raid flight!
+Les Pandoriens ont effectué un raid !
+# KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_FAILED
+Pandoran Phoenix base raid flight successfully intercepted!
+Raid des Pandoriens sur la base Phoenix intercepté !
+# KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_STARTED
+Pandorans have initiated a Phoenix base raid flight!
+Les Pandoriens ont commencé un raid sur la base Phoenix !
+# KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_SUCCESSFUL
+Pandorans have completed a Phoenix base raid flight!
+Les Pandoriens ont effectué un raid sur la base Phoenix !
+# KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_FAILED
+Pandoran bombardment flight successfully intercepted!
+Vol de bombardement des Pandoriens intercepté !
+# KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_STARTED
+Pandorans have initiated a bombardment flight!
+Les Pandoriens ont commencé un vol de bombardement !
+# KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_SUCCESSFUL
+Pandorans have completed a bombardment flight!
+Les Pandoriens ont effectué un vol de bombardement !
+# KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_FAILED
+Pandoran infestation flight successfully intercepted!
+Vol d'infestation des Pandoriens intercepté !
+# KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_STARTED
+Pandorans have initiated an infestation flight!
+Les Pandoriens ont commencé un vol d'infestation !
+# KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_SUCCESSFUL
+Pandorans have completed an infestation flight!
+Les Pandoriens ont effectué un vol d'infestation !
+# KEY_GEOSCAPE_ALIEN_RAID_RECON_FAILED
+Pandoran recon flight successfully intercepted!
+Vol de reconnaissance des Pandoriens intercepté !
+# KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED
+Pandorans have initiated a recon flight!
+Les Pandoriens ont commencé un vol de reconnaissance !
+# KEY_GEOSCAPE_ALIEN_RAID_RECON_SUCCESSFUL
+Pandorans have completed a recon flight!
+Les Pandoriens ont effectué un vol de reconnaissance !
+# KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_FAILED
+Pandoran supply flight successfully intercepted!
+Vol d'approvisionnement des Pandoriens intercepté !
+# KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_STARTED
+Pandorans have initiated a supply flight!
+Les Pandoriens ont commencé un vol d'approvisionnement !
+# KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_SUCCESSFUL
+Pandorans have completed a supply flight!
+Les Pandoriens ont effectué un vol d'approvisionnement !
+# KEY_GEOSCAPE_BEHEMOTH_DAMAGE_HAVEN_MESSAGE
+A haven was damaged by the Behemoth!
+Un refuge a été endommagé par le Béhémoth !
+# KEY_GEOSCAPE_BEHEMOTH_DESTROYED_HAVEN_MESSAGE
+A haven was destroyed by the Behemoth!
+Un refuge a été détruit par le Béhémoth !
+# KEY_GEOSCAPE_BEHEMOTH_EMERGED_MESSAGE
+The Behemoth has emerged!
+Le Béhémoth a émergé !
+# KEY_GEOSCAPE_BEHEMOTH_INFEST_MESSAGE
+A haven was infested by the Behemoth!
+Un refuge a été infesté par le Béhémoth !
+# KEY_GEOSCAPE_MANTICORE_AVAILABLE_AFTER_ACTIVATION
+Manticore available after activation
+Manticore disponible après activation
+# KEY_GEOSCAPE_MESSAGE_VEHICLE_RELOADED
+{0} was rearmed
+Le véhicule {0} a été rechargé
+# KEY_GEOSCAPE_PX_AIRCRAFT_2
+MASKED MANTICORE {0}
+MANTICORE MASQUÉE {0}
+# KEY_LAUNCH_MISSION_BEHEMOTH_DESCRIPTION
+Deploy a squad against the Behemoth
+Déployez une escouade contre le Béhémoth
+# KEY_LEFT_WING_DESCRIPTION
+These light wings allow the Myrmidon to fly
+Ces ailes légères permettent au Myrmidon de voler
+# KEY_LEFT_WING_NAME
+LEFT WING
+AILE GAUCHE
+# KEY_MESSAGE_NO_ENEMY_AIRCRAFTS
+NO ENEMY AIRCRAFT IN RANGE
+AUCUN VAISSEAU ENNEMI À PORTÉE
+# KEY_MISSION_CLEANSE_HAVEN
+Destroy the Corruption Node
+Détruire le Nœud de corruption
+# KEY_MISSION_HAVEN_INFESTED_BRIEFING_NAME
+HAVEN INFESTED BY PANDORANS
+REFUGE INFESTÉ DE PANDORIENS
+# KEY_OBJECTIVE_BEHEMOTH_GILLS
+OPTIONAL: DISABLE GILLS TO SLOW THE BEHEMOTH STOMP
+FACULTATIF : DÉSACTIVEZ SES BRANCHIES POUR RALENTIR SON PIÉTINEMENT
+# KEY_OBJECTIVE_BEHEMOTH_INJECTOR
+INJECT THE VIROPHAGE AGENT [{0}/{1}]
+INJECTER L'AGENT VIROPHAGE [{0}/{1}]
+# KEY_OBJECTIVE_B_BEHEMOTH_INJECTOR
+INJECT THE VIROPHAGE AGENT [0/4]
+INJECTER L'AGENT VIROPHAGE [0/4]
+# KEY_PX_AIRSHIP_2_DESCRIPTION
+Phoenix Aircraft
+Vaisseau Phoenix
+# KEY_PX_AIRSHIP_2_NAME
+MASKED MANTICORE
+MANTICORE MASQUÉE
+# KEY_RADIAL_TOOLTIP
+MODULE RADIAL
+MENU RADIAL DE MODULES
+# KEY_RENAME_VEHICLE
+Rename this vehicle?
+Renommer ce véhicule ?
+# KEY_RIGHT_WING_DESCRIPTION
+These light wings allow the Myrmidon to fly
+Ces ailes légères permettent au Myrmidon de voler
+# KEY_RIGHT_WING_NAME
+RIGHT WING
+AILE DROITE
+# KEY_SECTION_TECH_CENTER
+TECH CENTER
+CENTRE TECHNOLOGIQUE
+# KEY_SPAWN_SWARMER_DESCRIPTION
+Give birth to a Myrmidon
+Donne naissance à un Myrmidon
+# KEY_SPAWN_SWARMER_NAME
+SPAWN MYRMIDON
+PRODUCTION DE MYRMIDON
+# KEY_SWARMER_ACID_EXPLOSION_DIE_DESCRIPTION
+Upon death, the Myrmidon bursts in an acid explosion damaging nearby targets
+À sa mort, le Myrmidon explose en projetant de l'acide qui inflige des dégâts aux cibles à proximité
+# KEY_SWARMER_ACID_EXPLOSION_DIE_NAME
+ACID EXPLOSION
+EXPLOSION CAUSTIQUE
+# KEY_SWARMER_JUMP_DESCRIPTION
+The Myrmidon flies to a nearby location
+Le Myrmidon vole jusqu'à un emplacement proche
+# KEY_SWARMER_JUMP_NAME
+TAKE FLIGHT
+S'ENVOLER
+# KEY_SWARMER_POISON_EXPLOSION_DIE_DESCRIPTION
+Upon death, the Myrmidon bursts in a poison explosion damaging nearby targets
+À sa mort, le Myrmidon explose en projetant du poison qui inflige des dégâts aux cibles à proximité
+# KEY_SWARMER_POISON_EXPLOSION_DIE_NAME
+POISON EXPLOSION
+EXPLOSION TOXIQUE
+# KEY_UNIT_TYPE_MASKED_MANTICORES
+MASKED MANTICORES
+MANTICORES MASQUÉES

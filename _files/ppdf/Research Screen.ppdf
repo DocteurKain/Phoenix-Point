@@ -1,0 +1,75 @@
+﻿# KEY_RESEARCH_ALLY_RESEARCH
+ALLY RESEARCH
+RECHERCHE D'ALLIÉS
+# KEY_RESEARCH_BIOPSY_CONFIRM
+This research will dissect the following Pandorans: {0} x {1}. Are you sure you want to initialize? 
+Cette recherche disséquera les Pandoriens suivants : {0} x {1}. Voulez-vous vraiment l'initialiser ?
+# KEY_RESEARCH_CLASS_UNLOCKED
+ New class now available for training: {0}
+Nouvelle classe disponible pour l'entraînement : {0}
+# KEY_RESEARCH_COMPLETE
+Research completed: {0} 
+Recherche terminée : {0}
+# KEY_RESEARCH_COMPLETED
+COMPLETED
+TERMINÉE
+# KEY_RESEARCH_COMPLETE_HEAD
+RESEARCH COMPLETED
+RECHERCHE TERMINÉE
+# KEY_RESEARCH_DAMAGE_BONUS
+Inflicted {1} damage is increased by 10%.
+Les dégâts {1} infligés augmentent de 10 %.
+# KEY_RESEARCH_EFFECTS
+BONUS EFFECTS
+ÉTATS BONUS
+# KEY_RESEARCH_FACILITY
+NEW BASE FACILITY AVAILABLE
+NOUVELLE INSTALLATION DISPONIBLE
+# KEY_RESEARCH_FACTION
+Diplomatic relations with {1} are now possible.
+Les relations diplomatiques avec {1} sont maintenant possibles.
+# KEY_RESEARCH_MISSION
+Special mission available!
+Mission spéciale disponible !
+# KEY_RESEARCH_NEW_AVAILABLE
+NEW RESEARCH AVAILABLE
+NOUVELLE RECHERCHE DISPONIBLE
+# KEY_RESEARCH_NEW_CLASS
+NEW SOLDIER CLASS AVAILABLE
+NOUVELLE CLASSE DE SOLDAT DISPONIBLE
+# KEY_RESEARCH_NEW_MANUFACTURING
+NEW ITEMS FOR MANUFACTURING AVAILABLE
+NOUVEAUX OBJETS À FABRIQUER DISPONIBLES
+# KEY_RESEARCH_NEW_RESEARCH
+NEW RESEARCH
+NOUVELLE RECHERCHE
+# KEY_RESEARCH_NOT_AVAILABLE
+NO RESEARCH AVAILABLE
+AUCUNE RECHERCHE DISPONIBLE
+# KEY_RESEARCH_PHOENIXPEDIA_ENTRY
+New Phoenixpedia entry available
+Nouvelle entrée du Phoenixpédia disponible
+# KEY_RESEARCH_PRODUCTION
+The following is now available for productcion in our base:
+Les éléments suivants sont disponibles à la production dans notre base :
+# KEY_RESEARCH_REQUIREMENTS_NOT_MET_TT
+Requirements not met
+Conditions non remplies
+# KEY_RESEARCH_REVERSE_ENGINEERING_COMPLETED
+The reverse engineering procedure has produced the expected results. The item is now available for mass production.
+La procédure d'ingénierie inversée a produit les résultats escomptés. L'objet est maintenant disponible pour la production de masse.
+# KEY_RESEARCH_REVERSE_ENGINEERING_CONFIRM
+This research will scrap the following items: {0} x {1}. Are you sure you want to initialize? 
+Cette recherche recyclera les objets suivants : {0} x {1}. Voulez-vous vraiment l'initialiser ?
+# KEY_RESEARCH_REVERSE_ENGINEERING_COST
+Required items to start: {0}/{1}
+Éléments requis pour commencer : {0}/{1}
+# KEY_RESEARCH_REVERSE_ENGINEERING_DESCRIPTION
+Research and engineering protocols have indicated there's a 98.5% chance of successfully reverse-engineering this exhibit and get it ready for production. In the course of the process, several items are likely to be destroyed and rendered inoperable.
+Les protocoles de recherche et d'ingénierie ont indiqué 98,5 % de chance de procéder à l'ingénierie inversée réussie de cet élément et de le préparer pour la production. Au cours du processus, plusieurs objets seront sûrement détruits et rendus inutilisables.
+# KEY_RESEARCH_REVERSE_ENGINEERING_NAME
+Reverse Engineering: {0}
+Ingénierie inverse : {0}
+# KEY_RESEARCH_SHARED_RESEARCH
+SHARED RESEARCH
+RECHERCHE PARTAGÉE

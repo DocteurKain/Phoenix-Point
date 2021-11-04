@@ -1,0 +1,726 @@
+﻿# NJ10_CHOICE_0_OUTCOME_GENERAL
+[HavenLeader] is extremely grateful for the medical assistance that our operatives have provided. Our team believes that in a week or two, the population will recover from the outbreak and everything will be back to normal.
+[HavenLeader] est très reconnaissante pour l'aide médicale apportée par nos agents. Notre équipe estime que d'ici une semaine ou deux, la population récupèrera des effets de l'épidémie et que la vie redeviendra normale.
+# NJ10_CHOICE_0_TEXT
+Provide medical assistance to [HavenName]
+Fournir une assistance médicale au refuge [HavenName].
+# NJ10_CHOICE_1_OUTCOME_GENERAL
+The security forces at [HavenName] have been severely depleted by the illness. If the haven is attacked, they may not be able to defend themselves.
+Les forces de sécurité du refuge [HavenName] ont été sérieusement affaiblies par la maladie. En cas d'attaque, ils seront peut-être incapables de se défendre.
+# NJ10_CHOICE_1_TEXT
+Refuse aid to [HavenName]'s sick people.
+Refuser d'aider les malades du refuge [HavenName].
+# NJ10_TEXT_GENERAL_0
+Our team has landed at a place called [HavenName]. The people here are sick. Our operatives believe that the locals have contracted a new strain of influenza, but panic is brewing as rumors about Pandoravirus infections are spreading.[n][n]We've made contact with Commander [HavenLeaderSurname], who runs this haven on behalf of New Jericho. She is asking for our assistance, in the form of medical supplies and expertise.
+Notre équipe a atterri dans un refuge nommé [HavenName]. Ses habitants sont malades. Nos agents pensent qu'ils ont contracté une nouvelle souche de grippe, mais la panique fait répandre la fausse rumeur d'une épidémie de Pandoravirus.[n][n]Nous avons pris contact avec le commandant [HavenLeaderSurname], à la tête du refuge pour le compte de la Nouvelle-Jéricho. Elle demande notre aide, qui se résume à du matériel et une expertise médicaux.
+# NJ10_TITLE
+Infection
+Infection
+# NJ11_CHOICE_0_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] is impressed, offering the full support of [HavenName] to our cause. She has ordered one of her finest soldiers to join our team.
+Le commandant [HavenLeaderSurname] est impressionnée, et elle nous offre le soutien total du refuge [HavenName]. Elle ordonne même à l'un de ses meilleurs soldats de nous rejoindre.
+# NJ11_CHOICE_0_TEXT
+Provide detailed specifications.
+Fournir des spécifications détaillées.
+# NJ11_CHOICE_1_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] is not offended, but comments on the sad lack of trust between our organizations. "We really need to work on that," she says.
+Le commandant ne s'en offusque pas, mais mentionne le manque de confiance regrettable entre nos organisations. « Nous devrions vraiment travailler ce point, dit-elle. »
+# NJ11_CHOICE_1_TEXT
+Politely evade the questions.
+Éviter poliment les questions.
+# NJ11_TEXT_GENERAL_0
+Our operatives have landed at a New Jericho-affiliated haven called [HavenName]. Commander [HavenLeaderSurname], a former engineer, is very interested in our work. She asks many questions about the Phoenix Project, including detailed specifications of our equipment. [n][n]"I'm just a geek about this stuff," she says.[n][n]Sharing this kind of information with New Jericho may be perceived as the beginning of an alliance by the other factions.
+Nos agents ont atterri près d'un refuge affilié à la Nouvelle-Jéricho nommé [HavenName]. Le commandant [HavenLeaderSurname], une ancienne ingénieure, s'intéresse de très près à notre travail. Elle pose tout un tas de question sur le Projet Phoenix, à commencer par des spécifications détaillées de notre équipement.[n][n]« Je suis une vraie passionnée de technologie. » avoue-t-elle.[n][n]Partager ce genre d'informations avec la Nouvelle-Jéricho pourrait être perçu comme le début d'une alliance par les autres factions.
+# NJ11_TITLE
+Curiosity
+Curiosité
+# NJ12_CHOICE_0_OUTCOME_GENERAL
+"I'm glad Tobias West put his trust in you," Commander [HavenLeaderSurname] says. "I always thought the Phoenix Project and New Jericho were natural allies. I'm sure you can make an official alliance happen if you keep up the amazing work you've been doing."
+« Je suis heureuse que Tobias West ait confiance en vous », dit le commandant [HavenLeaderSurname]. « J'ai toujours pensé que le Projet Phoenix et la Nouvelle-Jéricho étaient des alliés naturels. Vous formerez une alliance officielle si vous continuez ainsi. »
+# NJ12_CHOICE_0_TEXT
+Accept.
+Accepter.
+# NJ12_TEXT_GENERAL_0
+Our operatives have made contact with [HavenName], a New Jericho haven. Its leader, Commander [HavenLeaderSurname], is an enthusiastic supporter of the Phoenix Project. She immediately offers to share information and resources.
+Nos agents ont pris contact avec le refuge [HavenName] de la Nouvelle-Jéricho. Sa dirigeante, le commandant [HavenLeaderSurname], est une fervente supportrice du Projet Phoenix. Elle offre immédiatement le partage d'informations et de ressources.
+# NJ12_TITLE
+Common Cause
+Un but commun
+# NJ13_CHOICE_0_OUTCOME_GENERAL
+It's strange to think how good the occasional bit of play can be for the human soul. But what are we fighting for, if not a world in which people get to play games again?
+Il est étrange de voir le bien apporté par un peu de distraction sur la psyché humaine. Mais pourquoi nous battons-nous sinon pour un monde où les distractions redeviendront possibles ?
+# NJ13_CHOICE_0_TEXT
+Accept the donation.
+Accepter le don.
+# NJ13_TEXT_GENERAL_0
+The new tradition of New Jericho poker tournaments, which we had a small hand in starting, has really taken off. It's a distraction from the horrors of the world, but also a kind of defiance: no matter what happens, we're human beings and we still get to have fun. At [HavenName], the tournaments attract massive crowds, and successful players are almost like celebrities.
+La nouvelle tradition des tournois de poker de la Nouvelle-Jéricho, modeste au début, finit par prendre son essor. Plus qu'une distraction face aux horreurs dans le monde, il s'agit également d'un défi : quoi qu'il arrive, nous sommes des êtres humains et nous avons besoin de distractions. Au refuge [HavenName], les tournois attirent les foules, et les meilleurs joueurs deviennent des quasi-célébrités.
+# NJ13_TEXT_GENERAL_1
+A group of players have pooled their resources to make a donation to the Phoenix Project. [n][n]"Look, if there's one thing New Jericho always needed, it was to lighten up a little," says one of them. "And when even a serious organization like the Phoenix Project agrees, that helps change people's minds. Makes it acceptable, you know? So thank you."
+Un groupe de joueurs de cartes s'est cotisé pour faire un don au Projet Phoenix.[n][n]« Écoutez, si la Nouvelle-Jéricho a besoin d'une chose, c'est de se dérider un peu », dit l'un d'entre eux. « Et si une organisation aussi sérieuse que le Projet Phoenix partageait cet avis, cela ferait basculer l'opinion publique en notre faveur, vous savez ? Alors merci d'avance. »
+# NJ13_TITLE
+Royal Flush
+Quinte Flush royale
+# NJ14_CHOICE_0_OUTCOME_GENERAL
+"Fascinating," Dr. Nayar says as the data comes in. "There's a noticeable disruption of the Pandoran movement patterns. Even the Mist seems to behave differently. But the eruption barely touched the Earth - this was no Carrington event! I guess I'll need to keep studying these results."
+« Fascinant », déclare le docteur Nayar lorsque les données défilent. « Les mouvements des pandoriens deviennent clairement erratiques. Même la Brume change de comportement. Mais l'éruption a peu affecté la Terre... ce n'était pas un événement de Carrington. Je dois continuer d'étudier les données. »
+# NJ14_CHOICE_0_TEXT
+Help Dr. Nayar with her experiment.
+Aider le docteur Nayar dans ses expériences.
+# NJ14_CHOICE_1_OUTCOME_GENERAL
+Dr. Nayar is a good scientist, but Commander [HavenLeaderSurname] has to think about the needs of the entire haven. If she can't allocate resources to Dr. Nayar's project, so be it.
+Le docteur Nayar est une excellente scientifique, mais le commandant [HavenLeaderSurname] doit penser aux besoins du refuge dans son ensemble. Si elle ne peut subventionner le projet du docteur Nayar, qu'il en soit ainsi.
+# NJ14_CHOICE_1_TEXT
+It's Commander [HavenLeaderSurname]'s right to make this decision.
+Le commandant [HavenLeaderSurname] avait le droit de prendre cette décision.
+# NJ14_TEXT_GENERAL_0
+At [HavenName], Dr. Madhuri Nayar is preparing to study the effects of an upcoming coronal mass ejection on the Pandorans. Unfortunately, Commander [HavenLeaderSurname] thinks her research is nonsense and is refusing to provide sufficient resources. We could help, but Commander [HavenLeaderSurname] seems like the kind of person who holds a grudge.
+Au refuge [HavenName], le docteur Madhuri Nayar prépare une étude sur les effets d'éjections coronaires massives imminentes sur les Pandoriens. Malheureusement, le commandant [HavenLeaderSurname] pense que ses recherches sont inutiles et refuse de les subventionner. Nous pourrions l'aider, mais le commandant [HavenLeaderSurname] semble susceptible.
+# NJ14_TITLE
+The Helios Event
+L'événement Hélios
+# NJ15_CHOICE_0_OUTCOME_GENERAL
+Dr. Nayar thanks us for the input, and shares some of her preliminary findings. [n][n]"I'm glad the Phoenix Project had my back when I needed it," she tells our operatives. "Without that, I think I would've given up."
+Le Dr Nayar nous remercie pour notre contribution et nous fait part de quelques unes de ses découvertes préliminaires.[n][n]« Je suis heureuse d'avoir reçu le soutien du Projet Phoenix quand j'en avais besoin, explique-t-elle à nos agents, sans cela, j'aurais probablement baissé les bras. »
+# NJ15_CHOICE_0_TEXT
+Focus on general research.
+Se concentrer sur la recherche générale.
+# NJ15_CHOICE_1_OUTCOME_GENERAL
+Dr. Nayar thanks us for the input, and shares some of her preliminary findings.[n][n]"I'm glad the Phoenix Project had my back when I needed it," she tells our operatives. "Without that, I think I would've given up."
+Le Dr Nayar nous remercie pour notre contribution et partage avec nous quelques unes de ses découvertes préliminaires.[n][n]« Je suis heureuse d'avoir reçu le soutien du Projet Phoenix quand j'en avais besoin, explique-t-elle à nos agents, sans cela, j'aurais probablement baissé les bras. »
+# NJ15_CHOICE_1_TEXT
+Focus on what will help our soldiers in battle.
+Se concentrer sur ce qui aidera nos soldats au combat.
+# NJ15_TEXT_GENERAL_0
+Dr. Madhuri Nayar, with whom we had previously collaborated on her study of the effects of solar storms on the Pandoravirus, has been reassgined to [HavenName], where Commander [HavenLeaderSurname] properly appreciates and supports her work. [n][n]There's one issue she would like our input on, however: should she focus her research on figuring out the biochemical functions of the Pandoravirus, or on how the information she's gathered could be used in the field?
+Le docteur Madhuri Nayar, avec qui nous avons déjà collaboré sur son étude des effets des tempêtes solaires sur le Pandoravirus, a été réassignée au refuge [HavenName], où le commandant [HavenLeaderSurname] apprécie et soutient son travail.[n][n]Toutefois, il y a une chose sur laquelle elle souhaiterait avoir notre avis : devrait-elle concentrer ses recherches sur les fonctions biochimiques du Pandoravirus, ou sur la façon dont nous pourrions utiliser sur le champ de bataille les informations qu'elle a recueillies ?
+# NJ15_TITLE
+Further Developments
+Autres développements
+# NJ16_CHOICE_0_OUTCOME_GENERAL
+It seems everyone here is quite confident that the Phoenix Project has a real chance of saving the Earth. Commander [HavenLeaderSurname] would like to be part of that, but she also has to be careful. Her ultimate loyalty is to the people of her haven.
+Il semblerait que tout le monde ici soit convaincu que le Projet Phoenix ait une réelle chance de sauver la Terre. Le commandant [HavenLeaderSurname] aimerait participer, mais elle doit également faire preuve de prudence. Au final, sa loyauté est envers les gens de son refuge.
+# NJ16_CHOICE_0_TEXT
+Accept.
+Accepter.
+# NJ16_CHOICE_1_OUTCOME_GENERAL
+"Fair enough," Commander [HavenLeaderSurname] says. "I appreciate that, and I hope we won't find each other on opposing sides one day."
+« Très bien, dit le commandant [HavenLeaderSurname], je comprends, et j'espère que nous ne nous retrouverons pas un jour dans des camps opposés. »
+# NJ16_CHOICE_1_TEXT
+Assure her we will protect her haven, but make no ideological commitments.
+Lui garantir que nous protégerons son refuge, mais sans nous engager d'un point de vue idéologique.
+# NJ16_CHOICE_2_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] seems frustrated. She seemed to have high hopes for the Phoenix Project, but now she's not sure we can be trusted.
+Le commandant [HavenLeaderSurname] semble frustrée. On dirait qu'elle a de grands espoirs pour le Projet Phoenix, mais à présent, elle ne sait plus en qui elle peut avoir confiance.
+# NJ16_CHOICE_2_TEXT
+Refuse any such commitment.
+Refuser tout engagement de ce genre.
+# NJ16_TEXT_GENERAL_0
+Commander [HavenLeaderSurname] is willing to contribute substantially to our cause, on the understanding that we will help defend [HavenName] whenever we can, and in the hope that we will not make enemies of New Jericho.
+Le commandant [HavenLeaderSurname] est disposée à contribuer substantiellement à notre cause, du moment que nous aiderons à défendre le refuge [HavenName] dans la mesure du possible, et en espérant que nous ne nous ferons pas un ennemi de la Nouvelle-Jéricho.
+# NJ16_TITLE
+Reciprocity
+Réciprocité
+# NJ17_CHOICE_0_OUTCOME_GENERAL
+The citizens start loading crates of supplies into the [AircraftName]. "Friendship should always go both ways," our operatives are told. "You've done so much for us. Time for us to do something for you."
+Les citoyens se mettent à charger des caisses de ravitaillement dans le vaisseau [AircraftName]. « L'amitié devrait toujours aller dans les deux sens », dit-on à nos agents. « Vous avez tant fait pour nous. Maintenant, c'est à nous de vous rendre la pareille. »
+# NJ17_CHOICE_0_TEXT
+Thank them.
+Les remercier.
+# NJ17_TEXT_GENERAL_0
+At [HavenName], our operatives are greeted with great warmth and affection. The stories of our accomplishments have spread, and everyone here knows about the battles we have fought to help Tobias West realize his visions. "As far as we're concerned, you're genuine heroes," one the citizens says. "And heroes deserve a heroes' welcome!"
+Au refuge [HavenName], nos agents reçoivent un accueil des plus chaleureux. Les récits de nos exploits sont parvenus jusqu'ici, et tout le monde sait à quel point nous nous sommes battus pour aider Tobias West à donner vie à ses visions. « En ce qui nous concerne, vous êtes de véritables héros, dit l'un des citoyens, et les héros méritent un accueil héroïque ! »
+# NJ17_TITLE
+Big Damn Heroes
+Des héros purs et durs
+# NJ18_CHOICE_0_OUTCOME_GENERAL
+It's almost like sharing stories around a fire at night - a communal experience that somehow gives everyone strength. Knowing that the Phoenix Project has succeeded before is reassuring, and the people of [HavenName] are reminded that being New Jericho is all about fighting back.
+Ça ressemblerait presque à des histoires qu'on partagerait autour d'un feu de camp : c'est une expérience collective qui redonne des forces à chacun. Le fait de savoir que le Projet Phoenix a connu du succès par le passé est rassurant, et aide les habitants du refuge [HavenName] à se souvenir qu'à la Nouvelle-Jéricho, on se bat de toutes ses forces.
+# NJ18_CHOICE_0_TEXT
+Share stories of Phoenix Project victories.
+Partager des histoires sur les victoires du Projet Phoenix.
+# NJ18_CHOICE_1_OUTCOME_GENERAL
+The legend of Tobias West - the founder, the visionary - always gives people hope. But he is very far away, more an idea than a reality, and the Mist is right here.
+La légende de Tobias West, le fondateur, le visionnaire, donne toujours de l'espoir au peuple. Mais il est très loin, et ressemble plus à une idée qu'à une réalité, alors que la Brume, elle, est bien là.
+# NJ18_CHOICE_1_TEXT
+Tell people to have faith in Tobias West.
+Dire aux gens de croire en Tobias West.
+# NJ18_CHOICE_2_OUTCOME_GENERAL
+To most people in [HavenName], the Exalted is a monster, something like a dragon from a fairy-tale. The idea that she could help them seems crazy. But there are those who, faced with the reality of the Mist, see the point of trying to adapt.
+Pour la plupart des habitants du refuge [HavenName], l'Exaltée est un monstre, une sorte de dragon de conte de fées. La simple idée qu'elle pourrait leur venir en aide leur semble ridicule. Mais il existe des individus qui, confrontés à la réalité de la Brume, comprennent le besoin de s'adapter.
+# NJ18_CHOICE_2_TEXT
+Tell them only the Exalted can save them.
+Leur dire que seule l'Exaltée peut les sauver.
+# NJ18_CHOICE_3_OUTCOME_GENERAL
+It's not what any of them wanted to hear, but the truth few are willing to admit is that it sounds believable. After all, what can New Jericho really do about the Mist? Shoot at it?
+Ce n'est pas ce qu'ils souhaitent entendre, mais en vérité, et peu sont prêts à l'admettre, cela semble plausible. Après tout, que peut vraiment faire la Nouvelle-Jéricho à propos de la Brume ? Lui tirer dessus ?
+# NJ18_CHOICE_3_TEXT
+Tell them only Synedrion has the kind of technology that could beat back the Mist.
+Leur dire que seul le Synédrion possède la technologie nécessaire pour combattre la Brume.
+# NJ18_TEXT_GENERAL_0
+[HavenName] is surrounded by a white, cloudy sea, and people are terrified. Everyone living here has lost someone they loved to the Pandoravirus, and they all have vivid memories of what happened last time the Mist rolled across the land. Defenses are holding, but an undercurrent of panic is beginning to spread.
+Une mer blanche et brumeuse entoure le refuge [HavenName] et terrifie ses habitants. Tout le monde ici a perdu un être cher à cause du Pandoravirus, et ils ont tous des souvenirs marquants du dernier passage de la Brume sur ces terres. Les défenses tiennent bon, mais une panique latente a commencé à s'étendre.
+# NJ18_TITLE
+Misty Days
+Jours brumeux
+# NJ19_CHOICE_0_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] and his people are very grateful for the support. Thanks to us, [HavenName] may flourish once more... or at least keep going for a while.
+Le commandant [HavenLeaderSurname] et ses hommes sont très reconnaissants de notre soutien. Grâce à nous, le refuge [HavenName] pourra prospérer de nouveau... ou du moins survivre un peu plus longtemps.
+# NJ19_CHOICE_0_TEXT
+Help the refugees return to [HavenName].
+Aider les réfugiés à retourner au refuge [HavenName].
+# NJ19_CHOICE_1_OUTCOME_GENERAL
+"Then perhaps this is the end," Commander [HavenLeaderSurname] sighs. "Or perhaps New Jericho will still send help. I guess we'll have to wait and see."
+« Alors c'est peut-être la fin, soupire le commandant [HavenLeaderSurname], ou bien peut-être que la Nouvelle-Jéricho enverra de l'aide malgré tout. Le temps nous le dira. »
+# NJ19_CHOICE_1_TEXT
+We have no resources available to share with [HavenName].
+Nous n'avons pas de ressources à partager avec le refuge [HavenName].
+# NJ19_CHOICE_2_OUTCOME_GENERAL
+Not everything filters through to Tobias West; he's a busy man, and sometimes his assistants fail to inform him of certain situations. Once he hears about the situation in [HavenName], he immediately takes action, not only sending teams to find the refugees, but sending new settlers to revitalize the haven.
+Tobias West n'est pas au courant de tout, c'est un homme très pris et ses assistants ne parviennent pas toujours à l'informer de certaines situations. Une fois qu'il a pris connaissance de la situation au refuge [HavenName], il réagit immédiatement en envoyant des équipes à la recherche des réfugiés, mais aussi en envoyant de nouveaux colons pour aider à revitaliser le refuge.
+# NJ19_CHOICE_2_TEXT
+Reach out to the New Jericho leadership.
+Contacter les dirigeants de la Nouvelle-Jéricho.
+# NJ19_TEXT_GENERAL_0
+Our operatives have arrived at a New Jericho haven called [HavenName]. Parts of the settlement are almost entirely abandoned, and very little is being properly maintained. According to the haven leader, Commander [HavenLeaderSurname], Pandoran attacks and a short but disastrous epidemic have brought the haven to its knees. [n][n]There are scattered refugees still living in the vicinity, but he lacks the resources and manpower to bring them home.
+Nos agents sont arrivés à un refuge de la Nouvelle-Jéricho appelé [HavenName]. Certaines parties de la colonie sont pratiquement entièrement abandonnées, et très peu de choses sont convenablement entretenues. Selon le responsable du refuge, le commandant [HavenLeaderSurname], les attaques pandoriennes, ainsi qu'une épidémie de courte durée, mais désastreuse, ont considérablement affaibli le refuge.[n][n]Des réfugiés vivent encore dans les environs, mais le commandant manque de ressources et de bras pour les ramener au refuge.
+# NJ19_TITLE
+The Lost
+Les égarés
+# NJ1_CHOICE_0_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] brings out a cask of ice-cold beer he's been saving for a good day. [n][n]"Here's to a bright future!" he says, raising a glass. "One where we finally make decent beer again."
+Le commandant [HavenLeaderSurname] sort un tonneau de bière glacée qu'il gardait pour une belle occasion.[n][n]« À des lendemains qui chantent ! » dit-il en levant son verre. « Où nous pourrons de nouveau distiller de bonnes bières. »
+# NJ1_CHOICE_0_TEXT
+Accept the contribution.
+Accepter la contribution.
+# NJ1_CHOICE_1_OUTCOME_GENERAL
+Commander [HavenLeader] seems less offended than simply baffled by the rejection.
+Le commandant [HavenLeader] semble davantage estomaqué qu'offensé par votre refus.
+# NJ1_CHOICE_1_TEXT
+Reject the contribution.
+Refuser la contribution.
+# NJ1_TEXT_GENERAL_0
+Our operatives have made contact with the New Jericho haven of [HavenName]. They are warmly received by Commander [HavenLeader], who sees the Phoenix Project as an excellent potential ally in the fight against the Pandoravirus. He mentions that Tobias West always opposed the funding cuts that almost broke the Phoenix Project's back in the days before the war and the Pandoravirus.[n][n]To show that New Jericho is on our side, the commander orders that resources be made available to our cause. "You can always use more guns, right?" he laughs.
+Nos agents ont pris contact avec le refuge de la Nouvelle-Jéricho de [HavenName]. Ils sont chaleureusement accueillis par le commandant [HavenLeader], qui voit le Projet Phoenix comme un potentiel allié de choix dans la lutte contre le Pandoravirus. Il ajoute que Tobias West a toujours été contre l'arrêt des financements ayant failli détruire le Projet Phoenix avant la guerre et le Pandoravirus.[n][n]Pour montrer que la Nouvelle-Jéricho est de notre côté, le commandant ordonne la mise à disposition de ressources. « On n'a jamais trop d'armes, n'est-ce pas ? » plaisante-t-il.
+# NJ1_TITLE
+The Bright Future
+Des lendemains qui chantent
+# NJ20_CHOICE_0_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] and the people of [HavenName] are very grateful for the support. Next time they're attacked, they'll be ready. In return for our generosity, they share some resources they have no use for, but which we might be able to do something with.
+Le commandant [HavenLeaderSurname] et le peuple du refuge [HavenName] sont reconnaissants de notre soutien. La prochaine fois qu'une attaque surgira, ils se tiendront prêts. Pour nous remercier de notre générosité, ils nous offrent des ressources inutiles à leurs yeux, mais qui pourraient nous servir.
+# NJ20_CHOICE_0_TEXT
+Provide food aid to [HavenName].
+Offrir une aide alimentaire au refuge [HavenName].
+# NJ20_CHOICE_1_OUTCOME_GENERAL
+It's clear that Commander [HavenLeaderSurname] was hoping for help, but he is not too offended at our lack of assistance.
+Il est clair que le commandant [HavenLeaderSurname] espérait recevoir notre aide, mais il n'est pas trop vexé par notre refus.
+# NJ20_CHOICE_1_TEXT
+Do not provide aid.
+Ne pas offrir d'aide.
+# NJ20_TEXT_GENERAL_0
+Our operatives have arrived at a New Jericho settlement called [HavenName]. There are signs of a recent battle, and many of the inhabitants are injured. According to their leader, Commander [HavenLeaderSurname], they were recently attacked by another group of humans.[n][n]Commander [HavenLeaderSurname] believes the attackers were sent by the Disciples of Anu. He's furious, but currently needs to focus on rebuilding his haven.
+Nos agents sont arrivés à une colonie de la Nouvelle-Jéricho appelée [HavenName]. Une bataille a visiblement eu lieu récemment, et bon nombre des habitants sont blessés. Selon leur chef, le commandant [HavenLeaderSurname], ils ont été attaqués par un autre groupe d'humains.[n][n]Le commandant [HavenLeaderSurname] pense que les assaillants ont été envoyés par les Disciples d'Anu. Bien qu'il soit furieux, sa priorité actuelle est de reconstruire son refuge.
+# NJ20_TITLE
+Wounded
+Blessés
+# NJ21_CHOICE_0_OUTCOME_GENERAL
+The unexpected help reminds the people of [HavenName] that not everyone out there is an enemy. It doesn't take away the pain, but they seem less pessimistic now. One of them, an old geographer, points out some sites that might be of interest to us.
+Cette aide inespérée rappelle aux habitants du refuge [HavenName] qu'il n'y a pas que des ennemis dans ce monde. Cela n'efface pas leur souffrance, mais ils semblent moins pessimistes à présent. L'un d'entre eux, un vieux géographe, nous indique certains lieux qui pourraient nous intéresser.
+# NJ21_CHOICE_0_TEXT
+Provide aid to [HavenName].
+Offrir de l'aide au refuge [HavenName].
+# NJ21_CHOICE_1_OUTCOME_GENERAL
+The people of [HavenName] go back to their lives, waiting for the next terrible thing to happen, while Commander [HavenLeaderSurname] plans his revenge.
+Les habitants du refuge [HavenName] reprennent le cours de leur vie en attendant le prochain désastre, tandis que le commandant [HavenLeaderSurname] prépare sa vengeance.
+# NJ21_CHOICE_1_TEXT
+Stay out of this.
+Rester en dehors de ça.
+# NJ21_CHOICE_2_OUTCOME_GENERAL
+It doesn't matter whether Synedrion really is responsible for this particular tragedy. What matters is that the people of [HavenName] need an enemy, and Synedrion's ideology is incompatible with New Jericho's anyway.
+Peu importe si le Synédrion se cache réellement derrière cette tragédie-là. Ce qui compte, c'est que les habitants du refuge [HavenName] ont besoin d'un ennemi, et que de toute manière, l'idéologie du Synédrion est incompatible avec celle de la Nouvelle-Jéricho.
+# NJ21_CHOICE_2_TEXT
+Rile people up against Synedrion.
+Attiser la colère des habitants contre le Synédrion.
+# NJ21_CHOICE_3_OUTCOME_GENERAL
+Synedrion representatives assure us that they had nothing to do with what happened. The culprits may have been raiders with Synedrion equipment; a shipment of armor was hijacked recently. [n][n]This information seems to change Commander [HavenLeaderSurname]'s mind, at least to the point where he's no longer certain.
+Les représentants du Synédrion nous assurent qu'ils n'ont rien à voir avec ce qui s'est passé. Il se peut que les coupables soient des pillards affublés de pièces d'équipement appartenant au Synédrion : une livraison d'armures a récemment été interceptée.[n][n]Cette information semble faire changer d'avis le commandant [HavenLeaderSurname], du moins assez pour le faire douter.
+# NJ21_CHOICE_3_TEXT
+Contact Synedrion about this.
+Contacter le Synédrion à propos de ce sujet.
+# NJ21_TEXT_GENERAL_0
+Our operatives have arrived at a New Jericho haven called [HavenName]. It looks like the people here are in mourning after a recent conflict with another human faction left many dead. Commander [HavenLeaderSurname] blames Synedrion, but it's not entirely clear what actually happened.[n][n]Apparently there was a firefight near one of the gates in the middle of the night, and figures who seemed to be wearing Synedrion armor stole several crates of supplies. Several New Jericho soldiers died in the raid, including the Commander's nephew.
+Nos agents sont arrivés à un refuge de la Nouvelle-Jéricho appelé [HavenName]. Les habitants semblent être en deuil à la suite d'un conflit récent avec une autre faction humaine, durant lequel de nombreuses personnes ont péri. Le commandant [HavenLeaderSurname] accuse le Synédrion, mais il est difficile de savoir ce qui s'est vraiment passé.[n][n]Une fusillade aurait apparemment eu lieu au beau milieu de la nuit près de l'une des portes, et des individus semblant porter des armures du Synédrion ont volé des caisses de ravitaillement. Plusieurs soldats de la Nouvelle-Jéricho ont péri durant l'attaque, y compris le neveu du commandant.
+# NJ21_TITLE
+Shadows
+Ombres
+# NJ22_CHOICE_0_OUTCOME_GENERAL
+"Thanks, that should get us started turning [HavenName] back into an actual fort. And here's your payment. Ain't no such thing as a free meal, right?" Commander [HavenLeaderSurname] laughs, winces, and gets back to work.
+« Merci, voilà qui devrait aider à ce que le refuge [HavenName] redevienne un véritable fort. Et voici pour vous. Après tout, rien n'est gratuit de nos jours, pas vrai ? », dit le commandant [HavenLeaderSurname] en riant, avant de grimacer et de se remettre au travail.
+# NJ22_CHOICE_0_TEXT
+Provide aid to [HavenName]
+Offrir de l'aide au refuge [HavenName].
+# NJ22_CHOICE_1_OUTCOME_GENERAL
+"Huh. Well, that's a shame," Commander [HavenLeaderSurname] says with a shrug. "But I guess we'll manage."
+« Ah, c'est bien dommage », dit le commandant [HavenLeaderSurname] en haussant les épaules. « Mais on devra faire avec. »
+# NJ22_CHOICE_1_TEXT
+We are currently unable to help.
+Nous ne sommes actuellement pas en mesure d'offrir notre aide.
+# NJ22_CHOICE_2_OUTCOME_GENERAL
+"Hold on there, you're telling us ideology put those holes in our walls? Really?" Commander [HavenLeaderSurname] says angrily. "What, we're so bad at defending ourselves because we're too militaristic? Get out of here and don't come back unless you grow a little bit of sense. And maybe a spine, huh?"
+« Attendez un peu, vous êtes en train de nous dire qu'on doit les trous dans nos murs a une idéologie ? Sérieusement ? », crache le commandant [HavenLeaderSurname] avec colère. « Alors comme ça, on n'arrive pas à se défendre parce qu'on a l'esprit trop militaire ? Foutez le camp et ne revenez pas avant d'avoir un peu plus de plomb dans la cervelle. Et un peu plus de courage pendant que vous y êtes. »
+# NJ22_CHOICE_2_TEXT
+Tell them New Jericho's ideology cannot protect them.
+Leur dire que l'idéologie de la Nouvelle-Jéricho ne peut pas les protéger.
+# NJ22_TEXT_GENERAL_0
+Our operatives have arrived at [HavenName], a New Jericho haven. The base defenses show signs of having been breached at some point, and Commander [HavenLeaderSurname] is clearly limping, even though he is trying to hide it.[n][n]"We didn't let them get through," he says. "But one of those giant bastards with the many legs took down a chunk of the wall. I was standing on top of that chunk. Let me tell ya, it wasn't fun. Anyway, if you've got any good building materials to spare, we've got some holes that need plugging. We'll pay, of course."
+Nos agents sont arrivés à un refuge de la Nouvelle-Jéricho appelé [HavenName]. Les défenses de la base semblent avoir été franchies au bout d'un moment, et le commandant [HavenLeaderSurname] boite visiblement, bien qu'il essaie d'être discret.[n][n]« Nous ne les avons pas laissés entrer, explique-t-il, mais une de ces grandes saloperies à plein de jambes a démoli une partie du mur. Je me tenais à cet endroit précis, et je peux vous dire que j'ai passé un sale quart d'heure. Enfin bref, si jamais vous avez de bons matériaux de construction de disponibles, il y a quelques trous qui auraient bien besoin d'être rebouchés. Nous vous paierons, bien évidemment. »
+# NJ22_TITLE
+True Grit
+Détermination
+# NJ23_CHOICE_0_OUTCOME_GENERAL
+This is without a doubt the strangest mission the [AircraftName] has ever undertaken. The ducks fly erratically, and bursting birds shake the vehicle. Finally, a well-aimed rocket shatters the hive in a massive explosion, as whatever gas kept it afloat catches on fire. The sight is disgusting, but the smell makes our operatives miss Chinese food.
+Il s'agit sans l'ombre d'un doute de la mission la plus étrange que le vaisseau [AircraftName] ait jamais entreprise. Les canards volent de façon erratique, et des oiseaux explosifs font tanguer le véhicule. Enfin, un missile envoyé avec précision détruit la ruche dans une énorme explosion, tandis que le gaz qui lui permettait de flotter prend feu. C'est un spectacle abominable, mais l'odeur qui s'en dégage rappelle à nos agents à quel point la cuisine chinoise leur manque.
+# NJ23_CHOICE_0_TEXT
+Use the [AircraftName] to get close enough to the hive to destroy it.
+Utiliser le vaisseau [AircraftName] pour se rapprocher suffisamment de la ruche et la détruire.
+# NJ23_CHOICE_1_OUTCOME_GENERAL
+Experiments show that these duck-like beings respond strongly to magnetic fields, and that the reason they are divebombing the haven is not Pandoravirus aggression but the presence of a powerful industrial magnet. Once that is removed, the ducks are relatively harmless.
+Des expériences démontrent que ces créatures semblables à des canards répondent fortement aux champs magnétiques, et que la raison pour laquelle elles bombardent le refuge n'est pas due à l'agressivité du Pandoravirus, mais à la présence d'un puissant aimant industriel. Une fois ce dernier retiré, les canards sont relativement inoffensifs.
+# NJ23_CHOICE_1_TEXT
+Look for a scientific solution.
+Chercher une solution scientifique.
+# NJ23_CHOICE_2_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] does not think her situation is funny. "Real lives are being lost!" she screams. But that's the cost of trying to return to the past instead of adapting to the present. The Disciples of Anu would've turned the ducks into a source of pre-cooked food.
+Selon le commandant [HavenLeaderSurname], la situation n'a rien de drôle. « Des gens sont en train de mourir ! », crie-t-elle. Mais c'est là le prix à payer quand on essaie de revenir dans le passé, plutôt que de s'adapter au présent. Les Disciples d'Anu auraient transformé les canards en une source de nourriture pré-cuite.
+# NJ23_CHOICE_2_TEXT
+Mock the people of [HavenName] for being unable to live in the new world.
+Se moquer des habitants du refuge [HavenName] et de leur inhabilité à vivre dans le nouveau monde.
+# NJ23_CHOICE_3_OUTCOME_GENERAL
+Let's get the duck out of here.
+Sortir le canard de là.
+# NJ23_CHOICE_3_TEXT
+Do nothing.
+Ne rien faire.
+# NJ23_TEXT_GENERAL_0
+Commander [HavenLeaderSurname] is close to losing her mind. Her haven, [HavenName], has been dealing with a plague of exploding ducks. The bloated, misshapen creatures seem to contain some kind of highly combustible gas, and entire flocks of them are throwing themselves at the haven, day after day. They come from a floating "duck hive" suspended nearly a mile off the ground.
+Le commandant [HavenLeaderSurname] est désespérée. Son refuge, [HavenName], est confronté à une invasion de canards explosifs. Les créatures difformes et boursouflées semblent contenir une sorte de gaz hautement combustible, et des volées entières se jettent sur le refuge, jour après jour. Ils proviennent d'une « ruche de canards » flottante, située à plus de 1 500 mètres d'altitude.
+# NJ23_TEXT_GENERAL_1
+"We've got to do something or I swear we'll go crazy," Commander [HavenLeaderSurname] says. "Ducks! Of all the godforsaken things in this universe. The Pandoravirus really turns everything into an abomination. I've had to tell grieving mothers that their sons were killed by ducks. I've had to scrape torn-apart duck flesh from my roof. We need a solution. Please."
+« Il faut que nous fassions quelque chose, sinon je vais vraiment devenir folle », dit le commandant [HavenLeaderSurname]. « Des canards, parmi toutes les créatures de l'univers ! Au contact du Pandoravirus, tout se transforme vraiment en de véritables abominations. J'ai dû expliquer à des mères inconsolables que leurs fils ont été tués par des canards. Il a fallu que j'aille racler des lambeaux de chair de canard sur mon toit. Nous avons besoin d'une solution. Je vous en supplie. »
+# NJ23_TITLE
+Flight of the Sinister Ducks
+Le vol des canards sinistres
+# NJ24_CHOICE_0_OUTCOME_GENERAL
+This is going to be a day people tell stories about for years to come. Heroic rescues, dramatic explosions, and the sight of an ambulance being pulled across a swamp! Our operatives have just participated in a New Jericho legend in the making. [n][n]The supplies in the ambulance are valuable, as is the reward for our assistance, but perhaps the most significant accomplishment of the day is the moment of triumph shared by the Phoenix Project and New Jericho.
+Les événements de ce jour vont être relatés pendant des siècles. Des sauvetages héroïques, des explosions impressionnantes, et même une ambulance tirée à travers un marécage ! Nos agents viennent de participer à une future légende de la Nouvelle-Jéricho.[n][n]Les marchandises trouvées dans l'ambulance sont précieuses, tout comme la récompense reçue pour notre aide, mais l'exploit le plus important du jour est sans doute le moment de triomphe que le Projet Phoenix et la Nouvelle-Jéricho ont partagé.
+# NJ24_CHOICE_0_TEXT
+Salvage the ambulance at any cost.
+Récupérer l'ambulance à tout prix.
+# NJ24_CHOICE_1_OUTCOME_GENERAL
+Our argument is received surprisingly well. Vanadium is no more, and the dangers inherent in trying to recover the ambulance are just not worth it. Maybe it is time to start thinking about the future, not the past.
+Nos raisons sont étonnamment bien reçues. Vanadium n'est plus, et les dangers liés à la tentative de récupération de l'ambulance ne valent simplement pas la peine. Il est peut-être temps de se tourner vers le futur, plutôt que de rester dans le passé.
+# NJ24_CHOICE_1_TEXT
+Tell the people [HavenName] to let go of the old world.
+Dire aux habitants du refuge [HavenName] d'abandonner l'ancien monde.
+# NJ24_CHOICE_2_OUTCOME_GENERAL
+The Phoenix Project is a science organization, not an automobile club.
+Le Projet Phoenix est une organisation scientifique, pas un club automobile.
+# NJ24_CHOICE_2_TEXT
+Don't get involved.
+Ne pas intervenir.
+# NJ24_TEXT_GENERAL_0
+The people of [HavenName] have discovered an old Vanadium Inc. ambulance. Vanadium was the company owned by Tobias West which eventually transformed into New Jericho, so technically speaking it's their property anyway, but the important thing is that the ambulance may contain highly valuable medical supplies. Unfortunately the ambulance is half-buried in mud in a swampy area prone to sudden gas explosions.
+Les habitants du refuge [HavenName] ont découvert une ancienne ambulance appartenant à Vanadium Inc. Vanadium était l'entreprise dirigée par Tobias West qui a fini par devenir la Nouvelle-Jéricho, donc techniquement parlant, elle leur appartient, mais le plus important, c'est que l'ambulance contient probablement du matériel médical très précieux. Malheureusement, l'ambulance est à moitié enfouie dans la boue, dans une zone marécageuse propice aux explosions de gaz.
+# NJ24_TITLE
+Sic Transit Vanadium
+Sic Transit Vanadium
+# NJ25_CHOICE_0_OUTCOME_GENERAL
+The winner is, without a doubt, Fred Ujarak's recreation of the German specialty known as Currywurst, somehow accomplished without sausages or curry.  But that's not really the point of the contest. The point is that everyone feels better, more human, for a little while.
+Le vainqueur incontesté est Fred Ujarak et sa version revisitée du Currywurst, une spécialité allemande, toutefois ici présentée sans saucisses, ni curry. Mais ce n'est pas vraiment ça l'intérêt du concours. Le plus important, c'est que les gens se sentent mieux et un peu plus humains, pendant quelque temps.
+# NJ25_CHOICE_0_TEXT
+Judge the competition.
+Juger le concours.
+# NJ25_CHOICE_1_OUTCOME_GENERAL
+Participating in the contest, our operatives get to know the people of New Jericho, at least here in [HavenName], in a new way. As it turns out, they're just ordinary human beings trying to live meaningful lives in an increasingly alien world. The winner of the contest, Fred Ujarak, sums it up best: "We just want things to go back to normal."
+En participant au concours, nos agents ont l'opportunité de voir les habitants de la Nouvelle-Jéricho, du moins ceux du refuge [HavenName], sous un nouvel angle. Il s'avère que ce sont de simples êtres humains qui essaient de donner du sens à leur vie, dans un monde de plus en plus extraterrestre. Le gagnant du concours, Fred Ujarak, résume la chose parfaitement : « Nous voulons simplement que tout rentre dans l'ordre. »
+# NJ25_CHOICE_1_TEXT
+Instead of judging, participate.
+Participer au lieu de juger.
+# NJ25_CHOICE_2_OUTCOME_GENERAL
+The Phoenix Project is a science organization, not an association of food critics.
+Le Projet Phoenix est une organisation scientifique, pas une association de critiques gastronomiques.
+# NJ25_CHOICE_2_TEXT
+Refuse.
+Refuser.
+# NJ25_TEXT_GENERAL_0
+At [HavenName], our operatives witness the lighter side of life in a New Jericho haven when they are invited to judge a local cooking contest. Cooking in the post-apocalypse is a difficult task, especially if you want the result to actually be tasty, but this just brings out people's innate creativity. Human beings like a challenge.
+Nos agents goûtent au bon côté de la vie au refuge [HavenName] de la Nouvelle-Jéricho, où ils sont invités à juger un concours culinaire local. Faire la cuisine dans un monde post-apocalyptique n'est pas chose facile, surtout si on veut pouvoir compter sur la qualité de son plat, mais c'est là l'occasion de faire ressortir l'esprit créatif de chacun. Les êtres humains adorent les défis.
+# NJ25_TITLE
+Chicken Broth for the Apocalypse
+Bouillon de poule pour l'apocalypse
+# NJ26_CHOICE_0_OUTCOME_GENERAL
+The party itself is only a minor event that can't permanently affect morale; once the booze wears off, everything will feel just like it did before. But the reason to throw a party anyway is the personal connection between citizens that it creates. The people of [HavenName] need to have something to live for that exists in the present, not the past, and the only thing we really have is each other.
+La fête en elle-même ne constitue qu'un événement mineur et ne saurait avoir un effet permanent sur le moral de tous. Une fois que les habitants auront dessoûlé, tout redeviendra comme avant. Mais la raison pour laquelle une fête en vaut la chandelle, c'est que cela permet de créer une connexion personnelle entre les citoyens. Les habitants du refuge [HavenName] ont besoin d'une raison de vivre qui soit ancrée dans le présent, pas dans le passé, et la seule chose que nous possédons réellement, c'est les uns et les autres.
+# NJ26_CHOICE_0_TEXT
+Help him throw a big party.
+L'aider à préparer une énorme fête.
+# NJ26_CHOICE_1_OUTCOME_GENERAL
+There's a reason New Jericho has managed to survive when so many other organizations didn't: its leader, Tobias West. It's his clarity of vision that has inspired people, and it's his words that the demoralized people of [HavenName] urgently need. Thanks to our connections, we can arrange that, and West is willing to take enough time out of his busy schedule to talk to dozens of citizens.[n][n]Commander [HavenLeaderSurname] is grateful and seems newly inspired himself.
+Alors que tant d'autres organisations ont péri, la Nouvelle-Jéricho doit sa survie à son leader : Tobias West. C'est sa vision pleine de clarté qui a inspiré les habitants, et ce sont ses paroles dont les habitants démoralisés du refuge [HavenName] ont désespérément besoin. Grâce à nos contacts, nous pouvons y parvenir, et West est prêt à faire de la place dans son emploi du temps chargé pour s'adresser à des dizaines de citoyens.[n][n]Le commandant [HavenLeaderSurname] est reconnaissant et semble lui-même fraîchement inspiré.
+# NJ26_CHOICE_1_TEXT
+These people need Tobias West's wisdom.
+Ces gens ont besoin de la sagesse de Tobias West.
+# NJ26_CHOICE_2_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] is less than pleased by this advice. He has no intention of surrendering to the Pandoravirus and worshipping a false god just because people are feeling depressed.
+Le commandant [HavenLeaderSurname] est pour le moins mécontent de ce conseil. Il n'a aucune intention d'abdiquer devant le Pandoravirus et de vénérer un faux dieu simplement parce que les habitants n'ont pas le moral.
+# NJ26_CHOICE_2_TEXT
+Tell him the Exalted is the only path to happiness.
+Lui dire que seule l'Exaltée peut les mener au bonheur.
+# NJ26_CHOICE_3_OUTCOME_GENERAL
+The Phoenix Project is a science organization, not a psychotherapy service.
+Le Projet Phoenix est une organisation scientifique, pas un service de psychothérapie.
+# NJ26_CHOICE_3_TEXT
+Don't get involved.
+Ne pas intervenir.
+# NJ26_TEXT_GENERAL_0
+There's a melancholy mood at [HavenName] that nothing seems able to lift. Too many lives have been lost, too much has changed about the planet. People feel uprooted, lost in a nightmare that simply won't end. Or maybe it's just too hard to believe that things can ever get better. [n][n]Commander [HavenLeaderSurname] understands how essential morale is, but he is at his wits' end. He's willing to try anything at this point.
+La mélancolie semble s'être emparée du refuge [HavenName], et rien ne semble pouvoir la dissiper. Trop de personnes ont perdu la vie, trop a changé sur la planète. Les gens se sentent déracinés, perdus dans un cauchemar sans fin. Ou peut-être qu'il est simplement trop tard pour croire que les choses pourront un jour s'améliorer.[n][n]Le commandant [HavenLeaderSurname] comprend à quel point il est primordial de veiller au bon moral des habitants, mais il n'en peut plus. Au point où il en est, il est prêt à tout essayer.
+# NJ26_TITLE
+Pandoran Realism
+Réalisme pandorien
+# NJ27_CHOICE_0_OUTCOME_GENERAL
+"And what do you think the real apex is? Growing a tentacle out of your butt? No thanks," one of the locals retorts. Nevertheless, some people here seem to think that maybe humanity has further to go, even if they're afraid to say so openly.
+« Et selon vous, c'est quoi le vrai summum ? Qu'une tentacule vous sorte du cul ? Non merci », rétorque l'un des locaux. Malgré tout, il semblerait qu'il y ait des personnes ici qui pensent que l'humanité peut encore progresser, même si elles ont peur de le dire ouvertement.
+# NJ27_CHOICE_0_TEXT
+Argue that West is wrong to think humanity has reached its apex.
+Expliquer que West a tort de penser que l'humanité a atteint son summum.
+# NJ27_CHOICE_1_OUTCOME_GENERAL
+This idea seems disturbing in a way the locals can't quite articulate, and our operatives are told to be quiet.
+Cette idée semble déconcertante dans un sens que les locaux ne parviennent pas à décrire, et on demande à nos agents de garder le silence.
+# NJ27_CHOICE_1_TEXT
+Argue that West is wrong for thinking a voluntary community needs a leader.
+Expliquer que West a tort de penser qu'une communauté bénévole a besoin d'un leader.
+# NJ27_CHOICE_2_OUTCOME_GENERAL
+Everyone nods - this is indeed one of West's best speeches. [n][n]West concludes with the following words: "As long as we are driven by that loyalty, a loyalty born of the Ego, of that unalienable core that makes each of us unique, not even the most powerful abomination will be able to stand in our way."[n]
+Tout le monde acquiesce : c'est vraiment l'un des meilleurs discours de West.[n][n]West termine avec les mots suivants : « Aussi longtemps que nous serons animés par cette loyauté, une loyauté née de l'ego, de ce noyau inaliénable qui rend chacun de nous unique, pas même les plus puissantes abominations ne sauront se tenir en travers de notre chemin. »
+# NJ27_CHOICE_2_TEXT
+Praise the speech.
+Louer le discours.
+# NJ27_CHOICE_3_OUTCOME_GENERAL
+"As long as we are driven by that loyalty," West continues, "a loyalty born of the Ego, of that unalienable core that makes each of us unique, not even the most powerful abomination will be able to stand in our way." There is an explosion of cheers.
+« Aussi longtemps que nous serons animés par cette loyauté », continue West, « une loyauté née de l'ego, de ce noyau inaliénable qui rend chacun de nous unique, pas même les plus puissantes abominations ne sauront se tenir en travers de notre chemin. » Une nuée d'applaudissements se fait entendre.
+# NJ27_CHOICE_3_TEXT
+Respectfully allow the speech to conclude.
+Permettre respectueusement que le discours se termine.
+# NJ27_TEXT_GENERAL_0
+At [HavenName], a Tobias West speech is being broadcast. West is explaining New Jericho's concept of loyalty: "Our loyalty is to the Earth. The Earth that was, the true Earth, with its systems of competition and evolution, and the apex of those processes - Homo sapiens, the rational animal that thrives in freedom."
+Un discours tenu par Tobias West est diffusé au refuge [HavenName], dans lequel West explique le concept de loyauté de la Nouvelle-Jéricho : « Notre loyauté est envers la Terre. La Terre d'avant, la vraie Terre, avec ses systèmes de compétition et d'évolution, et le summum de ces processus : l'Homo sapiens, l'animal de raison qui s'épanouit en étant libre. »
+# NJ27_TEXT_GENERAL_1
+"To stand against the invaders, against the corruption of that system, is what brings us together. It is an idea rooted in history and biology, giving birth to a voluntary community under a leader whose sole purpose is to build a future where all that is strong and good will flourish, and all that is weak and corrupt will wither, the way it has always been on this Earth."
+« Se dresser contre les envahisseurs, contre la corruption de ce système : voilà ce qui nous rassemble. C'est une idée qui trouve racine dans l'histoire et la biologie, et qui donne naissance à une communauté bénévole menée par un chef dont le seul but est de construire un futur dans lequel tout ce qui est fort est bon prospérera, et tout ce qui est faible et corrompu se flétrira, comme il en a toujours été sur cette planète. »
+# NJ27_TITLE
+Loyalty
+Loyauté
+# NJ28_CHOICE_0_OUTCOME_GENERAL
+The notebook appears to be authentic, although the notes are written in the idiosyncratic shorthand Symes had developed for his personal diaries. Still, his unique perspective on the history and early findings of the Phoenix Project is always illuminating.
+Le carnet paraît authentique, bien que les notes soient écrites dans le style abrégé idiosyncrasique que Symes avait mis au point pour ses journaux personnels. Néanmoins, sa perspective unique de l'histoire et des premières découvertes du Projet Phoenix est toujours révélatrice.
+# NJ28_CHOICE_0_TEXT
+Agree to the trade.
+Accepter l'échange.
+# NJ28_CHOICE_1_OUTCOME_GENERAL
+We don't need to buy old books from scientists of questionable trustworthiness to do our jobs. Randolph Symes can stay in the past.
+Nous n'avons pas besoin d'acheter de vieux livres appartenant à des scientifiques peu dignes de confiance pour faire notre travail. Randolph Symes peut rester dans le passé.
+# NJ28_CHOICE_1_TEXT
+Reject the trade.
+Refuser l'échange.
+# NJ28_CHOICE_2_OUTCOME_GENERAL
+Dr. Jacobi is not the most attentive individual, and in many ways, the notebook was our property to begin with. The valuable research it contains was performed by one of the founders of the Phoenix Project, after all.
+Le Dr Jacobi n'est pas l'individu le plus attentif qui soit, et à plusieurs sens, le carnet nous appartient depuis le début. Après tout, les précieuses recherches qu'il contient ont été menées par l'un des fondateurs du Projet Phoenix.
+# NJ28_CHOICE_2_TEXT
+Steal the book.
+Voler le carnet.
+# NJ28_TEXT_GENERAL_0
+[HavenName] is home to Dr. Ramon P. Jacobi, leader of the New Jericho Taxonomy Project. In addition to being a brilliant scientist, Dr. Jacobi also claims to have invented the term "Pandoran" as a descriptor for the creatures that threaten our world. [n][n]"Before that, people just called them monsters or mutants, or even aliens!" he says. "But that's really rather missing the point, isn't it?"
+C'est au refuge [HavenName] que vit le Dr Ramon P. Jacobi, leader du projet de taxonomie de la Nouvelle-Jéricho. En plus d'être un scientifique de génie, le Dr Jacobi prétend également avoir inventé le terme « Pandorien » afin de décrire les créatures qui menacent notre monde.[n][n]« Avant cela, tout le monde les appelait des monstres, des mutants, ou bien même des extraterrestres, dit-il, mais ce serait passer à côté de l'essentiel, vous ne trouvez pas ? »
+# NJ28_TEXT_GENERAL_1
+"Anyway," Dr. Jacobi continues, "that's not what I wanted to talk to you about. Actually, I want to make you an offer. You see, I have something. A book - but not just any book. A notebook. Written by Randolph Symes, one of the founders of the Phoenix Project. A great man, ahead of his time. I'm sure it would be invaluable to you. And I'm willing to trade for it."
+« Quoi qu'il en soit, continue le Dr Jacobi, ce n'est pas ce dont je voulais vous parler. En réalité, je souhaite vous faire une offre. Vous voyez, j'ai quelque chose en ma possession. Un livre, mais pas n'importe lequel. Pour être plus précis, un carnet écrit par Randolph Symes, l'un des fondateurs du Projet Phoenix. Un grand homme, en avance sur son temps. Je parie qu'il vous serait extrêmement précieux. Et je suis prêt à vous l'échanger. »
+# NJ28_TITLE
+Symes and Portents
+Symes et présages
+# NJ29_CHOICE_0_OUTCOME_GENERAL
+Colonel Budahas nods gravely. "I will not disappoint you, my friends," he says. "I will contact you as soon as I know more."
+Le colonel Budahas hoche solennellement la tête. « Je ne vous décevrai pas, mes amis. Je vous contacte dès que j'en saurai plus ».
+# NJ29_CHOICE_0_TEXT
+Finance the investigation.
+Financer l'enquête.
+# NJ29_CHOICE_1_OUTCOME_GENERAL
+Colonel Budahas sighs heavily. "Ah, I should probably give up. Been chasing this mystery for so long, I lost sight of the things that really matter. "
+Le colonel Budahas pousse un profond soupir. « Ah, je devrais sans doute laisser tomber. Je cours après ce mystère depuis si longtemps que j'ai perdu de vue l'essentiel. »
+# NJ29_CHOICE_1_TEXT
+Refuse.
+Refuser.
+# NJ29_TEXT_GENERAL_0
+At [HavenName], our operatives are approached by Colonel Budahas, who is pursuing leads to a mystery that has eaten away at him since before the First Mist: did the US government know about the Pandoravirus? He believes that there were parts of the state apparatus that distrusted the Phoenix Project for its internationalism and created an agency to investigate unusual phenomena on its own.[n][n]That elusive agency's trail has led him all around the world - with the support of Tobias West, of course. But lately West has been getting impatient, and would prefer to invest his resources elsewhere. Maybe the Phoenix Project could help?
+Au refuge [HavenName], nos agents sont abordés par le colonel Budahas, qui suit les pistes d'un mystère qui le ronge depuis la Première Brume : le gouvernement américain était-il au courant du Pandoravirus ? Il croit que certaines parties de l'appareil étatique ne faisaient pas confiance au Projet Phoenix en raison de son caractère international, et créèrent un organisme chargé d'enquêter seul sur les phénomènes inhabituels.[n][n]Les traces laissées par cet organisme insaisissable l'ont mené aux quatre coins du globe, avec l'aide de Tobias West, bien entendu. Mais depuis quelque temps, West a commencé a perdre patience et préférerait investir ses ressources ailleurs. Peut-être que le Projet Phoenix pourrait intervenir ?
+# NJ29_TITLE
+The Truth Is Out There
+La vérité est ailleurs
+# NJ2_CHOICE_0_OUTCOME_GENERAL
+"Hah! Excellent! The stronger the Phoenix Project gets, the stronger we all get," Commander [HavenLeaderSurname] grins. "Keep kicking Pandoran ass and we'll get along just fine."
+« Ah, fantastique ! Plus le Projet Phoenix devient puissant, plus nous le devenons », dit le commandant [HavenLeaderSurname] avec un sourire. « Continuez à botter le cul des Pandoriens et nous nous entendrons à merveille. »
+# NJ2_CHOICE_0_TEXT
+Accept the contribution.
+Accepter la contribution.
+# NJ2_CHOICE_1_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] orders her soldiers to stop. With a cold stare and a shrug, she leaves the landing area.
+Le commandant [HavenLeaderSurname] ordonne à ses soldats d'arrêter. Elle lance un regard froid, hausse les épaules, et quitte l'aire d'atterrissage.
+# NJ2_CHOICE_1_TEXT
+Reject the contribution.
+Refuser la contribution.
+# NJ2_TEXT_GENERAL_0
+Our operatives have arrived at [HavenName], a haven controlled by New Jericho. Commander [HavenLeader] welcomes them in person, and orders her soldiers to immediately start loading several crates of supplies onto the [AircraftName]. [n][n]"Nothing's too good for our friends!" she says, patting one of our operatives on the back hard enough to send them staggering.
+Nos agents sont arrivés au refuge [HavenName], qui est placé sous le contrôle de la Nouvelle-Jéricho. Le commandant [HavenLeader] les accueille en personne, et ordonne à ses soldats de commencer à charger sur le champ plusieurs caisses de ravitaillement dans le vaisseau [AircraftName].[n][n]« Rien n'est trop beau pour nos amis ! », s'exclame-t-elle en tapant si vigoureusement dans le dos de l'un de nos agents qu'il en perd l'équilibre.
+# NJ2_TITLE
+And Taking Names
+Au suivant
+# NJ30_CHOICE_0_OUTCOME_GENERAL
+The briefcase contains documents that prove conclusively that the CIA, a pre-war intelligence organization, had a division dedicated not only to investigating unusual phenomena, but to actively sabotaging the Phoenix Project. The files, compiled by an individual known only as Operative 11, show that General Newton Sumrall was deliberately undermined by this group. The briefcase also contains the true results of Phoenix Project studies that were deliberately distorted by a double agent.
+La mallette contient des documents qui prouvent de façon concluante que la CIA, une agence de renseignement d'avant-guerre, possédait une division spécialisée chargée non seulement d'enquêter sur des phénomènes inhabituels, mais aussi de saboter le Projet Phoenix. Les documents, compilés par un individu uniquement connu sous le nom d'agent 11, indiquent que le général Newton Sumrall était délibérément discrédité par ce groupe. La mallette contient également les vrais résultats obtenus à la suite d'études liées au Projet Phoenix qui furent falsifiées par un agent double.
+# NJ30_CHOICE_0_TEXT
+Open the briefcase.
+Ouvrir la mallette.
+# NJ30_TEXT_GENERAL_0
+At [HavenName], a nurse alerts our operatives to the presence of Colonel Budahas, whose investigation into the secrets of the US government we had funded. He's in the infirmary. Dehydrated and delirious, he clutches a black bulletproof briefcase and refuses to give it to anyone except a Phoenix Project operative.[n][n]"You don't know what I had to do to get my hands on this," he says, his whole body shaking. "The things I've seen... my mind... I'll never be the same again. But it's here. It's right here. The truth. You just have to open it."
+Au refuge [HavenName], une infirmière alerte nos agents de la présence du colonel Budahas, pour qui nous avions financé une enquête sur les secrets du gouvernement américain. Déshydraté et délirant, il tient fermement une mallette noire pare-balles et refuse de la donner à quiconque d'autre qu'un agent du Projet Phoenix.[n][n]« Vous ne savez pas ce que j'ai dû faire pour parvenir à m'en emparer », dit-il, son corps tout entier tremblant. « Les choses que j'ai vues... mon esprit... je ne serai plus jamais le même. Mais elle est là, juste là. La vérité. Il vous suffit d'ouvrir pour voir. »
+# NJ30_TITLE
+The Truth Is In There
+La vérité est là dedans
+# NJ31_TEXT_GENERAL_0
+Commander [HavenLeaderSurname] is deeply disappointed in the Phoenix Project. Instead of joining New Jericho and trying to take back the Earth, we've fallen for the lies of the Exalted. [n][n]"You should be fighting the Pandorans," she says, shaking her head, "not helping them."
+Le Projet Phoenix a profondément déçu le commandant [HavenLeaderSurname]. Au lieu de rejoindre la Nouvelle-Jéricho et d'essayer de reprendre la planète, nous nous sommes laissés avoir par les mensonges de l'Exaltée.[n][n]« Vous devriez être en train de lutter contre les Pandoriens, dit-elle en secouant la tête, pas de les aider. »
+# NJ31_TITLE
+The Book of Lies
+Le livre des mensonges
+# NJ32_TEXT_GENERAL_0
+Commander [HavenLeaderSurname] thinks the Phoenix Project has lost its way. Synedrion has nothing but utopian fantasies to offer, and their culture of debate isn't going to survive a single malicious individual. Only New Jericho has the discipline required for defeating the Pandoravirus.
+Le commandant [HavenLeaderSurname] pense que le Projet Phoenix s'est égaré. Le Synédrion n'a rien d'autre à offrir que des fantaisies utopiques, et son amour du débat ne survivra pas à un seul individu malfaisant. Seule la Nouvelle-Jéricho possède la discipline nécessaire pour vaincre le Pandoravirus.
+# NJ32_TITLE
+What It Takes
+Une situation désespérée
+# NJ33_CHOICE_0_OUTCOME_GENERAL
+Our operatives have successfully helped the woman escape [HavenName]. She'll be joining Synedrion, which won't exactly please New Jericho, but how could we abandon a person under such circumstances?
+Nos agents sont parvenus à aider la femme à s'échapper du refuge [HavenName]. Elle va rejoindre le Synédrion, ce qui ne risque pas d'enchanter la Nouvelle-Jéricho, mais comment aurions-nous pu abandonner quelqu'un dans de pareilles circonstances ?
+# NJ33_CHOICE_0_TEXT
+Help her join Synedrion.
+L'aider à rejoindre le Synédrion.
+# NJ33_CHOICE_1_OUTCOME_GENERAL
+Our operatives have successfully helped the woman escape [HavenName]. She'll be joining the Disciples of Anu, which won't exactly please New Jericho, but how could we abandon a person under such circumstances?
+Nos agents sont parvenus à aider la femme à s'échapper du refuge [HavenName]. Elle va rejoindre les Disciples d'Anu, ce qui risque de ne pas enchanter la Nouvelle-Jéricho, mais comment aurions-nous pu abandonner quelqu'un dans de pareilles circonstances ?
+# NJ33_CHOICE_1_TEXT
+Help her join the Disciples of Anu.
+L'aider à rejoindre les Disciples d'Anu.
+# NJ33_CHOICE_2_OUTCOME_GENERAL
+The Phoenix Project is a science organization, not a taxi service.
+Le Projet Phoenix est une organisation scientifique, pas une compagnie de taxis.
+# NJ33_CHOICE_2_TEXT
+Don't help her.
+Ne pas l'aider.
+# NJ33_TEXT_GENERAL_0
+At [HavenName], our operatives are contacted by a scientist who needs their help to escape the haven.[n][n]"I have to get out of here," she says. "I don't feel safe anymore. I opened my big mouth a few times too many, questioned Harlson's methods too openly... does Tobias West even know what goes on in his organization? I don't know and I don't care anymore. I just need to go somewhere else. Anywhere's fine by me. Please. I'll pay you."
+Au refuge [HavenName], nos agents sont contactés par une scientifique qui a besoin de leur aide pour s'échapper du refuge.[n][n]« Il faut que je sorte d'ici, dit-elle, je ne me sens plus en sécurité. Il a fallu que je l'ouvre une fois de trop, j'ai remis en question les méthodes d'Harlson trop ouvertement... est-ce que Tobias West a la moindre idée de ce qui se passe dans son organisation ? Je ne sais pas, et entre nous, je n'en ai plus rien à faire. Il faut juste que je parte, peu importe l'endroit. Je vous en supplie, je vous paierai. »
+# NJ33_TITLE
+Anywhere But Here
+N'importe où sauf ici
+# NJ34_CHOICE_0_OUTCOME_GENERAL
+The deserter gladly hands over the stolen data as soon as he's out of [HavenName]. The moment he's out of the haven he seems lighter, happier, like a man feeling free for the very first time.
+Le déserteur remet volontiers les données volées aussitôt sorti du refuge [HavenName]. À l'instant même où il se trouve hors du refuge, il semble plus enjoué, plus heureux, comme un homme qui goûte à la liberté pour la toute première fois.
+# NJ34_CHOICE_0_TEXT
+Help the dissenter.
+Aider le dissident.
+# NJ34_CHOICE_1_OUTCOME_GENERAL
+The Phoenix Project is a science organization, not a taxi service.
+Le Projet Phoenix est une organisation scientifique, pas une compagnie de taxis.
+# NJ34_CHOICE_1_TEXT
+Do not help.
+Ne pas l'aider.
+# NJ34_TEXT_GENERAL_0
+Our operatives have been approached by a New Jericho deserter from [HavenName].[n][n]"All I want is a way out," he says, "and a little something to help me start a new life somewhere else - with the Disciples, maybe. I can pay you with some research data that... accidentally found its way to my system. I'm sure you'll find it very interesting."
+Nos agents ont été abordés par un déserteur de la Nouvelle-Jéricho originaire du refuge [HavenName].[n][n]« Tout ce que je veux, c'est sortir d'ici, dit-il, et peut-être un petit quelque chose pour m'aider à refaire ma vie ailleurs, pourquoi pas avec les Disciples. En gage de remerciement, je peux vous donner des données de recherche qui... se sont accidentellement retrouvées dans mon système. Je parie qu'elles vous intéresseront beaucoup. »
+# NJ34_TITLE
+Just Deserts
+Qui sème le vent...
+# NJ3_CHOICE_0_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] is unhappy with our interference in the business of [HavenName]. [n][n]"You have no idea what kind of crazy ideas these lunatics were peddling, and what they were willing to do to get people to believe them," he says angrily. "I'm never going to apologize for protecting my haven."
+Le commandant [HavenLeaderSurname] n'apprécie pas que nous nous soyons mêlés aux affaires du refuge [HavenName].[n][n]« Vous ignorez complètement le genre d'idées que ces fous débitaient, et ce à quoi ils étaient prêts pour que les gens y croient, dit-il avec colère, jamais je ne m'excuserai d'avoir protégé mon refuge. »
+# NJ3_CHOICE_0_TEXT
+Condemn the execution on principle.
+Condamner l'exécution par principe.
+# NJ3_CHOICE_1_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] is in a good mood. Executions may be terrible, but [HavenName] is much safer without these criminals and their delusional ideas. He's happy to share some of the haven's resources with us.
+Le commandant [HavenLeaderSurname] est de bonne humeur. Bien que les exécutions soient quelque chose de terrible, le refuge [HavenName] se porte beaucoup mieux sans ces criminels et leurs idées délirantes. Il nous offre avec joie quelques ressources appartenant au refuge.
+# NJ3_CHOICE_1_TEXT
+Make no mention of the executions.
+Ne pas mentionner les exécutions.
+# NJ3_CHOICE_2_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] sighs heavily. [n][n]"They joined one of these cults that keep springing up. Preached that the Pandorans are here to heal the planet or some such garbage. That's bad enough, but they sabotaged our security facilities to show that we've actually been safe all along. Thirty people died because of them, and still they kept believing."
+Le commandant [HavenLeaderSurname] pousse un long soupir.[n][n]« Ils ont rejoint une de ces sectes qui ne cessent d'apparaître un peu partout. Ils ont prêché que les Pandoriens sont ici pour soigner la planète, ou d'autres aberrations de ce genre. C'est déjà assez sérieux comme ça, mais ils ont en plus saboté nos installations de sécurité pour prouver que nous avons en réalité toujours été en sécurité. Trente personnes ont péri à cause d'eux, et malgré tout, ils continuaient d'y croire. »
+# NJ3_CHOICE_2_TEXT
+Carefully inquire as to what crime the prisoners had committed.
+Demander prudemment quel crime ont commis les prisonniers.
+# NJ3_TEXT_GENERAL_0
+Our operatives have made contact with a New Jericho haven, where an execution appears to be in progress. Three individuals are marched out of the main building and placed in front of a firing squad. A volley of bullets ends their lives in an instant.[n][n]After the execution is over, people cheer. Apparently the dead were well-known traitors who had only just been captured. [n][n]With this unpleasant business over, Commander [HavenLeaderSurname] greets our operatives warmly.
+Nos agents sont entrés en contact avec un refuge de la Nouvelle-Jéricho, où une exécution semble se dérouler. Trois individus sont menés hors du bâtiment principal et conduits en face d'un peloton d'exécution. Une nuée de balles met fin à leurs vies en un instant.[n][n]Après l'exécution, les habitants applaudissent. Apparemment, les condamnés à mort étaient des traîtres bien connus qui venaient tout juste d'être capturés.[n][n]Maintenant que cette affaire pour le moins déplaisante est terminée, le commandant [HavenLeaderSurname] accueille chaleureusement nos agents.
+# NJ3_TITLE
+Treason
+Trahison
+# NJ4_CHOICE_0_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] is unhappy with our interference in the business of [HavenName]. Further discussions do not go well.
+Le commandant [HavenLeaderSurname] n'apprécie pas que nous nous soyons mêlés aux affaires du refuge [HavenName]. Les discussions qui s'en suivent se passent mal.
+# NJ4_CHOICE_0_TEXT
+Criticize the speech for its dogmatism.
+Critiquer le dogmatisme du discours.
+# NJ4_CHOICE_1_OUTCOME_GENERAL
+Inspired by West's speech, Commander [HavenLeaderSurname] decides to share some resources with us. He believes that we understand and respect West's cause, and that we can help it triumph over the dangerous ideologies promoted by Synedrion and the Disciples of Anu.
+Galvanisé par le discours de West, le commandant [HavenLeaderSurname] décide de partager quelques ressources avec nous. Il est de l'avis que nous comprenons et respectons la cause de West, et que nous pouvons l'aider à triompher des idéologies dangereuses que le Synédrion et les Disciples d'Anu répandent.
+# NJ4_CHOICE_1_TEXT
+Make no mention of the speech.
+Ne pas mentionner le discours.
+# NJ4_CHOICE_2_OUTCOME_GENERAL
+"He is a great speaker, isn't he?" Commander [HavenLeaderSurname] grins. "He actually has a philosophy, not just slogans. That's why people love him. He knows what he believes and he can explain it in a way that makes you really understand it."
+« Quel formidable orateur, vous ne trouvez pas ? », dit le commandant [HavenLeaderSurname] avec un sourire. « Il possède une vraie philosophie, pas juste des slogans. C'est pour ça que les gens l'aiment. Il sait ce en quoi il croit et peut l'expliquer d'une manière compréhensible. »
+# NJ4_CHOICE_2_TEXT
+Praise the speech.
+Louer le discours.
+# NJ4_TEXT_GENERAL_0
+Our operatives have made contact with the New Jericho haven of [HavenName], where a crowd has gathered in the main square to listen to a speech given by Tobias West on a large viewscreen. Commander [HavenLeaderSurname] invites our operatives to participate.[n][n]In his speech, West denounces all other human factions as 'traitors to the cause of human will made manifest through individual action' to cheers from the crowd. He does caution, however, that some have embraced this treason by mistake, and may yet be swayed by reason.
+Nos agents sont entrés en contact avec un refuge de la Nouvelle-Jéricho appelé [HavenName], où une foule s'est rassemblée sur la place principale pour assister à un discours donné par Tobias West, diffusé sur un grand écran. Le commandant [HavenLeaderSurname] invite nos agents à prendre part.[n][n]Durant son discours, West dénonce toutes les autres factions humaines et les qualifie de « traîtres à la cause propre à la volonté humaine, rendus manifestes par leurs actions individuelles » sous une nuée d'applaudissements. Toutefois, il précise que certaines personnes ont commis cette trahison par erreur, et peuvent encore être raisonnées.
+# NJ4_TITLE
+The Cause
+La cause
+# NJ5_CHOICE_0_OUTCOME_GENERAL
+Reluctantly, Commander [HavenLeader] agrees to release the cartographical portion of the research.
+Le commandant [HavenLeader] accepte à contrecœur de révéler la partie cartographique de la recherche.
+# NJ5_CHOICE_0_TEXT
+Demand that the research be shared with the Phoenix Project.
+Exiger que la recherche soit partagée avec le Projet Phoenix.
+# NJ5_CHOICE_1_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] seems pleased that we agree.
+Le commandant [HavenLeaderSurname] semble apprécier que nous soyons d'accord.
+# NJ5_CHOICE_1_TEXT
+Accept Commander [HavenLeaderSurname]'s position.
+Accepter la position du commandant [HavenLeaderSurname].
+# NJ5_CHOICE_2_OUTCOME_GENERAL
+The problem is swiftly resolved; of course the Phoenix Project deserves access to the work of its own scientists, even if they weren't officially activated. Trust, after all, is the basis of friendship, and the Phoenix Project is a friend.
+Le problème est promptement résolu : bien entendu, le Projet Phoenix mérite d'avoir accès au travail de ses propres scientifiques, même s'ils n'étaient pas officiellement activés. Après tout, l'amitié repose sur la confiance, et le Projet Phoenix est un ami.
+# NJ5_CHOICE_2_TEXT
+Go up the chain of command.
+Remonter la chaîne de commandement.
+# NJ5_CHOICE_3_OUTCOME_GENERAL
+West is deeply irritated with Commander [HavenLeaderSurname] and his interference with such a highly-valued ally. He strongly suggests that another mistake of this magnitude would be fatal.
+West est profondément irrité par le commandant [HavenLeaderSurname] et l'ingérence dont il a fait preuve envers un allié aussi précieux. Il laisse entendre explicitement qu'une autre erreur de cette ampleur serait fatale.
+# NJ5_CHOICE_3_TEXT
+Ask Tobias West for the research directly.
+Demander directement les recherches à Tobias West.
+# NJ5_TEXT_GENERAL_0
+At the New Jericho haven of [HavenName], our operatives are treated cautiously. Commander [HavenLeader] mentions previous dealings with the Phoenix Project. Upon further inquiry, he reveals that two Phoenix Project scientists were detained here due to being infected. Unfortunately, both are deceased.[n][n]Apparently these scientists, who never managed to make contact with Phoenix Point and may have been unaware that the Phoenix Project even still existed, were conducting research in the area when they were infected. Commander [HavenLeaderSurname] insists that their research belongs to [HavenName].
+Au refuge de la Nouvelle-Jéricho appelé [HavenName], nos agents sont traités avec prudence. Le commandant [HavenLeader] évoque d'anciens rapports avec le Projet Phoenix. Après avoir été davantage questionné, il révèle que deux scientifiques appartenant au Projet Phoenix avaient été emprisonnés ici pour cause d'infection. Malheureusement, ils ont tous les deux péri.[n][n]Il semblerait que ces scientifiques, qui ne sont jamais parvenus à entrer en contact avec Phoenix Point et ne savaient peut-être pas que le Projet Phoenix existait même encore, menaient des recherches dans la région au moment où ils furent infectés. Le commandant [HavenLeaderSurname] insiste sur le fait que leurs recherches appartiennent au refuge [HavenName].
+# NJ5_TITLE
+Unknown Soldiers
+Soldats inconnus
+# NJ6_CHOICE_0_OUTCOME_GENERAL
+With the help of our operatives, the fire is eventually put out. An investigation reveals its cause: a strange, balloon-like creature that drifted down out of the sky. A guard shot it and it exploded into a substance similar to napalm.[n][n]Commander [HavenLeaderSurname] shakes her head. "What kind of world has this become? Everything is hostile. Everything is... disgusting." [n][n]By way of thanks, she shares some data the haven has been collecting.
+Avec l'aide de nos agents, l'incendie finit par s'éteindre. Une enquête en révèle la cause : une étrange créature aux airs de ballon qui traversait le ciel. Un garde lui a tiré dessus, et elle a explosé en une substance semblable à du napalm.[n][n]Le commandant [HavenLeaderSurname] secoue la tête. « Mais qu'est-ce que ce monde est devenu ? Tout ici est hostile. Tout est... répugnant. »[n][n]En gage de remerciement, elle nous fait part de données collectées par le refuge.
+# NJ6_CHOICE_0_TEXT
+Help out.
+Apporter notre aide.
+# NJ6_CHOICE_1_OUTCOME_GENERAL
+The fire does significant damage to the haven's facilities before it can be stopped.
+L'incendie cause des dégâts substantiels aux installations du refuge avant d'être neutralisé.
+# NJ6_CHOICE_1_TEXT
+Let it burn.
+Laisser l'incendie faire rage.
+# NJ6_TEXT_GENERAL_0
+A sudden fire is threatening to engulf [HavenName]'s training facilities. Commander [HavenLeaderSurname] already has her best people trying to put it out, but the blaze is unusually powerful.
+Un incendie soudain menace de détruire le centre d'entraînement du refuge [HavenName]. Le commandant [HavenLeaderSurname] a déjà déployé ses meilleurs hommes pour tenter de l'éteindre, mais les flammes sont exceptionnellement puissantes.
+# NJ6_TITLE
+Fire from the Sky
+Feu céleste
+# NJ7_CHOICE_0_OUTCOME_GENERAL
+The damage to the haven's crops is being caused by a previously unknown strain of phytoplasma. Normally transmission requires an insect vector, but this strain seems to be transmittable via water, and very hard to kill. Luckily for the people of [HavenName], our scientists are very good at killing bacteria. [n][n]The results of the study should also prove useful for our own projects.
+Les récoltes du refuge sont endommagées par une souche de phytoplasma jusqu'alors inconnue. Normalement, la transmission nécessite un insecte vecteur, mais la souche semble se transmettre par l'eau, et paraît très difficile à éliminer. Heureusement pour les habitants du refuge [HavenName], nos scientifiques savent parfaitement éradiquer les bactéries.[n][n]Les résultats de l'étude devraient également être utiles pour nos propres projets.
+# NJ7_CHOICE_0_TEXT
+Help for free.
+Aider sans aucune contrepartie.
+# NJ7_CHOICE_1_OUTCOME_GENERAL
+The damage to the haven's crops is being caused by a previously unknown strain of phytoplasma. Normally transmission requires an insect vector, but this strain seems to be transmittable via water, and very hard to kill. Luckily for the people of [HavenName], our scientists are very good at killing bacteria. [n][n]The results of the study should also prove useful for our own projects.
+Les récoltes du refuge sont endommagées par une souche de phytoplasma jusqu'alors inconnue. Normalement, la transmission nécessite un insecte vecteur, mais la souche semble se transmettre par l'eau, et paraît très difficile à éliminer. Heureusement pour les habitants du refuge [HavenName], nos scientifiques savent parfaitement éradiquer les bactéries.[n][n]Les résultats de l'étude devraient également être utiles pour nos propres projets.
+# NJ7_CHOICE_1_TEXT
+Help for a price.
+Aider pour un certain prix.
+# NJ7_CHOICE_2_OUTCOME_GENERAL
+If it spreads, any kind of pathogen that evades the usual safety precautions and does damage to crops could become a serious problem for humankind as a whole. New Jericho will dedicate extra resources to eliminating the threat at [HavenName] before it gets out of control.
+Si la souche se répand, tout pathogène parvenant à contourner les mesures de sécurité habituelles et à endommager les récoltes pourrait présenter un sérieux problème pour l'humanité tout entière. La Nouvelle-Jéricho va dédier des ressources supplémentaires afin d'éliminer la menace présente au refuge [HavenName] avant qu'il ne soit trop tard.
+# NJ7_CHOICE_2_TEXT
+Appeal to the New Jericho leadership.
+Faire appel aux dirigeants de la Nouvelle-Jéricho.
+# NJ7_CHOICE_3_OUTCOME_GENERAL
+New Jericho will have to solve this problem itself. If they're all about purity, it shouldn't be so hard.
+La Nouvelle-Jéricho va devoir régler ce problème à elle seule. Si la pureté est tout ce qui lui importe, cela ne devrait pas être trop difficile.
+# NJ7_CHOICE_3_TEXT
+Do not help.
+Ne pas l'aider.
+# NJ7_TEXT_GENERAL_0
+[HavenName] is in crisis. There has been ongoing starvation for some time now, and to top it all off, the haven's overstrained food production facilities are breaking down. It looks like something may have gotten into the water, but the haven lacks a better filtration system. Could the Phoenix Project use some of its advanced tech to help track down the exact nature of the problem?[n]
+Le refuge [HavenName] est en pleine crise. Une famine fait rage depuis quelque temps, et pour couronner le tout, les installations de production alimentaire du refuge sont saturées et sont en train de s'effondrer. Il se peut que quelque chose se soit retrouvé dans l'eau, mais le refuge ne dispose pas d'un bon système de filtration. Est-ce que le Projet Phoenix pourrait utiliser sa technologie de pointe afin de déterminer la vraie nature du problème ?
+# NJ7_TITLE
+Ex Aqua
+Ex Aqua
+# NJ8_CHOICE_0_OUTCOME_GENERAL
+The food drop causes chaos, but gradually the crowds disperse and our aircraft is able to land. Commander [HavenLeaderSurname] is very grateful and offers us resources in return.
+Le largage des vivres crée une situation chaotique, mais petit à petit, la foule se disperse et notre vaisseau peut alors atterrir. Le commandant [HavenLeaderSurname] fait preuve d'une grande reconnaissance, et nous offre des ressources en gage de remerciement.
+# NJ8_CHOICE_0_TEXT
+Provide food to [HavenName] to support the Commander.
+Offrir des vivres au refuge [HavenName] pour aider le commandant.
+# NJ8_CHOICE_1_OUTCOME_GENERAL
+Commander [HavenLeaderSurname] curses the Phoenix Project. The last thing audible in his transmission are the sounds of fighting as he orders his people to open fire on the protesters.
+Le commandant [HavenLeaderSurname] maudit le Projet Phoenix. La transmission prend fin dans des bruits de combat, et on l'entend ordonner à ses hommes d'ouvrir le feu sur les protestataires.
+# NJ8_CHOICE_1_TEXT
+Do not intervene.
+Ne pas intervenir.
+# NJ8_CHOICE_2_OUTCOME_GENERAL
+Our operatives supply the protesters with food, but suggest they keep up the pressure on the Commander. Ordinary people should not have to pay for their leaders' failures.
+Nos agents offrent des vivres aux protestataires, mais leur suggèrent de continuer à faire pression sur le commandant. Le peuple ne devrait pas avoir à payer pour les échecs de ses leaders.
+# NJ8_CHOICE_2_TEXT
+Provide food, but support the protesters.
+Offrir des vivres, mais soutenir les protestataires.
+# NJ8_TEXT_GENERAL_0
+Our operatives have discovered a New Jericho haven. However, there is a disturbance going on. The New Jericho soldiers are trapped in a central building while the people outside are protesting. Apparently, there is a food shortage. The leader of the haven, Commander [HavenLeaderSurname], has made contact by radio, and is asking us for supplies.[n][n]"I'm not asking for help fixing the problem permanently," Commander [HavenLeaderSurname] says. "That's my responsibility. But with your help, we could get through this without anyone having to die. These people aren't evil, they're not even rebels, they're just hungry."
+Nos agents ont découvert un nouveau refuge de la Nouvelle-Jéricho. Cependant, ce dernier est en proie à une perturbation. Les soldats de la Nouvelle-Jéricho sont piégés dans un bâtiment central, tandis que les habitants manifestent à l'extérieur. Il semblerait qu'il y ait une pénurie alimentaire. Le leader du refuge, le commandant [HavenLeaderSurname], nous a contactés par message radio, et nous demande du ravitaillement.[n][n]« Je ne vous demande pas d'essayer de résoudre le problème de façon permanente, explique le commandant [HavenLeaderSurname], ça, c'est ma responsabilité. Mais avec votre aide, nous pourrions sortir de ce pétrin sans faire de victimes. Ces gens ne sont pas mauvais, ce ne sont même pas des rebelles, ils ont simplement faim. »
+# NJ8_TITLE
+Starvation
+Famine
+# NJ9_CHOICE_0_OUTCOME_GENERAL
+The tournament is a huge success, raising morale and even spreading to other havens. Even something as simple as poker gives people something worth living for. Commander [HavenLeaderSurname] is pleased, doubly so because she won the tournament. [n][n]"Thanks for helping me make this happen. Having the Phoenix Project participate made it seem a lot less like a crazy idea. Heck, even Tobias West himself sent me a message. Said he doesn't play poker, but he appreciates the spirit of intelligent competition it fosters. How about that?"
+Le tournoi connait un immense succès, remonte le moral ambiant et s'étend même à d'autres refuges. Même quelque chose d'aussi simple que le poker peut donner aux gens une raison de vivre. Le commandant [HavenLeaderSurname] est ravie, probablement parce qu'elle a remporté le tournoi.[n][n]« Merci de m'avoir aidée avec ça. La participation du Projet Phoenix a fait paraître cette idée un peu moins folle. Tobias West en personne m'a même envoyé un message, c'est pour dire ! Il a expliqué qu'il ne joue pas au poker, mais qu'il apprécie l'esprit de compétition intelligente que ce jeu engendre. Voyez-vous ça ! »
+# NJ9_CHOICE_0_TEXT
+Participate.
+Participer.
+# NJ9_CHOICE_1_OUTCOME_GENERAL
+The tournament is a huge success, raising morale and even spreading to other havens. Even something as simple as poker gives people something worth living for. Commander [HavenLeaderSurname] is pleased, doubly so because she won the tournament. [n][n]"Not sure why Phoenix Project folks can't have any fun, but we sure appreciated the donation," she says with a grin.
+Le tournoi connait un immense succès, remonte le moral ambiant et s'étend même à d'autres refuges. Même quelque chose d'aussi simple que le poker peut donner aux gens une raison de vivre. Le commandant [HavenLeaderSurname] est ravie, probablement parce qu'elle a remporté le tournoi.[n][n]« Je ne sais pas pourquoi les gens du Projet Phoenix ne peuvent pas s'amuser, mais une chose est sûre : nous apprécions beaucoup votre don », lance-t-elle avec un large sourire.
+# NJ9_CHOICE_1_TEXT
+Refuse to participate, but contribute to the prize pool.
+Refuser de participer, mais contribuer à la cagnotte.
+# NJ9_CHOICE_2_OUTCOME_GENERAL
+"What are you, allergic to fun?" Commander [HavenLeaderSurname] complains.
+« Qu'est-ce que vous avez, vous êtes allergiques à tout ce qui est divertissant ? », se plaint le commandant [HavenLeaderSurname].
+# NJ9_CHOICE_2_TEXT
+Don't get involved.
+Ne pas intervenir.
+# NJ9_TEXT_GENERAL_0
+The officers of [HavenName], led by Commander [HavenLeaderSurname], have a bold new project they'd like our operatives to participate in: a poker tournament. [n][n]"Folks, we need some goddamned R&R," Commander [HavenLeaderSurname] says. "If we keep going like this, we're gonna forget what makes us human. And humans need to play. So how about it? You in?"
+Les officiers du refuge [HavenName], dirigés par le commandant [HavenLeaderSurname], ont un ambitieux nouveau projet auquel ils aimeraient voir nos agents participer : un tournoi de poker.[n][n]« Écoutez tout le monde, on mérite bien un peu de répit, dit le commandant [HavenLeaderSurname], si on continue comme ça, on va oublier ce qui fait de nous des humains. Et les humains ont besoin de se divertir. Alors, qu'est-ce que vous en dites ? Vous êtes partants ? »
+# NJ9_TITLE
+Full House
+Full House

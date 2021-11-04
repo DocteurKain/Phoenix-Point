@@ -1,0 +1,2010 @@
+Key,English,French
+ANU_WAR_NJ_CHOICE_0_TEXT,OK.,OK.
+ANU_WAR_NJ_TEXT_GENERAL_0,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Public
+
+The old world is gone, and yet it haunts us. There are those who dream of taking us back to those dark days before the flood, when greed ruled and change seemed impossible. Sins and lies are difficult to kill, but kill them we shall, with the blessing of the Dead God. New Jericho will fall, and the faithful will rejoice.","MESSAGE
+DE : Légat aveugle (Anu)
+À : Public
+
+L'ancien monde a disparu, et pourtant, il continue de nous hanter. Certains rêvent de revenir à ces jours sombres avant le Déluge, lorsque l'avidité régnait et que le changement semblait impossible. Les péchés et les mensonges sont difficiles à éliminer, mais les éliminer, nous le devons, avec la bénédiction du Dieu défunt. La Nouvelle-Jéricho s'effondrera et les fidèles triompheront."
+ANU_WAR_NJ_TITLE,Ghost War,Guerre fantôme
+ANU_WAR_PX_CHOICE_0_TEXT,OK.,OK.
+ANU_WAR_PX_TEXT_GENERAL_0,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Public
+
+The Phoenix Project. Yes. Disease in the human body. Yes. Heal it. Yes. Make it stop. Make it die. Yes. It is time.","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Public
+
+Le Projet Phoenix. Oui. La maladie dans le corps humain. Oui. La soigner. Oui. Il faut l'arrêter. Il faut l'éliminer. Oui. C'est le moment."
+ANU_WAR_PX_TITLE,Crusade,Croisade
+ANU_WAR_SYN_CHOICE_0_TEXT,OK.,OK.
+ANU_WAR_SYN_TEXT_GENERAL_0,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Public
+
+We're declaring war on Synedrion. Why? They have no idea what they're doing. Their childish utopian fantasies will lead humanity to its destruction. And honestly, somebody has to put an end to their perpetual whining.
+
+If any of you Synedrion people were planning on having a sudden epiphany and converting to a better faith, now's the moment.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Public
+
+Nous déclarons la guerre au Synédrion. Pourquoi ? Ils n'a pas la moindre idée de ce qu'il fait. Ses fantasmes utopiques enfantins vont mener à la destruction de l'humanité. Et franchement, quelqu'un se doit de mettre un terme à ses jérémiades.
+
+Si certains d'entre vous, adeptes du Synédrion, avaient une épiphanie et souhaitaient se reconvertir à une meilleure foi, c'est le moment."
+ANU_WAR_SYN_TITLE,False Prophets,Faux prophètes
+Flav_NJ3_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Remarkable... it looks like Chaudri helped your operatives prevent World War III from going nuclear. What an accomplishment! Perhaps I have been too dismissive of the man, treating him as no more than a source of information. How can he trust us if we don't respect him? I'll have to try a different approach.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Formidable... on dirait que Chaudri a aidé vos agents à empêcher que la Troisième Guerre mondiale ne se change en guerre nucléaire. C'est un véritable exploit ! J'ai sous-estimé cet homme et n'ai vu en lui qu'une source d'information. Comment peut-il nous faire confiance si nous ne lui montrons aucun respect ? Je tâcherai de changer de méthode."
+Flav_NJ3_CHOICE_0_TEXT,"Of course, we're happy to provide you with what records we have.","Bien entendu, nous serions ravis de partager nos données avec vous."
+Flav_NJ3_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Very well. Privacy is, of course, an important individual right and privilege. I hope our species survives, so we can continue to enjoy such privileges.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Très bien. La confidentialité constitue un droit et un privilège importants. Je prie pour que notre espèce survive et que nous puissions continuer de jouir de tels privilèges."
+Flav_NJ3_CHOICE_1_TEXT,Data files on Phoenix Project operatives are confidential.,Les informations sur les agents du Projet Phoenix sont confidentielles.
+Flav_NJ3_TEXT_GENERAL_0,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+We are proceeding with the debriefing of Ravi Chaudri. It's going fine so far, although there are certain issues he remains quite tight-lipped about.
+
+We have a detailed file on his work prior to the last war, but there are several blank areas in the documentation. If you would be happy to provide some details, in the spirit of mutual cooperation, that would be most beneficial to our efforts, and to Chaudri himself. If he understands that the Phoenix Project and New Jericho are working together as allies, he might feel he can trust us more fully.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Nous sommes en train d'interroger Ravi Chaudri. Tout se passe bien jusqu'ici, même s'il évite certains sujets.
+
+Nous disposons de données détaillées sur ses activités lors de la dernière guerre, mais elles ne sont pas complètes. Si vous pouviez nous apporter plus de précisions, au nom de notre coopération mutuelle, cela contribuerait grandement à nos efforts et serait également bénéfique pour Chaudri. S'il finit par comprendre que le Projet Phoenix et la Nouvelle-Jéricho sont alliés, il nous accordera peut-être sa confiance."
+Flav_NJ3_TITLE,The Interrogation,L'interrogatoire
+NJ_WAR_ANU_CHOICE_0_TEXT,OK.,OK.
+NJ_WAR_ANU_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+John Stuart Mill wrote: ""Bad men need nothing more to compass their ends, than that good men should look on and do nothing."" New Jericho will no longer stand by and allow the Disciples of Anu to mislead people in the name of their rotten superstition. As of this moment, we are at war.
+","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+John Stuart Mill a écrit : « Les hommes malveillants n'ont besoin de rien de plus pour atteindre leurs objectifs que les hommes bienveillants observent sans rien faire. » La Nouvelle-Jéricho ne restera plus les bras croisés à laisser les Disciples d'Anu fourvoyer les gens au nom de leur superstition corrompue. À partir de maintenant, nous sommes en guerre."
+NJ_WAR_ANU_TITLE,The Imperative to Act,L'impératif d'agir
+NJ_WAR_PX_CHOICE_0_TEXT,OK.,OK.
+NJ_WAR_PX_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+Today is a sad day. Today we are forced to recognize that the Phoenix Project has strayed so far from its path that it has become our enemy. Today we declare war. May it be a short one.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Aujourd'hui est un triste jour. Aujourd'hui, nous sommes forcés de reconnaître que le Projet Phoenix s'est tellement écarté de son objectif qu'il est devenu notre ennemi. Aujourd'hui, nous déclarons la guerre et espérons qu'elle sera courte."
+NJ_WAR_PX_TITLE,A Sad Day,Un triste jour
+NJ_WAR_SYN_CHOICE_0_TEXT,OK.,OK.
+NJ_WAR_SYN_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+Synedrion claims to stand for anarchism; but true anarchism is freedom from coercion. What Synedrion actually stands for is the tyranny of the majority. And that tyranny is leading them to a rejection of human will and accomodation of the Pandoran invaders. This is treason, and New Jericho will no longer accept it. We therefore declare war.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Le Synédrion prétend défendre l'anarchisme ; mais le vrai anarchisme c'est la liberté de toute forme de coercition. Ce que le Synédrion défend vraiment, c'est la tyrannie de la majorité. Et cette tyrannie l'entraîne à rejeter la volonté humaine et à accueillir les envahisseurs pandoriens. C'est une trahison et la Nouvelle-Jéricho ne l'accepte plus. Par conséquent, nous lui déclarons la guerre."
+NJ_WAR_SYN_TITLE,Treason,Trahison
+PROG_AN0_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_AN0_FAIL_TEXT_GENERAL_0,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+Well, I guess you're all new to this, so maybe this is an opportunity to get better.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Eh bien, j'imagine que vous débutez avec ceci, c'est peut-être donc une occasion de s'améliorer."
+PROG_AN0_FAIL_TITLE,The Poison Remains,La flamme brûle toujours
+PROG_AN0_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_AN0_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_AN0_MISS_SUMMARY,Eliminate the mutated worm infestation.,Éliminez l'infestation de vers mutants.
+PROG_AN0_MISS_TEXT_GENERAL_0,"At the Disciples of Anu haven of [HavenName], a mutated worm infestation is causing serious problems. The locals had placed their hopes in Taxiarch Nergal, the Disciples' greatest military hero, but Nergal is said to be fighting a series of pitched battles against the Pandorans and has been unable to help.
+
+We could eradicate the infestation ourselves, helping the haven and creating a good first impression with this faction.","Au refuge [HavenName] des Disciples d'Anu, une infestation de vers mutants cause de sérieux problèmes. Les habitants ont placé leurs espoirs dans le Taxiarque Nergal, le plus grand héros militaire des Disciples d'Anu, mais apparemment, Nergal affronte des Pandoriens dans une série de combats féroces et il ne peut rien faire ici.
+
+Nous pourrions éradiquer cette infestation nous-mêmes, et par la même occasion, aider le refuge et créer une bonne première impression avec cette faction."
+PROG_AN0_MISS_TEXT_GENERAL_1,"MISSION BRIEFING
+
+Eliminate the mutated worm infestation.","RÉSUMÉ DE LA MISSION
+
+Éliminez l'infestation de vers mutants."
+PROG_AN0_MISS_TITLE,The Poison Within,Le feu de la passion
+PROG_AN0_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+If you want to work with us, you'll still have to deal with the hierarchy - work your way up from the Apostle to the Once-Born, to the Keeper of the Threshold, all the way up to the Synod of Yearning and the Exalted herself. That's hard work. You'll have to earn the knowledge you gain.
+
+But trust me, it'll be worth it. And if the Synod gives you trouble... let me know.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Si vous voulez travailler avec nous, vous devrez vous adresser aux supérieurs : gravissez les échelons jusqu'à l'apôtre des Incroyants, puis le Gardien du Seuil, jusqu'au Synode de l'appétence et l'Exaltée en personne. La tâche n'est pas simple. Vous devrez mériter le savoir que vous acquérez.
+
+Mais croyez-moi, ça en vaudra la peine. Et si le Synode vous cause des problèmes... faites-le-moi savoir."
+PROG_AN0_WIN_CHOICE_0_TEXT,We'd like to know more.,Nous aimerions en savoir plus.
+PROG_AN0_WIN_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+Very well. I don't blame you. It's hard to see the right path sometimes. I hope you recognize it while there's still time. The Liturgy of the Divine Flesh is coming whether you like it or not.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Très bien. Je ne peux pas vous en vouloir, c'est parfois difficile de discerner la bonne voie. J'espère que vous la reconnaîtrez tant que vous le pourrez encore. La Liturgie de la chair divine viendra que vous le vouliez ou non."
+PROG_AN0_WIN_CHOICE_1_TEXT,We are not ready to put our faith in your dogma.,Nous ne sommes pas prêts à croire en votre dogme
+PROG_AN0_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+Normally, when we encounter a potential ally, we first send the Apostle to the Once-Born to check them out. But I'm gonna break protocol to say thanks.
+
+Now listen, I'll be honest with you. The Exalted is the only one who has any real answers. Tobias West may be clever, and Synedrion may sound great, but only the Exalted is dealing with the world as it actually is. She can lead us out of this mess. Give us lives worth living.
+","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Normalement, lorsque nous rencontrons un allié potentiel, nous envoyons d'abord l'apôtre des Incroyants pour l'évaluer. Mais je vais faire une entorse au protocole pour vous remercier.
+
+Je vais être honnête avec vous. L'Exaltée est la seule à avoir de vraies réponses. Tobias West est peut-être intelligent, et le Synédrion peut sembler important, mais seule l'Exaltée voit le monde tel qu'il est vraiment. Elle peut nous sortir de ce chaos. Nous donner une vie qui vaut la peine d'être vécue."
+PROG_AN0_WIN_TITLE,The Hierarchy,En feu
+PROG_AN1_CHOICE_0_OUTCOME_GENERAL,It looks like we've started working our way up the hierarchy of the Disciples.,Il semble que nous ayons commencé à gravir les échelons de la hiérarchie des Disciples.
+PROG_AN1_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_AN1_TEXT_GENERAL_0,"A mysterious being known as the Apostle to the Once-Born, a servant of the Exalted, has passed by our base, leaving the following message: ""What is the nature of a human being? Can we change? Is the fault in our souls, where it may never be reached, or is it in these broken bodies of ours? Perhaps the Phoenix Project can be a vessel of change. It is not up to this humble apostle to make such a decision, but I wish you well. May your actions please the Keeper of the Threshold. He will seek you out when you have shown your worth.""","Un être mystérieux connu comme l'apôtre des Incroyants, un servant de l'Exaltée, est passé par notre base, laissant le message suivant : « Quelle est la nature de l'être humain ? Pouvons-nous changer ? La faute est-elle dans nos âmes, éternellement impossible à atteindre, ou dans nos corps brisés ? Le Projet Phoenix peut-il être la voie du changement. Il ne revient pas à l'humble apôtre que je suis de prendre une telle décision, mais je vous souhaite bonne chance. Que vos actions plaisent au Gardien du Seuil. Il vous trouvera lorsque vous aurez prouvé votre valeur. »"
+PROG_AN1_TITLE,The First Initiation,La première initiation
+PROG_AN2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+Very well. But do not think about it for too long. Judgement approaches.","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Entendu. Mais ne réfléchissez pas trop longtemps. Le jugement approche."
+PROG_AN2_CHOICE_0_TEXT,We'll think about it.,Nous allons y réfléchir.
+PROG_AN2_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+Let the pain they have visited upon others be returned unto them tenfold!","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Que la douleur qu'ils ont infligée aux autres leur soit rendue au décuple !"
+PROG_AN2_CHOICE_1_TEXT,We will cast out the heathens.,Nous allons chasser ces païens.
+PROG_AN2_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_AN2_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_AN2_FAIL_TITLE,Failure to Initiate,Échec de l'initiation
+PROG_AN2_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_AN2_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_AN2_MISS_SUMMARY,Defeat a group of raiders who have been attacking havens in this area.,Venez à bout d'un groupe de pillards qui attaquent les refuges de cette région.
+PROG_AN2_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Instead of understanding that survival now depends on adaptation and cooperation, these raiders have kept up the ways of the old world: greed and conflict. They've been attacking havens, hoarding stolen supplies, and causing problems for everyone with their unrelenting selfishness. The Exalted has decided that this must stop.","RÉSUMÉ DE LA MISSION
+
+Au lieu de comprendre que la survie dépend maintenant de l'adaptation et de la coopération, ces pillards ont conservé les habitudes de l'ancien monde : avidité et conflit. Ils attaquent des refuges, collectent les provisions volées et causent des problèmes pour tout le monde avec leur égoïsme implacable. L'Exaltée a décidé de mettre un terme à tout cela."
+PROG_AN2_MISS_TITLE,The Second Initiation,La deuxième initiation
+PROG_AN2_TEXT_GENERAL_0,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+Blessed are those who seek transformation! But to seek alone is not enough, neither is to speak; for these were the ways of the false gods of old, who drowned in the flood that Anu commanded. To be initiated further into the sacred teachings of the Exalted, you must show that you will act on behalf of humanity - not merely the humanity that was, but the humanity that will be.","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Bénis sont ceux qui cherchent la transformation ! Mais la chercher seul ne suffit pas, tout comme parler ; car celles-ci étaient les habitudes des faux dieux de jadis, qui se sont noyés dans le Déluge qu'Anu a commandé. Pour une initiation plus profonde aux enseignements sacrés de l'Exaltée, vous devez prouver que vous agirez au nom de l'humanité, pas simplement de l'humanité qui fut, mais aussi de l'humanité qui sera."
+PROG_AN2_TEXT_GENERAL_1,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+There are some who still cling to the sins of the old world; even now they are consumed by greed, thinking that if they hoard enough, they will survive the coming changes. These brigands have attacked many of our havens, and those of others also. Let the judgement of the Dead God fall upon them.
+","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Il y en a qui s'accrochent encore aux péchés de l'ancien monde ; même à présent, ils sont consumés par l'avidité, ils pensent que s'ils peuvent récolter assez, ils survivront aux changements à venir. Ces brigands ont attaqué plusieurs de nos refuges et d'autres factions, aussi. Que le jugement du Dieu défunt s'abatte sur eux."
+PROG_AN2_TITLE,The Second Initiation,La deuxième initiation
+PROG_AN2_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+The Voiceless Hierophant shall judge you when the time is right.","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Le Hiérophante silencieux vous jugera lorsque le moment viendra."
+PROG_AN2_WIN_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_AN2_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+You have done well. The Exalted sends her thanks, and the Synod of Yearning will speak the names of your operatives at morning prayer. Do not feel ashamed of having killed your fellow humans, although you may pity them; for in clinging to the old, they doom the future.","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Vous avez fait du bon travail. L'Exaltée transmet sa gratitude et le Synode de l'appétence prononcera les noms de vos agents à la prière du matin. N'ayez pas honte d'avoir tué vos semblables, même si vous pouvez les plaindre, car en s'accrochant au passé, ils condamnent l'avenir."
+PROG_AN2_WIN_TITLE,The Second Initiation,La deuxième initiation
+PROG_AN3_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+The Voiceless Hierophant will be pleased; and you will gain new insights and come closer to the perfection of the body. May your journey to the Blind Legate continue.","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Le Hiérophante silencieux sera ravi, et vous acquerrez de nouvelles perspectives qui vous permettront de vous rapprocher de la perfection du corps. Que votre aventure vers le Légat aveugle continue."
+PROG_AN3_CHOICE_0_TEXT,Make the sacrifice.,Faire le sacrifice.
+PROG_AN3_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+Your faith is weak. But none are perfect, save for the Exalted. May you find your way back to the truth.","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Votre foi est faible. Mais rien n'est parfait, à part l'Exaltée. Puissiez-vous retrouver la voie de la vérité."
+PROG_AN3_CHOICE_1_TEXT,Refuse to make the sacrifice.,Refuser de faire le sacrifice.
+PROG_AN3_TEXT_GENERAL_0,"MESSAGE
+FROM: Keeper of the Threshold (Anu)
+TO: Phoenix Project
+
+I come bearing a message from the Voiceless Hierophant: ""Words do not matter. Everything written is ash, everything spoken is wind. But your actions show promise. Let the Rite of Hunger commence.""
+
+Are you ready to make a sacrifice for our faith?
+","MESSAGE
+DE : Gardien du Seuil (Anu)
+À : Projet Phoenix
+
+Je viens vous apporter un message du Hiérophante silencieux : « Les mots n'ont aucune importance. Tout ce qui est écrit n'est que cendre, tout ce qui est dit n'est que vent. Mais vos actions sont prometteuses. Que le rite de la Faim commence. »
+
+Êtes-vous prêts à faire un sacrifice pour notre foi ?"
+PROG_AN3_TITLE,The Third Initiation,La troisième initiation
+PROG_AN4_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Phoenix Project
+
+The old world must die for the new to be born.","MESSAGE
+DE : Légat aveugle (Anu)
+À : Projet Phoenix
+
+L'ancien monde doit mourir pour que le nouveau puisse naître."
+PROG_AN4_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_AN4_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_AN4_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_AN4_FAIL_TITLE,The Fourth Initiation,La quatrième initiation
+PROG_AN4_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_AN4_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_AN4_MISS_SUMMARY,Eliminate a group of New Jericho soldiers occupying a sacred site.,Éliminez un groupe de soldats de la Nouvelle-Jéricho qui occupent un site sacré.
+PROG_AN4_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+A group of New Jericho soldiers is occupying this site, which is considered sacred by the Disciples of Anu. The Blind Legate has tasked us to destroy them in the name of the Exalted.","RÉSUMÉ DE LA MISSION
+
+Un groupe de soldats de la Nouvelle-Jéricho occupe ce site, qui est considéré comme sacré par les Disciples d'Anu. Le Légat aveugle nous a demandé de les détruire au nom de l'Exaltée."
+PROG_AN4_MISS_TITLE,The Fourth Initiation,La quatrième initiation
+PROG_AN4_TEXT_GENERAL_0,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Phoenix Project
+
+My task is not to see what is on the surface, but to perceive the truth within. What do you believe? Do you understand that there is no way back to the world before the Flood, because it was the very nature of that world that caused its downfall? If you do, then you understand the folly of those who dream of the old world, and you will act against them.","MESSAGE
+DE : Légat aveugle (Anu)
+À : Projet Phoenix
+
+Ma mission n'est pas de voir ce qui est à la surface, mais de percevoir la vérité à l'intérieur. Que pensez-vous ? Comprenez-vous qu'il n'y a pas de retour possible au monde précédent le Déluge, car c'est précisément la nature de ce monde qui a causé son effondrement ? Si vous le comprenez, vous voyez aussi la folie de ceux qui rêvent de l'ancien monde, et vous agirez contre eux."
+PROG_AN4_TEXT_GENERAL_1,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Phoenix Project
+
+I am sending you the coordinates of a sacred site. At this place a child was born with a body uplifted by Anu and a mind free of the plague, a harbinger of things to come. Yet now the heathens of New Jericho occupy this hallowed ground and refuse to leave. Cast them out and prove your dedication to our cause.","MESSAGE
+DE : Légat aveugle (Anu)
+À : Projet Phoenix
+
+Je vous envoie les coordonnées d'un site sacré. À cet endroit, une enfant est née avec un corps exalté par Anu et un esprit libre du fléau, un présage de ce qui viendrait. Pourtant, maintenant les païens de la Nouvelle-Jéricho occupent ces terres sacrées et refusent de partir. Chassez-les et prouvez votre dévouement à notre cause."
+PROG_AN4_TITLE,The Fourth Initiation,La quatrième initiation
+PROG_AN4_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Phoenix Project
+
+Keep on this path, and you shall hear the voice of the Shadowed Hierarch, and after him, the wisdom of the Synod of Yearning.","MESSAGE
+DE : Légat aveugle (Anu)
+À : Projet Phoenix
+
+Restez sur cette voie et vous entendrez le Hiérarque des Ombres, et après lui, la sagesse du Synode de l'appétence."
+PROG_AN4_WIN_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_AN4_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Phoenix Project
+
+Do you understand why your actions were necessary? Why the site is sacred? It is here that the conditions existed which brought forth a better body with a free mind; one without the other is meaningless. The Exalted bids us, understand: why here? To fathom why the site is sacred is to fathom how other sites may become sacred also.","MESSAGE
+DE : Légat aveugle (Anu)
+À : Projet Phoenix
+
+Comprenez-vous pourquoi vos actions étaient nécessaires ? Pourquoi le site est sacré ? C'est ici que les conditions ont été réunies pour donner naissance à un corps amélioré doté d'un esprit libre ; l'un sans l'existence de l'autre n'a aucun sens. L'Exaltée nous invite à comprendre : pourquoi ici ? Comprendre ce qui rend ce site sacré, c'est comprendre comment d'autres sites peuvent le devenir."
+PROG_AN4_WIN_TITLE,The Fourth Initiation,La quatrième initiation
+PROG_AN5_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+Good. Soon, you'll be able to talk to the Synod of Yearning. But be careful. Our little trinity is not to be trifled with.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Bien. Vous pourrez bientôt parler au Synode de l'appétence. Mais attention. Notre petite trinité n'est pas à prendre à la légère."
+PROG_AN5_CHOICE_0_TEXT,Accept gift.,Accepter le cadeau.
+PROG_AN5_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+He's not gonna like that. But it's your choice. I hope you're not losing sight of the path.","MESSAGE
+DE : Légat aveugle (Anu)
+À : Projet Phoenix
+
+Ça ne va pas lui plaire, mais c'est votre choix. J'espère que vous ne perdez pas de vue la voie que vous avez empruntée."
+PROG_AN5_CHOICE_1_TEXT,Reject gift.,Rejeter le cadeau.
+PROG_AN5_TEXT_GENERAL_0,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+You'll be pleased to hear that you've received the blessing of the Shadowed Hierarch. What does that mean? Well... it's hard to say. He's a pretty elusive figure. But I know one thing about him: he doesn't care about dogma or symbolism. In some ways, he's a cynic. But that's why the Exalted keeps him around. Because if he supports something, it's because he thinks it's going to benefit us.
+","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Vous serez ravis d'apprendre que vous avez reçu la bénédiction du Hiérarque des Ombres. Qu'est-ce que cela signifie ? Eh bien... c'est difficile à dire. C'est un personnage impénétrable. Mais je sais une chose à son sujet : le dogme ou symbolisme lui importe peu. D'une certaine manière, il est cynique. Mais c'est pour cette raison que l'Exaltée le garde dans son entourage : s'il soutient une idée, c'est qu'il pense que ça nous serait bénéfique."
+PROG_AN5_TEXT_GENERAL_1,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+Oh, I almost forgot. The Hierarch also sends a gift. Accepting it has great symbolic value to our people. It means you've accepted his blessing.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Oh, j'ai failli oublier. Le Hiérarque vous envoie aussi un cadeau. L'accepter a une grande valeur symbolique pour notre peuple. Cela signifie que vous acceptez sa bénédiction."
+PROG_AN5_TITLE,The Fifth Initiation,La cinquième initiation
+PROG_AN6_2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Taxiarch Nergal
+TO: Phoenix Project
+
+I have a much better mission for you. Help me retrieve what the Exalted needs from this Pandoran structure instead, and I'll put you in touch with her.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+J'ai une bien meilleure mission pour vous. Aidez-moi plutôt à récupérer ce dont a besoin l'Exaltée pour cette structure pandorienne et je vous mettrai en contact avec elle."
+PROG_AN6_2_CHOICE_0_TEXT,Agreed.,D'accord.
+PROG_AN6_2_TEXT_GENERAL_0,"MESSAGE
+FROM: Taxiarch Nergal
+TO: Phoenix Project
+
+Don't listen to the Synod and its mad ramblings. It has lost its way, lost sight of our ultimate goal. Too much dogma and too little understanding, if you ask me. This is not what the Exalted stands for, never has been.
+","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+N'écoutez pas le Synode et ses divagations. Il s'est égaré, il a perdu de vue notre objectif final. Trop de dogmes et peu de réflexion, si vous voulez mon avis. Ce n'est pas cela que défend l'Exaltée, ça ne l'a jamais été."
+PROG_AN6_2_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN6_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Phoenix Project
+
+Yes. Our command. Your action. The minds that move. The hand that strikes.","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Projet Phoenix
+
+Oui. Notre commandement. Votre action. Les esprits qui se déplacent. La main qui frappe."
+PROG_AN6_CHOICE_0_TEXT,As you command.,Nous obéirons à votre commandement.
+PROG_AN6_CHOICE_1_TEXT,This is barbaric. We refuse.,C'est barbare. Nous refusons.
+PROG_AN6_FAIL1_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_AN6_FAIL1_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_AN6_FAIL1_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN6_FAIL2_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_AN6_FAIL2_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_AN6_FAIL2_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN6_MISS1_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_AN6_MISS1_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_AN6_MISS1_SUMMARY,Invade this Synedrion haven and kill all opposing forces to prove our loyalty to the Synod of Yearning.,Envahissez ce refuge du Synédrion et éliminez toutes les forces de l'opposition pour prouver notre loyauté au Synode de l'appétence.
+PROG_AN6_MISS1_TEXT_GENERAL_0,"MISSION BRIEFING
+
+War is terrible, but only the Disciples of Anu truly understand that to survive, humanity must evolve. Synedrion's ideology of co-existence would prevent humanity from changing, from learning from its sins. It's a beguiling idea, which is precisely why the Synod of Yearning opposes it so fiercely.
+
+We must attack the haven and destroy all opposing forces, no matter how distasteful it might seem. This will prove our dedication to the Exalted's plan.","RÉSUMÉ DE LA MISSION
+
+La guerre est terrible, mais seuls les Disciples d'Anu comprennent que pour survivre, l'humanité doit évoluer. L'idéologie de coexistence du Synédrion empêcherait l'humanité de changer, d'apprendre de ses péchés. C'est une idée séduisante, c'est pour cette raison précise que le Synode de l'appétence s'y oppose si farouchement.
+
+Nous devons attaquer le refuge et détruire toutes les forces de l'opposition, aussi désagréable que cela puisse paraître. Ceci prouvera notre dévouement à l'Exaltée et à son plan."
+PROG_AN6_MISS1_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN6_MISS2_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_AN6_MISS2_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_AN6_MISS2_SUMMARY,Retrieve data from this alien structure on behalf of the Exalted.,Récupérer les données de cette structure extraterrestre pour le compte de l'Exaltée.
+PROG_AN6_MISS2_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Taxiarch Nergal, one of the Exalted's oldest and most trusted advisors, has asked us to provide him with data from this alien structure. The mission is to go in, perform the required scans, and get out. It's unclear what the Exalted requires the data for.","RÉSUMÉ DE LA MISSION
+
+Le Taxiarque Nergal, l'un des conseillers les plus anciens et fiables de l'Exaltée, nous a demandé de lui fournir des données d'une structure extraterrestre. La mission consiste à entrer, réaliser les scans requis et sortir. Nous ne savons pas exactement les raisons pour lesquelles l'Exaltée demande ces données."
+PROG_AN6_MISS2_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN6_TEXT_GENERAL_0,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Phoenix Project
+
+Yes. Good. Yes. You have succeeded. So far. Yes. You have shown courage. Cunning. Strength. Yes. Now obedience. Submission. Faith above self. Yes. Demonstrate the divine principles. Strike down our enemies. Prepare for the day of judgement. Yes.","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Projet Phoenix
+
+Oui, bien. Oui. Vous avez réussi. Jusqu'ici. Oui. Vous avez fait preuve de courage. De ruse. De force. Oui. Maintenant, obéissance. Soumission. Foi avant soi. Oui. Démontrez les principes divins. Abattez nos ennemis. Préparez-vous pour le jour du jugement. Oui."
+PROG_AN6_TEXT_GENERAL_1,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Phoenix Project
+
+Synedrion. Apostles of a false creed. Humans at the top of creation. Lies! We are not evolved. Not yet. Find their homes. Break their heathen belief. Show them the wrath of the Dead God. Blood. Fire. In the streets. Yes.","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Projet Phoenix
+
+Le Synédrion. Apôtres d'une fausse croyance. Les humains au sommet de la création. Ce ne sont que mensonges ! Nous n'avons pas évolué. Pas encore. Trouvez leurs foyers. Détruisez leur croyance païenne. Montrez-leur la colère du Dieu défunt. Le sang. Le feu. Dans les rues. Oui."
+PROG_AN6_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN6_WIN1_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+You have demonstrated your loyalty time and again. I believe you suspect that there is more to my plan than meets the eye, and you are right. The time is almost upon us. I will explain everything soon.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Vous avez démontré votre loyauté à maintes reprises. Je pense que vous suspectez que mon plan implique plus que ce qu'il n'y paraît, et vous avez raison. Le moment est proche. Je vous expliquerai tout bientôt."
+PROG_AN6_WIN1_CHOICE_0_TEXT,OK,OK
+PROG_AN6_WIN1_TEXT_GENERAL_0,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+I am sorry about what the Synod of Yearning made you do. Those were not my orders. I have no desire to destroy those who disagree with us, unless their actions undermine humanity's chances at survival. The Synod is... a necessary evil. But perhaps its usefulness is nearing an end.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Je suis navrée de ce que le Synode de l'appétence vous a fait faire. Ces ordres n'étaient pas les miens. Je n'ai aucun désir de détruire ceux qui s'opposent à nous, à moins que leurs actions nuisent aux chances de survie de l'humanité. Le Synode est... un mal nécessaire. Mais peut-être que son utilité touche à sa fin."
+PROG_AN6_WIN1_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN6_WIN2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+You have demonstrated your loyalty time and again. I believe you suspect that there is more to my plan than meets the eye, and you are right. The time is almost upon us. I will explain everything soon.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Vous avez démontré votre loyauté à maintes reprises. Je pense que vous suspectez que mon plan implique plus que ce qu'il n'y paraît, et vous avez raison. Le moment est proche. Je vous expliquerai tout bientôt."
+PROG_AN6_WIN2_CHOICE_0_TEXT,OK,OK
+PROG_AN6_WIN2_TEXT_GENERAL_0,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+I am glad you rejected the Synod's orders. They were not in accordance with my teachings. I have no desire to destroy those who disagree with us, unless their actions undermine humanity's chances at survival. The Synod is... a necessary evil. But perhaps its usefulness is nearing an end.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Je suis contente que vous ayez refusé les ordres du Synode. Ils n'étaient pas en accord avec mes enseignements. Je n'ai aucun désir de détruire ceux qui s'opposent à nous, à moins que leurs actions nuisent aux chances de survie de l'humanité. Le Synode est... un mal nécessaire. Mais peut-être que son utilité touche à sa fin."
+PROG_AN6_WIN2_TITLE,The Sixth Initiation,La sixième initiation
+PROG_AN7_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+I'm sending you the coordinates. Make sure you come prepared; this won't be an easy fight, but it's one we must not lose.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Je vous envoie les coordonnées. Assurez-vous de venir bien préparés ; ce ne sera pas un combat facile, mais il est impératif que nous le remportions."
+PROG_AN7_CHOICE_0_TEXT,We will assist you.,Nous vous aiderons.
+PROG_AN7_FAIL_CHOICE_0_OUTCOME_GENERAL,We will have to seek new alternatives to save the Earth.,Nous devrons trouver de nouvelles alternatives pour sauver la Terre.
+PROG_AN7_FAIL_CHOICE_0_TEXT,Accept.,Accepter.
+PROG_AN7_FAIL_TEXT_GENERAL_0,"Our failure has resulted in the Exalted being badly injured. Anu forces have neutralized the Synod of Yearning, but our diplomatic relations have fallen apart, as we are no longer deemed trustworthy.","Suite à notre échec, l'Exaltée s'est fait grièvement blesser. Les forces d'Anu ont neutralisé le Synode de l'appétence, mais nos relations diplomatiques ont été mises à mal par l'incident. Ils estiment que nous ne sommes plus dignes de leur confiance."
+PROG_AN7_FAIL_TITLE,War of Attrition,Guerre d'usure
+PROG_AN7_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_AN7_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_AN7_MISS_SUMMARY,Defend the Exalted from attack by schismatics loyal to the Synod of Yearning.,Défendez l'Exaltée contre une attaque de schismatiques dévoués au Synode de l'appétence.
+PROG_AN7_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The Exalted, our ally and leader of the Disciples of Anu, has come under attack by forces loyal to the Synod of Yearning. They perceive her as having betrayed their holy cause and intend to overthrow her so that the Disciples will not be led astray by false dogma. The Exalted is an essential part of our struggle against the Pandoravirus and must be protected at all costs. The enemy has not yet breached the Leviathan Chamber, but the siege cannot be lifted without our help.","RÉSUMÉ DE LA MISSION
+
+L'Exaltée, notre alliée et chef des Disciples d'Anu, est attaquée par des forces fidèles au Synode de l'appétence. Ils la perçoivent comme ayant trahi leur cause sacrée et ont l'intention de la faire tomber pour que les Disciples ne soient pas influencés par ce faux dogme. L'Exaltée est une partie essentielle de notre lutte contre le Pandoravirus et doit être protégée coûte que coûte. L'ennemi n'a pas encore percé la chambre du Léviathan, mais le siège ne peut pas être levé sans notre aide."
+PROG_AN7_MISS_TITLE,The Schism,Le schisme
+PROG_AN7_TEXT_GENERAL_0,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Phoenix Project
+
+We need your help - now! The Synod of Yearning has turned against the Exalted. That triple-headed fool discovered her true plan, and has declared her a traitor to the Dead God. This is a coup, and a prelude to a civil war we simply cannot afford. Gather your forces! We must save the Exalted, or humanity is lost.","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Projet Phoenix
+
+Nous avons besoin de vous – maintenant ! Le Synode de l'appétence s'est retourné contre l'Exaltée. Ce fou à trois têtes a découvert son véritable plan et l'a déclarée traîtresse du Dieu défunt. C'est un coup d'État et le prélude d'une guerre civile que nous ne pouvons simplement pas nous permettre. Rassemblez vos forces ! Nous devons sauver l'Exaltée, ou bien c'est la fin de l'humanité."
+PROG_AN7_TITLE,The Schism,Le schisme
+PROG_AN7_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+You must understand, the Dead God is not a creature like us. Conventional tactics would have achieved little in the long run. He is ancient, and powerful beyond belief. Compared to us, he truly is a god. But he is trapped on Yuggoth, and cannot act directly... yet. Soon, however, he will try to come here. He will manifest himself. And that is when we will strike. That is when we will take everything from him and claim it for ourselves.
+
+But before that can happen, there is work that still needs to be done, so that we are prepared. My Anagnostes - I mean, my scientists will reach out to you.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Vous devez comprendre, le Dieu défunt n'est pas une créature comme nous. Les tactiques conventionnelles n'auraient pas abouti sur le long terme. Il est ancien et doté d'un pouvoir incroyable. Comparé à nous, c'est un véritable dieu. Mais il est piégé sur Yuggoth et ne peut pas agir directement... pour l'instant. Il va, en effet, bientôt essayer de venir ici. Il se manifestera. Et c'est à ce moment-là que nous passerons à l'attaque. C'est à ce moment-là que nous le déposséderons de tout ce qui lui appartient.
+
+Mais avant que cela ne se produise, il y a encore du travail ; nous devons nous préparer. Mes anagnostes – je veux dire, mes scientifiques vous contacteront."
+PROG_AN7_WIN_CHOICE_0_TEXT,So your entire religion is a long con?,Donc toute votre religion n'est qu'une illusion ?
+PROG_AN7_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+Thank you. Without your intervention, everything I've worked so hard for might have been lost. And now you deserve to know the truth. The truth that made the Synod of Yearning declare me a traitor to the Dead God. The truth I've been hiding for all these years, calling myself the Exalted, building this army of faith.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Merci. Sans votre intervention, tout ce pour quoi j'ai travaillé si dur aurait été perdu. Et maintenant, vous méritez de connaître la vérité. La vérité qui a poussé le Synode de l'appétence à me déclarer traîtresse du Dieu défunt. La vérité que je cache depuis toutes ces années, à me faire appeler l'Exaltée, à construire cette armée de croyants."
+PROG_AN7_WIN_TEXT_GENERAL_1,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+And that truth is... I am a traitor. I always have been. I've never believed in the Dead God. Oh, he's real, real and terrible, but I've never been his faithful servant. All this time I've been playing a game, pretending to be his messiah... so I can get close enough to stab him when he's least expecting it.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Et cette vérité... C'est que je suis une traîtresse. Je l'ai toujours été. Je n'ai jamais cru en ce Dieu défunt. Oh, il est bien réel, aussi réel que terrible, mais je n'ai jamais fait partie de ses fidèles serviteurs. Depuis tout ce temps, je joue à un jeu, prétendant être son messie... pour pouvoir m'en approcher d'assez près et le poignarder quand il s'y attendra le moins."
+PROG_AN7_WIN_TITLE,The Long Con,La grande illusion
+PROG_AN8_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+Together, we will infiltrate the Palace. I will become one with the Receptacle, modifying its purpose in a way he cannot prevent. I will download all of his knowledge... but not him. Not his mind. He will be cut off, banished to his barren planet until the end of time. And all the power he sought to use against us will belong to us. To humanity. 
+
+That is how we will be perfected. Not in the image of some distant god, but by our own choosing.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Ensemble, nous infiltrerons le palais. Je m'unirai au Réceptacle, modifiant sa raison d'une façon qu'il ne peut pas éviter. Je téléchargerai tout son savoir... mais pas lui. Pas son esprit. Il sera sectionné, banni sur sa planète aride jusqu'à la fin des temps. Et tout le pouvoir qu'il voulait utiliser contre nous nous appartiendra. À nous, l'humanité.
+
+C'est ainsi que notre perfectionnement aura lieu. Pas à l'image d'un dieu distant, mais de notre plein gré."
+PROG_AN8_CHOICE_0_TEXT,Let's end this.,Finissons-en.
+PROG_AN8_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_AN8_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_AN8_MISS_SUMMARY,Attack the Palace and help the Exalted merge with the Yuggothian Receptacle.,Attaquez le palais et aidez l'Exaltée à fusionner avec le Réceptacle yuggothien.
+PROG_AN8_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The Exalted's long con has reached its final stage. Instead of allowing the Yuggothian Entity to come to Earth, we will help her merge with the Receptacle, cutting the Entity off from Earth forever.","RÉSUMÉ DE LA MISSION
+
+La grande arnaque a enfin atteint sa phase finale. Au lieu de permettre à l'entité yuggothienne de venir sur Terre, nous allons l'aider à fusionner avec le Réceptacle, coupant les liens de l'entité avec la Terre à tout jamais."
+PROG_AN8_MISS_TITLE,Hack the Planet,Pirater la planète
+PROG_AN8_TEXT_GENERAL_0,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+The Dead God - what you call the Yuggothian Entity - is reaching the final stages of his plan. His Pandoravirus has terraformed the planet sufficiently to begin construction of his Palace. When it is complete, he will transfer his mind to Earth - and that will be the end of us. But he believes that I am his servant, and that will be his downfall. I have watched him, listened to his mind. I know his weaknesses.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Le Dieu défunt, aussi connu sous le nom d'Entité yuggothienne, est arrivé aux dernières étapes de son plan. Le Pandoravirus qu'il a envoyé a suffisamment terraformé la planète pour commencer la construction de son palais. Lorsqu'il sera terminé, il transférera son esprit sur terre, ce qui signera notre fin à tous. Mais il croit que je suis sa servante, et sa confiance en moi signera sa perte. Je l'ai surveillé, sondé son esprit et j'ai fini par découvrir ses faiblesses."
+PROG_AN8_TITLE,Liturgy of the Divine Flesh,Liturgie de la chair divine
+PROG_AN9_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+Our war for humanity is not yet over, and difficult battles still lie ahead. So please accept this gift. It will make you stronger, and a stronger Phoenix Project is good for all of us.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Notre combat pour le salut de l'humanité est loin d'être terminé, et de difficiles batailles nous attendent. Pour vous y préparer, je vous envoie un présent qui vous rendra plus forts, car si le Projet Phoenix devient plus fort, nous pourrons tous en profiter."
+PROG_AN9_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_AN9_TEXT_GENERAL_0,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+You've always stood by our side, even when things got difficult. You've fought for our havens - and for me. That kind of loyalty means a lot to me.","MESSAGE
+DE : L'Exaltée (Anu)
+À : Projet Phoenix
+
+Vous êtes toujours restés à mes côtés, même lors des moments les plus durs. Vous avez lutté pour défendre nos refuges, et pour moi. J'affectionne beaucoup ce genre de loyauté."
+PROG_AN9_TITLE,A Blessed Alliance,Une alliance bénie
+PROG_NJ0_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_NJ0_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_NJ0_FAIL_TITLE,Don't Lose Your Grip,Ne lâchez pas prise
+PROG_NJ0_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_NJ0_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_NJ0_MISS_SUMMARY,Stop a group of rampaging soldiers.,Arrêtez un groupe de soldats déchaînés.
+PROG_NJ0_MISS_TEXT_GENERAL_0,"[HavenName] is a haven run by New Jericho, which means that normally things are quiet and under control, but right now there is an emergency. A group of soldiers is on a killing spree.
+
+""It began with strange dreams, voices heard in the night,"" a local doctor tells our operatives. ""I could not detect any physiological changes, and there were certainly no signs of infection, but their behavior simply cannot be explained by PTSD or similar conditions, which we at New Jericho are sadly quite familiar with. It's like something has... driven them mad.""
+
+If we stop these soldiers, New Jericho will undoubtedly be grateful to us.","[HavenName] est un refuge dirigé par la Nouvelle-Jéricho, ce qui signifie que l'ordre et le calme y règnent en temps normal. Mais un événement des plus graves y est survenu : un groupe de soldats est en train d'y commettre un véritable carnage.
+
+« Tout a commencé avec d'étranges rêves, des voix entendues dans la nuit. Je n'ai pas su détecter de changements physiologiques, et il n'y avait aucun signe d'infection, mais leur soudain changement de comportement ne peut s'expliquer par un stress post-traumatique, ce qui est chose courante pour la Nouvelle-Jéricho. On dirait que quelque chose les a... rendus fous. » explique un docteur local à nos agents.
+
+Si nous arrêtons ces soldats, la Nouvelle-Jéricho nous en sera très certainement reconnaissante."
+PROG_NJ0_MISS_TEXT_GENERAL_1,"MISSION BRIEFING
+
+Stop a group of rampaging soldiers.","RÉSUMÉ DE LA MISSION
+
+Arrêtez un groupe de soldats déchaînés."
+PROG_NJ0_MISS_TITLE,The Dreamers Awaken,Les rêveurs se réveillent
+PROG_NJ0_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+That is why I did not intervene. We could have stopped those soldiers ourselves easily enough, but I needed you to see, to understand that far more is at stake here than just our ecosystem or our genetic purity. We are being robbed of what makes us human: our will. I fear neither the utopians at Synedrion nor those Anu fanatics really understand that. If you can recognize the real nature of the threat, perhaps we can work together on stopping it.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+J'avais mes raisons pour ne pas intervenir. Nous aurions facilement pu arrêter ces soldats nous-mêmes, mais il fallait que vous puissiez les voir pour comprendre que les enjeux dépassent la pureté génétique ou celle de l'écosystème. On tente de nous priver de ce qui définit notre humanité : notre volonté. Je crains que ni les utopistes du Synédrion, ni les fanatiques d'Anu ne soient en mesure de comprendre cela. Si vous pouvez reconnaître la véritable nature de la menace, nous pourrons peut-être travailler de concert pour l'arrêter."
+PROG_NJ0_WIN_CHOICE_0_TEXT,What happened to those soldiers was disturbing.,Ce qui est arrivé à ces soldats était déroutant.
+PROG_NJ0_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+I had always assumed the Phoenix Project would return one day, even after Symes disappeared. It seems to be the defining pattern of your history: fall, then rise again. I wonder if this points to an underlying weakness, or an underlying strength. I suppose time will have to tell. Time and the choices you make; after all, you are not necessarily defined by what has come before. You can be whatever your will allows you to be - that is the essence of the human experience.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+J'ai toujours pensé que le Projet Phoenix reviendrait un jour, même après la disparition de Symes. On dirait un schéma constant qui marque votre histoire : votre chute, suivie d'une nouvelle ascension. Je me demande s'il s'agit de votre faiblesse ou de votre force profonde. J'imagine que nous le découvrirons avec le temps. Le temps et les choix que vous ferez. Après tout, vous n'êtes pas forcément définis par le passé. Vous pouvez devenir ce que vous voulez devenir, c'est le propre de l'expérience humaine."
+PROG_NJ0_WIN_TITLE,Of Human Will,De la volonté humaine
+PROG_NJ16_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+But talk is cheap. Please accept this gift as a more material sign of my gratitude.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Mais les paroles n'ont pas de valeur. Veuillez accepter ce don comme un signe plus matériel de ma reconnaissance."
+PROG_NJ16_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_NJ16_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+I thought this alliance would be useful, but I didn't realize that the Phoenix Project would have a better grasp of my philosophy than many people in my own organization.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Je pensais que cette alliance serait utile, mais je n'avais pas réalisé que le Projet Phoenix comprendrait mieux ma philosophie que la plupart des membres de mon organisation."
+PROG_NJ16_TITLE,Common Cause,Un but commun
+PROG_NJ1_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+At the moment, we're setting up a mission to recapture an old satellite control base. What for? Well, there's a saying in New Jericho: Tobias West always has a plan. And he has a plan for the equipment and the data we can get from that base. You'll find out more when the time is right.
+
+So, are you up for it? We'd really appreciate your help.","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Pour le moment, nous sommes en train de monter une mission visant à reprendre le contrôle d'une vieille base satellite. Dans quel but ? On dit à la Nouvelle-Jéricho que Tobias West a toujours un plan d'avance. Et qu'il compte bien profiter de l'équipement et des données récupérés dans cette base. Vous en saurez plus le moment venu.
+
+Alors, êtes-vous partants ? Votre aide serait vraiment la bienvenue."
+PROG_NJ1_CHOICE_0_TEXT,Understood.,Bien compris.
+PROG_NJ1_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_NJ1_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_NJ1_FAIL_TITLE,Best-Laid Plans,Des plans sans accroc
+PROG_NJ1_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_NJ1_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_NJ1_MISS_SUMMARY,Recapture a satellite control base.,Reprenez le contrôle d'une base satellite
+PROG_NJ1_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Tobias West's plan to save humanity involves gaining control of this old satellite control base. A small, surgical strike team should be able to eliminate the alien presence before the New Jericho scientists and engineers move in.","RÉSUMÉ DE LA MISSION
+
+Les plans de Tobias West pour sauver l'humanité comprennent le contrôle de cette vieille base satellite. Une petite équipe chirurgicale devrait pouvoir éliminer la menace extraterrestre avant que les scientifiques et ingénieurs de la Nouvelles-Jéricho ne puissent se rendre sur le terrain."
+PROG_NJ1_MISS_TITLE,Phase One,Première phase
+PROG_NJ1_TEXT_GENERAL_0,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+Good to be working with you. If we're going to save the world, we'll need all the help we can get. At this stage we've granted you low-level access to our network and set up a liaison office to work with your people. But, as I'm sure you can understand, we need to take things slow at first. Your organization has a... reputation. It's hard to know which side you'll take, and we need to know that you share our values.
+","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Ravi de travailler avec vous. Si nous voulons sauver le monde, nous aurons besoin de toute l'aide possible. Pour l'instant, nous vous avons accordé un accès limité à notre réseau et établi un bureau de liaison pour travailler avec vos agents. J'espère que vous comprendrez que nous ne pouvons vous accorder notre confiance trop rapidement. Votre organisation a une certaine... réputation. Nous ne savons pas quel camp vous choisirez de soutenir et nous voulons être sûrs que vous partagez nos valeurs."
+PROG_NJ1_TITLE,Welcome to the Team,Bienvenue dans l'équipe
+PROG_NJ1_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Speaking of details, we'll now have to actually make all of this work with our hardware and software. We have limited resources, so we need our brightest and best focused on the job. It'll take time, but it'll be worth it in the end. You'll see.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Entrons dans le vif du sujet, nous devrons travailler avec ce matériel et ces logiciels. Nos ressources sont limitées, donc nous voulons uniquement nos meilleurs éléments sur cette mission. Cela prendra du temps, mais cela en vaudra la peine, vous verrez."
+PROG_NJ1_WIN_CHOICE_0_TEXT,OK,OK
+PROG_NJ1_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+I just wanted to pass on my personal thanks and congratulations to your operatives for their work at the base. Fortuna eruditis favet, as they say - fortune favors the prepared mind! The intelligence we've retrieved is going to prove extremely helpful with all the projects we're working on, and the satellite control tech may one day help turn the tide of this war. This operation may have seemed like a small thing, but the devil's in the details, and so is God.
+","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Je voulais juste remercier et féliciter vos agents pour leur travail efficace à la base. Fortuna eruditis favet, comme le dit le dicton, la fortune favorise les esprits préparés ! Les renseignements récupérés nous seront extrêmement utiles pour nos projets en cours, et la technologie de contrôle de satellites pourra peut-être renverser le cours de la guerre en notre faveur. Cette opération a pu sembler dérisoire, mais elle fait partie d'un tout qui, je l'espère, nous conduira à la victoire. Après tout, le diable est dans les détails."
+PROG_NJ1_WIN_TITLE,In the Details,Dans les détails
+PROG_NJ2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+With the help of the Phoenix Project, New Jericho is going to stop the Pandorans forever. Tobias said as much to me, and he doesn't lie. He can be a difficult man to work for, a perfectionist, but he always tells the truth.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Avec l'aide du Projet Phoenix, la Nouvelle-Jéricho sera capable d'arrêter indéfiniment les Pandoriens. C'est ce que Tobias m'a révélé, et il ne ment jamais. Collaborer avec lui n'est jamais facile, car il est perfectionniste, mais il dit toujours la stricte vérité."
+PROG_NJ2_CHOICE_0_TEXT,Download coordinates.,Télécharger les coordonnées.
+PROG_NJ2_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_NJ2_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_NJ2_FAIL_TITLE,Of Mice and Mutants,Des souris et des mutants
+PROG_NJ2_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_NJ2_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_NJ2_MISS_SUMMARY,Find and capture an AI with a satellite command and control system.,Trouvez et capturez une IA avec un accès satellite et un système de contrôle.
+PROG_NJ2_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+We have located an old pre-war AI unit that has the capabilities we require. We need to retieve the AI from its current location inside an abandoned Scarab vehicle. Once this task is complete, the AI should be able to reinitialize the secret satellite network and provide us with access to the old missile systems that are still in orbit. ","RÉSUMÉ DE LA MISSION
+
+Nous avons localisé l'emplacement d'une vieille IA d'avant-guerre disposant des fonctionnalités dont nous avons besoin. Nous devons la récupérer à son emplacement actuel, un véhicule scarabée abandonné. Une fois la mission terminée, l'IA devrait pouvoir réinitialiser le réseau satellitaire secret et nous permettre d'accéder aux vieux systèmes de lancements de missiles encore en orbite."
+PROG_NJ2_MISS_TITLE,Phase Two,Deuxième phase
+PROG_NJ2_TEXT_GENERAL_0,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+The equipment you helped us recover from that satellite control base has been invaluable, but for the next part of West's plan, we need something a little more exotic: a pre-war AI capable of accessing and rebooting certain military satellites. The kind of satellites that no-one was supposed to know about. In other words, precisely the kind of thing West pays extra attention to.
+
+We have identified where one of these AI units is located - in an old Scarab vehicle, left to rust somewhere near the following coordinates.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+L'équipement que vous nous avez aidés à récupérer dans cette base de contrôle de satellites est inestimable, mais pour la prochaine étape du plan de West, nous avons besoin de quelque chose d'un peu plus exotique : une IA d'avant-guerre capable d'accéder et de réinitialiser certains satellites militaires. Des satellites confidentiels, en d'autres termes, des satellites ayant suscité l'intérêt particulier de West.
+
+Nous avons identifié l'emplacement de l'une de ces IA : à l'intérieur d'un vieux véhicule de type Scarabée, laissé à l'abandon près des coordonnées indiquées."
+PROG_NJ2_TITLE,Phase Two,Deuxième phase
+PROG_NJ2__WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+Well, I hope you're right. And I do think West knows what he's doing. Sometimes it's hard, I guess, not knowing what the plan is. West talks a lot about reason, but sometimes we also need faith.","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+J'espère que vous allez bien. Et je suis persuadé que West sait ce qu'il fait. Il est dur, parfois, de ne pas connaître son plan. West parle toujours de la raison, mais nous avons aussi besoin de foi, surtout en cet instant."
+PROG_NJ2__WIN_CHOICE_0_TEXT,West knows what he's doing.,West sait ce qu'il fait.
+PROG_NJ2__WIN_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+Indeed. Humanity needs to survive, but to do that we have to put everything on the line. I don't envy West, or you... the responsibility must be crushing.","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Exactement. L'humanité doit survivre, mais pour ce faire nous devons tout mettre en jeu. Je plains West... et je vous plains aussi. La responsabilité doit être écrasante."
+PROG_NJ2__WIN_CHOICE_1_TEXT,The Phoenix Project isn't interested in mutually assured destruction.,Le Projet Phoenix n'est pas intéressé par une destruction mutuelle assurée.
+PROG_NJ2__WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+Good work! The progress we've made with your help has been tremendous. This is really encouraging.
+
+I do wonder sometimes, though... do you think a weapons-based approach is the right solution?  I had thought the Phoenix Project was looking for something more subtle. Do you ever worry that a military solution to the Pandoran plague will leave us living on a dead planet?","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Beau travail, nous avons fait de gros progrès grâce à vous. Voilà qui est des plus encourageants !
+
+Je reste perplexe sur un point... pensez-vous qu'une approche armée soit la solution ? J'ai toujours pensé que le Projet Phoenix était plus subtil que cela. Ne craignez-vous pas que la solution militaire au fléau du Pandoravirus ne cause la mort de notre planète ?"
+PROG_NJ2__WIN_TITLE,Fighting Fire with Fire,Combattre le feu par le feu
+PROG_NJ3_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Excellent. I'm transmitting his coordinates as we speak.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Excellent, je transmets ses coordonnées en ce moment-même."
+PROG_NJ3_CHOICE_0_TEXT,Accept mission.,Accepter la mission.
+PROG_NJ3_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_NJ3_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_NJ3_FAIL_TITLE,Failure to Launch,Échec de lancement
+PROG_NJ3_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_NJ3_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_NJ3_MISS_SUMMARY,Extract Ravi Chaudri.,Évacuer Ravi Chaudri
+PROG_NJ3_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Ravi Chaudri, a technician from the Pokhran-III nuclear research project is believed to be hiding out at [HavenName]. Chaudri is known to have critical information about his country's missile defense program. We need to find him and learn what he knows. Our team needs to deliver Chaudri to a secure New Jericho facility.","RÉSUMÉ DE LA MISSION
+
+Ravi Chaudri, un technicien du projet de recherches nucléaires Pokhran-III est soupçonné d'avoir trouvé refuge à [HavenName]. Chaudri est connu pour détenir de nombreuses informations critiques au sujet du programme de défense de missiles de son pays natal. Nous devrons le trouver et apprendre ce qu'il sait. Notre équipe doit escorter Chaudri jusqu'à une installation sécurisée de la Nouvelle-Jéricho."
+PROG_NJ3_MISS_TITLE,Launch Codes,Codes de lancement
+PROG_NJ3_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Consider the individual human being. So much processing capacity, so much knowledge, all wrapped up in flesh and bone. Unique, inviolate, impossible to duplicate. We are remarkable, are we not? That is the source of our power, and of my current headache.
+
+I need access to a specific individual. Only this individual has the knowledge and abilities I need. His name is Ravi Chaudri, a former computer technician at Pokhran-III. My records tell me that he used to work with members of your organization, a long time ago. Perhaps you could retrieve him for me?","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Considérons l'être humain individuellement. Tant de capacités d'analyse, tant de connaissances dans un réceptacle de chair et d'os. Uniques, inviolables et impossibles à dupliquer. Ne sommes-nous pas remarquables ? Voilà la source de notre puissance et la principale source de mes migraines.
+
+Je dois mettre la main sur un individu bien spécifique. Seul cet individu possède les connaissances et les capacités que je recherche. Son nom est Ravi Chaudri, un ancien ingénieur informatique du Pokhran-III. Mes données m'ont révélé qu'il avait travaillé avec des membres de votre organisation il y a longtemps. Peut-être pourriez-vous me l'amener ?"
+PROG_NJ3_TITLE,Launch Codes,Codes de lancement
+PROG_NJ3_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Chaudri's knowledge of the Indian nuclear program is essential to the plan. Hopefully we can convince him to assist us. It would be a matter of deep regret if we had to use force. Reason, as Tobias says, always has to be our first option.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Les connaissances de Chaudri sur le programme nucléaire indien est essentiel à nos plans. Nous espérons pouvoir le convaincre de nous aider. Il serait dommage d'avoir à recourir à la force. Selon Tobias, la raison devrait toujours être notre première option."
+PROG_NJ3_WIN_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_NJ3_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Congratulations on the success of this mission. As usual, the Phoenix Project is reliable and effective. Ravi Chaudri has now been safely delivered to our secure facilities and our investigators will begin his debriefing immediately.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Félicitations pour la réussite de cette mission. Comme d'habitude, le Projet Phoenix s'est montré d'une fiabilité et d'une efficacité à toute épreuve. Ravi Chaudri est désormais en sécurité dans nos installations et nos enquêteurs commenceront immédiatement à l'interroger."
+PROG_NJ3_WIN_TITLE,Delivery,Livraison
+PROG_NJ4_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+I knew we could rely on you.","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Je savais que nous pouvions vous faire confiance."
+PROG_NJ4_CHOICE_0_TEXT,The Phoenix Project is ready.,Le Projet Phoenix est prêt.
+PROG_NJ4_FAIL_CHOICE_0_OUTCOME_GENERAL,We will have to seek new alternatives to save the Earth.,Nous devrons trouver de nouvelles alternatives pour sauver la Terre.
+PROG_NJ4_FAIL_CHOICE_0_TEXT,Accept.,Accepter.
+PROG_NJ4_FAIL_TEXT_GENERAL_0,"Our failure has resulted in Tobias West being badly injured. New Jericho forces have neutralized the Pandorans, but our diplomatic relations have fallen apart, as we are no longer deemed trustworthy.","Suite à notre échec, Tobias s'est fait grièvement blesser. Les forces de la Nouvelle-Jéricho ont neutralisé les Pandoriens, mais nos relations diplomatiques ont été mises à mal par l'incident. Ils estiment que nous ne sommes plus dignes de leur confiance."
+PROG_NJ4_FAIL_TITLE,For Want of a Nail,Faute d'un clou
+PROG_NJ4_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_NJ4_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_NJ4_MISS_SUMMARY,Defend the Command Fortress from a Pandoran incursion.,Défendez la forteresse de commandement contre une incursion Pandorienne.
+PROG_NJ4_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The Command Fortress is under threat. If we lose this location, we lose the war. All forces are requested to mobilize and support the defense. We must protect Tobias West at all costs.","RÉSUMÉ DE LA MISSION
+
+La forteresse de commandement est menacée. Si nous la perdons, nous perdrons la guerre. Toutes les forces sont réquisitionnées pour une mobilisation afin de la défendre. Nous devons protéger Tobias West à tout prix."
+PROG_NJ4_MISS_TITLE,City Upon A Hill,La ville sur la colline
+PROG_NJ4_TEXT_GENERAL_0,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+This is an emergency. We have identified a massive force of hostiles converging on the Command Fortress. Your assistance is required. If we are friends, this is the time for you to step up. We have reason to believe the Yuggothian Entity is aware of our work and is seeking to wipe us off the map before we can properly set up our defense grid.
+
+Tobias West is here, and he is ready to fight. He's not going to stand on the sidelines and let others die for his plan. But if we lose him, we lose everything. 
+
+We need your help. I'm not asking. I'm begging. ","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Il s'agit d'une urgence. Nous avons identifié une légion massive de créatures hostiles se dirigeant vers la forteresse de commandement. Votre aide est requise. Si vous nous considérez comme des amis, c'est le moment de venir le prouver en luttant à nos côtés. Nous avons de bonnes raisons de soupçonner que l'Entité yuggothienne est au courant de nos agissements et qu'elle cherche à nous éradiquer avant que nous puissions établir notre défense.
+
+Tobias West est présent, et s'est préparé au combat, il ne va pas se tourner les pouces et laisser quiconque mourir pour ses plans sans combattre. Si nous le perdons, tout sera fini.
+
+Nous avons besoin de votre aide, et je ne vous la demande pas. Je vous supplie de nous aider."
+PROG_NJ4_TITLE,City Upon A Hill,La ville sur la colline
+PROG_NJ4_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Thankfully, being wealthy gives you an opportunity to plan for humanity's future. Others chose to splash their cash on massaging their egos, but I've always been single-minded. This isn't about me, its about the survival of our species.
+
+Thanks to your team, we just took a step towards achieving that. I'll let you know when we're ready to strike.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Heureusement, rester en vie nous permet d'œuvrer pour l'avenir de l'humanité. Certains dépensent leurs fonds pour satisfaire leurs égos mal placés, mais ce n'est pas mon cas. Ce combat n'est pas uniquement pour moi, Je privilégie la survie de notre espèce.
+
+Grâce à votre équipe, nous avons fait un pas en avant vers sa réalisation. Je vous recontacterai lorsque nous serons prêts à frapper."
+PROG_NJ4_WIN_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_NJ4_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Outstanding work. Once again, your people prove themselves worthy successors to the Phoenix legacy. 
+
+You know, when I was running Vanadium, before the mist, I knew all about the Phoenix Project. A lot of people thought you were just paranoid, a tinfoil hat cult, but I could tell that Randolph Symes was on to something. He, as opposed to most of the government and corporate leaders of the day, understood the scale of the threat, and the amount of dedication that would be necessary to defeat it. He knew we needed a plan.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Excellent travail. Une fois de plus, vous vous êtes montrés dignes d'être les successeurs de l'héritage Phoenix.
+
+Vous savez, lorsque j'étais à la tête de Vanadium, avant la brume, je savais tout du Projet Phoenix. Beaucoup de monde pensait que vous étiez simplement paranoïaques, mais je savais que Randolph Symes avait découvert quelque chose. Contrairement aux gouvernements et aux grands dirigeants de l'époque, il avait compris l'ampleur de la menace et les lourds efforts nécessaires à son éradication. Il savait qu'un plan était indispensable."
+PROG_NJ4_WIN_TITLE,Unbowed,Insoumis
+PROG_NJ5_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Tobias West
+TO: Phoenix Project
+
+We need to ensure that this attack is precisely delivered. That means a locator beacon, right down there in the middle of it all. Anyone who goes in needs to understand the numbers. If we win, humanity is saved. But there's a strong chance anyone who goes into the Palace isn't coming out.
+
+We need to send our best and be ready for what the Pandorans throw at us. And we need to be ready to sacrifice everything we have to achieve what is necessary. That, in the end, is what makes us human.","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Nous devons nous assurer que cette attaque sera précise et efficace. Elle devra permettre la pose d'une balise localisatrice, au plein cœur des hordes Pandoriennes. Quiconque s'y aventurera devra comprendre les risques et les enjeux. Si nous l'emportons, l'humanité sera sauvée. Mais il y a de fortes chances que ceux qui pénétreront dans le palais n'en reviendront jamais.
+
+Nous devons envoyer la crème de la crème et nous préparer à toutes les surprises des Pandoriens. Et nous devrons être prêts à tous les sacrifices pour remporter la victoire. Au final, c'est ce qui nous rend réellement humains."
+PROG_NJ5_CHOICE_0_TEXT,Let's end this.,Finissons-en.
+PROG_NJ5_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_NJ5_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_NJ5_MISS_SUMMARY,Tactical strike on the Pandoran Palace.,Frappe tactique sur le palais Pandorien.
+PROG_NJ5_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The final part of West's plan. We must fight our way into a key tactical location in the Palace and place a locator beacon, which will send a signal to our satellites to launch a missile that will annihilate the alien's central command unit.","RÉSUMÉ DE LA MISSION
+
+Voici l'ultime partie du plan de West. Nous devons nous frayer un chemin jusqu'à une position tactique dans le palais et y placer une balise de localisation qui enverra un signal à nos satellites pour lancer un missile qui anéantira l'unité centrale de commandement extraterrestre."
+PROG_NJ5_MISS_TITLE,The Plan,Le plan
+PROG_NJ5_TEXT_GENERAL_0,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Thank you for working with us on this. Today marks the end. We're going in with the courage of our convictions. 
+
+Sometimes a disease has to be cut out, and this is the time to make that cut. A surgical strike delivered by the satellite system we've managed to resurrect from nothing. The power of human intellect, driven by human will, against the crude methods of the Yuggothian Entity.
+
+This is a critical moment. My entire strategy hinges on this victory - a gamble, some might say, but I prefer to think of it as a calculated risk. 
+","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Merci d'avoir travaillé avec nous jusqu'ici. Tout prendra fin aujourd'hui, d'une manière ou d'une autre. Le moment est venu de mettre la force de nos convictions à l'épreuve.
+
+Parfois, une maladie doit être éradiquée à la source, et il est temps de l'éradiquer une bonne fois pour toute. Une frappe chirurgicale par le système de satellites que nous avons remonté à partir de rien. Qui de la puissance de l'intelligence humaine, menée par sa volonté indéfectible ou des brutales méthodes de l'Entité yuggothienne l'emportera ?
+
+Le moment est critique. Toute ma stratégie repose sur notre victoire. Certains parleront d'un pari, mais je préfère y voir un risque calculé."
+PROG_NJ5_TEXT_GENERAL_1,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+According to our research, destroying the enemy's central command unit will throw them into disarray. That will be the turning point of this war. With the infrastructure you've helped us build, we will be able to seize the advantage and crush the Pandorans before they can regroup.
+
+It won't be easy, but we will have strength, precision, and determination. Qualities the Phoenix Project has done much to foster in our people. For that I will always be grateful.
+","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+D'après nos recherches, la perte de tout commandement central plongera l'ennemi dans la confusion la plus totale. Ce sera un grand tournant de cette guerre. Avec les infrastructures que vous nous avez aidés à construire, nous serons capable de prendre l'avantage et d'écraser les Pandoriens avant qu'ils ne puissent se regrouper.
+
+Ce ne sera pas facile, mais nous agirons avec force, précision et détermination. Des qualités que le Projet Phoenix ont su inspirer aux nôtres. Et je vous serai éternellement reconnaissant pour cela."
+PROG_NJ5_TITLE,The Plan,Le plan
+PROG_NJ6_TEXT_GENERAL_0,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+The Phoenix Project! I've heard a lot about you people. Most of it weird. Science nerds with guns, huh? Well, I've heard worse ideas.
+
+Anyway. Here's the inside scoop on New Jericho. Tobias West? Probably a genius. Might be a bit crazy. But he has a plan. And a real plan is a heck of a lot better than all that touchy-feely crap at Synedrion, or whatever the hell those squid-worshipping Disciples are up to. So stick with us and... maybe we'll die, or maybe we'll win, but either way it'll be fun.","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Le Projet Phoenix, j'ai beaucoup entendu parler de vous. Quelques bizarreries à votre sujet. Des mordus de science avec des flingues, hein ? Bah, ce n'est pas aussi fou que cela en a l'air.
+
+Bon, voilà un scoop pour vous sur la Nouvelle-Jéricho. Tobias West est probablement un grand génie. Il est peut-être un peu timbré, mais il a un plan. Et un véritable plan, bien mieux élaboré que ceux de ces sous-merdes du Synédrion ou ces adorateurs de poulpes que sont les Disciples. Donc restez à nos côtés, et nous mourrons ou nous vaincrons ensemble. Quelle que soit l'issue, je vous promets que ce sera amusant."
+PROG_NJ6_TITLE,Inside Scoop,Scoop interne
+PROG_NJ7_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+I hope we can work together again soon. The plan is still far from complete, and I'm sure the Phoenix Project still has much to contribute.","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+J'espère que nous pourrons coopérer à nouveau dans un proche avenir. Le plan est loin d'être terminé et je suis sûr que le Projet Phoenix a encore beaucoup à apporter."
+PROG_NJ7_CHOICE_0_TEXT,Accept gift.,Accepter le cadeau.
+PROG_NJ7_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+If you do not wish to be seen accepting gifts from us, perhaps you should reconsider some of your strategic choices. Only New Jericho offers a way forward based on reason and logic.","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Si vous ne souhaitez pas que l'on vous voie accepter ce cadeau de notre part, vous devriez peut-être reconsidérer certains de vos choix stratégiques. Seule la Nouvelle-Jéricho offre un moyen d'avancer qui se base sur la raison et la logique."
+PROG_NJ7_CHOICE_1_TEXT,Reject gift.,Rejeter le cadeau.
+PROG_NJ7_TEXT_GENERAL_0,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+The Phoenix Project has done a lot of good for New Jericho, protecting our havens and assisting us with our plans. So, in the spirit of mutual friendship and cooperation, I would like to offer you this gift.","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Le Projet Phoenix a fait beaucoup de bien pour la Nouvelle-Jéricho, en protégeant nos refuges et en nous aidant dans nos projets. Alors, dans un esprit d'amitié et de coopération, je souhaite vous offrir ce cadeau."
+PROG_NJ7_TITLE,The Gift,Le cadeau
+PROG_NJ8_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Then I'm sure you will accept this little contribution, from a former operative.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Dans ce cas, je suis sûre que vous accepterez cette petite contribution venant d'un ancien agent."
+PROG_NJ8_CHOICE_0_TEXT,New Jericho is the way forward.,Vous allier à la Nouvelle-Jéricho est la bonne chose à faire.
+PROG_NJ8_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+You've come this far. You can see that Tobias has a plan. Please don't lose faith now.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Vous êtes arrivé si loin en notre compagnie. N'oubliez jamais que Tobias a un plan. Ce n'est pas le moment de perdre la foi."
+PROG_NJ8_CHOICE_1_TEXT,We're still skeptical.,Nous ne sommes toujours pas convaincus.
+PROG_NJ8_TEXT_GENERAL_0,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Did you know that, a lifetime ago, I was part of the Phoenix Project? When the mist came, I waited and waited to be activated, but the call never came. I thought I'd been abandoned. I didn't understand how bad things were at Phoenix Point. But without Tobias, I would have died.
+
+People think he's some kind of dictator. And I understand why. He has a vision and the means to realize it. We're not used to that kind of power. But power is exactly what we need in order to win this war.
+","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Saviez-vous que, il y a une éternité de cela, je faisais partie du Projet Phoenix ? Lorsque la brume est apparue, j'ai longtemps attendu mon ordre d'activation, mais il n'est jamais arrivé. J'ai longtemps cru que j'avais été abandonnée. J'ignorais que la situation à Phoenix Point était si mauvaise. Mais je n'aurais jamais survécu sans l'aide de Tobias.
+
+Les gens pense qu'il s'agit d'un dictateur et je crois comprendre pourquoi. Il a une vision bien précise et les moyens de la réaliser. Nous ne sommes pas habitués à ce genre de pouvoirs, mais c'est exactement ce dont nous avons besoin pour remporter cette guerre."
+PROG_NJ8_TEXT_GENERAL_1,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Speaking entirely for myself, an alliance between the Phoenix Project and New Jericho would bring together everything I've ever believed in. Please think about it.","MESSAGE
+DE : Sophia Villanova (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Je ne fais que parler dans mon intérêt, mais une alliance entre le Projet Phoenix et la Nouvelle-Jéricho réunirait tout ce en quoi j'ai jamais cru. Je vous demande de bien y réfléchir."
+PROG_NJ8_TITLE,Union,Union
+PROG_PX10_CHOICE_0_TEXT,We should send our operatives to investigate.,Nous devrions envoyer nos agents mener l'enquête.
+PROG_PX10_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PX10_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_PX10_FAIL_TITLE,Failure,Échec
+PROG_PX10_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PX10_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PX10_MISS_SUMMARY,Eliminate enemy forces to gain access to the Symes Retreat.,Éliminez les forces ennemies pour accéder au refuge de Symes.
+PROG_PX10_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Our operatives have reached Randolph Symes III's private retreat, where we may be able to find additional information that may help us decipher his notes and make sense of his activities. However, our scans indicate enemy presence in the area.","RÉSUMÉ DE LA MISSION
+
+Nos agents ont atteint l'abri privé de Randolph Symes III, où nous devrions être capables de récupérer des informations supplémentaires qui pourraient nous aider à déchiffrer ses notes et révéler le véritable but de ses activités. Toutefois, nos radars ont détecté une présence hostile dans les parages."
+PROG_PX10_MISS_TITLE,The Symes Retreat,L'abri Symes
+PROG_PX10_TEXT_GENERAL_0,"Randolph Symes III's notes indicate the existence of a private retreat owned by the Symes family, used as a place of meditation and research. It may contain information that could help us understand what Symes was trying to achieve in his final days.","Les notes de Randolph Symes III indiquent l'existence d'un abri privé possédé par la famille Symes, utilisé comme lieu de recherche et de méditation. Il pourrait contenir des informations susceptibles de nous aider à comprendre ce que Symes cherchait à accomplir au crépuscule de sa vie."
+PROG_PX10_TITLE,Whatever Happened to Dr. Symes?,Qu'est-il arrivé au docteur Symes ?
+PROG_PX10_WIN_CHOICE_0_OUTCOME_GENERAL,We have identified 3 key sites that Symes singled out as particularly relevant to his research into the history of the Phoenix Project and previous outbreaks of unusual diseases. It is imperative that we send operatives to investigate these sites as soon as the strategic situation allows.,Nous avons identifié 3 sites clés que Symes avait décrit comme potentiellement utiles à ses recherches sur l'histoire du Projet Phoenix et sur les précédentes épidémies de maladies insolites. Vous devrez envoyer dans les plus brefs délais des agents pour enquêter sur ces sites dès que la situation le permettra.
+PROG_PX10_WIN_CHOICE_0_TEXT,Analyze the documents.,Analyser les documents.
+PROG_PX10_WIN_TEXT_GENERAL_0,Our operatives have retrieved a big batch of documents from the Symes Retreat. These should allow us to better understand what Symes was doing and what he discovered.,Nos agents ont récupéré une importante quantité de dossiers à l'abri Symes. Ils devraient pouvoir nous aider à mieux comprendre les activités de Symes ainsi que ses découvertes.
+PROG_PX10_WIN_TITLE,The Quest,La quête
+PROG_PX11_CHOICE_0_OUTCOME_GENERAL,"The cave contains the corpse of a Caucasian male. It is hard to identify at first, as it is overgrown with yellow, sickly-looking leaves sprouting from the shrivelled skin. A backpack on the floor contains faded photographs and broken specimen jars.
+
+Symes seems to have taken what he needed, but even what remains is enough to revolutionize our understanding of this planet's biological history. Our analysis of the leaves growing from the body show that this organism contains traces of the Pandoravirus - but a different, older strain. The implications of this discovery warrant further study.","La grotte contient le corps d'un mâle caucasien. Il est difficile à identifier, à cause de feuilles jaunies et maladives sortant de sa peau ratatinée. Un sac à dos sur le sol contient des photos ternies et des éprouvettes brisées.
+
+Symes semble déjà avoir récupéré ce qu'il cherchait, mais même les vestiges constituent de quoi bouleverser notre compréhension de l'histoire biologique de la planète. Notre analyse des feuilles sortant du cadavre contiennent des traces de Pandoravirus, mais une souche plus ancienne. Cette découverte ouvrira de nombreuses pistes de recherche."
+PROG_PX11_CHOICE_0_TEXT,Investigate.,Inspecter.
+PROG_PX11_TEXT_GENERAL_0,The coordinates in Symes' notes have led our operatives to a small abandoned camp high up in the mountains. Behind it lies the entrance to a cave.,Les coordonnées de Symes ont mené nos agents à un petit camp montagnard laissé à l'abandon. Derrière ce camp se trouve l'entrée d'une grotte.
+PROG_PX11_TITLE,"Rise By Sin, By Virtue Fall","S'élever par péché, tomber par vertu"
+PROG_PX12_CHOICE_0_OUTCOME_GENERAL,"The scientists who worked at this station are all long dead; their mutated bodies lie frozen in strange, demoniac poses. It's easy for our operatives to retrieve the samples they were researching, which Randolph Symes came all this way to examine.","Les scientifiques ayant travaillé dans cette station sont morts depuis longtemps, leurs corps mutés figés dans d'étranges poses démoniaques. Nos agents récupèrent facilement les échantillons qu'ils étaient en train d'étudier, voilà pourquoi Randolph Symes s'était rendu ici pour les examiner."
+PROG_PX12_CHOICE_0_TEXT,Investigate.,Inspecter.
+PROG_PX12_TEXT_GENERAL_0,Our operatives have reached a defunct research station in northern Siberia identified in Symes' notes as a significant point of interest. The doors stand open and there are no signs of life.,Nos agents ont atteint une station de recherche hors-service en Sibérie du Nord décrite dans les notes de Symes comme un point d'intérêt potentiel. Les portes sont grandes ouvertes et l'endroit semble briller par son absence de signes de vie.
+PROG_PX12_TITLE,Frozen,Expédition polaire
+PROG_PX131_CHOICE_0_TEXT,OK.,OK.
+PROG_PX131_TEXT_GENERAL_0,"Thanks to our investigation of Randolph Symes III, we have now gathered sufficient information to initiate a study of the Pandoravirus.
+
+NEW RESEARCH AVAILABLE","Grâce à vos recherches sur Randolph Symes III, nous avons pu récolter suffisamment d’informations pour commencer une étude du Pandoravirus.
+
+NOUVELLES RECHERCHES DISPONIBLES"
+PROG_PX131_TITLE,Progress,PROGRESSION
+PROG_PX132_CHOICE_0_TEXT,OK.,OK.
+PROG_PX132_TEXT_GENERAL_0,"We need to investigate Oglethorpe University's time vault, where Randolph Symes Sr. buried a collection of files that might shed light on the history of the Pandoravirus. The coordinates have been uploaded to our system.","Nous devons enquêter dans la chambre temporelle de l'université Oglethorpe, où Randolph Symes Sr. a dissimulé une série de fichiers qui pourraient nous éclairer sur l'histoire du Pandoravirus. Les coordonnées ont été ajoutées à notre système."
+PROG_PX132_TITLE,The Shadow of the Past,Les ombres du passé
+PROG_PX13_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PX13_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_PX13_FAIL_TITLE,Failure,Échec
+PROG_PX13_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PX13_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PX13_MISS_SUMMARY,Secure the cryogenics laboratory.,Sécurisez le laboratoire cryogénique.
+PROG_PX13_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Our operatives have discovered the cryogenics laboratory Symes mentioned in his notes. It appears to have been a government facility, possibly a black site of some kind. As far as we can tell, Symes came here to examine samples collected in the 1960s. Unfortunately, the facility has been compromised, and now functions as a base for a group of raiders.
+","RÉSUMÉ DE LA MISSION
+
+Nos agents ont découvert le laboratoire cryogénique mentionné par Symes dans ses notes. On dirait qu'il s'agissait d'une installation secrète du gouvernement, probablement l'un de leurs sites noirs. Nous pensons que Symes est venu y récupérer des échantillons dans les années 1960. Malheureusement, l'installation a été compromise et sert désormais de base à un groupe de pillards."
+PROG_PX13_MISS_TITLE,Prisoner of Ice,Prisonniers de la glace
+PROG_PX13_WIN_CHOICE_0_TEXT,OK.,OK.
+PROG_PX13_WIN_TEXT_GENERAL_0,"With the facility secured, our operatives have carefully retrieved the viral samples that were stored here. They are in less than ideal shape, but preliminary analysis suggests it's extremely likely that we're looking at some version of the Pandoravirus. A more rigorous analysis will be initiated immediately.","Maintenant que l'installation est sécurisée, nos agents ont soigneusement récupéré des échantillons viraux stockés ici. Ils ne sont pas dans un état optimal, mais des recherches préliminaires suggèrent qu'il est extrêmement probable qu'il s'agisse d'une version du Pandoravirus. Une analyse plus approfondie sera menée immédiatement."
+PROG_PX13_WIN_TITLE,Cool Air,Air glacial
+PROG_PX141_CHOICE_0_TEXT,OK.,OK.
+PROG_PX141_TEXT_GENERAL_0,"Based on reconstructing Symes' writings about the Antediluvian Civilization, there are two potential sites that match the descriptions in Symes' notes, but it's impossible to know which one is the right one. The coordinates for both have been uploaded to our system.","D'après les notes reconstituées de Symes sur les civilisations antédiluviennes, il y a deux sites potentiels pouvant correspondre aux descriptions dans ces notes, mais il est impossible de savoir lequel est le bon. Les coordonnées de chaque site ont été ajoutées à votre système."
+PROG_PX141_TITLE,Guided,Visite guidée
+PROG_PX142_CHOICE_0_TEXT,OK.,OK.
+PROG_PX142_TEXT_GENERAL_0,"At this point, Symes' notes become hard to make sense of. He seems to have investigated an archaeological site of some kind and noted down several fragments of Antediluvian writing, which led him to wherever he went next. We would need to reconstruct the writing to figure out his final destination.
+
+NEW RESEARCH AVAILABLE","Les notes de Symes sont devenues plus difficiles à déchiffrer. Il semble s'être rendu sur un site archéologique indéterminé, où il a reproduit les inscriptions de plusieurs fragments de manuscrits antédiluviens, qui l'ont conduit à son étape suivante. Nous devrions reconstituer ces inscriptions pour découvrir sa destination finale.
+
+NOUVELLES RECHERCHES DISPONIBLES"
+PROG_PX142_TITLE,The Riddle,L'énigme
+PROG_PX14_CHOICE_0_TEXT,Retrieve time vault contents.,Récupérez le contenu de la chambre temporelle.
+PROG_PX14_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PX14_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_PX14_FAIL_TITLE,Failure,Échec
+PROG_PX14_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PX14_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PX14_MISS_SUMMARY,Investigate Dr. Symes' next step.,Découvrez l'étape suivante du docteur Symes.
+PROG_PX14_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+This archaeological site may be related to the Antediluvian Civilization discovered by Randolph Symes III. If we can secure it, we may be able to figure out where Symes went next.","RÉSUMÉ DE LA MISSION
+
+Le site archéologique peut être lié à une civilisation antédiluvienne découverte par Randolph Symes III. Si nous pouvons le sécuriser, nous serons peut-être capable de découvrir où Symes s'est rendu par la suite."
+PROG_PX14_MISS_TITLE,Seeking Dr. Symes,À la recherche du docteur Symes
+PROG_PX14_TEXT_GENERAL_0,"According to his notes, Randolph Symes III discovered that his great-grandfather had buried a trove of documents and samples, largely belonging to the Phoenix Project's predecessor organizations, in Oglethorpe University's time vault. There is little left of the university itself, but the time vault still exists. It's been opened, presumably by Symes, but is still safe from Pandoran infestation.","Si l'on se fie à ses notes, Randolph Symes III a découvert que son arrière-grand-père avait dissimulé de nombreux documents et échantillons, appartenant en majorité aux organisations auxquelles le Projet Phoenix a succédé. Il reste peu de matériel à l'intérieur de l'université, mais la chambre temporelle existe toujours. Elle a été ouverte par quelqu'un, probablement Symes, mais elle a jusqu'ici été épargnée par l'infection Pandorienne."
+PROG_PX14_TITLE,Time Vault,Chambre temporelle
+PROG_PX14_WIN_CHOICE_0_TEXT,OK.,OK.
+PROG_PX14_WIN_TEXT_GENERAL_0,"We have recovered a shattered metallic sphere of unknown origin - most likely an Antediluvian artifact. The writing inside it, or what is left of it, seems to match what we found in Symes' notes. Based on the data we have been able to decypher, it seems Symes organized an expedition to the place he believed held the ultimate answer to the riddle of the Antediluvians and the Pandoravirus. 
+
+With the last remaining Phoenix Project operatives, he set out for Antarctica. They did not return.","Nous avons récupéré une sphère métallique détruite d'origine inconnue appartenant probablement à une relique antédiluvienne. L'inscription à l'intérieur, ou ce qu'il en reste, semble correspondre aux notes de Symes. Si l'on en croit les données que nous avons pu déchiffrer, on dirait que Symes a mené une expédition vers le lieu censé abriter la réponse ultime à l'énigme des antédiluviens et du Pandoravirus.
+
+Avec les derniers agents encore en activité du Projet Phoenix, il est parti pour l'Antarctique. Personne n'en est jamais revenu."
+PROG_PX14_WIN_TEXT_GENERAL_1,"Perhaps we can finish their work. That's what the Phoenix Project has always been about: no-one can do it alone, and each generation continues the struggles of its ancestors.
+
+We have to go to Antarctica.","Nous pouvons peut-être terminer ce qu'ils ont tenté d'accomplir. Le but du Projet Phoenix est d'accomplir ce que nul ne pourrait faire seul, et chaque génération doit reprendre le flambeau des générations précédentes.
+
+Nous devons nous rendre en Antarctique."
+PROG_PX14_WIN_TITLE,The Shattered Sphere,La sphère détruite
+PROG_PX15_FAIL_CHOICE_0_TEXT,OK.,OK.
+PROG_PX15_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_PX15_FAIL_TITLE,``,Échec
+PROG_PX15_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PX15_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PX15_MISS_SUMMARY,Investigate Dr. Symes' next step.,Découvrez l'étape suivante du docteur Symes.
+PROG_PX15_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+This archaeological site may be related to the Antediluvian Civilization discovered by Randolph Symes III. If we can secure it, we may be able to figure out where Symes went next.","RÉSUMÉ DE LA MISSION
+
+Le site archéologique peut être lié à une civilisation antédiluvienne découverte par Randolph Symes III. Si nous pouvons le sécuriser, nous serons peut-être capable de découvrir où Symes s'est rendu par la suite."
+PROG_PX15_MISS_TITLE,Seeking Dr. Symes,À la recherche du docteur Symes
+PROG_PX15_WIN_CHOICE_0_TEXT,OK.,OK.
+PROG_PX15_WIN_TEXT_GENERAL_0,"Unfortunately, we have not managed to recover any useful information from this site. This is not the location mentioned in Symes' notes. We will have to keep looking.","Malheureusement, nous ne sommes pas parvenus à recueillir de données utiles sur ce site. Cet endroit ne correspond pas au lieu décrit dans les notes de Symes. Nous devons continuer de chercher."
+PROG_PX15_WIN_TITLE,Wrong Turn,L'impasse
+PROG_PX1_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_PX1_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_PX1_FAIL_TITLE,The Lost Expedition,L'expédition disparue
+PROG_PX1_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PX1_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PX1_MISS_SUMMARY,Retrieve evidence of how the Antediluvian Protocivilization defeated the Pandoravirus.,Récupérer des témoignages sur la manière dont les proto-civilisations antédiluviennes ont vaincu le Pandoravirus.
+PROG_PX1_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Our operatives have arrived at the Antediluvian site in the Antarctic. We must investigate the Symes Expedition and retrieve evidence of how the Antediluvian Protocivilization defeated the Pandoravirus.","RÉSUMÉ DE LA MISSION
+
+Nos agents sont arrivés sur le site antédiluvien en Antarctique. Nous devons suivre les traces de l'expédition de Symes et retrouver des témoignages sur la manière dont les proto-civilisations antédiluviennes ont vaincu le Pandoravirus."
+PROG_PX1_MISS_TITLE,To Antarctica,Vers l'Antarctique
+PROG_PX1_WIN_CHOICE_0_TEXT,"Prepare the sphere for study.
+NEW RESEARCH AVAILABLE","Commencez les préparations pour étudier la sphère.
+
+NOUVELLES RECHERCHES DISPONIBLES"
+PROG_PX1_WIN_TEXT_GENERAL_0,"It would appear that the entire Symes Expedition perished in the Antarctic, most likely overwhelmed by Pandoran forces as they tried to retrieve a mysterious metallic sphere of Antediluvian origin. That sphere is now in our possession, and it's up to us to figure out what it is and how it might help us save the Earth.","On dirait que l'expédition Symes a péri en Antarctique dans son intégralité, probablement submergée par les forces pandoriennes en tentant de récupérer une mystérieuse sphère métallique d'origine antédiluvienne. Cette sphère est désormais en notre possession et nous devons déterminer sa réelle fonctionnalité et comment elle nous servira à sauver la Terre."
+PROG_PX1_WIN_TITLE,What They Died For,Les causes de leur mort
+PROG_PX_CHOICE_0_TEXT,OK.,OK.
+PROG_PX_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_PX_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_PX_MISS_SUMMARY,"Inject the Antediluvian Virophage into the Yuggothian Receptacle, no matter the consequences.","Injectez le virophage antédiluvien dans le Réceptacle yuggothien, peu importent les conséquences."
+PROG_PX_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+To succeed, we will have to inject the virophage directly into the Yuggothian Receptacle's central cortex.","RÉSUMÉ DE LA MISSION
+
+Pour réussir, nous devrons injecter le virophage directement dans le cortex central du Réceptacle yuggothien."
+PROG_PX_MISS_TITLE,The Last Resort,Le dernier recours
+PROG_PX_TEXT_GENERAL_0,"There is no other choice. The only way to stop the Pandoravirus is to use the Antediluvian Virophage. Even though the consequences for humanity will be terrible, it is better to sacrifice lives to remain free than to allow the Yuggothian Entity to turn us all into its slaves. We must end this, and end it now.
+","Il n'y a pas d'autre choix. Le seul moyen d'arrêter le Pandoravirus est d'utiliser le virophage antédiluvien. Même si les conséquences seront terribles pour l'humanité, il vaut mieux sacrifier des vies pour nous libérer de l'emprise de l'Entité yuggothienne plutôt que de le laisser nous transformer en esclaves. Nous devons en finir une bonne fois pour toute."
+PROG_PX_TITLE,Knowledge is Power,La connaissance est synonyme de puissance
+PROG_SY0_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_SY0_FAIL_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+These cheeky bastards seem intent on making life hard for everyone. But they're still stuck in the haven, so they haven't won yet.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Ces enfoirés semblent vouloir nous mener la vie dure, mais ils ne gagneront pas tant qu'ils seront coincés au refuge."
+PROG_SY0_FAIL_TITLE,"It's Not Failure, It's Delayed Success","Ce n'est pas un échec, mais un succès retardé"
+PROG_SY0_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY0_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY0_MISS_SUMMARY,Stop a group of thieves who have stolen critical research.,Arrêtez un groupe de voleurs ayant dérobé des recherches d'une importance capitale.
+PROG_SY0_MISS_TEXT_GENERAL_0,"At the Synedrion haven of [HavenName], the situation is tense. ""Someone figured out that our open and democratic society would be easy to infiltrate and steal from,"" one of the haven's citizens tells our operatives. ""They pretended to join us, and then made off with some critical research, which I assume they want to sell to another faction.""
+
+The citizen sighs.
+
+""I said they made off, but the truth is they didn't get very far. In fact, they're stuck in the haven. But as you can imagine, this is a strange situation. These people pretended to be our friends. They lived in [HavenName] for months. All just to make a profit... I suppose old habits die hard.""
+
+We could assist Synedrion with this problem.","Au refuge du Synédrion de [HavenName], la situation est tendue. « Quelqu'un a découvert que notre communauté ouverte et démocratique était facile à infiltrer et à voler. Ils ont prétendu vouloir nous rejoindre et sont repartis avec des recherches d'une importance capitale. Je ne peux que supposer qu'ils iront les vendre à d'autres factions. » dit l'un des habitants à nos agents.
+
+Il soupire et ajoute :
+
+« Quand je dis repartis, ils ne sont pas allés bien loin. En fait, ils sont coincés à l'intérieur du refuge. La situation, comme vous pouvez l'imaginer, est assez étrange. Ces gens se sont prétendus nos amis. Ils ont vécu au refuge [HavenName] durant des mois, dans le seul but de s'enrichir... j'imagine qu'on ne pourra pas les changer. »
+
+Nous pourrions aider le Synédrion à résoudre son problème."
+PROG_SY0_MISS_TEXT_GENERAL_1,"MISSION BRIEFING
+ 
+Stop a group of thieves who have stolen critical research.","RÉSUMÉ DE LA MISSION
+
+Arrêtez un groupe de voleurs ayant dérobé des recherches d'une importance capitale."
+PROG_SY0_MISS_TITLE,"Enter Synedrion, Stage Left",L'entrée magistrale du Synédrion
+PROG_SY0_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+Then you have our gratitude.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Dans ce cas, vous avez toute notre gratitude."
+PROG_SY0_WIN_CHOICE_0_TEXT,Acts of solidarity do not require payment.,Les actes de solidarité ne devraient pas être rétribués.
+PROG_SY0_WIN_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+You're welcome. I hope we can work together again.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Je vous en prie. J'espère que nous pourrons retravailler ensemble."
+PROG_SY0_WIN_CHOICE_1_TEXT,Thank you.,Merci.
+PROG_SY0_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+Hi there! My name is Athena, and I'd like to thank you on behalf of Synedrion as a whole.
+
+You know, outsiders sometimes think of Synedrion as a bunch of naive, helpless people living in a big bubble, and I know we can appear that way, but the truth is... we're more like a powder keg. Trying to build a truly democratic society without hierarchies involves a lot of arguing! The Terraformers want one thing, the Polyphonic Tendency another, Zhara clashes with Nikolai, Stas tries to keep everyone calm, every haven has a totally different set of priorities, and then something like this happens...","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Bonjour, mon nom est Athéna, et je voudrais vous remercier pour le compte du Synédrion dans son intégralité.
+
+Vous savez, les étrangers considèrent souvent le Synédrion comme un ramassis de gens naïfs et démunis vivants dans une bulle géante, et je sais que parfois, nous donnons cette impression, mais nous ressemblons plus à un tonneau de poudre. Tenter de construire une société entièrement démocratique sans hiérarchie entraîne son lot de disputes ! Les adeptes de la terraformation souhaitent une chose, tandis que la Tendance polyphonique souhaite son contraire. Zhara est souvent en conflit avec Nikolai tandis que Slas tente de maintenir le calme. Chaque refuge a des priorités différentes des autres, et de temps en temps, ce genre d'incident survient..."
+PROG_SY0_WIN_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+I'm being honest about our flaws because I think, crazily enough, the whole thing works. We've built something remarkable, given everything we've been through, and the Phoenix Project could help us really make a difference on this wretched planet. Think about it, please. We have a lot in common.
+
+And here's your payment. We believe in people being rewarded for their labor.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Si j'écris si ouvertement au sujet de nos faiblesses, c'est parce que je crois dur comme fer que notre organisation tient la route. Nous avons construit quelque chose de remarquable, étant donné tout ce qui nous est arrivé, et le Projet Phoenix pourrait nous aider à faire une différence sur cette morne planète. Pensez-y, nous avons de nombreux points communs.
+
+Et voici votre paiement. Nous pensons que tout travail mérite salaire."
+PROG_SY0_WIN_TITLE,This Wretched Earth,Cette morne Terre
+PROG_SY10_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+And yet here you are, fighting for it anyway. I hope we can convince you that the struggle is worth it.
+","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Et pourtant, vous restez là, à œuvrer pour un monde meilleur. J'espère que nous pourrons vous convaincre que la lutte en vaut la peine."
+PROG_SY10_CHOICE_0_TEXT,The world never gets better.,La situation de notre monde ne pourra jamais s'améliorer.
+PROG_SY10_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+Maybe you're right, and our whole approach is wrong. Maybe authoritarian capitalism is the only way to go. It's always possible. But we've been doing OK so far. I hope we can convince you that Synedrion is worth supporting.","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Peut-être avez-vous raison, peut-être que notre approche est erronée. Peut-être que le capitalisme autoritaire est la seule approche à adopter. C'est fort possible. Mais nous nous en sommes sortis jusqu'ici et j'espère que nous pourrons vous convaincre que soutenir le Synédrion en vaut la peine."
+PROG_SY10_CHOICE_1_TEXT,"The world can get better, but not the way Synedrion is doing it.","La situation de notre monde pourra s'améliorer, mais pas à la manière du Synédrion."
+PROG_SY10_CHOICE_2_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+I'm glad our values are aligned, at least in this matter.  Please keep thinking about what kind of world you want to live in - maybe we can build it together.","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Je suis heureuse de voir que nos valeurs sont similaires, du moins sur ce sujet. Veuillez réfléchir au monde dans lequel vous voudriez vivre. Peut-être pourrons-nous le construire ensemble."
+PROG_SY10_CHOICE_2_TEXT,The world can definitely get better.,"C'est une certitude, la situation de notre monde pourra certainement s'améliorer."
+PROG_SY10_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+Synedrion probably seems strange to you. Trying to build a better world, a world radically different from the one most of us grew up in... well, I'm sure it sounds very utopian. But why do we so easily accept the world getting worse, and can never imagine it getting better?","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Le synédrion vous semble probablement étrange. Tenter de bâtir un monde meilleur, radicalement différent de celui qui nous a vus naître... paraît utopique. Mais pourquoi accepter si facilement que la situation de notre monde empire jour après jour au lieu d'imaginer qu'elle puisse s'améliorer ? Qu'en pensez-vous ?"
+PROG_SY10_TITLE,A Better World,Un monde meilleur
+PROG_SY1_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+
+Zhara will be pleased to hear that. She is one of the most passionate advocates of... well, some people would say the original values of Synedrion, but it's hardly that simple. She's part of a loose coalition called the Polyphonic Tendency, which advocates solutions that reject all hierarchies, all forms of domination. Nikolai, on the other hand... oh dear, I'm involving you in Synedrion drama, aren't I? My apologies. Good luck with the mission.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Zhara sera ravie d'entendre ceci. C'est l'une des partisanes les plus ferventes de... disons des valeurs originelles du Synédrion, mais ce n'est pas aussi simple. Elle fait partie d'une coalition libre du nom de Tendance polyphonique, qui prône des solutions se passant de toute hiérarchie ou forme de domination. Nikolai, de son côté... ah, désolée, je suis en train de vous impliquer dans les conflits internes du Synédrion. Bonne chance dans votre mission."
+PROG_SY1_CHOICE_0_TEXT,Mist Repellers could help humanity regain its balance.,Les repousseurs de brume pourraient aider l'humanité à repartir du bon pied.
+PROG_SY1_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+
+So you're more on Nikolai's side of this debate, are you? He's one of the Terraformers, the faction that believes in... well, I suppose you could call them radical humanists. They believe we should be unafraid to seize power for the people, to assert the supreme value of human life and civilization. Zhara, on the other hand... oh dear, I'm involving you in Synedrion drama, aren't I? My apologies. Good luck with the mission.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Dans ce cas, vous êtes plus proche du point de vue de Nikolai dans ce débat, n'est-ce pas ? Il s'agit de l'un des terraformeurs, la faction qui croit en... vous pouvez les considérer comme des humanistes radicaux. Ils croient qu'ils ne devraient pas hésiter à prendre le pouvoir pour le bien du peuple, pour asseoir la valeur suprême de la vie et de la civilisation humaines. Zhara, de son côté... ah, désolée, je suis en train de vous impliquer dans les conflits internes du Synédrion. Bonne chance dans votre mission."
+PROG_SY1_CHOICE_1_TEXT,"The planet is ours, and we should take direct control of its ecosystems.",C'est notre planète et nous devrions prendre le contrôle direct de ses écosystèmes.
+PROG_SY1_FAIL1_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+That's that Phoenix Project spirit!","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Vous faites honneur au Projet Phoenix !"
+PROG_SY1_FAIL1_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_SY1_FAIL1_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+That... went wrong. But we must not allow ourselves to become discouraged. All great undertakings face certain setbacks, right? Experiments blow up, revolutions go wrong - it sucks, but it happens. The point is to adjust the parameters and try again.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Cela ne s'est pas bien passé, mais nous ne devons pas nous décourager. Toute grande entreprise subit des revers, n'est-ce pas ? Les expériences finissent souvent mal, ainsi que les révolutions. Ce n'est pas juste, mais cela arrive parfois. Il suffit de réajuster les paramètres et de retenter le coup."
+PROG_SY1_FAIL1_TITLE,Lost to the Mist,Perdus dans la Brume
+PROG_SY1_FAIL2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+That's the Phoenix Project spirit!","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Vous faites honneur au Projet Phoenix !"
+PROG_SY1_FAIL2_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_SY1_FAIL2_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+That... went wrong. But we must not allow ourselves to become discouraged. All great undertakings face certain setbacks, right? Experiments blow up, revolutions go wrong - it sucks, but it happens. The point is to adjust the parameters and try again.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Cela ne s'est pas bien passé, mais nous ne devons pas nous décourager. Toute grande entreprise subit des revers, n'est-ce pas ? Les expériences finissent souvent mal, ainsi que les révolutions. Ce n'est pas juste, mais cela arrive parfois. Il suffit de réajuster les paramètres et de retenter le coup."
+PROG_SY1_FAIL2_TITLE,"Plant Later, Harvest Even Later","Retarder les semences, et par conséquent les récoltes"
+PROG_SY1_MISS1_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY1_MISS1_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY1_MISS1_SUMMARY,Defend the Synedrion lab testing the new Mist Repellers from incursion.,Défendez le laboratoire du Synédrion contre une incursion pendant qu'ils testent les nouveaux repousseurs de brume
+PROG_SY1_MISS1_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Mist Repeller technology could change the course of the war against the Pandoravirus; it could even make a kind of peace possible. But testing the tech is dangerous, and the labs frequently come under attack. We must ensure the test can be successfully completed by eliminating any potential hostiles.","RÉSUMÉ DE LA MISSION
+
+La technologie de repousseurs de brume pourrait renverser le cours de la guerre contre le Pandoravirus et rendre une sorte de cohabitation possible. Mais tester cette technologie s'avère dangereux, et les labos sont souvent attaqués. Nous devons nous assurer que les tests puissent se dérouler jusqu'au bout en éliminant toute menace potentielle."
+PROG_SY1_MISS1_TITLE,Against the Mist,Repousser la Brume
+PROG_SY1_MISS2_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY1_MISS2_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY1_MISS2_SUMMARY,Deploy genetically-modified seeds in an attempt to retake the ecosystem.,Déployer des graines génétiquement modifiées pour essayer de récupérer l'écosystème.
+PROG_SY1_MISS2_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Synedrion has produced a genetically-engineered plant that may be resistant to the Pandoravirus. If successful, this experiment could help humanity reclaim the planet by designing a new ecosystem, as favoured by the faction known as the Terraformers. But before that can happen, the plant has to be tested in the wild. To that end, our operatives must place the seeds at the coordinates we were provided with.","RÉSUMÉ DE LA MISSION
+
+Le Synédrion a produit des plantes génétiquement modifiées qui pourraient résister au Pandoravirus. Si nous réussissons, l'expérience pourrait aider l'humanité à récupérer la planète en créant un nouvel écosystème, selon la doctrine d'une faction connue sous le nom de Terraformeurs. Mais avant que cela ne puisse arriver, les plantes doivent être testées dans la nature. Pour cela, nos agents doivent planter les graines aux coordonnées fournies."
+PROG_SY1_MISS2_TITLE,Biogenesis,Biogénèse
+PROG_SY1_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+You seem to genuinely be on our side, and everyone here at Synedrion really appreciates that. Please understand that we are cautious with organizations such as the Phoenix Project not because we're trying to be obstinate, but because we've had some pretty terrible experiences that we'd prefer not to repeat.
+
+You know that I have high hopes for an alliance between the Phoenix Project and Synedrion. So my advice is this: what would be really helpful right now would be a more... direct demonstration of your support. That could really win some hearts and minds.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Vous semblez vraiment nous soutenir, et tout le monde au Synédrion apprécie votre soutien. Veuillez comprendre que nous devons nous montrer prudents avec des organisations comme le Projet Phoenix, pas par obstination, mais parce que nous avons subi d'horribles événements que nous voudrions éviter à l'avenir.
+
+Vous savez que je fonde de grands espoirs dans une éventuelle alliance entre le Projet Phoenix et le Synédrion. Permettez-moi donc un conseil : ce qui nous serait mutuellement profitable serait une démonstration directe de votre soutien. Vous pourriez changer les mentalités et conquérir certains cœurs."
+PROG_SY1_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+At this moment we have a couple of really important projects running. The sort that could actually change the future. Like improving our mist-repelling tech, which may allow us to peacefully co-exist with the new ecology. Or deploying a new breed of modified plant to help us reclaim the planet for ourselves. Believe me when I say we've had a lot of debates about which approach is better, and there are some pretty opinionated factions forming. In any case, we're lacking enough people to support both projects at once, and it's a bit of a deadlock. So if you could lend a hand with one of them, that would mean a lot.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+En ce moment, nous sommes sur plusieurs projets importants. Ils pourraient tous changer notre avenir. Comme l'amélioration de la technologie repousse-brume, qui pourrait nous aider à coexister de manière pacifique dans ce nouvel écosystème. Ou déployer une nouvelle sorte de plantes modifiées pour nous aider à nous réapproprier notre planète. Croyez-moi, quand je dis que nous subissons d'intarissables débats pour démontrer laquelle de ces méthodes est la meilleure, mais tous les partisans semblent campés sur leurs positions divergentes. Dans tous les cas, nous manquons de ressources pour soutenir les deux projets en même temps, et nous sommes dans l'impasse. Si vous pouviez nous aider à mener l'un de ces projets à bien, cela nous ôterait une sacrée épine du pied."
+PROG_SY1_TITLE,Deadlock,Une impasse
+PROG_SY1_WIN1_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Nikolai (Synedrion)
+
+That's what Zhara said, too. Very well. I hope I'm wrong.","MESSAGE
+DE : Citoyen Nikolai (Synédrion)
+
+C'est ce qu'affirmait Zhara aussi. Très bien, j'espère avoir tort."
+PROG_SY1_WIN1_CHOICE_0_TEXT,"Even if it's challenging, this approach is worth pursuing further.","Même si c'est risqué, cette approche en vaut la peine."
+PROG_SY1_WIN1_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Nikolai (Synedrion)
+
+I hope that means the Phoenix Project will back the Terraformers next time, then.","MESSAGE
+DE : Citoyen Nikolai (Synédrion)
+
+J'espère que le Projet Phoenix soutiendra les Terraformeurs, la prochaine fois."
+PROG_SY1_WIN1_CHOICE_1_TEXT,The Terraformers are right: we must reclaim the planet.,"Les Terraformeurs ont raison, nous devons nous réapproprier la planète."
+PROG_SY1_WIN1_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Nikolai (Synedrion)
+TO: Phoenix Project
+
+I'm glad you decided to help us. But I hope both the Phoenix Project and the Polyphonic Tendency can at least recognize that these attacks on the Mist Repellers aren't a coincidence. Somehow, the Pandoravirus is defending its strategic interests. Tell me, do you think we can really co-exist with something like that?","MESSAGE
+DE : Citoyen Nikolai (Synédrion)
+À : Projet Phoenix
+
+Je suis ravi que vous ayez décidé de nous aider. Mais j'espère que le Projet Phoenix et la Tendance polyphonique reconnaîtront que ces attaques sur les repousseurs de brume étaient tout sauf une coïncidence. D'une certaine manière, le Pandoravirus défend ses intérêts stratégiques. Dites-moi, pensez-vous que nous puissions vraiment coexister avec de telles créatures ?"
+PROG_SY1_WIN1_TITLE,Against the Mist,Repousser la Brume
+PROG_SY1_WIN2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+
+Funny, that's what Nikolai said, too. We'll have to agree to disagree.","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+
+Il est amusant de constater que vous tenez les mêmes propos que Nikolai. Au moins, nous sommes clairement en désaccord sur ce point."
+PROG_SY1_WIN2_CHOICE_0_TEXT,Human dominance over the ecosphere is not the same as class society.,La domination humaine sur l'écosystème n'est pas la même chose qu'un système de classes sociales.
+PROG_SY1_WIN2_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+
+I'm glad our arguments are persuasive. There is no other way to successfully reach our goal.","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+
+Je suis ravie de voir que nos arguments ont été convaincants. C'est le seul moyen d'atteindre nos buts."
+PROG_SY1_WIN2_CHOICE_1_TEXT,"The Polyphonic Tendency is right. We must learn to live on the planet, not just own it.","La Tendance polyphonique a raison. Nous devons vivre sur notre planète, pas uniquement nous l'approprier."
+PROG_SY1_WIN2_CHOICE_2_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+
+Is it? I suppose it depends on whether people like myself should be considered leaders or just representatives. I hope I'm the latter, although I know there are those who disagree.","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Vous croyez ? Tout dépend si les gens comme moi devraient être considérés comme des chefs ou de simples représentants. J'espère seulement représenter les miens, bien que nombreux sont ceux qui ne seraient pas d'accord avec ma vision des choses."
+PROG_SY1_WIN2_CHOICE_2_TEXT,Leadership is necessary.,Une tête pensante est toujours nécessaire.
+PROG_SY1_WIN2_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+Your help is greatly appreciated, even though it's on a project I personally voted against. I'd just like to offer this one note of caution: it was the existence of a hierarchical society built on profit and dominance that led humanity to its present state. Let's try to avoid recreating such structures.","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Votre aide est grandement appréciée, bien que ce soit pour un projet auquel j'étais personnellement opposée. Je voudrais juste vous inciter à la prudence : c'est l'existence d'une société hiérarchique bâtie sur le profit et la domination qui a conduit l'humanité au bord du gouffre. Tâchons de ne pas reproduire les erreurs du passé en recréant des structures similaires."
+PROG_SY1_WIN2_TITLE,Biogenesis,Biogénèse
+PROG_SY2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Barnabas (Synedrion) 
+TO: Phoenix Project
+
+I am pleased. That was the optimal projected outcome of this conversation.","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Je suis satisfait. Nous n'aurions pas pu espérer mieux de cette discussion."
+PROG_SY2_CHOICE_0_TEXT,We will assist you.,Nous vous aiderons.
+PROG_SY2_FAIL_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_SY2_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_SY2_FAIL_TITLE,Failure,Échec
+PROG_SY2_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY2_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY2_MISS_SUMMARY,Investigate the last known location of the individual that recovered the Firebird Initiative files.,Inspecter la dernière position connue de l'individu ayant tenté de récupérer les dossiers de l'Initiative Oiseau de feu.
+PROG_SY2_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Our operatives have been tasked with investigating what happened to the individual who recovered the Firebird Initiative files. Unfortunately, the settlement where this individual lived appears to have been destroyed some time ago. With some luck, we may be able to retrieve a journal or notebook that could shed further light on this mystery.","RÉSUMÉ DE LA MISSION
+
+Nos agents ont pour objectif d'enquêter sur ce qui est arrivé à l'individu ayant tenté de récupérer les données sur l'Initiative Oiseau de feu. Malheureusement, le campement où cet individu vivait semble avoir été détruit il y a un bon moment. Avec un peu de chance, nous serons peut-être à même de récupérer son journal ou son carnet de notes, quelque chose qui pourrait nous éclairer sur ce mystère."
+PROG_SY2_MISS_TITLE,Seeking the Firebird,À la recherche de l'oiseau de feu
+PROG_SY2_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Barnabas (Synedrion)
+TO: Phoenix Project
+
+You may or may not be aware that during the early stages of the spread of the Pandoravirus, several of the founding members of Synedrion were part of an organization called the Firebird Initiative, studying ways of stopping the virus. My calculations suggest that the Initiative could have significantly changed the course of human history, but unfortunately its operations were suspended after an ecoterrorist attack. Humans of that time appear to have had an irrational phobia of genetic technology, a pathology I unfortunately fail to understand.","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Vous ignorez peut-être que durant les premiers stades de l'épidémie de Pandoravirus, de nombreux membres du Synédrion faisaient partie d'une organisation répondant au nom d'Initiative Oiseau de feu, étudiant différents moyens d'en arrêter la propagation. Mes calculs suggèrent que l'Initiative était sur le point de changer l'histoire de l'humanité, mais malheureusement, ses activités ont été brutalement interrompues suite à une attaque écoterroriste. Les hommes de cette époque ont développé une peur irrationnelle des technologies génétiques, une pathologie que je ne parviens pas à comprendre."
+PROG_SY2_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Barnabas (Synedrion) 
+TO: Phoenix Project
+
+We have always believed that all of the Initiative's research was lost, but we have recently unearthed evidence that suggests some of it was recovered. I'm sure you understand the immense value it could hold for our current projects. We don't know whether the person who took the research is still alive, but we have the coordinates of his last known location. If you could help us investigate, we would consider it a major step in the furtherance of our common goals.","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Nous avons toujours cru que l'intégralité des recherches de l'Initiative était perdue, mais nous avons récemment découvert des preuves de la récupération de certaines de ces informations. Je suis sûr que vous comprenez à quel point il est vital que nous les récupérions pour la suite de nos opérations. Nous ne savons pas si la personne ayant mis ces recherches à l'abri est toujours en vie, mais nous disposons de son dernier emplacement connu. Si vous pouviez nous aider à mener l'enquête, cela pourrait faire énormément progresser notre cause commune."
+PROG_SY2_TITLE,Seeking the Firebird,À la recherche de l'oiseau de feu
+PROG_SY2_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Barnabas (Synedrion)
+TO: Phoenix Project
+
+I calculate a 98% chance of armed conflict resolution.","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+J'estime que les chances d'une résolution des conflits armés s'élèvent à 98 %."
+PROG_SY2_WIN_CHOICE_0_TEXT,We will deal with this would-be king.,Nous nous occuperons de ce chef auto-proclamé.
+PROG_SY2_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Barnabas (Synedrion)
+TO: Phoenix Project
+
+How unexpected. The journal seems to suggest that the research was recovered by... the Phoenix Project. I assume that you are unaware of this, presumably due to the near-collapse your organization suffered after the severe cutbacks of the early 21st century. Apparently the surviving research was stored at a Phoenix Base designated Storage Facility 4. Not a terribly inventive naming scheme.
+","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Quel rebondissement. Ce journal prétend que les recherches ont été récupérées par... le Projet Phoenix. Je suppose que vous l'ignoriez, surtout après les incidents ayant failli détruire votre organisation et les coupures financières au début du 21e siècle. Apparemment, les recherches épargnées par le temps ont été stockées à la base Phoenix répondant à la dénomination d'Entrepôt numéro 4. Ce n'est pas une appellation très originale."
+PROG_SY2_WIN_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Barnabas (Synedrion)
+TO: Phoenix Project
+
+To complicate matters, before the collapse the local government sold Storage Facility 4 to Abdon Tusk, one of the billionaires that resulted from the old political system's malfunctioning distribution of resources, who turned it into a shelter for his company. Eccentric and possibly sociopathic to begin with, he has been driven to new extremes, styling himself Pirate King and leading violent raids on defenseless havens. 
+","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Pour corser les choses, avant son effondrement, le gouvernement local vendit l'Entrepôt numéro 4 à Abdon Tusk, l'un des individus devenus milliardaires suite à une mauvaise répartition des ressources de l'ancien système politique, qui en fit un refuge pour son entreprise. Excentrique et sociopathe potentiel, il a progressivement sombré dans la folie, allant jusqu'à s'autoproclamer seigneur des pirates et se mettant à attaquer des refuges sans défense des alentours."
+PROG_SY2_WIN_TITLE,Seeking the Firebird,À la recherche de l'oiseau de feu
+PROG_SY3_FAIL_CHOICE_0_TEXT,OK,OK
+PROG_SY3_FAIL_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_SY3_FAIL_TITLE,The Man Who Would Be Pirate KIng,L'homme qui s'autoproclamait seigneur des pirates
+PROG_SY3_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY3_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY3_MISS_SUMMARY,Retrieve the lost Firebird Initiative files and reclaim the Phoenix Base from Tusk the Pirate King.,Récupérez les documents perdus de l'Initiative Oiseau de feu des griffes de Tusk le seigneur des pirates à la base Phoenix.
+PROG_SY3_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Before the Pandoravirus, Abdon Tusk was an eccentric billionaire, best known for funding U.FO (a company selling alien invasion insurance) and his involvement in the Atmospheric Railway Disaster that left 108 people pulverized. Now he has declared himself Pirate King, raiding and looting havens with his mercenary army. Synedrion wants him stopped.","RÉSUMÉ DE LA MISSION
+
+Avant le Pandoravirus, Abdon Tusk était un milliardaire excentrique, mécène de la société U.FO (connue pour vendre des assurances contre les extraterrestres) et son implication dans le désastre ferroviaire atmosphérique qui causa la mort violente de 108 personnes. Désormais seigneur des pirates autoproclamé, il attaque et il pille les refuges avec son armée de mercenaires. Le Synédrion voudrait que nous l'aidions à l'empêcher de nuire."
+PROG_SY3_MISS_TITLE,The Man Who Would Be Pirate King,L'homme qui s'autoproclamait seigneur des pirates
+PROG_SY3_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+I'm not surprised. Some people think the Terraformers are unusual or extreme, but what they're advocating is pretty much what humanity has always been trying to achieve.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Je ne suis pas surprise. Certains trouvent que les Terraformeurs n'ont pas leur place dans le Synédrion ou qu'il sont trop extrêmes, mais leurs convictions sont partagées par la majeure partie de l'humanité."
+PROG_SY3_WIN_CHOICE_0_TEXT,Humanity matters most. Share with Terraformers.,L'humanité doit primer. Partager avec les Terraformeurs.
+PROG_SY3_WIN_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+I'm not surprised. The Polyphonic Tendency's ethical arguments are appealing, especially nowadays, when people keep insisting we can't have any ethics at all.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Je ne suis pas surprise. Les arguments de la Tendance polyphonique sont attrayants, en particulier de nos jours alors que tant de monde insiste sur le fait que nous devons nous montrer impitoyables."
+PROG_SY3_WIN_CHOICE_1_TEXT,"We must heal, not dominate. Share with Polyphonic Tendency.","Nous devons guérir, pas dominer. Partager avec la Tendance polyphonique."
+PROG_SY3_WIN_CHOICE_2_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+A sensible solution. I wouldn't know how to choose, either. Both sides are equally convincing, and equally annoying.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Voilà une décision sensée. Je ne saurais pas qui choisir non plus de mon côté. Chaque camp est aussi convaincant que l'autre, et ils sont tous aussi ennuyeux."
+PROG_SY3_WIN_CHOICE_2_TEXT,We don't do Synedrion drama. Share with both.,Nous ne voulons pas être impliqués dans les conflits internes du Synédrion. Partager avec tout le monde.
+PROG_SY3_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+So something has survived of the Firebird Initiative after all. Stas and Nikolai will be pleased to hear that - they founded the Initiative, you know, back in the days when our disagreements weren't tearing us apart. Strange to think of two people who love each other so much being on opposite sides. But there I go involving you in Synedrion drama again.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Donc, quelques documents ont survécu à l'Initiative Oiseau de feu. Stas et Nikolai seront heureux de l'apprendre, après tout, ils ont créé l'Initiative, à l'époque où notre conflit n'était pas aussi tendu qu'aujourd'hui. Il est surprenant de voir que deux personnes qui s'aiment autant peuvent avoir des convictions totalement différentes. Mais voilà que je vous implique de nouveau dans nos affaires internes..."
+PROG_SY3_WIN_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+Now, look... anything you share with us will be shared with everyone, but there's tremendous symbolism to who you share it with first. Our whole internal discourse is increasingly being defined by the Polyphonic Tendency and the Terraformers, and what you choose to do may affect who comes out on top in this debate.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Écoutez, tout ce que vous partagerez avec nous sera partagé équitablement avec tous, mais votre premier choix sera hautement symbolique. Notre discours interne est de plus en plus défini par la Tendance polyphonique et les Terraformeurs, et la faction que vous privilégierez sera clairement avantagée en la matière."
+PROG_SY3_WIN_TITLE,The Man Who Would Be Pirate King,L'homme qui s'autoproclamait seigneur des pirates
+PROG_SY4_FAIL1_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_SY4_FAIL1_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_SY4_FAIL1_TITLE,Persistence of Idiocy,L'imbécillité a la vie dure
+PROG_SY4_FAIL2_CHOICE_0_TEXT,We are not giving up.,Nous n'abandonnerons pas.
+PROG_SY4_FAIL2_TEXT_GENERAL_0,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+PROG_SY4_FAIL2_TITLE,War of Attrition,Guerre d'usure
+PROG_SY4_MISS1_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY4_MISS1_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY4_MISS1_SUMMARY,"Destroy the Malthusian Revolt, a group of radical anti-natalists who have declared war on Synedrion and the Phoenix Project.","Stoppez la Révolte malthusienne, un groupe d'anti-natalistes radicaux ayant déclaré la guerre au Synédrion et au Projet Phoenix."
+PROG_SY4_MISS1_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The radical anti-natalist group that calls itself the Malthusian Revolt believes that humanity, not the Pandoravirus, is the real threat to Earth's ecosystem. They have declared war on Synedrion and the Phoenix Project and already taken several lives. The purpose of this assault is their total defeat.
+","RÉSUMÉ DE LA MISSION
+
+Le groupe anti-nataliste radical qui se fait appeler la Révolte malthusienne croit que l'humanité, et non le Pandoravirus, constitue la plus grande menace pour l'écosystème. Ils ont déclaré la guerre au Synédrion et au Projet Phoenix et ont déjà pris plusieurs vies. Cette attaque aura pour but de les empêcher de nuire pour de bon."
+PROG_SY4_MISS1_TITLE,The Real Virus,Le vrai fléau
+PROG_SY4_MISS2_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY4_MISS2_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY4_MISS2_SUMMARY,"Destroy the Typhon Brigade, a New Jericho-affiliated death squad.","Annihilez la Brigade typhon, un escadron de la mort affilié à la Nouvelle-Jéricho."
+PROG_SY4_MISS2_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The Typhon Brigade is a New Jericho-affiliated paramilitary group that has been kidnapping and executing Synedrion scientists. The purpose of this mission is to bring their reign of terror to an extremely definite end.
+","RÉSUMÉ DE LA MISSION
+
+La Brigade typhon est un groupe paramilitaire affilié à la Nouvelle-Jéricho responsable de l'enlèvement et du meurtre de plusieurs scientifiques du Synédrion. Le but de cette mission est de mettre fin à leur règne de terreur."
+PROG_SY4_MISS2_TITLE,Black Ops,Opérations spéciales
+PROG_SY4_P_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara
+TO: Phoenix Project
+
+They thought we were weak. Because we don't subscribe to their beliefs, because we don't think everything can be solved by owning or killing, they thought we were going to surrender the human cause. And they thought we wouldn't defend ourselves. Wouldn't use violence if necessary. Let's show them the depth of their error.","MESSAGE
+DE : Citoyenne Zhara
+À : Projet Phoenix
+
+Ils nous pensaient faibles, car nous n'adhérons pas à leur vision des choses, parce que nous ne pensons pas que tout peut se résoudre par la domination et le meurtre, ils pensaient que nous allions faire défaut à la cause humaine. Et ils pensaient que nous n'arriverions pas à nous défendre. Que nous n'utiliserions pas la violence. Montrons-leur qu'ils font fausse route."
+PROG_SY4_P_CHOICE_0_TEXT,The Phoenix Project will help you stop them.,Le Projet Phoenix vous aidera à les arrêter.
+PROG_SY4_P_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Zhara
+TO: Phoenix Project
+
+I suppose we should have known that trying to find a solution to the Pandoravirus would come at a cost, but did it have to be like this? Recently several prominent Synedrion scientists have gone missing. We thought they had been kidnapped, but we have just uncovered proof that they've been the victims of the Typhon Brigade, a paramilitary organization associated with New Jericho. No, let's speak clearly. A death squad. Our people are dead, all of them. Executed for betraying the cause of pure humanity.","MESSAGE
+DE : Citoyenne Zhara
+À : Projet Phoenix
+
+Nous aurions peut-être dû savoir que tenter de trouver un remède au Pandoravirus aurait un prix, mais devait-il être aussi élevé ? Récemment, plusieurs éminents scientifiques du Synédrion ont commencé à disparaître. Nous pensions qu'ils avaient été kidnappés, mais nous avons désormais la preuve qu'ils ont été les victimes de la Brigade typhon, une organisation paramilitaire affiliée à la Nouvelle-Jéricho. Non, parlons franchement, un escadron de la mort. Ils les ont tous tués jusqu'au dernier pour avoir trahi l'idéal d'une humanité épurée."
+PROG_SY4_P_TITLE,Black Ops,Opérations spéciales
+PROG_SY4_T_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+Thank you. It's good to have you on our side in the struggle against these dangerous idiots. I'm transmitting the coordinates of their base.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+Merci. Vous savoir à nos côtés dans la lutte contre ces idiots dangereux est réconfortant. Je vous transmets les coordonnées de leur base."
+PROG_SY4_T_CHOICE_0_TEXT,The Phoenix Project will stop them.,Le Projet Phoenix les arrêtera.
+PROG_SY4_T_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+It would appear that we have a problem - and one of our own making, at that. Synedrion has always had something of a ""big tent"" approach to ecological issues. Unfortunately sometimes that tent is a circus tent, and now the clowns are revolting. I'm sorry, I become sarcastic when I'm irritated, and it's better to speak clearly: a group of anti-natalists who call themselves the Malthusian Revolt have broken away from Synedrion and declared war. To prove that they're serious, they sabotaged one of our labs, killing eleven innocent people.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+On dirait que nous avons un problème, et nous en sommes les responsables. Le Synédrion a toujours été un fourre-tout en ce qui concerne les problèmes écologiques. Malheureusement, ce fourre-tout est parfois en proie au chaos. Je suis désolé, je suis parfois sarcastique lorsque je suis furieux, et il vaut mieux que je m'exprime plus clairement : un groupe d'anti-natalistes se faisant appeler la Révolte malthusienne a décidé de quitter le Synédrion et de lui déclarer la guerre. Pour prouver qu'ils ne plaisantent pas, ils ont saboté l'un de nos laboratoires, tuant onze innocents au passage."
+PROG_SY4_T_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+Apparently they believe that humanity is the real virus, and that our techno-extractive rule must come to a violent end, or some misanthropic nonsense to that effect. Unfortunately they blame the Phoenix Project for ""corrupting"" Synedrion, so they will target you as well. Be careful. This is a crucial moment, and they will do their best to derail this alliance.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+Apparemment, ils croient que l'humanité est le véritable fléau, et que nos règles techno-extractives doivent cesser dans un bain de sang, ou d'autres inepties du genre. Malheureusement, ils reprochent au Projet Phoenix d'avoir corrompu le Synédrion, donc ils vous prendront également pour cible. Soyez prudents, le moment est critique,et ils feront leur possible pour briser cette alliance."
+PROG_SY4_T_TITLE,The Real Virus,Le vrai fléau
+PROG_SY4_WIN1_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+I think we always had something in common - Synedrion's values are rooted in the same principles as those of the Phoenix Project. Now's our chance to turn those values into reality.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+Je crois que nous avons toujours eu des points communs : le Synédrion partage les mêmes valeurs que celles du Projet Phoenix. C'est le moment idéal pour concrétiser ces valeurs."
+PROG_SY4_WIN1_CHOICE_0_TEXT,Enter alliance.,Entrer dans l'alliance.
+PROG_SY4_WIN1_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+So it's done. I can't say I feel sorry for them, their beliefs were just too poisonous for that. But it is a terrible business, transforming the world, isn't it? So much bloodshed. We should never get used to it. Never. There may not be a choice now, but we have to remember that the whole point of all this conflict is to achieve peace. To break out of the old patterns and seize control of our fate. The hardest task in human history, but the most necessary. I believe that this alliance between the Phoenix Project and Synedrion is going to be a big part of that. Together, we can do this. We can win.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+Ainsi, c'est terminé, je ne peux pas dire que je suis désolé pour eux, car leurs croyances étaient trop viciées. Mais transformer le monde est une tâche ingrate, n'est-ce pas ? C'est une tâche qui implique de nombreux carnages. Nous ne nous y habituerons jamais. Nous ne l'avons pas choisi, mais nous devons toujours garder à l'esprit que nous cherchons à rétablir la paix par le conflit. Pour nous libérer des anciennes habitudes et pour contrôler notre destin. Une tâche extrêmement ardue, mais indispensable. Je suis persuadé que cette alliance entre le Projet Phoenix et le Synédrion y contribuera. Ensemble, nous pouvons l'emporter et établir cette paix tant désirée."
+PROG_SY4_WIN1_TITLE,Justify the Ends,La fin justifie les moyens
+PROG_SY4_WIN2_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara
+TO: Phoenix Project
+
+We still have a lot of work ahead of us. Making the world a better place... well, it's certainly not an easy task.","MESSAGE
+DE : Citoyenne Zhara
+À : Projet Phoenix
+
+Beaucoup de travail nous attend. Rendre ce monde meilleur n'est certainement pas une tâche facile."
+PROG_SY4_WIN2_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_SY4_WIN2_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Zhara
+TO: Phoenix Project
+
+They're dead? Good. I abhor violence, but there are actions that simply cannot be tolerated. And so the alliance between Synedrion and the Phoenix Project is sealed. Not the way I had imagined it, to be honest... but I suppose it's appropriate enough for the most horrifying time in human history. Now let's work on surviving long enough to build a world without death squads.","MESSAGE
+DE : Citoyenne Zhara
+À : Projet Phoenix
+
+Ils sont morts ? Bien. J'exècre la violence, mais certaines actions ne doivent pas être tolérées. Et voilà qui scelle l'alliance entre le Synédrion et le Projet Phoenix. Je ne pensais pas qu'elle serait conclue dans ces circonstances, mais je suppose qu'après ce que l'humanité a vécu, ce n'est pas si horrible. Contentons-nous de survivre assez longtemps pour bâtir un monde où plus aucun escadron de la mort n'existera."
+PROG_SY4_WIN2_TITLE,Necessity,La nécessité fait loi
+PROG_SY5_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+Exactly! Help us defend the launch site, so we can get my robot to the Moon. Wow, I can't believe I just said that. I feel like a mad scientist. Igor! Launch my robot to the Moon - for science! Hah. Oh wait, I think I just came up with a good name for the probe.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Exactement ! Aidez-nous à défendre le site de lancement, pour que nous puissions envoyer mon robot sur la lune. Ouah, je n'arrive pas à croire que je viens de dire cela. Je me sens comme un savant fou. Igor, lancez mon robot sur la lune, pour le bien de la science ! Ah, attendez, je viens de trouver le nom parfait pour la sonde."
+PROG_SY5_CHOICE_0_TEXT,That's where the Phoenix Project comes in?,Voici donc l'origine du Projet Phoenix ?
+PROG_SY5_FAIL_CHOICE_0_OUTCOME_GENERAL,We will have to seek new alternatives to save the Earth.,Nous devrons trouver de nouvelles alternatives pour sauver la Terre.
+PROG_SY5_FAIL_CHOICE_0_TEXT,Accept.,Accepter.
+PROG_SY5_FAIL_TEXT_GENERAL_0,Our failure to protect the launch side has had dramatic consequences: Synedrion has voted to break off diplomatic relations with us. Apparently we have been deemed untrustworthy.,"Notre échec à protéger le site de lancement a eu des conséquences désastreuses : le Synédrion a voté pour la cessation de toute relation diplomatique avec nous. Apparemment, ils nous jugent indignes de confiance."
+PROG_SY5_FAIL_TITLE,Disaster,Désastre
+PROG_SY5_MISS_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY5_MISS_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY5_MISS_SUMMARY,Defend the IGOR-1 launch site from attack.,Protégez le site de lancement IGOR-1 contre toute attaque.
+PROG_SY5_MISS_TEXT_GENERAL_0,"MISSION BRIEFING
+
+Synedrion is launching an unmanned mission to the Moon to study an older iteration of the Pandoravirus using a robot called IGOR-1. Our task is to help defend the launch site from attack.","RÉSUMÉ DE LA MISSION
+
+Le Synédrion est en train de lancer une mission automatisée sur la lune pour étudier une ancienne forme du Pandoravirus en utilisant un robot du nom d'IGOR-1. Notre mission est d'aider à défendre le site de lancement contre toute attaque."
+PROG_SY5_MISS_TITLE,Moonshot,Lancement lunaire
+PROG_SY5_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+So, some time ago I came across a classified Phoenix Project report from 1973. It turns out, and I genuinely couldn't believe this was true at first, that in the 70s the Phoenix Project actually sent people to the Moon. Twice! But the mission to the Tsiolkovskiy crater went terribly wrong. The astronauts in the lander became... infected, I suppose, and committed suicide by opening the hatch. Protecting the Earth is a heavy burden. The incident almost destroyed the Phoenix Project. It ended Newton Sumrall's career and began the long decline that seems to only have ended recently.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Il y a quelque temps de cela, je suis tombé sur un rapport confidentiel du Projet Phoenix de 1973. Je n'arrivais pas à y croire au début, mais il semblerait que le Projet Phoenix a véritablement envoyé des gens sur la lune dans les années 70. Et ils l'ont fait à deux reprises ! Mais leur mission au cratère Tsiolkovskiy s'est soldé en véritable désastre. Les astronautes qui y ont posé pied se sont fait infecter et se sont finalement suicidés en ouvrant l'écoutille. Protéger la Terre est un lourd fardeau. L'incident a failli détruire le Projet Phoenix. Il a mis fin à la carrière de Newton Sumrall et commença la longue période de déclin qui a duré jusqu'à récemment."
+PROG_SY5_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+But then I realized - meteorites! That must be how the Yuggothian Entity is sending the Pandoravirus to Earth. And the Moon functions as a kind of shield. That's what they must have found. A much, much older iteration of the Pandoravirus. If we could get our hands on that, the insights to be gleaned from it would be tremendous. So! I, uh, planned a mission to the Moon. Unmanned, mind you, I'm not crazy. And now we're ready to actually make it happen. Except for one problem: the Pandoravirus creatures seem very interested in blowing up our rocket.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Mais ensuite, j'ai eu une révélation : les météorites ! Ce doit être par ce biais que l'Entité yuggothienne a pu envoyer le Pandoravirus sur Terre. Et la lune est une sorte de bouclier naturel. Voilà ce qu'ils doivent avoir découvert : une forme bien plus ancienne du Pandoravirus. Si nous pouvions la récupérer, nous pourrions obtenir une incroyable quantité d'informations à son sujet. Voilà pourquoi j'ai prévu une mission lunaire. Automatisée, ne vous inquiétez pas, je ne suis pas fou. Et tout a été mis en place pour qu'elle soit un franc succès. Il reste cependant un problème : les créatures du Pandoravirus semblent vouloir détruire la fusée."
+PROG_SY5_TITLE,Moonshot,Lancement lunaire
+PROG_SY5_WIN_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+Uh, right. So. We'll share all the data IGOR-1 sends with you straight away.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Très bien, nous allons immédiatement partager toutes les données envoyées par IGOR-1."
+PROG_SY5_WIN_CHOICE_0_TEXT,Excellent.,Excellent.
+PROG_SY5_WIN_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+Wow. We did it. We actually did it. I'm... I shouldn't be surprised, but I am. We sent a robot to the Moon during the freaking apocalypse! Oh man. Oh, man! I can't believe that actually worked.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+C'est une véritable réussite, c'est fantastique. Je ne devrais pas être surpris, mais je le suis quand même. Nous venons d'envoyer un robot sur la lune pendant cette fichue apocalypse ! Oh mon dieu, oh mon dieu ! Je n'arrive pas à croire que cela ait fonctionné."
+PROG_SY5_WIN_TITLE,Over the Moon,Dans la lune
+PROG_SY6_MISS1_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY6_MISS1_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY6_MISS1_SUMMARY,Storm the Palace and inject the Receptacle with a retrovirus that will free its slaves.,Pénétrez dans le palais et injectez dans le Réceptacle un rétrovirus qui libérera ses esclaves.
+PROG_SY6_MISS1_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The Palace is the final step towards the Yuggothian Entity's triumph, but it's also its biggest weakness. With the help of Synedrion, we will storm the Palace and inject the Receptacle with a retrovirus that will sever the link between the Entity and its slaves, freeing them from alien control.","RÉSUMÉ DE LA MISSION
+
+Le palais est l'étape finale du triomphe de l'Entité yuggothienne, mais également sa plus grande faiblesse. Avec l'aide du Synédrion, nous pénétrerons dans le palais et injecterons dans le Réceptacle un rétrovirus qui coupera le lien entre l'Entité et ses esclaves, les libérant de tout contrôle extraterrestre."
+PROG_SY6_MISS1_TITLE,Liberty or Death,La liberté ou la mort
+PROG_SY6_MISS2_CHOICE_0_TEXT,START MISSION,COMMENCER LA MISSION
+PROG_SY6_MISS2_CHOICE_1_TEXT,CANCEL,ANNULER
+PROG_SY6_MISS2_SUMMARY,Storm the Palace and inject the Receptacle with a retrovirus that will give humanity control of the Pandoravirus.,Pénétrez dans le palais et injectez dans le Réceptacle un rétrovirus qui redonnera à l'humanité le contrôle du Pandoravirus.
+PROG_SY6_MISS2_TEXT_GENERAL_0,"MISSION BRIEFING
+
+The Palace is the final step towards the Yuggothian Entity's triumph, but it's also its biggest weakness. With the help of Synedrion, we will storm the Palace and inject the Receptacle with a retrovirus that will allow us to seize control of the Pandoravirus and use it to terraform the Earth.","RÉSUMÉ DE LA MISSION
+
+Le palais est l'étape finale du triomphe de l'Entité yuggothienne, mais également sa plus grande faiblesse. Avec l'aide du Synédrion, nous pénétrerons dans le palais et injecterons dans le Réceptacle un rétrovirus qui nous permettra de prendre le contrôle du Pandoravirus et nous permettra de l'utiliser pour terraformer la Terre à notre avantage."
+PROG_SY6_MISS2_TITLE,The Master's Tools,Les outils du maître
+PROG_SY6_P_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Zhara
+TO: Phoenix Project
+
+It's now or never. The Palace is a terrible threat, but its sheer concentrated power is also its greatest weakness. We have found a way of using its connection to the Pandoravirus to send a signal that will permanently break the link between the Entity and its slaves. I don't understand the science of it myself, but Stas describes it as ""changing the permissions in a file system."" The only problem is that to achieve this, we'll have to inject a retrovirus into the core of the Palace itself.
+
+One more mission, and the war could be over.","MESSAGE
+DE : Citoyenne Zhara
+À : Projet Phoenix
+
+C'est maintenant ou jamais. Le palais représente une terrible menace pour toute l'humanité, mais son pouvoir concentré est également sa plus grande faiblesse. Nous avons trouvé un moyen d'utiliser sa connexion au Pandoravirus pour envoyer un signal qui coupera de manière permanente tout lien entre l'Entité et ses esclaves. Je ne comprends pas le processus en détail, mais Stas le décrit comme une « modification des autorisations de fichiers d'un système ». Le seul problème est que pour y parvenir, nous devons injecter un rétrovirus directement au cœur du palais.
+
+C'est notre dernière mission, et si nous réussissons, nous pourrions remporter la guerre."
+PROG_SY6_P_CHOICE_0_TEXT,The Phoenix Project is ready.,Le Projet Phoenix est prêt.
+PROG_SY6_P_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Zhara
+TO: Phoenix Project
+
+It is an unavoidable fact that our original plan is no longer feasible. As long as the alien ecology remains chained to the entity that controls it, evolving side by side on this planet will be a fantasy. But that does not mean that we have to abandon our attempt to create a more balanced, more integrated society. No, what we must now do is extend our opposition to hierarchies to the creatures of the Pandoravirus. We must free them so we can be free ourselves.","MESSAGE
+DE : Citoyenne Zhara
+À : Projet Phoenix
+
+Nous devons nous rendre à l'évidence : notre plan initial n'est plus viable. Tant que l'écologie extraterrestre restera enchaînée à l'entité qui la contrôle, évoluer côte à côte sur cette planète restera du domaine de l'imaginaire. Mais cela ne veut pas dire pour autant que nous devons arrêter d'essayer de créer une société plus équilibrée et mieux intégrée. Au contraire : ce que nous devons faire à présent, c'est continuer à nous opposer aux hiérarchies, mais aussi aux créatures du Pandoravirus. Nous devons les libérer afin de pouvoir nous libérer nous-mêmes."
+PROG_SY6_P_TITLE,Liberty or Death,La liberté ou la mort
+PROG_SY6_T_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+Then let us make this happen. Let us win.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+Alors laissez-nous le faire. Laissez-nous gagner."
+PROG_SY6_T_CHOICE_0_TEXT,The Phoenix Project is ready.,Le Projet Phoenix est prêt.
+PROG_SY6_T_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+The time has come. The master of the Pandoravirus is building his earthly Palace, and soon he will download himself to his new kingdom. Unfortunately, he has not yet realized what tends to happen to kings on this planet. 
+
+But how do we overthrow such a powerful cosmic entity? The Pandoravirus is the key.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+Le moment est venu. Le maître du Pandoravirus a entrepris la construction de son Palais terrestre, et se transférera bientôt sur son nouveau royaume. Malheureusement, il n'a pas encore réalisé le destin auquel sont voués les rois sur cette planète.
+
+Mais comment renverser une entité cosmique aussi puissante ? Le Pandoravirus en est la clé."
+PROG_SY6_T_TEXT_GENERAL_1,"MESSAGE
+FROM: Citizen Nikolai
+TO: Phoenix Project
+
+You see, the Pandoravirus is not just a weapon; it's a way of propagating large-scale ecological change. In other words: it's a terraforming tool. And we can seize that tool for ourselves. We can use it to design an ecosystem that promotes human flourishing and leaves no space for would-be alien god-kings. Stas has figured out how we can achieve this, and appropriately enough, it involves storming the Palace.","MESSAGE
+DE : Citoyen Nikolai
+À : Projet Phoenix
+
+Vous voyez, le Pandoravirus est bien plus qu'une arme : c'est un moyen de propager des changements écologiques à grande échelle. En d'autres termes, il s'agit d'un outil de terraformation, et nous pouvons nous en emparer. Nous pouvons l'utiliser pour créer un écosystème qui favorise l'épanouissement de la race humaine et ne laisse aucune place à des rois divins extraterrestres en devenir. Stas sait comment y parvenir de façon pour le moins appropriée : en lançant un assaut sur le Palais."
+PROG_SY6_T_TITLE,The Master's Tools,Les outils du maître
+PROG_SY7_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Barnabas (Synedrion)
+TO: Phoenix Project
+
+So you are a potential ally; not merely fighting the Pandorans, but attempting to realize a specific vision of the future. I will admit that I had hoped for this.
+
+As a token of our appreciation, let me share some valuable data with you.","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Vous êtes donc un allié potentiel qui ne se contente pas de se battre contre les Pandoriens, mais qui tente aussi d'accomplir une certaine vision du futur. Je dois admettre que c'est ce que j'espérais.
+
+En gage de remerciement, je me permets de partager quelques informations utiles avec vous."
+PROG_SY7_CHOICE_0_TEXT,We agree with Synedrion.,Nous sommes d'accord avec le Synédrion.
+PROG_SY7_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Barnabas (Synedrion)
+TO: Phoenix Project
+
+Ah. So our short-term goals are similar, but our long-term goals are not necessarily aligned. Or perhaps you are still weighing your options. Unfortunate, but not unexpected.","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Ah, nous avons donc des objectifs similaires sur le court terme, mais pas nécessairement sur le long terme. Ou bien évaluez-vous encore peut-être vos options. C'est dommage, mais ce n'est pas une surprise."
+PROG_SY7_CHOICE_1_TEXT,We are protecting all factions without taking sides.,Nous protégeons toutes les factions sans prendre parti.
+PROG_SY7_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Barnabas (Synedrion)
+TO: Phoenix Project
+
+It would appear that diplomatic relations between Synedrion and the Phoenix Project are improving. This seems like a positive development to me, but I'm curious. Are you motivated by any kind of investment in our political and philosophical views, or are you just... doing your job?","MESSAGE
+DE : Citoyen Barnabas (Synédrion)
+À : Projet Phoenix
+
+Il semblerait que les relations diplomatiques entre le Synédrion et le Projet Phoenix s'améliorent. Une évolution positive selon moi, mais quelque chose m'intrigue. Doit-on votre motivation à un certain investissement dans nos vues politiques et philosophiques, ou faites-vous simplement votre travail ?"
+PROG_SY7_TITLE,The Matter of Why,Le pourquoi du comment
+PROG_SY8_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+Excellent! Honestly, I'm just excited to share this stuff. I spend so much time in the lab, it all becomes very abstract, you know? Just incrementing numbers, forgetting that there are real people out there whose lives are affected by the technologies we develop. Even the simple ones. Anyway! I'll let you get back to saving the world.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Génial ! Pour être honnête, je suis juste super content de partager tout ça. Je passe tellement de temps dans le labo que les choses deviennent très abstraites, vous savez ? On augmente les chiffres, et on oublie que les technologies que nous développons affectent vraiment la vie des gens... même les plus simples d'entre elles. Enfin bref, je vous laisse : vous avez une planète à sauver !"
+PROG_SY8_CHOICE_0_TEXT,Accept gift.,Accepter le cadeau.
+PROG_SY8_CHOICE_1_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+Oh. What a shame. Uh... well, I suppose that's politics for you. Always worrying about what other people will think.","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Ah... quel dommage. Bon, eh bien j'imagine que c'est ça, la politique. On s'inquiète toujours de ce que les autres vont penser."
+PROG_SY8_CHOICE_1_TEXT,Reject gift.,Rejeter le cadeau.
+PROG_SY8_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Phoenix Project
+
+Hi. We've been working together so well, I thought I'd send over a little gift. Just some new tech we've been working on here in the lab - new multi-mode fibers, quantum capacitors, self-sealing stembolts, that sort of thing. Does that sound good?","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Projet Phoenix
+
+Bonjour. Notre collaboration se passe si bien que je voulais vous faire parvenir un petit cadeau. C'est juste quelques innovations technologiques que nous avons développées dans le labo : de nouvelles fibres multi-modes, des condensateurs quantiques, des écroutiges à fermeture automatique, ce genre de choses. Qu'est-ce que vous en dites ?"
+PROG_SY8_TITLE,Sharing Is Caring,"Aimer, c'est partager"
+PROG_SY9_CHOICE_0_OUTCOME_GENERAL,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+This gift is just symbolic; we can never really repay you. But I hope everyone at the Phoenix Project understands how much we at Synedrion appreciate your friendship.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+C'est seulement un cadeau symbolique, nous ne pourrons jamais vraiment vous rendre la pareille. J'espère seulement que tous les membres du Projet Phoenix savent à quel point le Synédrion apprécie leur amitié."
+PROG_SY9_CHOICE_0_TEXT,Continue.,Continuer.
+PROG_SY9_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+We've been through so much together. Or let's put it this way: you've done so much for us. Our history is so full of betrayal and disappointment that sometimes it's hard to remember that there are others out there who really do share our values.","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Projet Phoenix
+
+Nous avons vécu tellement de choses ensemble, ou je devrais plutôt dire : vous avez tant fait pour nous. Notre histoire est si jonchée de trahisons et de déceptions qu'il est parfois difficile de se souvenir qu'il existe des personnes qui partagent réellement nos valeurs."
+PROG_SY9_TITLE,Comrades,Camarades
+SYN_WAR_ANU_CHOICE_0_TEXT,OK.,OK.
+SYN_WAR_ANU_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Nikolai (Synedrion)
+TO: Public
+
+At Synedrion, we value religious tolerance. But don't mistake our tolerance for weakness. We will not surrender our liberties to would-be theocrats. And we will fight to stop religious despotism from spreading across the world. Let the Exalted and her stooges know: Synedrion is coming for you.","MESSAGE
+DE : Citoyen Nikolai (Synédrion)
+À : Public
+
+Au Synédrion, nous prisons la tolérance religieuse. Mais ne prenez pas notre tolérance pour une faiblesse. Nous n'abandonnerons pas nos libertés à de potentiels théocrates. Et nous lutterons pour empêcher le despotisme religieux de se propager à travers le monde. Dites à l'Exaltée et à ses laquais que le Synédrion va leur régler leur compte."
+SYN_WAR_ANU_TITLE,The Mandate of Heaven,Le mandat des cieux
+SYN_WAR_NJ_CHOICE_0_TEXT,OK.,OK.
+SYN_WAR_NJ_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Public
+
+I always argued for giving New Jericho another chance. Maybe there was more to Tobias West than greed and self-importance. Maybe New Jericho could be a force for good after all. Maybe they even believed in freedom like they kept saying.
+
+I was wrong. For that, I apologize. But at least we tried. Now we know that war really is the only option.","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Public
+
+J'ai toujours plaidé pour que la Nouvelle-Jéricho reçoive une seconde chance. Peut-être que Tobias West n'était pas qu'un homme avide et suffisant. Peut-être que la Nouvelle-Jéricho pouvait lutter pour le bien après tout. Peut-être qu'elle croyait même en la liberté, comme elle l'a toujours dit.
+
+J'avais tort, et pour ça, je m'en excuse. Mais au moins, nous aurons essayé. Maintenant, nous savons que la guerre est la seule option."
+SYN_WAR_NJ_TITLE,No More Chances,Plus de secondes chances
+SYN_WAR_PX_CHOICE_0_TEXT,OK.,OK.
+SYN_WAR_PX_TEXT_GENERAL_0,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Public
+
+Declaring war on the Phoenix Project is the last thing we ever wanted to do. But whatever the Phoenix Project used to be, it's not that anymore. So here we are.
+
+We're going to fight you, and we're going to win.
+","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Public
+
+Déclarer la guerre au Projet Phoenix est la dernière chose que nous voulions. Mais le Projet Phoenix n'est plus ce qu'il était, quoi qu'il ait été. Voilà où nous en sommes.
+
+Nous allons vous affronter, et nous allons gagner."
+SYN_WAR_PX_TITLE,"Fight, Smash, Win","Lutter, écraser, triompher"

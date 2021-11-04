@@ -1,0 +1,264 @@
+﻿# KEY_BASE_AIRCRAFT
+AIRCRAFT AT BASE
+VAISSEAUX À LA BASE
+# KEY_BASE_AUTO_ASSIGN
+AUTO ASSIGN USERS
+AUTO AFFECTATION UTILISATEURS
+# KEY_BASE_BUILD_FACILITY
+BUILD
+CONSTRUIRE
+# KEY_BASE_BUILD_TUNNEL
+BUILD TUNNEL
+CONSTRUIRE UN TUNNEL
+# KEY_BASE_CLASSIFIED
+CLASSIFIED! TOP CLEARANCE REQUIRED!
+TOP SECRET ! AUTORISATION SUPÉRIEURE REQUISE.
+# KEY_BASE_CONSTRUCTION_REQUIREMENTS
+CONSTRUCTION REQUIREMENTS
+CONDITIONS DE CONSTRUCTION
+# KEY_BASE_CURRENT_BASE_DESCRIPTION
+CURRENT BASE
+BASE ACTUELLE
+# KEY_BASE_CURRENT_BASE_NAME
+CURRENT BASE
+BASE ACTUELLE
+# KEY_BASE_DEMOLISH_FACILITY
+<color=red>DEMOLISH</color> {0}
+<color=red>DÉMOLIR</color> {0}
+# KEY_BASE_DEMOLISH_NAME
+DEMOLISH
+DÉMOLIR
+# KEY_BASE_DEMOLISH_TT
+Demolish selected structure. 50% of the structure's resource costs will be salvaged.
+Démolissez la structure sélectionnée. 50 % des coûts en ressources de la structure seront récupérés.
+# KEY_BASE_DESTROY_CONFIRMATION
+Are you sure you want to demolish this facility?
+Voulez-vous vraiment démolir cette installation ?
+# KEY_BASE_FACILITY_ACCESS_LIFT_DESCRIPTION
+Deployment point for defense missions, and an escape route if things go badly.
+Point de déploiement pour les missions de défense et une issue de secours si les choses tournent mal.
+# KEY_BASE_FACILITY_ACCESS_LIFT_NAME
+ACCESS LIFT
+ASCENSEUR D'ACCÈS
+# KEY_BASE_FACILITY_CONTAINMENT_DESCRIPTION
+Live Pandorans can be contained here and kept alive. Large creatures will take more space, and space is shared across all facilities. The facility has 50 containment space.
+Les Pandoriens vivants peuvent être détenus et maintenus en vie ici. Les grosses créatures prendront plus d'espace, celui-ci est partagé entre tous les centres. Le centre compte 50 espaces de confinement.
+# KEY_BASE_FACILITY_CONTAINMENT_NAME
+CONTAINMENT
+CONFINEMENT
+# KEY_BASE_FACILITY_ENTRANCE_DESCRIPTION
+The main entrance to the base complex.
+L'entrée principale du complexe de la base.
+# KEY_BASE_FACILITY_ENTRANCE_NAME
+ENTRANCE
+ENTRÉE
+# KEY_BASE_FACILITY_FABRICATION_PLANT_DESCRIPTION
+A factory facility that produces weapons, armor, equipment and vehicles.
+Une usine qui produit des armes, des armures, de l'équipement et des véhicules.
+# KEY_BASE_FACILITY_FABRICATION_PLANT_NAME
+FABRICATION PLANT
+USINE DE FABRICATION
+# KEY_BASE_FACILITY_FOOD_PRODUCTION_DESCRIPTION
+A food production facility that generates enough food for 8 soldiers each day.
+Un centre de production alimentaire qui génère suffisamment de nourriture pour 8 soldats par jour.
+# KEY_BASE_FACILITY_FOOD_PRODUCTION_NAME
+FOOD PRODUCTION
+PRODUCTION ALIMENTAIRE
+# KEY_BASE_FACILITY_GENERATOR_DESCRIPTION
+A power generation facility that is required for many facilities to operate.
+Une centrale électrique qui permet à de nombreuses installations de fonctionner.
+# KEY_BASE_FACILITY_GENERATOR_NAME
+ENERGY GENERATOR
+GÉNÉRATEUR D'ÉNERGIE
+# KEY_BASE_FACILITY_LAB_DESCRIPTION
+An AI controlled facility for all research projects.
+Une installation contrôlée par une IA pour tous les projets de recherche.
+# KEY_BASE_FACILITY_LAB_NAME
+RESEARCH LAB
+LABO DE RECHERCHE
+# KEY_BASE_FACILITY_MEDBAY_DESCRIPTION
+All soldiers at the base (even if assigned to an aircraft) will recover 4 Hit Points per hour for each medical facility in the base.
+Tous les soldats de la base (même s'ils sont affectés à un vaisseau) récupéreront 4 points de vie par heure pour chaque station médicale dans la base.
+# KEY_BASE_FACILITY_MEDBAY_NAME
+MEDICAL BAY
+STATION MÉDICALE
+# KEY_BASE_FACILITY_MUTATION_LAB_DESCRIPTION
+Allows soldiers to be mutated, and produces mutagens - the raw material for mutation.
+Permet aux soldats de subir des mutations et produit des mutagènes – la matière brute pour les mutations.
+# KEY_BASE_FACILITY_MUTATION_LAB_NAME
+MUTATION LAB
+LABO DE MUTATION
+# KEY_BASE_FACILITY_QUARTERS_DESCRIPTION
+All soldiers at the base (even if assigned to an aircraft) will recover 2 Stamina points per hour for each living quarters in the base.
+Tous les soldats de la base (même s'ils sont affectés à un vaisseau) récupéreront 2 points d'endurance par heure pour chaque quartier d’habitation dans la base.
+# KEY_BASE_FACILITY_QUARTERS_NAME
+LIVING QUARTERS
+QUARTIERS D'HABITATION
+# KEY_BASE_FACILITY_REPELLER_DESCRIPTION
+Mists will slowly be pushed back around the base location.
+La Brume sera repoussée lentement autour de l'emplacement de la base.
+# KEY_BASE_FACILITY_REPELLER_NAME
+MIST REPELLER
+REPOUSSEUR DE BRUME
+# KEY_BASE_FACILITY_SATELLITE_UPLINK_DESCRIPTION
+Scans an area around the base, locating sites of interest. Pandoran colonies attacking havens from within scanning range will be instantly detected.
+Balaie une zone autour de la base, repérant les sites d’intérêt. Les colonies pandoriennes qui attaquent les refuges dans ce rayon de balayage seront instantanément détectées.
+# KEY_BASE_FACILITY_SATELLITE_UPLINK_NAME
+SATELLITE UPLINK
+RELAIS SATELLITE
+# KEY_BASE_FACILITY_SECURITY_DESCRIPTION
+An observation facility that provides early warning of enemy attacks and helps defend the base.
+Un poste d'observation qui donne l'alerte lorsque des ennemis attaquent et aide à protéger la base.
+# KEY_BASE_FACILITY_SECURITY_NAME
+SECURITY STATION
+POSTE DE SÉCURITÉ
+# KEY_BASE_FACILITY_STORE_DESCRIPTION
+A storage facility for all weapons, ammo, equipment and armor. Storage capacity is shared across all bases.
+Un espace de stockage pour toutes les armes, les munitions, l'équipement et les armures. La capacité de stockage est partagée entre toutes les bases.
+# KEY_BASE_FACILITY_STORE_NAME
+STORE
+ENTREPÔT
+# KEY_BASE_FACILITY_TRAINING_FACILITY_DESCRIPTION
+All soldiers at the base (even if assigned to an aircraft) will gain 2 Experience Points per hour for each training facility in the base.
+Tous les soldats de la base (même s'ils sont affectés à un vaisseau) obtiendront 2 points d'expérience par heure pour chaque centre d'entraînement dans la base.
+# KEY_BASE_FACILITY_TRAINING_FACILITY_NAME
+TRAINING FACILITY
+CENTRE D'ENTRAÎNEMENT
+# KEY_BASE_FACILITY_TUNNEL_DESCRIPTION
+A connecting tunnel linking adjacent tunnels or facilities
+Un tunnel qui connecte les tunnels ou installations adjacents.
+# KEY_BASE_FACILITY_TUNNEL_NAME
+TUNNEL
+TUNNEL
+# KEY_BASE_FACILITY_VEHICLE_BAY_DESCRIPTION
+Vehicles and aircraft at the base recover 20 Hit Points per hour. Allows maintenance of 2 ground vehicles and 2 aircraft.
+Les véhicules et vaisseaux à la base récupèrent 20 points de vie par heure. Permet l'entretien de 2 véhicules terrestres et 2 vaisseaux.
+# KEY_BASE_FACILITY_VEHICLE_BAY_NAME
+VEHICLE BAY
+GARAGE
+# KEY_BASE_GLOBAL_BASE_INFO
+GLOBAL BASES INFO
+INFOS GÉNÉRALES SUR LES BASES
+# KEY_BASE_MANAGE_FACILITY
+MANAGE FACILITY
+GÉRER L'INSTALLATION
+# KEY_BASE_OPERATION_REQUIREMENTS
+OPERATION REQUIREMENTS
+CONDITIONS D'EXPLOITATION
+# KEY_BASE_PERSONNEL
+PERSONNEL AT BASE
+PERSONNEL À LA BASE
+# KEY_BASE_PERSONNEL_GLOBAL
+PERSONNEL
+PERSONNEL
+# KEY_BASE_POWER_CONSUMPTION
+POWER CONSUMPTION
+CONSOMMATION D'ÉNERGIE
+# KEY_BASE_POWER_OFF
+POWER OFF
+ÉTEINDRE
+# KEY_BASE_POWER_ON
+POWER ON
+ALLUMER
+# KEY_BASE_PRODUCTION_QUEUE
+PRODUCTION QUEUE
+FILE D'ATTENTE DE PRODUCTION
+# KEY_BASE_REPAIR_FACILITY
+REPAIR FACILITY
+RÉPARER L'INSTALLATION
+# KEY_BASE_RESEARCH_QUEUE
+RESEARCH QUEUE
+FILE D'ATTENTE DE RECHERCHE
+# KEY_BASE_SELECT_BASE
+SELECT ANOTHER BASE
+SÉLECTIONNER UNE AUTRE BASE
+# KEY_BASE_STORES
+STORES
+ENTREPÔTS
+# KEY_BASE_SWITCH_OFF
+PRESS TO SWITCH OFF
+APPUYER POUR ÉTEINDRE
+# KEY_BASE_SWITCH_ON
+PRESS TO SWITCH ON
+APPUYER POUR ALLUMER
+# KEY_BASE_UNDER_CONSTRCUTION
+UNDER CONSTRUCTION
+EN CONSTRUCTION
+# KEY_BASE_UNDER_REPAIR
+UNDER REPAIR
+EN RÉPARATION
+# KEY_BASE_USERS
+USERS ALLOCATED
+UTILISATEURS AFFECTÉS
+# KEY_BASE_VEHICLES
+VEHICLES AT BASE
+VÉHICULES À LA BASE
+# KEY_BASE_WARNING_ACCESS_LIFT
+Destroying the Access Lift will prevent you from escaping during enemy attacks of the base. Are you sure you want to proceed?
+Si vous détruisez l'ascenseur d'accès, vous ne pourrez pas vous échapper quand les ennemis attaquent la base. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_ALIEN_CONTAINMENT
+Destroying the Containment Facility will decrease the amount of containment slots you have. All captured Pandorans in excess will be killed off. Are you sure you want to proceed?
+Si vous détruisez le centre de confinement, vous réduirez le nombre de cellules de confinement que vous avez. Tous les Pandoriens capturés en excès seront éliminés. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_ENERGY_GENERATOR
+Destroying the Energy Generator will decrease the energy output of your base, possibly affecting your other facilities. Are you sure you want to proceed?
+Si vous détruisez le générateur d'énergie, vous réduirez la production d'énergie de votre base, affectant potentiellement vos autres installations. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_FABRICATION_PLANT
+Destroying the Fabrication Plant will decrease the amount of production points produced. At least one Fabrication Plant is required to manufacture an item. Are you sure you want to proceed?
+Si vous détruisez l'usine de fabrication, vous réduirez le nombre de points de recherche produits. Au moins une usine de fabrication est requise pour fabriquer un objet. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_LIVING_QUARTERS
+Destroying the Living Quarters will decrease the amount of personnel space you have. Are you sure you want to proceed?
+Si vous détruisez les quartiers d'habitation, vous réduirez l'espace disponible pour le personnel. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_MEDICAL_BAY
+Destroying the Medical Bay will decrease the speed at which injured soldiers are healed while in the Base. At least one Medical Bay is required so your soldiers are healed. Are you sure you want to proceed?
+Todos los soldados de la base (incluso los asignados a una nave) recuperan 4 puntos de salud por hora por cada enfermería que haya en la base.
+# KEY_BASE_WARNING_MIST_REPELLER
+Destroying the Mist Repeller will stop preventing the mist from forming around your base. Are you sure you want to proceed?
+Si vous détruisez le repousseur de brume, vous ne pourrez plus empêcher la formation de brume autour de votre base. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_MUTATION_LAB
+Destroying the Mutation Lab will decrease the amount of Mutagens you produce per day. At least one Mutation Lab is required to enhance your soldiers. Are you sure you want to proceed?
+Si vous détruisez le labo des mutations, vous réduirez le nombre de mutagènes que vous produisez par jour. Au moins un labo de mutation est requis pour transformer vos soldats. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_RESEARCH_LAB
+Destroying the Research Lab will decrease the amount of research points produced. At least one Research Lab is required to complete a research project. Are you sure you want to proceed?
+Si vous détruisez le laboratoire de recherche, vous réduirez le nombre de points de recherche produits. Au moins un labo de recherche est requis pour terminer un projet. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_SATELLITE_UPLINK
+Destroying the Satellite Uplink will decrease the amount of concurrent Area Scans you can perform. Are you sure you want to proceed?
+Si vous détruisez le relais satellite, vous réduirez le nombre de balayages de zone que vous pouvez réaliser. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_STORES
+Destroying the stores will decrease the amount of storage space you have. Items in excess will be discarded as a result. Are you sure you want to proceed?
+Si vous détruisez les entrepôts, vous réduirez l'espace de stockage que vous avez. Les articles en excès seront jetés en conséquence. Voulez-vous vraiment continuer ?
+# KEY_BASE_WARNING_TRAINING_FACILITY
+Destroying the Training Facility will decrease the amount of experience your soldiers gain while in the Base. At least one Training Facility is required so your soldiers gain experience. Are you sure you want to proceed?
+Détruire le centre d'entraînement diminue la quantité d'expérience que vos soldats gagnent lorsqu'ils sont à la base. Au moins un centre d'entraînement est requis afin que vos soldats gagnent de l'expérience. Voulez-vous vraiment continuer ?
+# KEY_BASE_WORKERS
+WORKERS ALLOCATED
+EMPLOYÉS AFFECTÉS
+# KEY_GEOSCAPE_AIRCRAFTS
+PHOENIX AIRCRAFT
+VAISSEAU PHOENIX
+# KEY_GEOSCAPE_AI_ASSIGN
+ASSIGN AI
+ATTRIBUER UNE IA
+# KEY_GEOSCAPE_AI_CORE
+AI CORE
+CENTRE IA
+# KEY_GEOSCAPE_AI_CORE_LEVEL
+AI CORE LEVEL
+NIVEAU DU CENTRE IA
+# KEY_GEOSCAPE_AI_UNASSIGN
+UNASSIGN AI
+RETIRER L'IA
+# KEY_GEOSCAPE_APPLY
+APPLY
+APPLIQUER
+# KEY_GEOSCAPE_ASSIGNED_AI_LEVEL
+ASSIGNED AI LEVEL
+NIVEAU IA AFFECTÉ
+# KEY_GEOSCAPE_AVAILABLE
+AVAILABLE
+DISPONIBLE
+# KEY_GEOSCAPE_BASES
+PHOENIX BASES
+BASES PHOENIX
+# KEY_GEOSCAPE_BUILD_SELECT
+SELECT A FACILITY TO BUILD
+SÉLECTIONNER UNE INSTALLATION À CONSTRUIRE

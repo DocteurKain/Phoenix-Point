@@ -1,0 +1,702 @@
+﻿# AN10_CHOICE_0_OUTCOME_GENERAL
+These fungi may be an unusual source of nutrition, but these are desperate times, and humanity needs to adapt.
+Ces champignons peuvent constituer une source inhabituelle de nutrition, mais dans cette situation désespérée, l'humanité doit s'adapter.
+# AN10_CHOICE_0_TEXT
+Accept the gift.
+OK.
+# AN10_CHOICE_1_OUTCOME_GENERAL
+Declining such a gift is taken as offensive, but not exceedingly so. "The Rite of Giving also reminds us to be kind. There are many who are afraid of the fungi because they grow on the bodies of the dead," a hiereus sighs. "Superstition is a burden to humanity. I hope you will overcome it one day."
+Refuser un tel don est considéré comme une insulte, mais ce n'est pas un outrage. « Le rite du Don nous rappelle également qu'il faut faire preuve de bonté. Beaucoup d'entre nous ont peur des champignons, car ils poussent sur les corps des morts », explique un hiereus en soupirant. « La superstition est un poids pour l'humanité. J'espère que vous parviendrez à la surmonter un jour. »
+# AN10_CHOICE_1_TEXT
+Decline the gift.
+Refuser le don.
+# AN10_TEXT_GENERAL_0
+Our operatives are welcomed to [HavenName] with open arms. Today is the day of the Rite of Giving, when the Disciples of Anu share food with friends and allies. After the appropriate rituals have been performed, fungi are gathered from the Field of Transubstantiation and processed so they may be donated to our cause.[n]
+Nos agents sont accueillis avec prudence au refuge [HavenName]. La majeure partie de la population est actuellement en pleine récolte dans le champ de transsubstantiation sous l'œil vigilant de l'anagnoste.[n]
+# AN10_TITLE
+Rite of Giving
+Rite du Don
+# AN11_CHOICE_0_OUTCOME_GENERAL
+The soldier is allowed to join the Disciples of Anu and be initiated into the Waters of Life. Tobias West is said to be furious at our intervention.
+Le soldat est autorisé à rejoindre les Disciples d'Anu et à recevoir une initiation aux Eaux de vie. Il paraît que Tobias West est furieux que nous soyons intervenus.
+# AN11_CHOICE_0_TEXT
+Push for asylum to be granted.
+Faire pression pour que la demande d'asile soit accordée.
+# AN11_CHOICE_1_OUTCOME_GENERAL
+The soldier is returned to New Jericho, there to face trial for treason. The Synod of Yearning is reportedly furious at our intervention, and Synedrion expresses concern at our anti-asylum stance.
+Le soldat est renvoyé à la Nouvelle-Jéricho où il sera jugé pour trahison. D'après certaines informations, le Synode de l'appétence est furieux de notre intervention et le Synédrion exprime ses inquiétudes concernant notre position anti-asile.
+# AN11_CHOICE_1_TEXT
+Insist that asylum isn't an option.
+Insister sur le fait que l'asile n'est pas une option, en soudoyant quiconque n'est pas d'accord.
+# AN11_CHOICE_2_OUTCOME_GENERAL
+There is no other solution that won't cause problems down the line, and the Phoenix Project can always use more recruits. Neither New Jericho nor the Disciples of Anu are particularly pleased, but neither can they really take offense.
+Il n'existe aucune autre solution qui ne posera pas de problèmes plus tard et le Projet Phoenix peut toujours utiliser davantage de recrues. La Nouvelle-Jéricho et les Disciples d'Anu ne sont pas particulièrement satisfaits, mais ils ne peuvent pas non plus s'en offusquer.
+# AN11_CHOICE_2_TEXT
+Recruit the soldier.
+Recruter le soldat.
+# AN11_TEXT_GENERAL_0
+Our operatives have become entangled in a potentially messy diplomatic affair at [HavenName]. It would appear that a defector from New Jericho is asking the Disciples of Anu for asylum, and plans to join the religion if his request is granted. New Jericho demands their soldier be returned, claiming he has been brainwashed.[n][n]The influence of the Phoenix Project could be the deciding factor, but our choices will have political consequences.
+Nos agents se sont retrouvés impliqués dans une affaire diplomatique potentiellement désastreuse au refuge [HavenName]. Il semblerait qu'un transfuge de la Nouvelle-Jéricho demande l'asile. La Nouvelle-Jéricho exige le retour de son soldat.
+# AN11_TITLE
+Safe Haven
+Refuge sûr
+# AN12_CHOICE_0_OUTCOME_GENERAL
+She uploads the data to our system.
+Elle télécharge les données vers notre système.
+# AN12_CHOICE_0_TEXT
+Agree to the exchange.
+Accepter l'échange.
+# AN12_CHOICE_1_OUTCOME_GENERAL
+"I understand your reluctance. Good spare parts are rare to come by," the Skeuophylax says. "I hope the Exalted will guide us to the world where the beauty of machines is better understood."
+« Je comprends votre hésitation. C'est difficile de trouver de bonnes pièces de rechange », déclare la skeuophylakissa. « J'espère que l'Exaltée nous guidera vers un monde où la beauté des machines est mieux comprise. »
+# AN12_CHOICE_1_TEXT
+Decline.
+Refuser.
+# AN12_TEXT_GENERAL_0
+The Skeuophylax of [HavenName] has been processing the information recently gathered by the haven's scouts, and offers to share some of it with us in exchange for parts for the Hallowed Machines she is tasked with maintaining.[n]
+La skeuophylakissa du refuge [HavenName] traite les informations récemment acquises par les éclaireurs du refuge et propose d'en partager quelques-unes avec nous en échange de pièces pour les Machines sacrées qu'elle est chargée d'entretenir.[n]
+# AN12_TITLE
+What's Ahead
+Ce que réserve l'avenir
+# AN13_CHOICE_0_OUTCOME_GENERAL
+The citizens gladly gather all they can spare. To them, the Phoenix Project is as much part of the Exalted's vision as Taxiarch Nergal or the Blind Legate. It would seem that we have become figures of legend.
+Les citoyens rassemblent volontiers ce dont ils n'ont pas besoin. Pour eux, le Projet Phoenix a sa place dans la vision de l'Exaltée au même titre que le Taxiarque Nergal ou le Légat aveugle. Il semblerait que nous soyons devenus des figures de légende.
+# AN13_CHOICE_0_TEXT
+Accept.
+Accepter.
+# AN13_TEXT_GENERAL_0
+Exarch [HavenLeaderSurname] greets our operatives in the name of the Exalted and the Dead God, wishing them long life and the achievement of biological perfection. [n][n]"It is fortunate that you have chosen to follow the path of the Disciples," he says. "I believe your choice was a turning point for our faith, a moment that will be remembered and celebrated by generations to come."
+On informe nos agents que l'exarque [HavenLeaderSurname] n'a pas le temps de s'occuper d'étrangers, car il est occupé par des activités d'une nature spirituelle.
+# AN13_TEXT_GENERAL_1
+To help us achieve our common goals, he orders the citizens of the haven to contribute to our cause.
+Pour nous aider à atteindre nos objectifs, il demande aux citoyens du refuge de contribuer à notre cause.
+# AN13_TITLE
+Faith in Transformation
+Foi en la transformation
+# AN14_CHOICE_0_OUTCOME_GENERAL
+"May the Exalted show you the way to perfection," Exarch [HavenLeaderSurname] says with a smile. "As she did to me. Haven't gotten there yet, of course, but I'm working on it. That's what really matters."
+« Que l'Exaltée vous indique la voie de la perfection », dit l'exarque [HavenLeaderSurname] en souriant. « Comme elle me l'a indiquée. Je n'y suis pas encore, bien entendu, mais j'y travaille. C'est ce qui compte, au final. »
+# AN14_CHOICE_0_TEXT
+Accept.
+Accepter.
+# AN14_TEXT_GENERAL_0
+At [HavenName], Exarch [HavenLeaderSurname] is greatly pleased to see our operatives. [n][n]"We had heard rumors that the Phoenix Project had been destroyed," she says. "That would have been a shame. There was not much about the old world that was good, but at least the Phoenix Project had the right intentions."
+Au refuge [HavenName], l'exarque [HavenLeaderSurname] est ravie de rencontrer nos agents. [n][n]« Des rumeurs circulent sur la destruction du Projet Phoenix », dit-elle. « Cela aurait été dommage. Il y avait peu de choses positives dans l'ancien monde, mais au moins, le Projet Phoenix avait de bonnes intentions. »
+# AN14_TEXT_GENERAL_1
+"Together," Exarch [HavenLeaderSurname] continues, "we may have a chance of building a future worth living in. And to that end, allow us to share some Anu's blessings with you."
+« Ensemble, continue l'exarque [HavenLeaderSurname], nous pourrions avoir une chance de construire un futur qui vaut la peine d'être vécu. Et à cette fin, permettez-nous de partager quelques bénédictions d'Anu avec vous. »
+# AN14_TITLE
+Not Dead Yet
+Tout n'est pas perdu
+# AN15_CHOICE_0_OUTCOME_GENERAL
+The ale is a great success: dark and rich, it leads to long, passionate conversations and the invention of entirely new forms of dance. [n][n]Exarch [HavenLeaderSurname] is disappointed by our support for the Shrounded Smile, but the rest of the Anu hierarchy doesn't seem to care.
+La bière est une grande réussite : sombre et forte, elle entraîne des conversations passionnées et l'invention de formes de danse complètement inédites. [n][n]L'exarque [HavenLeaderSurname] est déçue de notre soutien au Sourire voilé, mais le reste de la hiérarchie d'Anu ne semble pas s'en préoccuper.
+# AN15_CHOICE_0_TEXT
+Of course.
+Bien entendu.
+# AN15_CHOICE_1_OUTCOME_GENERAL
+The Exarch thanks us for respecting her beliefs and offers a little thank-you.
+L'exarque nous remercie de respecter ses croyances et nous offre un petit cadeau de gratitude.
+# AN15_CHOICE_1_TEXT
+Better not.
+Il est préférable de refuser.
+# AN15_TEXT_GENERAL_0
+At [HavenName], the members of a local monastic order known as the Shrouded Smile are proudly announcing the creation of a new type of beer, which they are calling Exalted Ale. It is intended to help one get in touch with one's inner spiritual perfection by eroding some of the biological barriers that inhibit the human body - such as sobriety. [n][n]Exarch [HavenLeaderSurname], however, seems less than pleased. She feels that drinking is a sin and only leads to regression.
+Au refuge [HavenName], les membres de l'ordre monastique local, connu comme le Sourire voilé, annoncent fièrement la création d'un nouveau type de bière, qu'ils ont nommé la bière Exaltée. Elle est destinée à aider chacun à se connecter à sa perfection intérieure en érodant certaines des barrières biologiques qui inhibent le corps humain, telle que la sobriété. [n][n]L'exarque [HavenLeaderSurname] semble pour le moins contrariée. Elle estime que boire est un péché et ne mène qu'à la régression.
+# AN15_TEXT_GENERAL_1
+The monks have invited our operatives to participate in the first public tasting of Exalted Ale. Should they attend?
+Les moines ont invité nos agents à participer à la première dégustation publique de la bière Exaltée. Devraient-ils y assister ?
+# AN15_TITLE
+Unto Him That Is Ready to Perish
+À Lui qui est prêt à périr
+# AN16_CHOICE_0_OUTCOME_GENERAL
+The Rite of the Luminous Deep is far more punishing than its poetic name would suggest, but the techniques of mental and physical focus taught by the priests of Anu can definitely be applied to how we train our operatives.
+Le rite de la Profondeur lumineuse est bien plus éprouvant que ne le suggère son nom poétique, toutefois les techniques de concentration mentale et physique enseignées par les prêtres d'Anu peuvent certainement s'appliquer aux méthodes d'entraînement de nos agents.
+# AN16_CHOICE_0_TEXT
+Participate.
+Participer.
+# AN16_CHOICE_1_OUTCOME_GENERAL
+It was an honor to be invited to participate, so our lack of interest is not received well.
+L'invitation à participer est un honneur et notre manque d'intérêt n'est pas bien reçu.
+# AN16_CHOICE_1_TEXT
+Decline.
+Refuser.
+# AN16_TEXT_GENERAL_0
+The people of [HavenName] are undertaking the rare and sacred Rite of the Luminous Deep, which celebrates the tale of how Taxiarch Nergal came to serve the Exalted. But more than just a religious ritual, the Rite also involves learning techniques of self-control, of pushing oneself to the limits in the service of the greater good. [n][n]Our operatives are welcome to participate in the Rite, and to share this knowledge with their peers.
+Les habitants du refuge [HavenName] ont entrepris le rite rare et sacré de la Profondeur lumineuse, qui célèbre l'histoire du Taxiarque Nergal et comment il en est arrivé à servir l'Exaltée. Plus qu'un simple rituel religieux, le rite implique également des techniques d'apprentissage de la maîtrise de soi et du dépassement de soi au service de l'intérêt général.[n][n]Nos agents sont invités à participer au rite et à partager ces connaissances avec leurs pairs.
+# AN16_TITLE
+Rite of the Luminous Deep
+Rite de la Profondeur lumineuse
+# AN17_CHOICE_0_OUTCOME_GENERAL
+What makes us human is the best thing about us, but also the worst. We're greedy and violent, not because of our spiritual nature, but because our bodies evolved to be this way. The good news is we can change those bodies and allow ourselves to become better people in the process.
+Ce qui nous rend humains est le meilleur comme le pire de notre personne. Nous sommes avides et violents, non pas en raison de notre nature spirituelle, mais parce que nos corps ont ainsi évolué. Il est bon de savoir qu'il est possible de changer nos corps en vue de devenir de meilleures personnes.
+# AN17_CHOICE_0_TEXT
+Side with the priestess.
+Se ranger du côté de la prêtresse.
+# AN17_CHOICE_1_OUTCOME_GENERAL
+There is far too much to be admired about the old world to just dismiss it as sinful or broken. The system that dominated the world was incapable of correctly distributing resources and couldn't respond to planetary-scale crises, but that doesn't mean everything about that time was bad. It's not about human nature; human nature isn't really a steady concept, but something that changes based on material conditions, and it's those conditions we have to take control of.
+Il y a bien trop à admirer dans l'ancien monde pour simplement le rejeter comme un monde brisé et immoral. Le système qui le dominait était incapable de distribuer correctement les ressources et ne pouvait pas répondre aux crises planétaires, mais cela ne signifie pas que tout concernant cette époque était négatif. Il ne s'agit pas de la nature humaine ; la nature humaine n'est pas un concept stable, mais quelque chose qui change selon des conditions matérielles, et ce sont ces conditions que nous devons contrôler.
+# AN17_CHOICE_1_TEXT
+Side with the Synedrion supporter.
+Se ranger du côté de la partisane du Synédrion.
+# AN17_CHOICE_2_OUTCOME_GENERAL
+It's better to let this argument play out on its own. We don't need to impose our opinion on public debates of this kind.
+Mieux vaut ne pas intervenir. Nous n'avons pas besoin d'imposer notre opinion dans des débats publics de ce genre.
+# AN17_CHOICE_2_TEXT
+Stay out of it.
+Ne pas prendre parti.
+# AN17_TEXT_GENERAL_0
+In one of the public squares in [HavenName], a loud debate between a supporter of Synedrion and a local priestess has drawn a lot of attention. The debate itself is actually friendly, as the two women have known each other for a long time, but there is an unusual intensity in the crowd as arguments fly back and forth. People are deeply invested.
+Sur l'une des places publiques du refuge (missing key text), un débat intense entre la partisane du Synédrion et un prêtresse locale attire l'attention. Le débat en soi est plutôt amical, car les deux femmes se connaissent depuis longtemps, mais une intensité inhabituelle émane de la foule à mesure que les arguments jaillissent. Les gens sont très investis.
+# AN17_TEXT_GENERAL_1
+The Synedrion supporter argues that there is a lot that we can learn from the old world. That not everything was bad, just the way it was organized, and that we could build a civilization that had many of the same features, but without the systemic flaws. [n][n]The priestess disagrees: she thinks the old world was fundamentally broken, and that without a change in human nature, we would just repeat all the same mistakes again.
+La partisane du Synédrion avance qu'il y a beaucoup à apprendre de l'ancien monde. Que tout n'était pas noir, mais uniquement la manière dont il était organisé, et que nous pourrions édifier une civilisation contenant de nombreuses caractéristiques identiques sans les défauts systémiques.[n][n]La prêtresse n'est pas d'accord : selon elle, l'ancien monde était essentiellement brisé, et sans changer la nature humaine, nous sommes voués à répéter les mêmes erreurs.
+# AN17_TITLE
+The Old World
+L'Ancien Monde
+# AN18_CHOICE_0_OUTCOME_GENERAL
+Our operatives report feeling humbled and uplifted by the experience, and have gained insights that may benefit our entire organization.
+Nos agents rapportent se sentir touchés et exaltés par cette expérience. Ils disent avoir acquis une sagacité dont peut bénéficier notre organisation.
+# AN18_CHOICE_0_TEXT
+Participate.
+Participer.
+# AN18_CHOICE_1_OUTCOME_GENERAL
+Perhaps another time. For now we must focus on the world in front of us, not the stars.
+Peut-être une autre fois. Pour l'instant, nous devons nous concentrer sur le monde devant nous plutôt que les étoiles.
+# AN18_CHOICE_1_TEXT
+Do not participate.
+Ne pas participer.
+# AN18_TEXT_GENERAL_0
+The Rite of the Clear Sky, performed today at [HavenName], is an act of imagination: each participant must meditate and imagine themselves looking up into a clear sky, and from there to the stars, and to the universe beyond. While doing this, they must seek to understand what it would take to reach out to those stars, and to compare their current, limited bodies with the bodies that would be required to ascend into the sky.[n][n]It's an exhausting process, both mentally and physically, but participating would show that we take the teachings of the Exalted seriously.
+Le rite du Ciel pur, réalisé aujourd'hui au refuge [HavenName] est un acte de l'imagination : chaque participant doit méditer et s'imaginer en train de regarder un ciel pur, puis les étoiles et l'univers au-delà. Ce faisant, il doit chercher à comprendre ce qu'il faudrait pour atteindre les étoiles et comparer son corps limité actuel au corps qui lui permettrait d'atteindre le ciel.[n][n]C'est un processus épuisant, tant du point de vue physique que mental, mais y participer prouverait que nous prenons les enseignements de l'Exaltée au sérieux.
+# AN18_TITLE
+Rite of the Clear Sky
+Rite du Ciel pur
+# AN19_CHOICE_0_OUTCOME_GENERAL
+The ritual begins with a short reading from the Gospel of the Exalted, Chapter IV: "Here were written all the names of all the faiths that had misled Man, promising salvation in the future world, yet offering nothing in the world of flesh. Yet Man knew in his heart that it was the flesh that was corrupt, and it was there that the healing must begin." [n][n]This segues into an odd, almost koan-like parable about how easily people are misled, and how the purpose of the Exalted is different than that of the false prophets.
+Le rituel commence avec une brève lecture de l'Évangile de l'Exaltée, Chapitre IV : « Ici étaient écrits tous les noms de toutes les fois qui avaient fourvoyé l'Homme, promettant son salut dans le monde futur, mais n'offrant rien dans le monde de chair. L'Homme savait pourtant dans son cœur que c'était la chair qui était pervertie et que c'était là que la guérison devait commencer. »[n][n]Puis débute une parabole étrange d'inspiration koan insistant sur la facilité avec laquelle les gens sont fourvoyés et qui déclare que le but de l'Exaltée est différent de celui des faux prophètes.
+# AN19_CHOICE_0_TEXT
+Participate.
+Participer.
+# AN19_CHOICE_1_OUTCOME_GENERAL
+The Exalted is clever: her fake religion has an element of self-awareness, trying to quench criticisms before they arise. But the trust she asks for is no different from blind faith.
+L'Exaltée est futée : sa fausse religion contient un élément de conscience de soi, tentant d'étouffer les critiques avant même que celles-ci ne soient exprimées. Mais la confiance qu'elle demande ne diffère en rien d'une foi aveugle.
+# AN19_CHOICE_1_TEXT
+Openly reject the ritual.
+Rejeter ouvertement le rituel.
+# AN19_CHOICE_2_OUTCOME_GENERAL
+"Not everyone is ready for the Rite of Trust," says a local priest. "After all, you need to learn to trust us first."
+« Tout le monde n'est pas prêt à se soumettre au rite de Confiance », informe un prêtre local. « Après tout, il faut d'abord apprendre à faire confiance. »
+# AN19_CHOICE_2_TEXT
+Politely decline.
+Décliner poliment.
+# AN19_TEXT_GENERAL_0
+Our operatives have been asked to participate in the Rite of Trust. Performed today at [HavenName], this ritual involves stories and riddles that seek to recontextualize the faith of the Disciples in the Exalted: to teach that it's not a matter of blindly following someone, as the false prophets of the past demanded, but of trusting her as you trust a friend, knowing her intent is good even if you don't always understand her actions.
+Nos agents ont été invités à participer au rite de Confiance. Réalisé aujourd'hui au refuge [HavenName], ce rituel inclut des histoires et des énigmes visant à remettre dans son contexte la foi que les Disciples ont en l'Exaltée ; il a pour but d'enseigner qu'il ne s'agit pas de suivre aveuglément quelqu'un, tel que les faux prophètes du passé l'exigeaient, mais de lui faire confiance comme si c'était une amie, en sachant que son intention est bonne, même si ses actions ne sont pas toujours comprises.
+# AN19_TITLE
+Rite of Trust
+Rite de Confiance
+# AN1_CHOICE_0_OUTCOME_GENERAL
+After a few experiments, our operatives determine that the problem lies with an unknown microorganism that has infested the haven. Its metabolic waste includes several derivatives of cinnamic acid, which inhibit growth in the fungi the Disciples grow for food.
+Après quelques expériences, nos agents déterminent que le problème vient d'un microorganisme inconnu qui a infesté le refuge. Ses excrétions métaboliques incluent plusieurs dérivés d'acide cinnamique, ce qui empêche la croissance des champignons que les Disciples cultivent pour se nourrir.
+# AN1_CHOICE_0_TEXT
+Investigate the problem.
+Examiner le problème.
+# AN1_CHOICE_1_OUTCOME_GENERAL
+Exarch [HavenLeader] expresses sadness at our choice, but promises to pray for us to the Dead God.
+L'exarque [HavenLeader] exprime sa tristesse au vu de votre décision, mais promet de prier pour nous auprès du Dieu défunt.
+# AN1_CHOICE_1_TEXT
+Refuse the request.
+Refuser la requête.
+# AN1_TEXT_GENERAL_0
+Lately the inhabitants of [HavenName] have been struggling to produce enough food for the entire population; despite their best efforts, the Field of Transubstantiation is not growing properly. Their Anagnostes, who would normally find the source of such a problem, is unfortunately away on a pilgrimage. They plead for our help.
+Ces derniers temps, les habitants du refuge [HavenName] ont du mal à produire assez de nourriture pour toute la population ; malgré leurs efforts, le champ de transsubstantiation ne donne pas de bonnes récoltes. Leur anagnoste, qui normalement trouverait la source d'un tel problème, est malheureusement en pèlerinage. Ils nous implorent de les aider.
+# AN1_TITLE
+Feed the Hungry
+Donner à manger aux affamés
+# AN20_CHOICE_0_OUTCOME_GENERAL
+Resources are resources, and we need all the help we can get. Even if there's something unsettling about the Shadowed Hierarch and all the things he seems to know.
+Des ressources sont des ressources, et tout peut servir. Même s'il y a quelque chose de troublant concernant le Hiérarque des Ombres et tout ce qu'il semble savoir.
+# AN20_CHOICE_0_TEXT
+Accept the gift.
+Accepter le don.
+# AN20_CHOICE_1_OUTCOME_GENERAL
+We don't need gifts from unpredictable shadow figures. This feels too much like being manipulated.
+Nous n'avons pas besoin de cadeaux de personnages imprévisibles des ombres. Ça ressemble bien trop à une tentative de manipulation.
+# AN20_CHOICE_1_TEXT
+Reject it.
+Le rejeter.
+# AN20_TEXT_GENERAL_0
+At [HavenName], our operatives are surprised to find a package waiting for them. It contains highly valuable electronic parts and a note from the Shadowed Hierarch: "Thought these might come in handy with some of the issues you've been having recently. Remember: the Exalted has a plan, and that's more than can be said about anyone else." [n][n]According to the locals, the Hierarch passed through weeks ago, so it's unclear how he knew our operatives would come here.
+Au refuge [HavenName], nos agents sont surpris de trouver un colis qui les attend. Il contient des pièces électroniques de grande valeur et une note du Hiérarque des Ombres : « J'ai pensé que ceci pourrait vous être utile pour régler les soucis que vous avez depuis peu. N'oubliez pas que l'Exaltée a un plan, contrairement à n'importe qui d'autre. »[n][n]D'après les habitants, le Hiérarque est passé au refuge il y a quelques semaines, nous avons donc du mal à comprendre comment il a su que nos agents viendraient ici.
+# AN20_TITLE
+From the Shadows
+De la part des Ombres
+# AN21_CHOICE_0_OUTCOME_GENERAL
+"Thank you! Thank you very much!" [HavenLeaderForename] says with a big smile. "Thanks to the Phoenix Project, the people of [HavenName] will have a feast to remember! And if I'm right, that will give them enough strength to keep going for a while longer. Not forever, but... maybe until we win this war."
+« Merci ! Merci beaucoup ! » s'exclame [HavenLeaderForename] avec un grand sourire. « Grâce au Projet Phoenix, les gens du refuge [HavenName] auront un festin mémorable ! Et si je ne me trompe pas, cela leur donnera assez de force pour continuer un peu. Pas pour toujours... mais peut-être jusqu'à ce que nous gagnions cette guerre. »
+# AN21_CHOICE_0_TEXT
+Agree to the trade.
+Accepter l'échange.
+# AN21_CHOICE_1_OUTCOME_GENERAL
+"Thank you! Thank you so very much! Your generosity is astounding," [HavenLeaderForename] says with a big smile. "Thanks to the Phoenix Project, the people of [HavenName] will have a feast to remember! And if I'm right, that will give them enough strength to keep going for a while longer. Not forever, but... maybe until we win this war."
+« Merci ! Merci mille fois ! Votre générosité est incroyable », s'exclame [HavenLeaderForename] avec un grand sourire. « Grâce au Projet Phoenix, les gens du refuge [HavenName] auront un festin mémorable ! Et si je ne me trompe pas, cela leur donnera assez de force pour continuer un peu. Pas pour toujours... mais peut-être jusqu'à ce que nous gagnions cette guerre. »
+# AN21_CHOICE_1_TEXT
+Donate the food.
+Faire don de la nourriture.
+# AN21_CHOICE_2_OUTCOME_GENERAL
+"That's all right," the Exarch says. "I understand that the Phoenix Project has its own priorities."
+« Pas de soucis, continue l'exarque, je sais que le Projet Phoenix a d'autres priorités. »
+# AN21_CHOICE_2_TEXT
+Refuse the trade.
+Refuser l'échange.
+# AN21_TEXT_GENERAL_0
+Exarch [HavenLeaderSurname] of [HavenName] is offering a trade: building materials in exchange for food. The haven isn't starving, but there's a big festival coming up and supplies are inadequate for what she's imagining. [n][n]"Look, if I may be honest for a second," she says. "Call me [HavenLeaderForename], by the way. So, look, this isn't really about religion. We just need a good day, you know? Just one really good day to give everyone hope."
+L'exarque [HavenLeaderSurname] du refuge [HavenName] propose un échange : des matériaux de construction contre de la nourriture. Le refuge ne meurt pas de faim, mais un grand festival approche et les provisions ne conviennent pas pour ce qu'elle imagine.[n][n]« Écoutez, je dois être honnête », dit-elle. « Appelez-moi [HavenLeaderForename] au fait. Donc, il ne s'agit pas vraiment de religion. Nous avons juste besoin d'un bon jour, vous comprenez ? Juste un très bon jour pour redonner un peu d'espoir. »
+# AN21_TITLE
+A Good Day
+Un bon jour
+# AN22_CHOICE_0_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] makes sure to explain the Exalted's teachings correctly: the Pandoravirus is not in itself a good thing, and the Great Flood is not to be celebrated. What is to be celebrated is how this tragedy broke the old systems and the old faiths, giving humanity a chance to reconsider, to pick a new path.
+L'exarque [HavenLeaderSurname] veille à bien expliquer les enseignements de l'Exaltée : le Pandoravirus n'est pas en soi une bonne chose et le Grand Déluge n'est pas à fêter. En revanche, ce qu'il faut célébrer, c'est que cette tragédie a brisé les anciens systèmes et les vieilles croyances, donnant ainsi à l'humanité une possibilité de reconsidérer et de choisir une nouvelle voie.
+# AN22_CHOICE_0_TEXT
+Participate.
+Participer.
+# AN22_CHOICE_1_OUTCOME_GENERAL
+Assuming that only a catastrophe could allow humanity to change course is a deeply misanthropic belief that rejects not only human ingenuity, but all human agency. Such a belief is contradicted by the entirety of human history, in which human beings frequently overthrew old systems because they believed in something better, and the world did gradually improve.
+Supposer que seule une catastrophe pouvait permettre à l'humanité de changer de cap est une croyance d'une profonde misanthropie qui rejette non seulement l'ingénuité humaine, mais également le facteur humain. Cette croyance est en contradiction avec toute l'histoire humaine qui indique que les êtres humains ont régulièrement renversé d'anciens systèmes, car ils croyaient en quelque chose de mieux. Et le monde s'est ainsi progressivement amélioré.
+# AN22_CHOICE_1_TEXT
+Condemn the misanthropy of this ritual.
+Condamner la misanthropie de ce rituel.
+# AN22_CHOICE_2_OUTCOME_GENERAL
+It would be better to stay out of this. Let the people of [HavenName] celebrate their ritual without strangers getting involved.
+Ce serait préférable de ne pas se mêler à cela. Laisser le peuple du refuge [HavenName] célébrer son rituel sans l'interférence d'étrangers.
+# AN22_CHOICE_2_TEXT
+Do not participate.
+Ne pas participer.
+# AN22_TEXT_GENERAL_0
+Today the people of [HavenName] are performing the Rite of the Black Star, one of the darker, more unsettling rituals of the Disciples of Anu. Its purpose is to remind the faithful of the greed that once ruled the world, perverting all of humankind's efforts, and how nothing could break the grip of that greed - not politics, not technology, not even religion. Only the Great Flood, the apocalypse brought on by the Pandoravirus, gave our species a second chance.
+Aujourd'hui, les habitants du refuge [HavenName] accomplissent le rite de l'Étoile noire, l'un des rituels les plus sinistres et troublants des Disciples d'Anu. Son objectif est de rappeler aux fidèles l'avidité qui régnait jadis dans ce monde, pervertissant toutes les activités humaines, et que rien ne pouvait briser l'emprise de cette avidité : ni les politiques, ni la technologie, ni même la religion. Seul le Grand Déluge, l'apocalypse provoquée par le Pandoravirus, a pu donner une deuxième chance à notre espèce.
+# AN22_TITLE
+Rite of the Black Star
+Rite de l'Étoile noire
+# AN23_CHOICE_0_OUTCOME_GENERAL
+The list of questions is surprisingly long, delving into a huge variety of minute details, from types of mushrooms observed in ruined buildings to when and where rations are consumed. None of it's classified information, and not much of it seems that useful, but the Anagnostes is satisfied, and gives our operatives a copy of the promised book.
+La liste de questions est incroyablement longue, passant à la loupe le moindre détail, des types de champignons observés aux bâtiments en ruine, en passant par le moment et l'endroit où les rations sont consommées. Rien n'est classifié, et peu de ces informations semblent utiles, mais l'anagnoste est satisfaite et donne à nos agents un exemplaire du livre promis.
+# AN23_CHOICE_0_TEXT
+Agree.
+Accepter.
+# AN23_CHOICE_1_OUTCOME_GENERAL
+We don't have time for this. The Anagnostes will have to find her information somewhere else.
+Nous n'avons pas le temps de répondre à ces questions. L'anagnoste devra trouver ses informations ailleurs.
+# AN23_CHOICE_1_TEXT
+Refuse.
+Refuser.
+# AN23_TEXT_GENERAL_0
+The Anagnostes of [HavenName] would like to ask our operatives some questions about their experiences in the field. In exchange for this information she is willing to share a copy of the Book of the Inner Workings, a compilation of scientific insights produced under the guidance of the Shadowed Hierarch.
+L'anagnoste du refuge [HavenName} souhaite poser quelques questions à nos agents concernant leurs expériences sur le terrain. En échange de ces informations, elle accepte de partager un exemplaire du Recueil sur les Mécanismes internes, une compilation d'informations scientifiques produite sous la direction du Hiérarque des Ombres.
+# AN23_TITLE
+Inner Workings
+Les Mécanismes internes
+# AN24_CHOICE_0_OUTCOME_GENERAL
+The young woman is relieved to know that others think this is a good idea, too. [n][n]"I want to be better," she says. "I really think we can evolve, as a species. It's the only way to survive on this planet. This crazy idea my dad has that one day everything will go back to normal... I know he misses my mom, but the old world isn't coming back, and neither is she. And, I guess... neither am I."
+La jeune femme est soulagée d'apprendre que les autres pensent également que c'est une bonne idée.[n][n]« Je veux être une meilleure personne », dit-elle. « Je pense vraiment que nous pouvons évoluer, en tant qu'espèce. C'est le seul moyen de survivre sur cette planète. Mon père a cette idée farfelue que tout reviendra à la normale un jour... Je sais que ma mère lui manque, mais l'ancien monde ne reviendra pas, et elle non plus. Et je suppose que moi non plus. »
+# AN24_CHOICE_0_TEXT
+Encourage her to convert.
+L'encourager à se convertir.
+# AN24_CHOICE_1_OUTCOME_GENERAL
+She thinks about it, but ultimately decides to stay. [n][n]"Changing myself scares me," she admits. "But I really think we can evolve, as a species. It's the only way to survive on this planet. This crazy idea my dad has that one day everything will go back to normal... I know he misses my mom, but the old world isn't coming back, and neither is she. And, I guess... neither am I."
+Elle y réfléchit, mais décide finalement de rester.[n][n]« Changer me fait peur, admet-elle, mais je pense vraiment que nous pouvons évoluer, en tant qu'espèce. C'est le seul moyen de survivre sur cette planète. Mon père a cette idée farfelue que tout reviendra à la normale un jour... Je sais que ma mère lui manque, mais l'ancien monde ne reviendra pas, et elle non plus. Et je suppose que moi non plus. »
+# AN24_CHOICE_1_TEXT
+Encourage her to go back home.
+L'encourager à rentrer chez elle.
+# AN24_CHOICE_2_OUTCOME_GENERAL
+In the chaos of the slums, someone disappearing can easily go unnoticed. A drop-off point is arranged and the young woman's father shows up in person to collect her.[n][n]"Tobias West personally gave me this vehicle so I could get here as quickly as possible," he tells our operatives. "He understands how important it is to save every single person we can from this cult. Thank you. Thank you for saving my daughter. She won't understand right now, but hopefully one day, she will."
+Dans le chaos des bidonvilles, la disparition de quelqu'un peut facilement passer inaperçue. Un point de rencontre est arrangé et le père de la jeune femme vient la chercher en personne.[n][n]« Tobias West a personnellement mis son véhicule à ma disposition pour que je puisse arriver ici le plus vite possible », dit-il à nos agents. « Il comprend l'importance de sauver chaque individu de cette secte. Merci. Merci d'avoir sauvé ma fille. Ce sera difficile dans l'immédiat, mais j'espère qu'avec le temps, elle comprendra. »
+# AN24_CHOICE_2_TEXT
+Kidnap her and return her to her father.
+L'enlever pour la ramener à son père.
+# AN24_CHOICE_3_OUTCOME_GENERAL
+What people choose to do with their lives based on their beliefs is none of our business. Whether we agree or disagree, having the freedom to believe what you want is a human right. What are we fighting for if not that?
+Ce que les gens choisissent de faire de leur vie en fonction de leurs croyances ne nous regarde pas. Que nous soyons d'accord ou non, la liberté de croyance est un droit humain. Sinon, pour quoi nous battons-nous ?
+# AN24_CHOICE_3_TEXT
+This is a matter of religious freedom. We can't get involved.
+C'est une question de liberté de religion. Nous ne pouvons pas nous impliquer.
+# AN24_TEXT_GENERAL_0
+At [HavenName], our operatives are approached by a young woman. She is uninfected, but has been selected to be taken to the Chamber of Baptism and anointed with the Waters of Life - that is, deliberately exposed to the Pandoravirus. The effects of the Pandoravirus will then be disrupted by the secret methods of the Disciples, allowing her body to transform but keeping her mind free.
+Au refuge [HavenName], une jeune femme aborde nos agents. Elle n'est pas infectée, mais elle a été sélectionnée pour être escortée à la Chambre de baptême et bénie par les Eaux de vie, ce qui signifie qu'elle sera intentionnellement exposée au Pandoravirus. Les effets du virus seront ensuite interrompus par les méthodes secrètes des Disciples, permettant à son corps de se transformer tout en gardant son esprit sain.
+# AN24_TEXT_GENERAL_1
+The young woman is the daughter of a high-ranking New Jericho officer. He has sent several messages demanding the conversion be stopped and his daughter returned to him. She has no intention of returning, however, having abandoned New Jericho to seek out the teachings of the Exalted. Still, she is nervous, and asks for advice.
+La jeune femme est la fille d'un officier haut placé de la Nouvelle-Jéricho. Il a envoyé plusieurs messages exigeant l'annulation de la conversion et le retour de sa fille. Toutefois, elle n'a aucune intention de revenir : elle a abandonné la Nouvelle-Jéricho pour rechercher les enseignements de l'Exaltée, mais cela ne l'empêche pas d'être nerveuse et de demander conseil.
+# AN24_TITLE
+The Waters of Life
+Les Eaux de vie
+# AN25_CHOICE_0_OUTCOME_GENERAL
+Anagnostes Ninshubur is impressed by our operatives. [n][n]"Clearly the Phoenix Project teaches its people some useful skills!" she laughs. "Although you do look a little worse for wear. As a reward for your bravery, I will teach you some of my personal training methods. Help you get a little bit closer to that physical perfection we must all strive for."
+L'anagnoste Ninshubur est impressionnée par nos agents.[n][n]« De toute évidence, le Projet Phoenix enseigne à ses agents quelques compétences utiles ! » dit-elle en riant. « Même si vous êtes en piteux état. Pour récompenser votre courage, je vais vous enseigner quelques-unes de mes méthodes d'entraînement. Cela devrait vous aider à vous rapprocher un peu de cette perfection physique que nous devons tous viser. »
+# AN25_CHOICE_0_TEXT
+Participate.
+Participer.
+# AN25_CHOICE_1_OUTCOME_GENERAL
+"Cowards!" Anagnostes Ninshubur barks, but then she laughs. "We can't expect people to participate in this kind of event unprepared. We are not offended by your rejection."
+« Bande de lâches ! » aboie l'anagnoste Ninshubur, puis elle rit. « Nous ne pouvons pas nous attendre à ce que les gens participent à ce genre d'événement sans préparation. Votre refus ne nous vexe pas. »
+# AN25_CHOICE_1_TEXT
+Decline.
+Refuser.
+# AN25_TEXT_GENERAL_0
+The Rite of the Crimson Moon is about to be performed at [HavenName]. This rite is dedicated to teaching the faithful the value of physical struggle in support of spiritual goals. Invented by former decathlete Anagnostes Ninshubur, who is personally present today, and blessed by the Exalted herself, the Rite of the Crimson Moon is a brutal challenge that should not be undertaken lightly.[n][n]Anagnostes Ninshubur extends an invitation to participate to our operatives. She would love to see whether the Phoenix Project can handle such a physical trial.
+Le rite de la Lune pourpre est sur le point de commencer au refuge [HavenName]. Ce rite veut enseigner aux fidèles la valeur de la lutte physique visant à appuyer les objectifs spirituels. Inventé pas l'ancienne décathlonienne, l'anagnoste Ninshubur, présente en ce jour et bénie par l'Exaltée en personne, le rite de la Lune pourpre est un défi brutal qui ne doit pas être entrepris à la légère.[n][n]L'anagnoste Ninshubur invite également nos agents à participer. Elle serait ravie de voir si le Projet Phoenix peut endurer une telle épreuve physique.
+# AN25_TITLE
+Rite of the Crimson Moon
+Rite de la Lune pourpre
+# AN26_CHOICE_0_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] is highly pleased by the deal we have struck, promising that the Phoenix Project will be credited on the plaque that will be attached to the statue's pedestal.
+L'exarque [HavenLeaderSurname] est enchanté par notre accord, promettant que le Projet Phoenix recevra tout le mérite qui lui est dû sur la plaque qui sera fixée au piédestal de la statue.
+# AN26_CHOICE_0_TEXT
+Trade materials for food.
+Échanger des matériaux contre de la nourriture.
+# AN26_CHOICE_1_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] is highly pleased by the deal we have struck, promising that the Phoenix Project will be credited on the plaque that will be attached to the statue's pedestal.
+L'exarque [HavenLeaderSurname] est enchanté par notre accord, promettant que le Projet Phoenix recevra tout le mérite qui lui est dû sur la plaque qui sera fixée au piédestal de la statue.
+# AN26_CHOICE_1_TEXT
+Trade materials for tech.
+Échanger des matériaux contre de la technologie
+# AN26_CHOICE_2_OUTCOME_GENERAL
+When he hears of our generous donation, Exarch [HavenLeaderSurname] is overcome with emotion, promising that the Phoenix Project will be credited on the plaque that will be attached to the statue's pedestal.
+Lorsqu'il apprend que vous avez fait un don généreux, l'exarque [HavenLeaderSurname] est très ému et promet que le Projet Phoenix recevra tout le mérite qui lui est dû sur la plaque qui sera fixée au piédestal de la statue.
+# AN26_CHOICE_2_TEXT
+Donate materials.
+Donner des matériaux.
+# AN26_CHOICE_3_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] is disappointed by our lack of appreciation for the Apostle to the Once-Born and all that he or she has done for the world.
+L'exarque [HavenLeaderSurname] est déçu par votre manque d'appréciation de l'apôtre des Incroyants et de tout ce qu'il ou elle a fait pour ce monde.
+# AN26_CHOICE_3_TEXT
+Reject deal.
+Rejeter l'accord.
+# AN26_TEXT_GENERAL_0
+[HavenName] claims to be the birthplace of the Apostle to the Once-Born, the missionary-like figure sent to bring foreign havens into the Anu fold. Although there is no real proof of this in any of the canonical texts, Exarch [HavenLeaderSurname] has decided to build a massive statue to honor the Apostle. All that's lacking is the right materials to build it with. Exarch [HavenLeaderSurname] is prepared to offer us a really good deal if we can help him. This is a one-time offer.
+On prétend que le refuge [HavenName] est le lieu de naissance de l'apôtre des Incroyants, un personnage similaire à un missionnaire envoyé pour assujettir les refuges étrangers à Anu. Bien qu'il n'en existe aucune preuve concrète dans les textes canoniques, l'exarque [HavenLeaderSurname] décide de construire une gigantesque statue en l'honneur de l'apôtre. Il ne manque que les bons matériaux pour l'ériger. L'exarque [HavenLeaderSurname] est prêt à passer un accord attractif si nous pouvons l'aider. C'est une offre unique.
+# AN26_TITLE
+Idols
+Idoles
+# AN27_CHOICE_0_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] is relieved. "Let me tell you, in some ways things were a lot easier before we joined the Disciples. Well, not easier. Less complicated. But it's never been easy. And at least the Exalted has a vision for the future."
+L'exarque [HavenLeaderSurname] est soulagé : « Je dois admettre que, d'une certaine façon, les choses étaient plus simples avant que nous rejoignions les Disciples. Enfin, pas plus simples. Moins compliquées. Mais rien n'a jamais été simple. Au moins, l'Exaltée a une vision pour l'avenir. »
+# AN27_CHOICE_0_TEXT
+Help out in exchange for resources.
+L'aider en échange de ressources
+# AN27_CHOICE_1_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] is relieved and deeply grateful. "Let me tell you, in some ways things were a lot easier before we joined the Disciples. Well, not easier. Less complicated. But it's never been easy. And at least the Exalted has a vision for the future. I hope the Phoenix Project will be part of that vision."
+L'exarque [HavenLeaderSurname] est soulagée et très reconnaissante : « Je dois admettre que, d'une certaine façon, les choses étaient plus simples avant que nous rejoignions les Disciples. Enfin, pas plus simples. Moins compliquées. Mais rien n'a jamais été simple. Au moins, l'Exaltée a une vision pour l'avenir. J'espère que le Projet Phoenix fera partie de cette vision. »
+# AN27_CHOICE_1_TEXT
+Help out for free.
+L'aider gratuitement.
+# AN27_CHOICE_2_OUTCOME_GENERAL
+The Blind Legate judges situations based not on hierarchy, but truth. And the truth is that the Anagnostes has prioritized his personal needs over those of the haven, and must do penance. Exarch [HavenLeaderSurname] thanks us for our assistance, praising the Phoenix Project for being a unique force for good within the Disciples.
+Le Légat aveugle juge les situations en fonction, non pas de la hiérarchie, mais de la vérité. Et la vérité est que l'anagnoste a répondu en priorité à ses besoins personnels avant de satisfaire ceux du refuge. Il doit faire pénitence. L'exarque [HavenLeaderSurname] nous remercie de notre aide et fait l'éloge du Projet Phoenix, celui-ci représentant une force singulière pour le bien au sein des Disciples.
+# AN27_CHOICE_2_TEXT
+Appeal to the Blind Legate.
+Faire appel au Légat aveugle.
+# AN27_CHOICE_3_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] sighs. "I guess I'll have to try trading with Synedrion then," she says. "But by the time they're done arguing about what to do half our haven will have fallen apart."
+L'exarque [HavenLeaderSurname] soupire : « Je suppose que je vais devoir faire du commerce avec le Synédrion, dans ce cas », dit-elle. « Mais quand ils auront fini de se disputer sur la marche à suivre, la moitié du refuge se sera effondrée. »
+# AN27_CHOICE_3_TEXT
+Reject deal.
+Rejeter l'accord.
+# AN27_TEXT_GENERAL_0
+Exarch [HavenLeaderSurname] of [HavenName] is desperate: a lot of her haven's ordinary machinery is breaking down, but the haven's Anagnostes has taken all the spare parts for his Hallowed Machines. [n][n]"It's a funny thing, being an Exarch," she tells our operatives. "In theory you're in charge of the haven, but there are a lot of other forces at play, and sometimes you end up having no authority at all. Right now all I can do is hope you're willing to trade."
+L'exarque [HavenLeaderSurname] du refuge [HavenName] est désespérée : nombre des machines ordinaires sont en panne, mais l'anagnoste du refuge a récupéré toutes les pièces de rechange pour ses Machines sacrées.[n][n]« C'est intéressant d'être exarque », annonce-t-elle à nos agents. « En théorie, je suis responsable du refuge, mais il y a bien d'autres forces en jeu et parfois, je n'ai aucune autorité. Dans l'immédiat, je ne peux qu'espérer que vous soyez disposés à faire un échange. »
+# AN27_TITLE
+The Exarch Blues
+Mélancolie de l'exarque
+# AN28_CHOICE_0_OUTCOME_GENERAL
+The soldier grins. "I... I get to join the Phoenix Project? Wow. The Exalted must have blessed me in my sleep. I can't believe this is happening!"
+Le soldat sourit : « Je... je peux rejoindre le Projet Phoenix ? Ouah. L'Exaltée a dû me bénir pendant que je dormais. Je n'arrive pas à y croire ! »
+# AN28_CHOICE_0_TEXT
+Recruit him.
+Le recruter.
+# AN28_CHOICE_1_OUTCOME_GENERAL
+It's hard for him to accept, but probably true. The haven needs every good soldier it can get, especially with how things have been going lately.
+C'est difficile pour lui de l'accepter, mais c'est probablement vrai. Le refuge a besoin de tous les bons soldats qu'il peut trouver, en particulier au vu de la situation récente.
+# AN28_CHOICE_1_TEXT
+Tell him his haven needs him.
+Lui dire que son refuge a besoin de lui.
+# AN28_CHOICE_2_OUTCOME_GENERAL
+The soldier is crushed not only by the rejection, but by the realization that the Phoenix Project could harbor such prejudice. He spits on the ground before heading back into the haven.
+Le soldat est anéanti non seulement par le rejet, mais aussi par la réalisation que le Projet Phoenix peut nourrir de tels préjugés. Il crache par terre, puis retourne au refuge.
+# AN28_CHOICE_2_TEXT
+Reject him as a filthy mutant.
+Le rejeter, car c'est un sale mutant.
+# AN28_TEXT_GENERAL_0
+One of the Anu soldiers at [HavenName] is asking to join the Phoenix Project. He's been an admirer of our organization ever since hearing about it when he was a child, and now that it's more than just a legend, he wants to do his best to contribute to our cause. [n][n]"I've been training ever since I heard the Phoenix Project was back," he says. "You know, I never believed all the lies they told about you. If the governments of the old world had supported you when it mattered... well, I guess it is what it is. But I want to help."
+L'un des soldats d'Anu au refuge [HavenName] demande à rejoindre le Projet Phoenix. Il admire notre organisation depuis qu'il en a entendu parler lorsqu'il était petit, et maintenant que c'est plus qu'une légende, il veut faire de son mieux pour contribuer à notre cause.[n][n]« Je m'entraîne depuis que j'ai entendu dire que le Projet Phoenix était de retour », dit-il. « Vous savez, je n'ai jamais cru aux mensonges à votre sujet. Si les gouvernements de l'ancien monde vous avaient appuyés au bon moment... Enfin, c'est la vie. Mais, je veux vous aider. »
+# AN28_TITLE
+Convictions
+Convictions
+# AN29_CHOICE_0_OUTCOME_GENERAL
+The end product of our efforts may not match the truly great editions of the past, but given present circumstances, it's a huge success. The young poet thanks our operatives with tears in his eyes; he never thought he would get to create something so beautiful. The Exalted will be pleased.
+Le produit final de nos activités peut ne pas égaler les grandes versions du passé, mais étant donné les circonstances présentes, c'est un grand succès. Le jeune poète remercie nos agents les larmes aux yeux ; il n'a jamais pensé qu'il aurait la chance de créer quelque chose de si beau. L'Exaltée sera enchantée.
+# AN29_CHOICE_0_TEXT
+Let's get it printed.
+Demander une version imprimée.
+# AN29_CHOICE_1_OUTCOME_GENERAL
+The Phoenix Project shouldn't be getting involved in this issue, but if the people of [HavenName] really love his poetry so much, they should force their leadership to change its ways. That is the spirit of democracy.
+Le Projet Phoenix ne devrait pas s'impliquer, mais si les habitants du refuge [HavenName] aiment tant la poésie, ils devraient convaincre leur dirigeant de changer d'attitude. C'est le principe de la démocratie.
+# AN29_CHOICE_1_TEXT
+Tell him to ask his people for support.
+Lui dire de demander le soutien de son peuple.
+# AN29_CHOICE_2_OUTCOME_GENERAL
+This isn't poetry, it's religious propaganda disguised as art. The Phoenix Project will not support the spread of dogmatic beliefs that ultimately benefit the Pandoravirus.
+Ce n'est pas de la poésie, c'est de la propagande religieuse déguisée en art. Le Projet Phoenix n'encouragera pas la propagation de croyances dogmatiques qui finissent par bénéficier au Pandoravirus.
+# AN29_CHOICE_2_TEXT
+Condemn this sick filth.
+Condamner cette saleté malsaine.
+# AN29_CHOICE_3_OUTCOME_GENERAL
+Not getting involved is exactly what the [HavenName] leadership expected of us.
+Ne pas nous impliquer est exactement ce que les dirigeants du refuge [HavenName] attendaient de nous.
+# AN29_CHOICE_3_TEXT
+Don't get involved.
+Ne pas intervenir.
+# AN29_TEXT_GENERAL_0
+At [HavenName], a young poet is making a name for himself. Inspired by the teachings of the Exalted, he has written an epic in verse that is part spiritual vision of the future, part guide to letting go of the old world. Despite the heavy subject matter, it's easy to read and entertaining, even humorous. Humankind's flaws are explained in ways that get loud laughs from audiences, and there is an overall feeling of hope.[n]
+Au refuge [HavenName], un jeune poète commence à se faire un nom. Inspiré par les enseignements de l'Exaltée, il a écrit une épopée sous forme de poésie représentant une vision spirituelle de l'avenir, ainsi qu'un guide pour tourner la page de l'ancien monde. C'est un thème lourd et pourtant, son œuvre est facile à lire et divertissante, voire comique. Les défauts de l'humanité sont abordés d'une manière qui fait rire le public et donne en même temps un sentiment général d'espoir.
+# AN29_TEXT_GENERAL_1
+The poet would like to produce a beautiful printed edition of the work as a present for the Exalted, but the haven leadership is less than enthusiastic, insisting that the only thing really worth reading is the Gospel of the Exalted, so he has turned to us for help.
+Le poète souhaiterait produire une belle édition imprimée de son œuvre en guise de cadeau pour l'Exaltée, mais le dirigeant du refuge n'aime guère l'idée et insiste que le seul recueil qui vaille la peine d'être lu est l'Évangile de l'Exaltée. Le poète se tourne donc vers nous pour obtenir de l'aide.
+# AN29_TITLE
+Epic Poetry
+Épopée poétique
+# AN2_CHOICE_0_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] is pleased that we have chosen to share our information, but saddened that things have not gotten better. To thank us, he offers some of the haven's food supply.
+L'exarque [HavenLeaderSurname] est ravi que vous ayez choisi de partager nos informations, mais attristé que la situation ne se soit pas améliorée. Pour nous remercier, il nous offre une partie des provisions alimentaires du refuge.
+# AN2_CHOICE_0_TEXT
+Inform them about the current situation.
+L'informer de la situation actuelle.
+# AN2_CHOICE_1_OUTCOME_GENERAL
+Exarch [HavenLeaderSurname] is extremely pleased. He commends us to the Dead God and his true prophet, the Exalted. There are many here who have family in other havens, he says, and they will finally be able to speak to their loved ones again, all thanks to the Phoenix Project. He asks his people to reward us generously.
+L'exarque [HavenLeaderSurname] est extrêmement ravi. Il fait l'éloge de nos actions auprès du Dieu défunt et de sa vraie prophétesse, l'Exaltée. « De nombreuses personnes ici ont de la famille dans d'autres refuges, dit-il, et chacun va enfin pouvoir contacter ses proches grâce au Projet Phoenix ». Il demande à son peuple de nous récompenser généreusement.
+# AN2_CHOICE_1_TEXT
+Help them fix their communications systems.
+Les aider à réparer leurs systèmes de communication.
+# AN2_CHOICE_2_OUTCOME_GENERAL
+Horrified by our exaggarated tales, the people of [HavenName] retreat to their homes to pray to the god who seems to have abandoned them.
+Horrifiés par nos récits exagérés, les habitants du refuge [HavenName] rentrent chez eux pour prier le Dieu qui semble les avoir abandonnés.
+# AN2_CHOICE_2_TEXT
+Convince them things are even worse than they think.
+Les convaincre que la situation est pire qu'ils ne le pensent.
+# AN2_TEXT_GENERAL_0
+The inhabitants of [HavenName] welcome our operatives with smiles and questions about the outside world. It appears their long-range communications equipment has been malfunctioning for some time, and they know very little about what's been going on recently.
+Les habitants du refuge [HavenName] sont terrorisés par nos agents. Leur matériel de communication à longue portée semble ne pas fonctionner correctement depuis quelque temps et ils ont développé une certaine paranoïa des individus qui ne sont pas de leur refuge.
+# AN2_TITLE
+Cut Off
+Coupés du monde
+# AN30_CHOICE_0_OUTCOME_GENERAL
+It's a stopgap solution, but better than none. Hopefully soon humans will evolve to the point where they can deal with such problems more easily. A few skin mutations should do, although that won't prevent the damage the rain is doing to buildings and statues. "And they thought acid rain was bad," one of the haven's citizens murmurs.
+C'est une solution à court terme, mais c'est mieux que rien. En espérant que les humains évolueront rapidement au point où ils peuvent gérer ce genre de problèmes plus facilement. Quelques mutations dermatologiques devraient suffire, même si cela n'empêchera pas les dégâts des bâtiments et statues causés par la pluie. « Et ils croyaient que la pluie acide était une catastrophe », murmure l'un des citoyens du refuge.
+# AN30_CHOICE_0_TEXT
+Provide the basic materials necessary.
+Fournir les matériaux rudimentaires nécessaires.
+# AN30_CHOICE_1_OUTCOME_GENERAL
+We receive a message from the Blind Legate, assuring us that the matter will be taken care of immediately, and that other havens will also begin taking precautions against toxic rain. Exarch [HavenLeaderSurname] is very thankful.
+Nous recevons un message du Légat aveugle qui nous assure que l'affaire sera traitée immédiatement et que les autres refuges commenceront également à prendre des précautions contre la pluie toxique. L'exarque [HavenLeaderSurname] est très reconnaissant.
+# AN30_CHOICE_1_TEXT
+Reach out to the Anu leadership. They need to take this seriously.
+Contacter les dirigeants d'Anu. Ils doivent prendre cela au sérieux.
+# AN30_CHOICE_2_OUTCOME_GENERAL
+The Phoenix Project is a scientific organization, not an architectural firm.
+Le Projet Phoenix est une organisation scientifique, pas un cabinet d'architecture.
+# AN30_CHOICE_2_TEXT
+This is an internal matter.
+C'est une affaire interne.
+# AN30_TEXT_GENERAL_0
+Toxic rain, a side-effect of the planet's climatic transformation, has been falling on [HavenName] at unpredictable intervals, causing widespread damage and even ruining the last Rite of Hope. The haven urgently needs to add new insulation to its housing, no matter how rough, but there's so much that needs to be taken care of and so few resources.[n][n]"I've tried explaining this to the higher-ups, but I only have access to the Voiceless Hierophant and, well, I guess they don't call him that for nothing," the Exarch explains. "Perhaps... the Phoenix Project could lend a hand? There would be payment involved."
+Une pluie toxique, un effet secondaire des transformations climatiques de la planète, tombe sur le refuge [HavenName] à des intervalles imprévisibles, causant des dégâts considérables et ayant même ruiné le dernier rite de l'Espoir. Le refuge doit ajouter une nouvelle isolation à son logement, même sommaire, mais il y a beaucoup de choses à gérer et très peu de ressources.[n][n]« J'ai essayé d'expliquer ça aux dirigeants, mais je n'ai accès qu'au Hiérophante silencieux et je suppose qu'il n'a pas reçu ce nom pour rien », explique l'exarque. « Peut-être que... le Projet Phoenix pourrait nous prêter main-forte ? Avec paiement en contrepartie, bien entendu. »
+# AN30_TITLE
+Pernicious Precipitation
+Précipitations pernicieuses
+# AN31_TEXT_GENERAL_0
+Exarch [HavenLeaderSurname] is frustrated with the Phoenix Project.[n][n]"That you, who have such understanding of the stakes, of the real danger that we face, would fall back upon the methods of the old world - well, it is deeply upsetting," he says. "The Exalted showed us a new path, an opportunity to change ourselves. Why do you cling to a world that has already died?"
+L'exarque [HavenLeaderSurname] est frustré par le Projet Phoenix.[n][n]« Que vous, qui comprenez si bien ce qui est en jeu, le réel danger auquel nous faisons face, vous ayez recours aux méthodes de l'ancien monde ; eh bien, c'est très affligeant », déplore-t-il. « L'Exaltée nous a montré une nouvelle voie, une occasion d'évoluer. Pourquoi vous raccrochez-vous à un monde qui a déjà disparu ? »
+# AN31_TITLE
+The Dead Past
+Le passé disparu
+# AN32_TEXT_GENERAL_0
+Exarch  [HavenLeaderSurname] is not an admirer of the Phoenix Project and its relationship with Synedrion.[n][n]"I don't mind what you think of Synedrion as people," she says. "I'm sure there are good ones and bad ones. But their vision of the future is one that cannot survive the present crisis. Real, revelatory change is always painful, and they think they can change the world without suffering. It will not work."
+L'exarque [HavenLeaderSurname] n'est pas une fervente admiratrice du Projet Phoenix et de sa relation avec le Synédrion.[n][n]« Ce que vous pensez du Synédrion en tant que peuple m'importe peu », affirme-t-elle, « Je suis sûre qu'il est constitué de bonnes et de mauvaises personnes. Mais sa vision du futur ne peut pas survivre à la crise présente. Le réel changement révélateur est toujours douloureux et il pense pouvoir changer le monde sans souffrir. Cela ne fonctionnera pas. »
+# AN32_TITLE
+Transitions and Revelations
+Transitions et révélations
+# AN33_CHOICE_0_OUTCOME_GENERAL
+The priests at [HavenName] will be furious that a potential future Skeuophylax has escaped them, but it's clear that we've done the right thing for this person.
+Les prêtres du refuge [HavenName] seront furieux qu'un skeuophylax potentiel leur ait échappé, mais il est clair que nous avons pris la bonne décision pour cette personne.
+# AN33_CHOICE_0_TEXT
+Help him join Synedrion.
+L'aider à rejoindre le Synédrion.
+# AN33_CHOICE_1_OUTCOME_GENERAL
+The priests at [HavenName] will be furious that a potential future Skeuophylax has escaped them, but it's clear that we've done the right thing for this person.
+Les prêtres du refuge [HavenName] seront furieux qu'un skeuophylax potentiel leur ait échappé, mais il est clair que nous avons pris la bonne décision pour cette personne.
+# AN33_CHOICE_1_TEXT
+Help him join New Jericho.
+L'aider à rejoindre la Nouvelle-Jéricho.
+# AN33_CHOICE_2_OUTCOME_GENERAL
+The Phoenix Project is a science organization, not a taxi service.
+Le Projet Phoenix est une organisation scientifique, pas une compagnie de taxis.
+# AN33_CHOICE_2_TEXT
+Don't help him.
+Ne pas l'aider.
+# AN33_TEXT_GENERAL_0
+At [HavenName], an engineer approaches our operatives, begging them for help.[n][n]"I need to get out of here as quickly as possible," he says. "Please! They're going to expose me to the damn virus, I know it. I thought... I guess I thought they knew what they were doing. Adapting to the new world, you know? But they treat people like cattle. Doesn't matter what happens to individuals so long as it's part of the Exalted's grand plan. It's terrifying. I have tech I can share if you help me get as far away as possible from these lunatics."
+Au refuge [HavenName], un ingénieur aborde nos agents et les implore de l'aider.[n][n]« Je dois partir d'ici le plus vite possible », révèle-t-il. « S'il vous plaît ! Ils vont m'exposer à ce satané virus, je le sais. Je pensais... Je croyais qu'ils savaient ce qu'ils faisaient. S'adapter au nouveau monde, vous savez ? Mais ils traitent les gens comme du bétail. Ils se fichent de ce qui arrive aux individus tant que c'est dans le grand dessein de l'Exaltée. C'est effrayant. Je possède une technologie que je veux bien partager avec vous si vous m'aidez à m'éloigner le plus possible de ces fous. »
+# AN33_TITLE
+Exposure
+Exposition
+# AN34_CHOICE_0_OUTCOME_GENERAL
+The Anagnostes feels no guilt handing over information that is supposed to be part of the Sacred Mysteries; as far as she's concerned, they're neither sacred nor particularly mysterious.
+L'anagnoste ne se sent pas coupable de transmettre des informations censées faire partie des Mystères sacrés ; en ce qui la concerne, elles ne sont ni sacrées ni particulièrement mystérieuses.
+# AN34_CHOICE_0_TEXT
+Help the Anagnostes.
+Aider l'anagnoste.
+# AN34_CHOICE_1_OUTCOME_GENERAL
+The Phoenix Project is a science organization, not a taxi service.
+Le Projet Phoenix est une organisation scientifique, pas une compagnie de taxis.
+# AN34_CHOICE_1_TEXT
+Do not help.
+Ne pas l'aider.
+# AN34_TEXT_GENERAL_0
+At [HavenName], our operatives are approached by an apostatical Anagnostes.[n][n]"I've been living a lie for too long," she says. "I have little faith in the Exalted, and none at all in the Synod of Yearning. That triple-faced freak is nothing more than a monster in a fancy robe, and I'm tired. If you help me get out of here, I'm willing to sell you all the research data I've been working on."
+Au refuge [HavenName], une anagnoste apostatique aborde nos agents.[n][n]« Je vis dans un mensonge depuis bien trop longtemps », avoue-t-elle. « J'ai peu de foi en l'Exaltée et encore moins en le Synode de l'appétence. Ce monstre à trois visages n'est rien qu'une bête en robe sophistiquée et je suis fatiguée. Si vous m'aidez à quitter ces lieux, je suis prête à vous vendre toutes les données des recherches sur lesquelles je travaille. »
+# AN34_TITLE
+Faithless
+Sans foi
+# AN3_CHOICE_0_OUTCOME_GENERAL
+"You will always be welcome in [HavenName]," an old woman tells our operatives. "Not just because the hierarchy supports you, but because ordinary people believe in you. They even tell stories about you! You will help realize the vision of the Exalted."
+« Vous serez toujours les bienvenus à [HavenName] », déclare une vieille femme à nos agents. « Pas seulement parce que la hiérarchie vous appuie, mais parce que les gens ordinaires croient en vous. Il y a même des récits à votre sujet ! Vous contribuerez à la réalisation de la vision de l'Exaltée. »
+# AN3_CHOICE_0_TEXT
+Thank them.
+OK.
+# AN3_TEXT_GENERAL_0
+The inhabitants of [HavenName] are pleased to see our operatives. They believe that the Phoenix Project could help humanity achieve its next evolutionary step and so withstand the Pandoravirus. They're glad that we have joined their cause and gained the blessing of the Keeper of the Threshold. Even greater things await us, they assure our operatives.[n][n]To make sure we don't go hungry while saving the world, they share some of their food with us.
+Les habitants du refuge [HavenName] travaillent dans le champ de transsubstantiation, ils cultivent des masses de champignons étranges sur le corps des morts. Ils ne semblent pas enclins à parler à nos agents.
+# AN3_TITLE
+Folk Heroes
+Héros populaires
+# AN4_CHOICE_0_OUTCOME_GENERAL
+After the feast, with a few beers in them, the priests are quite jolly. They share funny and sometimes graphic stories about how they used to believe the world was doomed and all the foolish things they did in their despair, but how they utlimately found hope in the Exalted.
+Après le festin, et quelques bières, les prêtres sont guillerets. Ils partagent des histoires amusantes et parfois crues concernant leur ancienne croyance en un monde condamné et toutes les autres absurdités qu'ils faisaient dans leur désespoir, mais ils affirment aussi que l'Exaltée a fini par leur redonner espoir.
+# AN4_CHOICE_0_TEXT
+Thank them.
+OK.
+# AN4_TEXT_GENERAL_0
+[AircraftName] arrives at [HavenName] during the Rite of Hope, which reminds the faithful to look beyond the problems of the present and believe in a bright future. The citizens march through the haven chanting "Perfection is possible" and praising the Exalted, the first human being to approach said perfection. 
+Le vaisseau [AircraftName] arrive au refuge [HavenName] pendant le rite de l'Espoir, qui rappelle aux fidèles qu'il faut croire en un avenir prometteur. Les citoyens traversent le refuge en scandant : « la perfection est possible » et en louant l'Exaltée, le premier être humain à être proche de la perfection.
+# AN4_TEXT_GENERAL_1
+After the ceremony, there is a feast, and the priests share some of their provisions with our operatives.
+Après la cérémonie a lieu un festin et les prêtres partagent quelques-unes de leurs provisions avec nos agents.
+# AN4_TITLE
+Rite of Hope
+Rite d'Espoir
+# AN5_CHOICE_0_OUTCOME_GENERAL
+"Oh, it's nothing," he says. "I hope one day the Phoenix Project and the Disciples will be as one. Then we can work on all this cool stuff together. Oh, excuse me. I mean, we shall work on the Hallowed Machines in unison."
+« Oh, ce n'est rien », répond-il. « J'espère qu'un jour le Projet Phoenix et les Disciples seront unis. Nous pourrons alors œuvrer vers cet incroyable objectif ensemble. Oh, pardonnez-moi. Je veux dire que nous pourrons travailler sur les Machines sacrées à l'unisson. »
+# AN5_CHOICE_0_TEXT
+Thank him.
+OK.
+# AN5_TEXT_GENERAL_0
+At [HavenName], our operatives are received warmly. It would appear that the local Skeuophylax, or Keeper of the Vessels, is a great admirer of the Phoenix Project. "I used to read all the conspiracy sites, when there was an internet," he says. "Everyone else thought the Phoenix Project was evil, or just a myth, but I always hoped it was real, because an international science organization that fights aliens would just be so, so awesome. I mean, uh, such a thing would be like a blessing from the Dead God!"
+Au refuge [HavenName], le skeuophylax, ou gardien du trésor, est un grand admirateur du Projet Phoenix ; hélas, le reste du refuge n'est pas aussi accueillant.
+# AN5_TEXT_GENERAL_1
+Although he is not allowed to show our operatives the Hallowed Machines themselves, he takes the opportunity to share his insights and some of the devices he has built.
+Bien qu'il ne soit pas autorisé à montrer les Machines sacrées à nos agents, il saisit l'occasion pour partager ses idées et certains des dispositifs qu'il a fabriqués.
+# AN5_TITLE
+Number One Fan
+Grand admirateur
+# AN6_CHOICE_0_OUTCOME_GENERAL
+With our help, the refugees can start rebuilding their lives under the protection of the Disciples. They are still deeply traumatized by what they went through, but the teachings of the Exalted give them hope, and they express their gratitude to the Phoenix Project.
+La réticence initiale à accepter l'aide d'étrangers est finalement surmontée par le besoin humain de survivre. Les réfugiés expriment leur reconnaissance.
+# AN6_CHOICE_0_TEXT
+Contribute resources to help the refugees.
+Offrir des ressources pour aider les réfugiés.
+# AN6_CHOICE_1_OUTCOME_GENERAL
+A passing Hiereus quotes the Gospel of the Exalted, chapter four: "Here were written all the names of all the faiths that had misled Man, promising salvation in the future world, yet offering nothing in the world of flesh. Yet Man knew in his heart that it was the flesh that was corrupt, and it was there that the healing must begin."
+Un hiereus cite le chapitre quatre de l'Évangile de l'Exaltée : « Ici étaient écrits tous les noms de toutes les fois qui avaient fourvoyé l'Homme, promettant son salut dans le monde futur, mais n'offrant rien dans le monde de chair. L'Homme savait pourtant dans son cœur que c'était la chair qui était pervertie et que c'était là que la guérison devait commencer. »
+# AN6_CHOICE_1_TEXT
+Offer thoughts and prayers.
+Offrir des pensées et prières.
+# AN6_CHOICE_2_OUTCOME_GENERAL
+"None shall be brought to the Dead God by force," a priest assures our operatives. "But those who do not follow the path of the Exalted, who refuse the wisdom of the Synod of Yearning, cannot receive the divine blessings, and will never attain perfection."
+Nos exigences sont accueillies par un silence de pierre. Les Disciples ont perdu une douzaine de soldats en essayant de protéger les réfugiés ; l'opinion d'étrangers ne les intéresse pas.
+# AN6_CHOICE_2_TEXT
+Offer resources in exchange for guarantees that the refugees will be granted religious freedom.
+Offrir des ressources contre la garantie que les réfugiés bénéficieront de la liberté de religion.
+# AN6_CHOICE_3_OUTCOME_GENERAL
+A representative from Synedrion agrees that it would be appropriate to forget about whatever differences exist between Synedrion and the Disciples in order to help these refugees. Our common humanity is all we have, after all, even if we can't quite agree on what to do about it.
+Un représentant du Synédrion convient qu'il serait approprié d'oublier les différences qui existent entre le Synédrion et les Disciples afin d'aider ces réfugiés. Notre humanité est tout ce que nous avons, après tout, même si nous ne pouvons pas nous mettre d'accord sur ce que nous voulons en faire.
+# AN6_CHOICE_3_TEXT
+Ask Synedrion for assistance.
+Demander l'aide du Synédrion.
+# AN6_TEXT_GENERAL_0
+At [HavenName], the atmosphere is subdued. A massive caravan of refugees from the fallen haven of Balarama Bridge has just arrived, and many of them are still shaken by the disaster that claimed hundreds of lives. The priests are busy tending to the injured, but they are afraid that many will die in the next few days. "The human body is imperfect," one of the priests sighs. "But it's not only external injuries that claim lives. Memories, too, can kill, when kindness is in short supply."[n]
+Au refuge [HavenName], l'ambiance est morose. De nombreux habitants sont des réfugiés qui viennent d'arriver du refuge indépendant Pont de Balarama qui a été anéanti et ils sont encore secoués par la catastrophe qui a coûté des centaines de vies. Les prêtres s'affairent aux soins des blessés et sont peu disposés à parler aux infidèles.[n]
+# AN6_TITLE
+Haunted
+Hanté
+# AN7_CHOICE_0_OUTCOME_GENERAL
+The world is changing rapidly, the Anagnostes says, and understanding the new shape it is taking on will be essential to the survival and evolution of humanity.
+« Le monde change rapidement, dit l'anagnoste, et comprendre la nouvelle forme qu'il prend sera essentiel à la survie et à l'évolution de l'humanité. Une évolution à laquelle le Projet Phoenix pourrait choisir de prendre part, s'il le souhaite. »
+# AN7_CHOICE_0_TEXT
+Exchange information.
+Échanger des informations.
+# AN7_CHOICE_1_OUTCOME_GENERAL
+The Anagnostes shrugs. "I'm sure you have your reasons," he says.
+L'anagnoste hausse les épaules : « Je suis sûr que vous avez vos raisons », conclut-il.
+# AN7_CHOICE_1_TEXT
+Politely decline.
+Décliner poliment.
+# AN7_TEXT_GENERAL_0
+The Anagnostes of [HavenName], formerly a professor of geography at a major university of the old world, is highly interested in the Phoenix Project and proposes an information exchange.
+L'anagnoste du refuge [HavenName], ancien professeur de géographie dans une université prestigieuse de l'ancien monde, propose de partager des informations avec nos agents en échange de ressources pour ses études sacrées.
+# AN7_TITLE
+Maps of the Earth
+Cartes de la Terre
+# AN8_CHOICE_0_OUTCOME_GENERAL
+"These things were captured on the battlefield. We hope they shall be of use to you," the Skeuophylax says as a crate is delivered to our vehicle.
+Un autre rituel doit être accompli pour que le don soit accepté. Après cela, tout le monde semble un peu plus détendu qu'avant.
+# AN8_CHOICE_0_TEXT
+Accept the gifts.
+Faire un don pour améliorer les relations.
+# AN8_CHOICE_1_OUTCOME_GENERAL
+We have gravely offended the people of [HavenName]. The Shadowed Hierarch shall hear of this.
+Nous avons insulté les habitants du refuge [HavenName]. Le Hiérarque des Ombres va en entendre parler.
+# AN8_CHOICE_1_TEXT
+Decline the gifts.
+Les laisser en paix.
+# AN8_TEXT_GENERAL_0
+Things at [HavenName] are a little unsettled; a recent visit from the Shadowed Hierarch resulted in the previous Exarch disappearing overnight. Our operatives are greeted formally, with great attention paid to each necessary ritual.[n][n]After the rituals are concluded, the inhabitants present our operatives with gifts.
+La situation au refuge [HavenName] est un petit peu délicate ; une récente visite du Hiérarque des Ombres a entraîné la disparition soudaine de l'ancien exarque. Nos agents sont accueillis de façon formelle et une grande attention est portée à chaque rituel requis.[n]
+# AN8_TITLE
+Careful Now
+La prudence est de mise
+# AN9_CHOICE_0_OUTCOME_GENERAL
+As it turns out, the problem wasn't sabotage, but squirrels. Yellowish-purple glowing squirrels with strange frills, possibly incorporating nudibranch DNA. They've gnawed away at a lot of the machinery, but once located, they are easy enough to remove.
+Nous ne sommes peut-être pas d'accord avec les Disciples et leurs méthodes, mais nous partageons un objectif : la survie de l'humanité.
+# AN9_CHOICE_0_TEXT
+Offer assistance.
+Offrir votre aide.
+# AN9_CHOICE_1_OUTCOME_GENERAL
+The Skeuophylax shrugs and gets back to work. Despite her fancy title, she is an engineer at heart.
+La skeuophylakissa hausse les épaules et retourne travailler. Malgré son titre distingué, elle est ingénieure dans l'âme.
+# AN9_CHOICE_1_TEXT
+Wish her well.
+Leur souhaiter bonne chance.
+# AN9_CHOICE_2_OUTCOME_GENERAL
+While the Skeuophylax is distracted, our operatives strategically disable some of the most important industrial machinery in [HavenName]. There will be suspicions, but no proof it was us.
+Même s'ils ne pourront jamais prouver que nous sommes responsables de « l'accident », les Disciples auront du mal à nous considérer comme autre chose que des ennemis de l'Exaltée.
+# AN9_CHOICE_2_TEXT
+Sabotage the facilities even more.
+Saboter les fortifications.
+# AN9_TEXT_GENERAL_0
+When our operatives arrive at [HavenName], the local Skeuophylax is busy trying to repair the haven's production facilities, which were recently damaged by what she suspects was an act of sabotage.
+Au refuge [HavenName], tout le monde s'affaire à la construction de nouvelles fortifications. Nos agents sont invités à rester à l'écart, car ils sont apparemment soupçonnés d'être des saboteurs.
+# AN9_TITLE
+Sabotage!
+Sabotage !

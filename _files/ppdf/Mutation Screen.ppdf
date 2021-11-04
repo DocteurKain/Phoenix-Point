@@ -1,0 +1,60 @@
+﻿# KEY_GEOSCAPE_MUTAGENS
+Mutagens:
+Mutagènes :
+# KEY_GEOSCAPE_MUTATE
+MUTATE
+MUTER
+# KEY_GEOSCAPE_MUTATION_SLOTS
+Augmentation Slots Used:
+Emplacements d'augmentation utilisés :
+# KEY_MUTAGENS_TT
+Mutagens are used to mutate body parts
+Les mutagènes sont utilisés pour transformer les parties du corps.
+# KEY_MUTATION_LOCATION_BODY
+BODY MUTATION
+MUTATION DU CORPS
+# KEY_MUTATION_LOCATION_HEAD
+HEAD MUTATION
+MUTATION DE LA TÊTE
+# KEY_MUTATION_LOCATION_LEGS
+LEG MUTATION
+MUTATION DES JAMBES
+# KEY_MUTATION_PART_HEAD_ARMORED_LONG_DESCRIPTION
+Developed through Arthron DNA modification, the mutation grants 30 head armor and full daze immunity.
+Développée via la modification ADN d'Arthron, cette mutation octroie 30 points d'armure de tête et une immunité complète contre l'étourdissement.
+# KEY_MUTATION_PART_HEAD_PERCEPTOR_LONG_DESCRIPTION
+Based on Scylla DNA samples, the mutation enhances the senses, increasing Perception by 14 and Accuracy by 10%.
+Basée sur les échantillons ADN de Scylla, cette mutation enrichit les sens, augmentant la perception de 14 et la précision de 10 %
+# KEY_MUTATION_PART_HEAD_RESISTOR_LONG_DESCRIPTION
+Engineered through Siren gene modification, the mutation offers Poison and Virus resistance, while also increasing Willpower by +5.
+Conçue grâce à la modification du gène de Sirène, cette mutation offre une résistance au poison et au virus tout en octroyant +5 points de volonté.
+# KEY_MUTATION_PART_LEG_AGILE_LONG_DESCRIPTION
+Modified based on Arthron DNA, the mutation grants superior Speed as well as goo immunity and the ability to jump up one storey.
+Modifiée en fonction de l'ADN d'Arthron, cette mutation octroie une vitesse supérieure et une immunité contre la gelée, ainsi que la capacité de sauter jusqu'à un étage de hauteur.
+# KEY_MUTATION_PART_LEG_SNEAKER_LONG_DESCRIPTION
+Combining Triton and aquatic DNA, the mutation allows the ability to perform Electroshock kicks, as well as approach Sentinels without being detected.
+Combinant les ADN de Triton et aquatique, cette mutation permet de donner des coups de pied électriques, ainsi que d'approcher les Sentinelles sans se faire détecter.
+# KEY_MUTATION_PART_LEG_STOMPER_LONG_DESCRIPTION
+Created from Chiron DNA, the mutation grants additional +5 Strength, Stability Stance (20% ranged accuracy bonus in stance), and Stomping Attack (Shock Attack affecting a 5-tile radius, dazing targets if shock value > target Hit Points).
+Créée à partir de l'ADN de Chiron, cette mutation octroie +5 points de force, la position de stabilité (20 % bonus de précision à distance dans cette position) et l'attaque Piétinement (les dégâts électriques affectant un rayon de 5 cases, étourdissant les ennemis si la valeur électrique > points de vies de la cible).
+# KEY_MUTATION_PART_PRIEST1_LONG_DESCRIPTION
+Based on DNA from the Synod of Yearning, the mutation restores 2 Will Points to all friendly living entities within 7 tiles at the start of each turn. Additional +4 to Willpower.
+Basée dur l'ADN du Synode de l'appétence, cette mutation restaure 2 points de volonté à toutes les entités alliées dans un rayon de 7 cases au début de chaque tour. +4 points de volonté.
+# KEY_MUTATION_PART_PRIEST2_LONG_DESCRIPTION
+Created from DNA of from the Blind Legate, the mutation allows a priest to perform Instil Frenzy (increase Speed by 50% and make them immune to panic) on allied characters. Additional +8 to Willpower.
+Créée à partir de l'ADN du Légat aveugle, cette mutation permet à un prêtre de provoquer la frénésie de personnages alliés (augmente la vitesse de 50 % et les immunise contre la panique). +8 points de volonté.
+# KEY_MUTATION_PART_PRIEST3_LONG_DESCRIPTION
+Engineered from the Keeper of the Threshhold’s DNA, the mutation grants the ability to perform a Psychic Scream (reduces the Will Points of all enemy units in an 8 tile radius). Additional +4 to Willpower.
+Conçue à partir de l'ADN du Gardien du Seuil, cette mutation permet d'effectuer un cri psychique (retire les points de volonté de toutes les unités ennemies dans un rayon de 8 cases). +4 points de volonté.
+# KEY_MUTATION_PART_TORSO_REGEN_LONG_DESCRIPTION
+Based on Arthron DNA, the mutation has regeneration capabilities (restore 10 Hit Points to arms and torso at the end of each turn) and fire resistance.
+Basée sur l'ADN d'Arthron, cette mutation a des capacités de régénération (restaure 10 points de vie aux bras et au torse à la fin de chaque tour) et une résistance au feu.
+# KEY_MUTATION_PART_TORSO_SHOOT_LONG_DESCRIPTION
+Created through combination of aquatic DNA, the mutation makes it possible to shoot poisonous darts at short distances. The mutation prevents the use of two-handed weapons.
+Créée via une combinaison d'ADN aquatiques, cette mutation permet de lancer des fléchettes empoisonnées à de courtes distances. La mutation empêche l'utilisation des armes à deux mains.
+# KEY_MUTATION_PART_TORSO_TENTACLE_LONG_DESCRIPTION
+A pair of flexible tentacles that retaliate to any proximity attack. Based on electric eel DNA, the tentacles are capable of performing melee attacks that deal Paralyze damage.
+Une paire de tentacules flexibles qui ripostent après toute attaque à proximité. Basés sur l'ADN de l'anguille électrique, les tentacules peuvent réaliser des attaques au corps à corps qui infligent des dégâts de paralysie.
+# KEY_MUTATION_SLOTS_TT
+A maximum of two body sections can be mutated
+Deux parties du corps maximum peuvent être transformées.

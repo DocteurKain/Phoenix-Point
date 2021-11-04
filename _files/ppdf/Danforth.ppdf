@@ -1,0 +1,264 @@
+﻿# KEY_ASPIDA_ARM_DESCRIPTION
+Synedrion Aspida Tech Arm
+Bras technologique d'Aspida du Synédrion
+# KEY_ASPIDA_ARM_NAME
+TECH ARM
+BRAS TECHNOLOGIQUE
+# KEY_ASPIDA_ENGINE_DESCRIPTION
+Aspida ground effect thruster
+Propulseur terrestre d'Aspida
+# KEY_ASPIDA_ENGINE_NAME
+THRUSTER
+PROPULSEUR
+# KEY_ASPIDA_HULL_DESCRIPTION
+Aspida hull
+Coque d'Aspida
+# KEY_ASPIDA_HULL_NAME
+HULL
+COQUE
+# KEY_ASPIDA_SHIELDING_DESCRIPTION
+Aspida Shielding
+Bouclier d'Aspida
+# KEY_ASPIDA_SHIELDING_NAME
+SHIELDING
+BOUCLIER
+# KEY_BASE_ACTIVATE_CONFIRM_DESCRIPTION
+Initiating the activation protocols will consume resources to make the base operational. Any damaged facilities will need to be repaired.
+Lancer les protocoles d'activation consommera des ressources pour mettre la base en opération. Les installations endommagées ne seront pas réparées.
+# KEY_BASE_ACTIVATE_CONFIRM_NAME
+PHOENIX ACTIVATION PROTOCOL
+PROTOCOLE D'ACTIVATION DE PHOENIX
+# KEY_BASE_ACTIVATE_DESCRIPTION
+Activate Phoenix Base remotely, rendering it operational.
+Activez la base Phoenix à distance pour la mettre en opération.
+# KEY_BASE_ACTIVATE_NAME
+ACTIVATE BASE
+ACTIVER LA BASE
+# KEY_BASE_ACTIVATE_NOTIFICATION_ACTIVATED
+Phoenix Base is already operational.
+La base Phoenix est déjà opérationnelle.
+# KEY_BASE_ACTIVATE_NOTIFICATION_LIMIT
+You have reached the operational limit for Phoenix Bases. No more bases can be activated.
+Vous avez atteint la limite opérationnelle pour les bases Phoenix. Aucune autre base ne peut être activée.
+# KEY_BASE_ACTIVATE_NOTIFICATION_RESOURCES
+You do not have the enough resources to activate the base
+Vous n'avez pas assez de ressources pour activer la base
+# KEY_BASE_DISMISS_MUTOG
+Release Mutog, removing it from the Phoenix Project
+Libérez le Mutog, ceci le retirera du Projet Phoenix
+# KEY_BASE_DISMISS_MUTOG_PROMPT
+Are you sure you want to release {0}?
+Voulez-vous vraiment libérer {0} ?
+# KEY_BASE_DISMISS_MUTOG_RESULT
+{0} has been released
+{0} a été libéré
+# KEY_BASE_DISMISS_PERSON
+Dismiss soldier, removing them from the Phoenix Project. All equipment will be put in storage.
+Révoquez un soldat, ce qui le retirera du Projet Phoenix. Tout l'équipement sera mis en réserve.
+# KEY_BASE_DISMISS_PERSON_PROMPT
+Are you sure you want to dismiss {0}? If you do their equipment will be placed in storage.
+Voulez-vous vraiment révoquer {0} ? Si vous continuez, son équipement sera envoyé en réserve.
+# KEY_BASE_DISMISS_PERSON_RESULT
+{0} has been dismissed.
+{0} a été révoqué(e).
+# KEY_BASE_DISMISS_VEHICLE
+Remove vehicle from the Phoenix Project
+Supprimer le véhicule du Projet Phoenix
+# KEY_BASE_DISMISS_VEHICLE_PROMPT
+Are you sure you want to remove {0}?
+Voulez-vous vraiment supprimer {0} ?
+# KEY_BASE_DISMISS_VEHICLE_RESULT
+{0} has been abandoned
+{0} a été abandonné(e)
+# KEY_BASE_RECRUITS_ABILITIES
+ABILITIES
+CAPACITÉS
+# KEY_BASE_RECRUITS_AVAILABLE
+RECRUITS AVAILABLE IN {0} DAYS
+RECRUES DISPONIBLES DANS {0} JOURS
+# KEY_BASE_RECRUITS_DEPLOYMENT
+RECRUIT DEPLOYMENT
+DÉPLOIEMENT DE RECRUES
+# KEY_BASE_RECRUITS_RECRUIT_ACTION
+RECRUIT
+RECRUTER
+# KEY_BASE_RECRUITS_ROSTER_DESCRIPTION
+All volunteers available for recruiting at your base
+Tous les volontaires disponibles pour le recrutement dans votre base
+# KEY_BASE_RECRUITS_ROSTER_NAME
+RECRUITS
+RECRUES
+# KEY_BASE_RECRUITS_SPAWNED
+New recruits available.
+Nouvelles recrues disponibles.
+# KEY_BASE_RECRUIT_CONFIRMATION
+Are you sure you want to recruit {0} for {1}?
+Voulez-vous vraiment recruter {0} pour {1} ?
+# KEY_BASE_RECRUIT_DEPLOYMENT
+{0} has been recruited and deployed to base {1}
+{0} a été recruté(e) et déployé(e) à la base {1}
+# KEY_BASE_STATUS_RECRUITING_ATTACK
+INCOMING ATTACK
+ATTAQUE IMMINENTE
+# KEY_BASE_STATUS_RECRUITING_NORMAL
+ONLINE
+EN LIGNE
+# KEY_CONTINUOUS_ATTACK_DESCRIPTION
+Enemy reinforcements will arrive continuously from areas marked with this symbol
+Les renforts ennemis arriveront en continu depuis les zones qui portent ce symbole
+# KEY_GEOSCAPE_PANDORAN_CITADEL_DISCOVERED
+A Pandoran Citadel has been discovered and revealed on the Geoscape.
+Une Citadelle pandorienne a été découverte et révélée dans le Geoscape.
+# KEY_GEOSCAPE_PANDORAN_LAIR_DISCOVERED
+A Pandoran Lair has been discovered and revealed on the Geoscape.
+Une Tanière pandorienne a été découverte et révélée dans le Geoscape.
+# KEY_GEOSCAPE_PANDORAN_NEST_DISCOVERED
+A Pandoran Nest has been discovered and revealed on the Geoscape.
+Un Nid pandorien a été découvert et révélé dans le Geoscape.
+# KEY_LAUNCH_LASER_DESCRIPTION
+Fire laser at target location.
+Effectuez un tir laser sur l'emplacement cible.
+# KEY_LAUNCH_LASER_NAME
+LASER SHOT
+TIR LASER
+# KEY_LOAD_INVALID_TACTICAL
+This in-battle save is not compatible with the current version of the game. The game will revert the Geoscape just prior to the mission.
+Cette sauvegarde en combat n'est pas compatible avec la version actuelle du jeu. Le jeu reviendra au Geoscape juste avant la mission.
+# KEY_MANUFACTURING_STORAGE_INSUFFICIENT
+<color=#ECBA62> (insufficient storage space)</color>
+<color=#ECBA62> (espace à l'entrepôt insuffisant)</color>
+# KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE
+Diplomatic relations with the Haven are too low. The Heaven leader refuses to trade with you.
+Les relations diplomatiques avec le refuge sont trop faibles. Le chef du refuge refuse de commercer avec vous.
+# KEY_MESSAGE_NOT_ENOUGH_RESOURCES
+You do not have enough resources to perform this action.
+Vous n'avez pas assez de ressources pour réaliser cette action.
+# KEY_MESSAGE_NO_SPACE_INVENTORY
+No space in inventory
+Aucun espace dans l'inventaire.
+# KEY_MESSAGE_NO_SPACE_TO_RECRUIT
+THERE IS NOT ENOUGH SPACE IN YOUR AIRCRAFT FOR THE NEW RECRUIT
+VOUS N'AVEZ PAS ASSEZ DE PLACE DANS VOTRE VAISSEAU POUR LA NOUVELLE RECRUE
+# KEY_MESSAGE_SITE_UNREACHABLE
+The location is too far away to be reached directly.
+L'emplacement est trop loin pour y accéder directement.
+# KEY_MISSION_DEBRIEF_RESCUE
+NEW PERSONNEL
+NOUVEAU PERSONNEL
+# KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_DESCRIPTION
+Search the crates and obtain as many resource packs as possible.
+Examinez les caisses et obtenez le plus de packs de ressources possible.
+# KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME
+RESOURCE RAID
+RAID DE RESSOURCES
+# KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_DESCRIPTION
+Your entire team has been wiped out. No resources were claimed.
+Toute votre équipe a été éliminée. Aucune ressource n'a été récupérée.
+# KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_NAME
+RESOURCE RAID FAILED
+ÉCHEC DU RAID DE RESSOURCES
+# KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_DESCRIPTION
+Your team was successfully evacuated. All resources obtained from the mission are added to your resource pool.
+Votre équipe a été évacuée. Toutes les ressources obtenues dans cette mission sont ajoutées aux vôtres.
+# KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_NAME
+RESOURCE RAID SUCCESSFUL
+RAID DE RESSOURCES RÉUSSI
+# KEY_MISSION_RAID_RESOURCES_SITE_WARNING
+Warning! Resource Raid missions are much more dangerous if within a mist zone.
+Attention ! Les missions de raid de ressources dans les zones de brume sont beaucoup plus dangereuses.
+# KEY_MISSION_RAID_RESOURCES_SITE_WARNING_DESCRIPTION
+Be aware you will be facing a continuous stream of local reinforcements. Collect as much equipment and resources as you can from the crates and exit the site from an evacuation zone.
+Vous devrez affronter un flux continu de renforts locaux. Récupérez le plus d'équipement et de ressources possible dans les caisses et quittez le site depuis une zone d'évacuation.
+# KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC
+Take control of the vehicle located somewhere in the site and evacuate with it
+Prenez le contrôle du véhicule situé quelque part sur le site et évacuez.
+# KEY_MISSION_RECOVER_VEHICLE_BRIEFING_NAME
+RECOVER VEHICLE
+RÉCUPÉRER LE VÉHICULE
+# KEY_MISSION_RECOVER_VEHICLE_DEFEAT_DESC
+Your squad was wiped out
+Votre escouade a été éliminée.
+# KEY_MISSION_RECOVER_VEHICLE_DEFEAT_NAME
+RECOVERY FAILED
+ÉCHEC DE LA RÉCUPÉRATION
+# KEY_MISSION_RECOVER_VEHICLE_VICTORY_DESC
+All surviving soldiers and vehicles have been evacuated
+Tous les soldats survivants et les véhicules ont été évacués.
+# KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME
+RECOVERY MISSION OVER
+MISSION DE RÉCUPÉRATION TERMINÉE
+# KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC
+Take control of the independent soldiers and evacuate the site with them
+Prenez en charge les soldats indépendants et évacuez le site avec eux
+# KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_NAME
+RESCUE SOLDIERS
+SECOURIR LES SOLDATS
+# KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC
+Your squad was wiped out
+Votre escouade a été éliminée.
+# KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_NAME
+RESCUE FAILED
+ÉCHEC DU SAUVETAGE
+# KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC
+All surviving soldiers and vehicles have been evacuated
+Tous les soldats survivants et les véhicules ont été évacués.
+# KEY_MISSION_RESCUE_SOLDIERS_VICTORY_NAME
+RESCUE MISSION OVER
+MISSION DE SAUVETAGE TERMINÉE
+# KEY_OBJECTIVE_GET_SOLDIERS
+RESCUE SOLDIERS: {0}/{1}
+SOLDATS SECOURUS : {0}/{1}
+# KEY_OBJECTIVE_GET_VEHICLE
+RECOVER VEHICLE
+RÉCUPÉRER LE VÉHICULE
+# KEY_OBJECTIVE_PICK_RESOURCES
+RESOURCE PACKS COLLECTED: {0}/{1}
+PACKS DE RESSOURCES RÉCUPÉRÉS : {0}/{1}
+# KEY_OBJECTIVE_RECOVER_VEHICLE
+#RECOVER VEHICLE
+RÉCUPÉRER UN VÉHICULE
+# KEY_OBJECTIVE_RESCUE_ALLY
+#RESCUE ALLIES: {0}/{1}
+ALLIÉS DE SECOURS: {0} / {1}
+# KEY_RESOURCE_FOOD_DESCRIPTION
+Concentrated nutrient portions
+Portions de nutriments concentrés
+# KEY_RESOURCE_FOOD_NAME
+FOOD PACK
+PACK DE VIVRES
+# KEY_RESOURCE_MATERIALS_DESCRIPTION
+Construction materials
+Matériaux de construction
+# KEY_RESOURCE_MATERIALS_NAME
+MATERIAL PACK
+PACK DE MATÉRIAUX
+# KEY_RESOURCE_MUTAGENS_DESCRIPTION
+A capsule of active Pandoran mutagens.
+Une capsule de mutagènes actifs de Pandoriens.
+# KEY_RESOURCE_MUTAGENS_NAME
+MUTAGEN PACK
+PACK DE MUTAGÈNES
+# KEY_RESOURCE_TECH_DESCRIPTION
+High tech construction components
+Composants de construction de haute technologie
+# KEY_RESOURCE_TECH_NAME
+TECH PACK
+PACK TECHNOLOGIQUE
+# KEY_SCARAB_TIRE_DESCRIPTION
+Scarab caterpillar track
+Chenille du scarabée
+# KEY_SCARAB_TIRE_NAME
+TRACK
+CHENILLE
+# KEY_STATUS_AI_CONTROLLED_DESCRIPTION
+Reverted to autonomous AI control
+Retour au contrôle autonome de l'IA
+# KEY_STATUS_AI_CONTROLLED_NAME
+AUTONOMOUS
+AUTONOME
+# KEY_STATUS_REPAIR_TIME
+{0:f0}h to repair
+{0:f0} h pour réparer
+# KEY_WARNING_CONTINUOUS_ATTACK
+CONTINUOUS ATTACK
+ATTAQUE CONTINUE

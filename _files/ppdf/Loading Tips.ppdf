@@ -1,0 +1,120 @@
+﻿# KEY_GEOSCAPE_LOADING_TIP_1
+Relations with factions cannot progress to SUPPORTIVE (25-49) until you complete their diplomacy mission.
+Vous devez terminer la mission diplomatique d'une faction avant que vos relations ne puissent devenir FAVORABLES (25-49 points).
+# KEY_GEOSCAPE_LOADING_TIP_10
+You will need to complete a faction's special mission (see DIPLOMACY tab) in order to progress your relations with them to the next level (supportive, aligned, allied).
+Vous devrez terminer la mission spéciale d'une faction (voir l'onglet DIPLOMATIE) afin de pouvoir faire progresser vos relations jusqu'au niveau suivant (favorable, aligné, allié).
+# KEY_GEOSCAPE_LOADING_TIP_11
+It is important to activate Phoenix Bases near mist growth points to reveal Pandoran colonies when they attack havens.
+C'est important d'activer les bases Phoenix proches des points de génération de la brume pour révéler les colonies pandoriennes lorsque celles-ci attaquent les refuges.
+# KEY_GEOSCAPE_LOADING_TIP_2
+Defending havens from Pandoran attack is important for gaining favor with factions and earning resources.
+Défendre les refuges contre les attaques pandoriennes est important pour vous attirer la faveur des factions et obtenir des ressources.
+# KEY_GEOSCAPE_LOADING_TIP_3
+When a faction becomes SUPPORTIVE (25+), its havens will not require time consuming exploration when encountered.
+Lorsqu'une faction vous est FAVORABLE (25+), ses refuges vous sont révélés dès que vous les découvrez.
+# KEY_GEOSCAPE_LOADING_TIP_4
+When faction relations reach 50 you are ALIGNED - that faction will share its research with you.
+Lorsque vos relations avec une faction atteignent 50 points, vous devenez ALIGNÉS et la faction vous fait part de ses recherches.
+# KEY_GEOSCAPE_LOADING_TIP_5
+Explore areas covered by the mist to make contact with any havens there, and protect them if you can.
+Explorez les zones couvertes de brume pour établir le contact avec les refuges s'y trouvant, et protégez-les si vous le pouvez.
+# KEY_GEOSCAPE_LOADING_TIP_6
+Pandorans will build bases under mist cover, but their attack range can extend out of the mist.
+Les Pandoriens construiront des bases sur des zones couvertes de brume, mais leur portée d'attaque pourra s'étendre au-delà de la brume.
+# KEY_GEOSCAPE_LOADING_TIP_7
+When faction relations reach 75 you become ALLIED and that faction's full research tree is open to you for research.
+Lorsque vos relations avec une faction atteignent 75 points, vous devenez ALLIÉS et vous êtes libre d'effectuer des recherches sur la totalité de leur arbre de recherche.
+# KEY_GEOSCAPE_LOADING_TIP_8
+A fast way to progress your research is to steal it from other factions with a STEAL RESEARCH mission at a haven with a research center.
+Un moyen rapide de faire avancer vos recherches est de les voler auprès d'autres factions en effectuant une mission de VOL DE RECHERCHES dans un refuge équipé d'un centre de recherche.
+# KEY_GEOSCAPE_LOADING_TIP_9
+Most of the interesting technology is possessed by the factions - to get access to it, you need to ally with them or steal it from them.
+Une grande partie des technologies les plus intéressantes appartient aux factions. Pour y accéder, vous devez vous allier à elles, ou les voler.
+# KEY_TACTICAL_LOADING_TIP_1
+Mindfraggers can take control of your soldiers. A risky way to remove them is to aim at the victim’s head. Handguns work best.
+Les Corrupteurs peuvent prendre le contrôle de vos soldats. Un moyen risqué de s'en défaire est de viser la tête de la victime. Les armes de poing sont plus efficaces.
+# KEY_TACTICAL_LOADING_TIP_10
+Never forget to equip additional magazines for your troops. Having your soldier run out of ammo during a mission can render them useless on the field.
+Veillez à toujours équiper vos hommes de chargeurs supplémentaires. Un soldat sans munitions lors d'une mission est inutile sur le champ de bataille.
+# KEY_TACTICAL_LOADING_TIP_11
+It’s best to attack Sentinels with multiple soldiers and kill them in one turn, since they will activate their abilities on the next enemy turn.
+Il vaut mieux attaquer les Sentinelles avec plusieurs soldats et les éliminer en un seul tour, afin de les empêcher d'activer leurs compétences au prochain tour de l'ennemi.
+# KEY_TACTICAL_LOADING_TIP_12
+Use Overwatch to attack during the enemy turn at whoever passes through the cone area you have selected.
+Utilisez Vigilance pour attaquer durant le tour d'un ennemi quiconque passera dans un rayon préalablement sélectionné.
+# KEY_TACTICAL_LOADING_TIP_13
+Medkits will restore your Hit Points, but will not repair any limb damage. Once you leave a mission, limbs are repaired but the soldier is still injured.
+Les Médikits permettent de récupérer des points de vie mais ne réparent pas les membres endommagés. Après chaque mission, les membres sont réparés, mais les soldats demeurent blessés.
+# KEY_TACTICAL_LOADING_TIP_14
+If your soldier does not have the right class to use a weapon proficiently, accuracy will be lower. In case of melee weapons there's a chance to fumble the attack as well.
+Si votre soldat n'appartient pas à la bonne classe pour la maîtrise d'une arme particulière, sa précision sera plus faible. Dans le cas d'armes de contact, il y a une chance de rater l'attaque.
+# KEY_TACTICAL_LOADING_TIP_15
+In a scavenging mission, your goal is to collect resource packs from crates and escape from the map. Don't take too many risks!
+La compétence Course de l'Unité d'assaut permet à un soldat de se déplacer dans la moitié de son rayon de déplacement normal et coûte 1 point d'action.
+# KEY_TACTICAL_LOADING_TIP_16
+Mist spread during a mission will conceal Pandorans and restore their Will Points. If one of your soldiers is caught inside mist they will be revealed to the enemy and will lose Will Points.
+Les nappes de brume dissimuleront les Pandoriens durant les missions et restaureront leurs points de volonté. Si l'un de vos soldats se retrouve entouré de brume, il ne sera plus dissimulé aux yeux des ennemis et perdra des points de volonté.
+# KEY_TACTICAL_LOADING_TIP_17
+Vehicles can carry troops in them during a Mission and can also be used for scouting ahead due to their large movement range.
+Les véhicules peuvent transporter vos soldats durant une mission et peuvent également servir à partir en reconnaissance grâce à leur grande portée de mouvement.
+# KEY_TACTICAL_LOADING_TIP_18
+Sometimes a bleed wound can be fatal in just a few turns. If an enemy is bleeding and with low health, it might be best to conserve ammo for more dangerous targets.
+Une blessure peut parfois s'avérer fatale en quelques tours seulement. Si un ennemi se vide de son sang et que sa santé est basse, il serait peut-être plus judicieux de conserver vos munitions pour des cibles plus dangereuses.
+# KEY_TACTICAL_LOADING_TIP_19
+If your weapon or equipment takes enough damage, it will be destroyed.
+Votre arme ou votre équipement seront détruits s'ils reçoivent trop de dégâts.
+# KEY_TACTICAL_LOADING_TIP_2
+Always check your soldiers’ stamina when sending them on a mission. If they are tired, they will only get 3 APs, and only 2 if exhausted.
+Vérifiez toujours l'endurance de vos soldats avant de les envoyer en mission. S'ils sont fatigués, ils ne recevront que 3 PC, et seulement 2 s'ils sont épuisés.
+# KEY_TACTICAL_LOADING_TIP_20
+When moving next to a wall or high object, your soldier will stand ready to step to the side in order to shoot.
+Lorsque vous vous déplacez le long d'un mur ou d'un objet d'une certaine hauteur, votre soldat se tiendra prêt à faire un pas de côté pour tirer.
+# KEY_TACTICAL_LOADING_TIP_21
+When moving next to a low wall or obstacle your soldier will crouch, partially protecting the body from attack.
+Lorsque vous vous déplacez le long d'un mur ou d'un obstacle bas, votre soldat s'accroupira et son corps sera en partie protégé contre les attaques.
+# KEY_TACTICAL_LOADING_TIP_22
+Cover will only protect soldiers from damage if it is hit by enemy fire instead of the soldier. Any shots hitting the soldier will still do full damage.
+Les abris protègent uniquement les soldats s'ils sont touchés par des tirs ennemis à leur place. Si un soldat est touché, les dégâts reçus ne seront pas diminués.
+# KEY_TACTICAL_LOADING_TIP_23
+The realistic ballistic model means that each bullet has its own trajectory and will do damage independently of any other bullets fired in a burst.
+Dû à un modèle balistique réaliste, chaque balle possède une trajectoire qui lui est propre et infligera des dégâts indépendamment des autres balles.
+# KEY_TACTICAL_LOADING_TIP_24
+Effective Range is the range in tile positions at which the soldier can expect to hit a human sized target 50% of the time.
+La portée effective est la portée en cases dans laquelle un soldat peut espérer toucher une cible de taille humaine dans 50 % des cas.
+# KEY_TACTICAL_LOADING_TIP_25
+The armor level of a body part will prevent that much damage affecting Hit Points e.g. a damage value of 50 against armor of 20 will result in 30 Hit Points lost.
+Le niveau d'armure d'une partie du corps protègera les points de vie contre un nombre de dégâts équivalents. Par exemple, 50 points de dégâts contre 20 points d'armure résultera en une perte de 30 points de vie.
+# KEY_TACTICAL_LOADING_TIP_26
+Poison will inflict damage at the start of your turn, and then the poison value will reduce, and inflict less damage the next turn, until no poison is left.
+Poison infligera des dégâts au début de votre tour. Sa valeur sera ensuite réduite et infligera moins de dégâts au tour suivant, jusqu'à ce que le poison se soit dissipé.
+# KEY_TACTICAL_LOADING_TIP_27
+Viral damage will reduce Will Points at the start of your turn, then the virus will reduce and inflict less damage the next turn, until the virus is reduced to nothing.
+Les dégâts viraux réduiront vos points de volonté au début de votre tour. Le virus diminuera ensuite et infligera moins de dégâts au tour suivant, jusqu'à ce que le virus ait entièrement disparu.
+# KEY_TACTICAL_LOADING_TIP_28
+Acid damage attached to body parts will damage armor first, and then body parts. Remaining acid levels reduce each turn.
+Les dégâts caustiques sur des parties du corps infligent d'abord des dégâts à l'armure, puis au corps. Le niveau d’acide baisse à chaque tour.
+# KEY_TACTICAL_LOADING_TIP_29
+Paralysis damage will inflict an Action Point penalty based on the paralysis damage value compared to the target's strength. If paralysis value is greater than strength, then the victim is totally paralyzed.
+Les dégâts de paralysie pénaliseront les points d'action en fonction de la valeur des dégâts de paralysie par rapport à la force de la cible. Si la valeur de la paralysie est supérieure à celle de la force, la victime sera entièrement paralysée.
+# KEY_TACTICAL_LOADING_TIP_3
+Carrying a handgun can be life-saving when your arm has been disabled in battle. Double handed weapons require two hands to operate.
+Les armes de poing peuvent faire la différence entre la vie et la mort lorsque votre arme a été désactivée pendant un combat. Vos deux mains doivent être libres pour pouvoir utiliser une arme à deux mains.
+# KEY_TACTICAL_LOADING_TIP_4
+The Assault's Dash ability allows a soldier to move up to half its movement range for 1 Action Point.
+La compétence Course de l'Unité d'assaut permet à un soldat de se déplacer dans la moitié de son rayon de déplacement normal et coûte 1 point d'action.
+# KEY_TACTICAL_LOADING_TIP_5
+Heavy weapons weigh more and are held at waist level. Consider this when aiming from behind low cover.
+Les armes lourdes pèsent plus et se tiennent au niveau de la taille. Gardez ça à l'esprit lorsque vous visez depuis un abri bas.
+# KEY_TACTICAL_LOADING_TIP_6
+If you manage to destroy the floor below an enemy who has the high ground, they will fall down and take damage, depending on the height fallen.
+Si vous parvenez à détruire le sol sur lequel se tient un ennemi en hauteur, il tombera et subira des dégâts en fonction de sa chute.
+# KEY_TACTICAL_LOADING_TIP_7
+Beware of the Siren’s Psychic Scream, as it reduces your Will Points significantly and can easily send your troops into a state of panic.
+Prenez garde au Cri psychique des Sirènes : ce dernier réduit considérablement vos points de volonté et peut facilement semer la panique chez vos hommes.
+# KEY_TACTICAL_LOADING_TIP_8
+Panicked soldiers will act upon their basic instincts, usually running away and then recovering some Will Points.
+Les soldats paniqués réagiront en fonction de leurs instincts primaux, et prendront généralement la fuite avant de récupérer quelques points de volonté.
+# KEY_TACTICAL_LOADING_TIP_9
+Arthron shields are almost impossible to break with conventional firearms. You will need to have damage penetration, or move to flank them.
+Les boucliers des Arthrons sont quasiment indestructibles contre les armes à feu conventionnelles. Vous devrez leur infliger des dégâts perforants, ou vous placer de façon à pouvoir attaquer leurs flancs.

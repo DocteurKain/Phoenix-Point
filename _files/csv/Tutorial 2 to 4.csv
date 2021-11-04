@@ -1,0 +1,460 @@
+Key,English,French
+KEY_OPTIONS_SHOW_TACTICAL_HINTS,SHOW CONTEXT HINTS,AFFICHER LES INDICES CONTEXTUELS TACTIQUES
+KEY_TUT1_MISSIONEND,Get to the Scarab,Allez au Scarabée
+KEY_TUT2_4AP_DESCRIPTION,"Soldiers have 4 ACTION POINTS (APs) to use for movement, shooting and other actions each turn. 
+
+These actions can be performed in any order. 
+","Les soldats ont 4 POINTS D'ACTION (PA) à utiliser pour se déplacer, tirer et d'autres actions à chaque tour.
+ 
+ Ces actions peuvent être effectuées dans n'importe quel ordre."
+KEY_TUT2_4AP_NAME,4 Action Point System,Système à 4 points d'action
+KEY_TUT2_AMMO_OUT_DESCRIPTION,"Your weapon is OUT OF AMMO. You'll need to use the RELOAD (:RELOAD:) action to fire it again. 
+
+Reloading is only possible if you are carrying an AMMO MAGAZINE of the correct type. 
+
+Reloading costs 1 AP if the ammo is in your BACKPACK and 0 APs if it is in your READY SLOT.","Votre arme N'A PLUS DE MUNITIONS. Vous devrez utiliser l'action RECHARGER (:RELOAD:) pour continuer à tirer.
+ 
+ La recharge n'est possible que si vous transportez le bon type de CHARGEUR DE MUNITIONS.
+ 
+ La recharge coûte 1 PA si les munitions sont dans votre SAC À DOS et 0 PA si elles se trouvent dans votre EMPLACEMENT PRÊT."
+KEY_TUT2_AMMO_OUT_NAME,Tactical Tip: Reload,Astuce tactique : recharger
+KEY_TUT2_AP_NEEDED_DESCRIPTION_C,"This soldier doesn't have enough APs to pick up items.
+You'll be able to do this action NEXT TURN by pressing <size=60>:DLEFT:</size>.","Ce soldat n'a pas assez de PA pour récupérer des objets.
+ Vous pourrez effectuer cette action au PROCHAIN TOUR en appuyant sur <size=60>:DLEFT:</size>."
+KEY_TUT2_AP_NEEDED_DESCRIPTION_K,"This soldier doesn't have enough APs to pick up items.
+You'll be able to do this action NEXT TURN by pressing the Inventory icon (:INVENTORY:) on the action bar or [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Ce soldat n'a pas assez de PA pour récupérer des objets.
+ Vous pourrez effectuer cette action au PROCHAIN TOUR en appuyant sur l'icône de l'inventaire (:INVENTORY:) de la barre d'actions ou [<color=#ECBA62>{[SetInventoryAbility]}</color>]."
+KEY_TUT2_AP_NEEDED_NAME,Not Enough Action Points (APs),Points d'action (PA) insuffisants
+KEY_TUT2_ARMDISABLED_DESCRIPTION,"One of your arms is DISABLED.
+You won't be able to use two-handed weapons for the rest of the mission. 
+You can still use handguns, grenades, and medkits. 
+
+If you don't have a backup weapon, get one from a crate or a nearby ally.","L'un de vos bras est DÉSACTIVÉ.
+ Vous ne pourrez pas utiliser les armes à deux mains pendant le reste de la mission.
+ Vous pouvez toujours utiliser les pistolets, les grenades et les médikits.
+ 
+ Si vous n'avez pas d'arme de secours, prenez-en une dans une caisse ou auprès d'un allié à proximité."
+KEY_TUT2_ARMDISABLED_NAME,Arm Disabled,Bras désactivé
+KEY_TUT2_ARMOR_DESCRIPTION,"Your soldier is wearing armor, which reduces damage according to the armor value. 
+
+Different body parts may have different armor values according to the various armor types worn by the soldier.
+","Votre soldat porte une armure qui réduit les dégâts selon la valeur d'armure
+ 
+ Différentes parties du corps peuvent avoir différentes valeurs d'armure selon les types d'armures portées par le soldat."
+KEY_TUT2_ARMOR_NAME,Tactical Tip: Armor,Astuce tactique : armure
+KEY_TUT2_BANDIT,Bandit,Bandit
+KEY_TUT2_BASH_DESCRIPTION,"When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. 
+
+It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn.","Lorsque votre soldat est à côté d'un ennemi, vous pouvez effectuer l'attaque de contact COGNER (:BASH:).
+ 
+ Elle ne coûte que 1 point d'action, vous pouvez donc l'utiliser plusieurs fois sur un ennemi dans un même tour."
+KEY_TUT2_BASH_NAME,Tactical Tip: Bash,Astuce tactique : cogner
+KEY_TUT2_BLEEDINGEFFECT_DESCRIPTION,"When a character's limb is disabled, they get a BLEEDING (:BLEEDING:) status effect. Bleeding units lose Hit Points every turn until they die or get healed.
+","Lorsque le membre d'un personnage est désactivé, celui-ci subit l'état de SAIGNEMENT (:BLEEDING:). Les unités qui saignent perdent des points de vie à chaque tour jusqu'à ce qu'elles soient soignées ou meurent."
+KEY_TUT2_BLEEDINGEFFECT_NAME,Status Effect: Bleed,État : saignement
+KEY_TUT2_BLEEDINGSTATUS_DESCRIPTION,"Your soldier was hurt and now has a BLEEDING (:BLEEDING:) status effect. 
+Take care of your bleeding soldiers - they will keep losing Hit Points every turn until HEALED WITH A MEDKIT.","Votre soldat a été blessé et il subit maintenant l'état de SAIGNEMENT (:BLEEDING:).
+ Occupez-vous des soldats qui saignent, car ils perdent des points de vie à chaque tour jusqu'à ce qu'ils soient SOIGNÉS AVEC UN MÉDIKIT."
+KEY_TUT2_BLEEDINGSTATUS_NAME,Status Effect: Bleed,État : saignement
+KEY_TUT2_COVER_DESCRIPTION,"These hostiles are carrying FIREARMS, so don't leave your soldiers in the open.
+Taking cover next to obscuring terrain will grant your operatives some protection from the bandit's fire.","Ces ennemis sont équipés D'ARMES À FEU, alors ne laissez pas vos soldats à découvert.
+ En utilisant les éléments du terrain comme couverture, vos agents bénéficieront d'une certaine protection contre les tirs ennemis."
+KEY_TUT2_COVER_NAME,Tactical Tip: Take Cover!,Astuce tactique : abritez-vous !
+KEY_TUT2_CRATE_DESCRIPTION,"Crates usually contain useful items.
+
+Move the big gun, an Autocannon, to the top READY item slot, and pick up the ammo and medkit.
+
+Weapons and medkits can only be used if they're in the soldier's READY section.","Généralement, les caisses contiennent des objets utiles.
+ 
+ Mettez le canon, un canon automatique, sur l'emplacement d'objet PRÊT, et récupérez les munitions et le médikit.
+ 
+ Les armes et les médikits ne peuvent s'utiliser que s'ils sont dans la section PRÊT du soldat."
+KEY_TUT2_CRATE_NAME,Tactical Tip: Opening Crates,Astuce tactique : ouvrir des caisses
+KEY_TUT2_DASH_DESCRIPTION,"Experienced assault soldiers (:ASSAULT:) such as Sophia can spend Will Points to DASH (:DASH:), moving UP TO HALF THEIR MOVEMENT RANGE using only 1 AP.
+Soldiers can Dash up to twice per turn.","Les Unités d'assaut expérimentées (:ASSAULT:) telles que Sophia peuvent utiliser leurs points de volonté pour COURIR (:DASH:) et atteindre JUSQU'À LA MOITIÉ DE LEUR RAYON NORMAL DE DÉPLACEMENT en utilisant seulement 1 PA.
+ Les soldats peuvent courir deux fois par tour au maximum."
+KEY_TUT2_DASH_NAME,Tactical Tip: Dash,Astuce tactique : courir
+KEY_TUT2_DAZED_DESCRIPTION,"This character is DAZED (:DAZED:) 
+They will only have 1 AP and 50% accuracy for one turn, then return to normal.
+Soldiers get dazed when they take a lot of SHOCK DAMAGE from melee attacks or heavy weapons.","Ce soldat est ÉTOURDI (:DAZED:)
+ Il ne disposera que de 1 PA et 50 % de précision pendant un tour, puis il reviendra à la normale.
+ Les soldats sont étourdis quand ils subissent beaucoup de DÉGÂTS ÉLECTRIQUES causés par des attaques au corps à corps ou des armes lourdes."
+KEY_TUT2_DAZED_NAME,Daze,Étourdissement
+KEY_TUT2_ENEMYOVERWATCH_DESCRIPTION,"This bandit has set Overwatch. He will shoot at any Phoenix soldier who ENTERS HIS OVERWATCH CONE.
+
+Don't allow this to happen!","Cet ennemi a activé sa vigilance. Il tirera sur tout soldat Phoenix qui ENTRE DANS SA ZONE DE VIGILANCE.
+ 
+ Attention où vous mettez les pieds !"
+KEY_TUT2_ENEMYOVERWATCH_NAME,Overwatching Enemy,Ennemi en vigilance
+KEY_TUT2_ENEMY_FLEES_DESCRIPTION,Enemies that are too injured to fight will FLEE the battlefield.,Les ennemis qui sont trop blessés pour se battre FUIENT le champ de bataille.
+KEY_TUT2_ENEMY_FLEES_NAME,Fleeing Enemies,Ennemis en fuite
+KEY_TUT2_EXITSCARAB_DESCRIPTION,"You can exit the Scarab at any point by selecting the :EXITVEHICLE: option from the ACTION BAR. 
+",Sortez du scarabée quand vous le souhaitez en sélectionnant l'option :EXITVEHICLE: de la BARRE D'ACTIONS.
+KEY_TUT2_EXITSCARAB_NAME,Exit Scarab,Sortir du Scarabée
+KEY_TUT2_FAILEDMISSION_DESCRIPTION,"One of your soldiers has been killed, failing the mission. Don't give up!
+You should restart the mission, or reload from a save, and try again.
+Protect your soldiers and be mindful of your position at all times. Use cover, overwatch, and medkits, and keep your squad together to succeed.","L'un de vos soldats a été tué et la mission a échoué. N'abandonnez pas !
+ Vous devriez redémarrer la mission ou recharger une sauvegarde et réessayer.
+ Protégez vos soldats et faites attention à votre position à tout moment. Utilisez les couvertures, les zones de vigilance et les médikits pour que vos soldats restent groupés et réussissent."
+KEY_TUT2_FAILEDMISSION_NAME,Mission Failed,Échec de la mission
+KEY_TUT2_HEL_CANNON_DESCRIPTION,"The TYR-1 AUTOCANNON is a powerful heavy weapon with HIGH DAMAGE but LOW ACCURACY.
+
+Firing it costs 3 Action Points. Use it to deal with nearby enemies!","Le CANON MITRAILLEUR TYR-1 est une arme lourde puissante qui inflige des DÉGÂTS ÉLEVÉS, mais qui a une FAIBLE PRÉCISION.
+ 
+ Son utilisation coûte 3 points d'action. Utilisez-le pour éliminer les ennemis à proximité !"
+KEY_TUT2_HEL_CANNON_NAME,Tactical Tip: Tyr-1 Autocannon,Astuce tactique : canon mitrailleur Tyr-1
+KEY_TUT2_HIGH_COVER_DESCRIPTION,"Soldiers will stand behind walls and other tall obstacles to assume a HIGH COVER position.
+A soldier in HIGH COVER may SIDE STEP to shoot and then go back into cover. Sidestepping does not cost Action Points.","Les soldats se tiendront debout derrière des murs et autres obstacles élevés pour se mettre en position de COUVERTURE HAUTE.
+ Un soldat en position de COUVERTURE HAUTE peut faire un PAS DE CÔTÉ pour tirer avant de se remettre à couvert. Les pas de côté ne coûtent pas de points d'action."
+KEY_TUT2_HIGH_COVER_NAME,High Cover,Couverture haute
+KEY_TUT2_JETPACKJUMP_DESCRIPTION_C,"Heavy torso armor comes equipped with jetpacks allowing soldiers to FLY OVER OBSTACLES and reach very high points.  
+Use <size=60>:DUP:</size> and <size=60>:DDOWN:</size> to move the camera to reveal the HIGHEST LEVEL of the tower.
+The Jet Jump ability uses 3 APs.","Les torses de Mastodonte sont équipés de jetpacks permettant aux soldats de VOLER AU-DESSUS DES OBSTACLES et d'atteindre des points en hauteur.
+Utilisez :DUP: et :DDOWN: pour déplacer la caméra et révéler le POINT LE PLUS ÉLEVÉ de la tour.
+ La capacité Propulsion coûte 3 PA."
+KEY_TUT2_JETPACKJUMP_DESCRIPTION_К,"Heavy torso armor comes equipped with jetpacks allowing soldiers to FLY OVER OBSTACLES and reach very high points. 
+SCROLL :MW: UP to move the camera to reveal the HIGHEST LEVEL of the tower.
+The Jet Jump ability uses 3 APs.","Les torses de Mastodonte sont équipés de jetpacks permettant aux soldats de VOLER AU-DESSUS DES OBSTACLES et d'atteindre des points en hauteur.
+FAITES DÉFILER :MW: VERS LE HAUT pour déplacer la caméra et révéler le POINT LE PLUS ÉLEVÉ de la tour.
+ La capacité Propulsion coûte 3 PA."
+KEY_TUT2_JETPACKJUMP_NAME,"Tactical Tip: Jet Jump ",Astuce tactique : propulsion
+KEY_TUT2_LOW_COVER_DESCRIPTION,"Your operatives will always kneel next to low terrain to assume a LOW COVER position, potentially blocking some incoming fire.","Vos agents s'agenouilleront toujours derrière un obstacle bas pour se mettre en position de COUVERTURE BASSE, en bloquant potentiellement certains tirs ennemis."
+KEY_TUT2_LOW_COVER_NAME,Low Cover,Couverture basse
+KEY_TUT2_MEDKIT_DESCRIPTION,"MEDKITS are powerful tools that can RESTORE HIT POINTS and remove status effects like Bleeding and Poison. 
+
+1. Move next to a friendly soldier
+2. Select the USE MEDKIT (:MEDKIT:) action
+3. Select a target to heal","Les MÉDIKITS sont des outils très utiles qui peuvent RESTAURER DES POINTS DE VIE et retirer des états comme le saignement et le poison.
+
+ 1. Allez à côté d'un soldat allié
+ 2. Sélectionnez l'action UTILISER MÉDIKIT (:MEDKIT:)
+ 3. Sélectionnez une cible à soigner
+"
+KEY_TUT2_MEDKIT_NAME,Medkit,Médikit
+KEY_TUT2_MISSIONEND,Rescue Omar Ashour,Sauvez Omar Ashour
+KEY_TUT2_MOVEMENTZONES_DESCRIPTION,"A soldier can spend 1 AP to move a number of tiles based on their SPEED.
+
+The FOUR HIGHLIGHTED ZONES show you how far a soldier could go for each AP spent on movement.","Un soldat peut utiliser 1 PA pour se déplacer sur un certain nombre de cases en fonction de sa VITESSE.
+ 
+ Les QUATRE ZONES EN ÉVIDENCE indiquent jusqu'où un soldat peut aller avec chaque PA utilisé pour le déplacement."
+KEY_TUT2_MOVEMENTZONES_NAME,Movement аnd Action Points,Déplacement et points d'action
+KEY_TUT2_OMARRESCUED_DESCRIPTION,"Your squad has a new member.
+
+Omar is a HEAVY CLASS (:HEAVY:) soldier proficient in heavy weapons and armor. 
+He can deal massive damage from short ranges and withstand attacks, making him the ideal front line operative.","Votre escouade compte un nouveau membre.
+ Omar est un MASTODONTE (:HEAVY:) qui maîtrise les armes et les armures lourdes.
+ Il peut infliger des dégâts énormes à courte distance et résister aux attaques, ce qui en fait un soldat idéal sur le front."
+KEY_TUT2_OMARRESCUED_NAME,Omar Ashour Recruited,Omar Ashour recruté
+KEY_TUT2_OMARSELECTED_DESCRIPTION,"Omar has heavy armor, but NO WEAPON.
+The crate on top of the NEARBY TOWER might contain useful items.
+
+Move out of the building and USE THE JET JUMP
+(:JETJUMP:) ABILITY to get to the crate!","Omar est équipé d'une armure lourde, mais il n'a AUCUNE ARME.
+ La caisse en haut de la TOUR À PROXIMITÉ pourrait contenir des objets utiles.
+ 
+ Sortez du bâtiment et UTILISEZ LA CAPACITÉ
+ DE PROPULSION (:JETJUMP:) pour accéder à la caisse !"
+KEY_TUT2_OMARSELECTED_NAME,No Weapon,Aucune arme
+KEY_TUT2_OPENCRATE_DESCRIPTION_C,"You now have enough Action Points to OPEN THE CRATE.
+Select Inventory from the action bar or press <size=60>:DLEFT:</size>","Vous avez maintenant suffisamment de points d'action pour OUVRIR LA CAISSE.
+Sélectionnez l'inventaire dans la barre d'actions ou appuyez sur <size=60>:DLEFT:</size>."
+KEY_TUT2_OPENCRATE_DESCRIPTION_K,"You now have enough Action Points to TAKE ITEMS FROM THE CRATE.
+While standing next to it, select Inventory from the action bar or press [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Vous avez maintenant suffisamment de points d'action pour RÉCUPÉRER DES OBJETS DE LA CAISSE.
+ Lorsque vous êtes à côté, sélectionnez l'inventaire dans la barre d'actions ou appuyez sur [<color=#ECBA62>{[SetInventoryAbility]}</color>]."
+KEY_TUT2_OPENCRATE_NAME,Action Points Restored,Points d'action restaurés
+KEY_TUT2_OVERWATCH_DESCRIPTION_C,"The Overwatch ability (:OVERWATCH:) allows you to fire within an area during the enemy’s turn. If an enemy enters the OVERWATCH CONE, your soldier automatically shoots.
+
+OVERWATCH CONTROLS
+Select target position: <size=60>:LTS:</size>
+Change width of overwatch zone:  <size=60>:LB:</size> and <size=60>:RB:</size>
+Confirm Overwatch: <size=60>:A:</size>","La capacité Vigilance (:OVERWATCH:) vous permet de garder une zone pendant le tour de l'ennemi. Si un ennemi entre dans la ZONE DE VIGILANCE, votre soldat tire automatiquement.
+ 
+ COMMANDES DE VIGILANCE
+ Sélectionner la position cible : <size=60>:LTS:</size>
+ Modifier la largeur de la zone : <size=60>:LB:</size> et <size=60>:RB:</size>
+ Confirmer Vigilance : <size=60>:A:</size>"
+KEY_TUT2_OVERWATCH_DESCRIPTION_K,"The Overwatch ability (:OVERWATCH:) allows you to fire within an area during the enemy’s turn. If an enemy enters the OVERWATCH CONE, your soldier automatically shoots.
+
+OVERWATCH CONTROLS
+Select target position: Move Mouse
+Change width of overwatch zone: CTRL + :MW:
+Confirm Overwatch: :LMB:","La capacité Vigilance (:OVERWATCH:) vous permet de tirer dans une zone pendant le tour de l'ennemi. Si un ennemi entre dans la ZONE DE VIGILANCE, votre soldat tire automatiquement.
+ 
+ COMMANDES DE VIGILANCE
+ Sélectionner la position cible : déplacez la souris
+ Modifier la largeur de la zone : CTRL + :MW:
+ Confirmer Vigilance : :LMB:"
+KEY_TUT2_OVERWATCH_NAME,Overwatch,Vigilance
+KEY_TUT2_PANIC_DESCRIPTION,"When a character's Will Points drop to 0, they become PANICKED (:PANIC:). 
+Panicked characters will automatically move to find cover and end their turn.","Lorsque les points de volonté d'un personnage tombent à 0, il entre en état de PANIQUE (:PANIC:).
+  Les personnages paniqués se déplacent automatiquement pour se mettre à l'abri et terminent leur tour."
+KEY_TUT2_PANIC_NAME,Tactical Tip: Panic,Astuce tactique : panique
+KEY_TUT2_REALISTICBALLISTICS_DESCRIPTION,"Firefights in Phoenix Point use REALISTIC BULLET PHYSICS.
+Taking cover behind terrain will obscure parts of your soldiers, making them less exposed to enemy gunfire. 
+
+Plan your positioning carefully, taking into account the size and shape of cover elements.","Dans Phoenix Point, les échanges de coups de feu sont basés sur la PHYSIQUE RÉELLE DES BALLES.
+ Se mettre à couvert derrière des éléments du terrain dissimule certaines parties du corps de vos soldats, réduisant leur exposition aux tirs ennemis.
+ 
+ Planifiez bien vos positions en prenant en compte la taille et la forme des éléments de couverture."
+KEY_TUT2_REALISTICBALLISTICS_NAME,Realistic Ballistics,Balistique réaliste
+KEY_TUT2_RECOVER_DESCRIPTION,"Your Will Points are critically low. You can recover half of your maximum WPs by using the RECOVER (:RECOVER:) ability. This requires all 4 Action Points, so make sure your soldier is in a safe place when you use it.","Vos points de volonté sont extrêmement bas. Vous pouvez récupérer la moitié de vos PVo maximum en utilisant la capacité RÉCUPÉRER (:RECOVER:). Celle-ci nécessite 4 points d'action, alors veillez à ce que votre soldat soit en lieu sûr pour l'utiliser."
+KEY_TUT2_RECOVER_NAME,Tactical Tip: Recover,Astuce tactique : récupérer
+KEY_TUT2_RECRUITMENT_DESCRIPTION,"You've found the operative who sent the distress call.
+
+Friendly characters are marked with a WHITE CIRCLE.
+Move a soldier inside this circle to RECRUIT the character and take control over him.","Vous avez trouvé l'agent qui a envoyé l'appel de détresse.
+ 
+Les personnages alliés sont indiqués par un CERCLE BLANC.
+ Déployez un soldat dans ce cercle pour RECRUTER le personnage et en prendre le contrôle."
+KEY_TUT2_RECRUITMENT_NAME,Ally Located,Allié repéré
+KEY_TUT2_REINFORCEMENT_DESCRIPTION,"Some battlefields feature REINFORCEMENT POINTS (:REINFORCEMENTS:). 
+New enemies will be arriving from them, so don't leave your soldiers exposed.","Certains champs de bataille indiquent des POINTS DE RENFORTS (:REINFORCEMENTS:).
+De nouveaux ennemis arriveront à ces points, alors ne laissez pas vos soldats exposés."
+KEY_TUT2_REINFORCEMENT_NAME,Reinforcement Zones,Zones de renfort
+KEY_TUT2_SCARABBLAST_DESCRIPTION_C,"Select a target point for the Scarab's missile blast, and press <size=60>:A:</size> to LAUNCH.
+
+Any characters caught in the orange blast area will be injured, unless they have cover from terrain. However targeting is not precise - missiles MAY LAND AWAY from your desired target point, especially at long range.","Sélectionnez une cible pour l'explosion du missile du Scarabée et appuyez sur <size=60>:A:</size> pour le LANCER.
+ 
+ Tous les personnages dans la zone orange de l'explosion seront blessés à moins qu'ils soient couverts par des éléments du terrain. Toutefois, le ciblage n'est pas précis – les missiles PEUVENT ATTERRIR AILLEURS que sur la cible souhaitée, surtout à longue portée."
+KEY_TUT2_SCARABBLAST_DESCRIPTION_K,"Select a target point for the Scarab's missile blast, and press :LMB: to LAUNCH.
+
+Any characters caught in the orange blast area will be injured, unless they have cover from terrain. Targeting is not precise - missiles MAY LAND AWAY from your desired target point, especially at long range.","Sélectionnez une cible pour l'explosion du missile du Scarabée et appuyez sur :LMB: pour le LANCER.
+ 
+ Tous les personnages dans la zone orange de l'explosion seront blessés à moins qu'ils soient couverts par des éléments du terrain. Le ciblage n'est pas précis – les missiles PEUVENT ATTERRIR AILLEURS que sur la cible souhaitée, surtout à longue portée."
+KEY_TUT2_SCARABBLAST_NAME,Scarab Blast,Explosion de Scarabée
+KEY_TUT2_SCARABSELECTED_DESCRIPTION,"The Scarab (:SCARAB:) is a heavily armored VEHICLE that can TRANSPORT YOUR SOLDIERS.
+
+It is equipped with a powerful missile launcher. 
+
+Select LAUNCH MISSILES (:SCARABMISSILE:) from the Action Bar to learn about it. 
+","Le Scarabée (:SCARAB:) est un VÉHICULE lourdement blindé qui peut TRANSPORTER VOS SOLDATS.
+ 
+ Il est équipé d'un lance-missiles puissant.
+
+ Sélectionnez LANCER MISSILES (:SCARABMISSILE:) dans la barre d'actions pour en savoir plus."
+KEY_TUT2_SCARABSELECTED_NAME,Tactical Tip: PX Scarab,Astuce tactique : Scarabée PX
+KEY_TUT2_SPOTTEDENEMIES_DESCRIPTION_C,"All allies and spotted enemies will appear as icons above the action bar. 
+
+When you have activated shooting, bashing or healing, you can select a CHARACTER ICON with :LB: and :RB: to target a specific character.","Tous les alliés et les ennemis détectés apparaissent en tant qu'icônes sous la barre d'actions.
+ 
+ Une fois que vous avez activé le tir, les coups ou les soins, sélectionnez L'ICÔNE D'UN PERSONNAGE avec :LB: et :RB: pour cibler un personnage particulier."
+KEY_TUT2_SPOTTEDENEMIES_DESCRIPTION_K,All allies and spotted enemies will appear as icons above the action bar. You can HOVER OR CLICK THOSE ICONS to target a specific character.,Tous les alliés et les ennemis détectés apparaissent en tant qu'icônes au-dessus de la barre d'actions. PASSEZ LE CURSEUR OU CLIQUEZ SUR CES ICÔNES pour cibler un personnage particulier.
+KEY_TUT2_SPOTTEDENEMIES_NAME,Spotted Enemies,Ennemis détectés
+KEY_TUT2_STORY1_DECRIPTION,"""We've got visual on the building. The Phoenix operative should be close by. There are hostiles up ahead, so stay vigilant!""","Nous avons une image du bâtiment. L'agent Phoenix ne devrait pas être loin. Il y a des ennemis plus loin, restez vigilants !"
+KEY_TUT2_STORY1_NAME,Sophia Brown,Sophia Brown
+KEY_TUT2_STORY2_DESCRIPTION,"""Omar, is it? Glad you found some gear, 'cause you're gonna need it. Now you're part of my squad.""","Omar, c'est bien ça ? Ravie que vous ayez trouvé des équipements, vous allez en avoir besoin. Vous faites partie de mon escouade, maintenant."
+KEY_TUT2_STORY2_NAME,Sophia Brown,Sophia Brown
+KEY_TUT2_VEHICLE_AMMO_DESCRIPTION,"Your Scarab is OUT OF AMMO. Unlike firearms, vehicles don't have a Reload action. Your vehicle's weapon will be reloaded AFTER THE MISSION.","Votre Scarabée N'A PLUS DE MUNITIONS. Contrairement aux armes à feu, les véhicules ne bénéficient pas d'action Recharger. L'arme du véhicule sera rechargée APRÈS LA MISSION."
+KEY_TUT2_VEHICLE_AMMO_NAME,Scarab Out of Ammo,Munitions du Scarabée épuisées
+KEY_TUT3_BASH_DESCRIPTION,"When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. 
+
+It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn.","Lorsque votre soldat est à côté d'un ennemi, vous pouvez effectuer l'attaque de contact COGNER (:BASH:).
+ 
+Elle ne coûte que 1 point d'action, vous pouvez donc l'utiliser plusieurs fois sur un ennemi dans un même tour."
+KEY_TUT3_BASH_NAME,Tactical Tip: Bash,Astuce tactique : cogner
+KEY_TUT3_BEACON_DESCRIPTION,"Hostiles detected! The SOUND OF GUNSHOTS suggest that an ally is under attack.
+
+Location Beacons show the location of an unknown entity - enemy, neutral or allied - in parts of the battlefield which can be heard, but not seen. 
+
+You should investigate!","Ennemis détectés ! Les COUPS DE FEU suggèrent qu'un allié se fait attaquer.
+ 
+ Les balises d'emplacement indiquent l'emplacement d'une entité inconnue – ennemie, neutre ou alliée – dans des parties du champ de bataille qui peuvent s'entendre, mais pas se voir.
+ 
+ Vous devriez y jeter un œil !"
+KEY_TUT3_BEACON_NAME,Tactical Tip: Location Beacons,Astuce tactique : balises d'emplacement
+KEY_TUT3_BLUESHOOTINGLINES_DESCRIPTION,"Lines drawn from the selected tile to a hostile unit indicate your soldier CAN SHOOT THE ENEMY from there.
+
+<color=#32C9C9>BLUE LINES</color> indicate the operative has enough APs to move and shoot IN THE SAME TURN.
+
+<color=#C98632>YELLOW LINES</color> indicate the soldier has line of sight, but not enough APs to attack this turn.","Les lignes de la case sélectionnée à l'unité ennemie indiquent que votre soldat PEUT TIRER SUR L'ENNEMI depuis cette position.
+ 
+ Les LIGNES BLEUES indiquent que l'agent a suffisamment de PA pour se déplacer et tirer DANS UN MÊME TOUR.
+ 
+ Les LIGNES JAUNES indiquent que le soldat a une ligne de mire, mais pas suffisamment de PA pour attaquer pendant ce tour."
+KEY_TUT3_BLUESHOOTINGLINES_NAME,Tactical Tip: Shooting Lines,Astuce tactique : lignes de tir
+KEY_TUT3_CYPHERHG_DESCRIPTION,"You've looted a CYPHER HANDGUN - an effective BACKUP WEAPON in case your main gun or one of your arms gets disabled.
+
+Sniper Class soldiers like Irina are PROFICIENT WITH HANDGUNS, firing them with enhanced accuracy.","Vous avez obtenu un PISTOLET CYPHER – une ARME DE SECOURS efficace en cas de désactivation de votre arme principale ou de l'un de vos bras.
+
+ Les soldats de la classe Tireur d'élite, comme Irina, ont la MAÎTRISE DES PISTOLETS, et les utilisent avec une plus grande précision."
+KEY_TUT3_CYPHERHG_NAME,Tactical Tip: Cypher HG,Astuce tactique : Cypher HG
+KEY_TUT3_FRIENDLYFIRE_DESCRIPTION,"You accidentally hurt the Phoenix operative instead of the Mindfragger!
+AIM FOR THE CREATURE on the head to free your comrade before he gets killed!","Vous avez accidentellement blessé l'agent Phoenix au lieu du Corrupteur !
+ VISEZ LA TÊTE DE LA CRÉATURE pour libérer votre camarade avant qu'il ne se fasse tuer !"
+KEY_TUT3_FRIENDLYFIRE_NAME,Caution!,Prudence !
+KEY_TUT3_HANDGRENADE_DESCRIPTION,"Hand Grenades (:HANDGRENADE:) can be equipped in a Ready slot and used like any other weapon to DEAL DAMAGE IN AN AREA. 
+
+They require 1 arm to hold and 2APs to throw.
+The distance a soldier can throw a grenade depends on their Strength.
+","Les grenades à main (:HANDGRENADE:) peuvent être équipées dans un emplacement PRÊT et utilisées comme toute autre arme pour INFLIGER DES DÉGÂTS DANS UNE ZONE.
+ 
+ Elles nécessitent 1 bras pour les tenir et 2 PA pour les lancer.
+ La distance de lancer d'une grenade dépend de la force du soldat."
+KEY_TUT3_HANDGRENADE_NAME,"Tactical Tip: Hand Grenades ",Astuce tactique : grenades à main
+KEY_TUT3_IRINASPOTTED_DESCRIPTION,"You've spotted another Phoenix operative.
+Move a soldier inside the white circle to RECRUIT Irina to your squad.","Vous avez repéré un autre agent Phoenix.
+ Déployez un soldat dans le cercle blanc pour RECRUTER Irina dans votre escouade."
+KEY_TUT3_IRINASPOTTED_NAME,Ally Located,Allié repéré
+KEY_TUT3_LADDERBANTER_DESCRIPTION,"""The door is shut, so we'll have to use those ladders. Go, go, go!""","La porte est fermée, nous devons utiliser ces échelles. Allez !"
+KEY_TUT3_LADDERBANTER_NAME,Sophia Brown,Sophia Brown
+KEY_TUT3_MINDFRAGGEDSOLDIER_DESCRIPTION,"Your soldier is MIND CONTROLLED by a Mindfragger and will be forced to attack your other operatives.
+
+It's best to TARGET THE CREATURE (:MINDFRAGGER:) with a single-shot weapon, or kill it in melee with a BASH (:BASH:).
+
+Make sure you don't hurt your own soldier through accidental targeting, or getting them caught in the burst of an Assault Rifle!","Votre soldat est sous le CONTRÔLE MENTAL d'un Corrupteur et va être forcé d'attaquer vos autres agents.
+ 
+ Il est préférable de CIBLER LA CRÉATURE (:MINDFRAGGER:) avec une arme à un coup ou de la tuer au corps à corps avec l'action COGNER (:BASH:).
+ 
+ Veillez à ne pas blesser votre soldat en le visant accidentellement ou à ce qu'il ne subisse pas de dégâts en tirant avec un fusil d'assaut !"
+KEY_TUT3_MINDFRAGGEDSOLDIER_NAME,Mindfragged Soldier,Soldat sous contrôle mental
+KEY_TUT3_MINDFRAGGER_DESCRIPTION,"Mindfraggers (:MINDFRAGGER:) are dangerous creatures that will latch onto a soldier's head, MIND CONTROLLING them.
+
+The best way to deal with a Mindfragger is to set a short range OVERWATCH (:OVERWATCH:) cone and shoot it down as it approaches.","Les Corrupteurs (:MINDFRAGGER:) sont des créatures dangereuses qui s'attachent à la tête du soldat, et le CONTRÔLENT MENTALEMENT.
+ 
+ Le meilleur moyen d'éliminer un Corrupteur est d'activer une zone de VIGILANCE (:OVERWATCH:) à courte portée et de tirer dessus quand il s'approche."
+KEY_TUT3_MINDFRAGGER_NAME,Tactical Tip: Mindfraggers,Astuce tactique : Corrupteurs
+KEY_TUT3_MISSIONEND,Reclaim Phoenix Point,Récupérez Phoenix Point
+KEY_TUT3_OVERWATCHBANTER_DESCRIPTION,"""Steady! Take Overwatch positions and wait for them to come.""",Doucement ! Prenez des positions de vigilance et attendez-les.
+KEY_TUT3_OVERWATCHBANTER_NAME,Sophia Brown,Sophia Brown
+KEY_TUT3_OVERWATCHFRIENDLYFIRE_DESCRIPTION,Be careful not to place YOUR SOLDIERS inside the Overwatch cone - they may get injured by friendly fire!,Prenez garde à ne pas placer VOS SOLDATS dans la zone de vigilance – ils pourraient être blessés par des tirs alliés !
+KEY_TUT3_OVERWATCHFRIENDLYFIRE_NAME,Caution!,Prudence !
+KEY_TUT3_POISONEFFECT_DESCRIPTION,"This operative is Poisoned (:POISON:). They will lose Hit Points equal to the POISON VALUE each turn. 
+The poison value will reduce by 10 each turn.
+
+Heavily armored soldiers such as Omar are better protected against poison attacks.","Cet agent est empoisonné (:POISON:). Il continuera à perdre des points de vie équivalents à la VALEUR DU POISON à chaque tour.
+ La force du poison (valeur des dégâts) baisse de 10 points par tour.
+ 
+ Les soldats en armure lourde tels qu'Omar sont mieux protégés contre les attaques toxiques."
+KEY_TUT3_POISONEFFECT_NAME,Poison,Poison
+KEY_TUT3_POISONSTATUS_DESCRIPTION,"Characters with a POISON (:POISON:) status effect will keep losing Hit Points every turn equal to the Poison value. 
+The poison's strength (damage value) will reduce by 10 each turn.","Les unités empoisonnées (:POISON:) continuent à perdre des points de vie équivalents à la valeur du poison à chaque tour.
+ La force du poison (valeur des dégâts) baisse de 10 points par tour."
+KEY_TUT3_POISONSTATUS_NAME,Status Effect: Poison,État : poison
+KEY_TUT3_POISONWORM_DESCRIPTION,"Poisonworms (:POISONWORM:) are small, but don't let their size deceive you! When close enough, they burst in a POISON EXPLOSION, affecting nearby soldiers. 
+
+It's best to deal with them from a distance, or set a short range OVERWATCH cone and gun them down as they approach.","Les Vers toxiques (:POISONWORM:) sont petits, mais ne vous laissez pas duper par leur taille ! Quand ils sont assez proches, ils éclatent en UNE EXPLOSION TOXIQUE qui affecte les soldats à proximité.
+ 
+ Il est préférable de les éliminer à distance ou de placer une zone de VIGILANCE à courte portée pour les abattre quand ils s'approchent."
+KEY_TUT3_POISONWORM_NAME,Tactical Tip: Poisonworms,Astuce tactique : Vers toxiques
+KEY_TUT3_PROFICIENCIES_DESCRIPTION,"Operatives are PROFICIENT in different weapons, based on their SOLDIER CLASS or personal perks.
+
+Without proficiency a soldier would suffer a 50% ACCURACY PENALTY.","Les agents ont la MAÎTRISE de différentes armes, en fonction de leur CLASSE DE SOLDAT ou de bonus personnels.
+ 
+ Sans maîtrise, un soldat subit UNE PÉNALITÉ DE 50 % DE LA PRÉCISION."
+KEY_TUT3_PROFICIENCIES_NAME,Weapon Proficiencies,Maîtrise des armes
+KEY_TUT3_ROTATECAMERA_DESCRIPTION_C,"Enemies will take advantage of the tight corridors to ambush the Phoenix operatives.
+ROTATE THE CAMERA using <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size> to get a better view of the battlefield. ","Les ennemis utiliseront les couloirs étroits pour prendre les agents Phoenix en embuscade.
+ PIVOTEZ LA CAMÉRA avec <size=60>:RTSLEFT:</size> et <size=60>:RTSRIGHT:</size> pour mieux voir le champ de bataille."
+KEY_TUT3_ROTATECAMERA_DESCRIPTION_K,"Enemies will take advantage of the tight corridors to ambush the Phoenix operatives.
+
+ROTATE THE CAMERA using [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] to get a better view of the battlefield. ","Les ennemis utiliseront les couloirs étroits pour prendre les agents Phoenix en embuscade.
+ PIVOTEZ LA CAMÉRA avec [<color=#ECBA62>{[Rotate Left]}</color>] et [<color=#ECBA62>{[Rotate Right]}</color>] pour mieux voir le champ de bataille."
+KEY_TUT3_ROTATECAMERA_NAME,Tactical Tip: Rotate The Camera,Astuce tactique : pivoter la caméra
+KEY_TUT3_SAVEASSAULT_DESCRIPTION,"This fellow Phoenix operative is CONTROLLED BY A MINDFRAGGER. 
+Kill the creature with a single-shot weapon or Bash to save him!","Cet agent Phoenix est sous CONTRÔLE MENTAL D'UN CORRUPTEUR.
+ Tuez la créature avec une arme à un coup ou l'action Cogner pour le sauver !"
+KEY_TUT3_SAVEASSAULT_NAME,Ally Located,Allié repéré
+KEY_TUT3_SAVE_DESCRIPTION,"If you're facing a difficult situation, remember you can save your game. Some risky moves will pay off, but others will be deadly. ","Si vous êtes dans une situation difficile, n'oubliez pas que vous pouvez sauvegarder la partie. Certaines actions risquées fonctionneront, mais d'autres seront mortelles."
+KEY_TUT3_SAVE_NAME,Tactical Tip: Save Game,Astuce tactique : sauvegarder
+KEY_TUT3_SNIPERCLASS_DESCRIPTION,"Irina is a Sniper Class operative (:SNIPER:) proficient with both SNIPER RIFLES and HANDGUNS.
+
+Snipers are excellent for disabling specific Pandoran body parts at long range.","Irina est un agent de la classe Tireur d'élite (:SNIPER:) qui maîtrise les FUSILS DE PRÉCISION et les PISTOLETS.
+ 
+ Les Tireurs d'élite sont excellents pour désactiver des parties du corps spécifiques de Pandoriens à distance."
+KEY_TUT3_SNIPERCLASS_NAME,Sniper Class,Tireur d'élite
+KEY_TUT3_STORY1_DESCRIPTION,"""Tread lightly! There are hostiles up ahead. Let's get rid of them and clean up this mess!""",Faites attention ! Il y a des ennemis plus loin. Débarrassons-nous d'eux avant de nettoyer ce bazar !
+KEY_TUT3_STORY1_NAME,Sophia Brown,Sophia Brown
+KEY_TUT3_STORY2_DESCRIPTION,"""Kill confirmed. Phoenix, welcome home!""","Élimination confirmée. Phoenix, bienvenue à la maison !"
+KEY_TUT3_STORY2_NAME,Sophia Brown,Sophia Brown
+KEY_TUT4_BODYPART_DESCRIPTION,"This character's body part took damage and is now DISABLED.
+Disabled body parts negatively affect the units' ability to use WEAPONS AND ABILITIES.
+Disabled body parts can't be restored, but the BLEEDING status effect they cause, and lost Hit Points can be healed with a MEDKIT.","Cette partie du corps du personnage a subi des dégâts et est maintenant DÉSACTIVÉE.
+ Les membres désactivés nuisent à la capacité de l'unité d'utiliser des ARMES ET CAPACITÉS.
+ Les membres désactivés ne peuvent pas être restaurés, mais l'état de SAIGNEMENT qu'ils provoquent et les points de vies perdus peuvent être soignés avec un MÉDIKIT."
+KEY_TUT4_BODYPART_NAME,Body Part Disabled,Partie du corps désactivée
+KEY_TUT4_DAMAGEPREDICTION_DESCRIPTION,"Phoenix Point uses a damage prediction system.
+
+100% of your shots will land within the OUTER CIRCLE.
+
+50% of the shots will land within the INNER CIRCLE.
+The closer the enemy and the more accurate the weapon, the more shots will land in the desired targeted area. ","Phoenix Point utilise un système d'estimation des dégâts.
+ 
+100 % de vos tirs atteindront le CERCLE EXTERNE.
+ 
+ 50 % de vos tirs atteindront le CERCLE INTERNE.
+ Plus l'ennemi est proche et plus l'arme est précise, plus le nombre de tirs qui atteignent la zone ciblée sera élevé."
+KEY_TUT4_DAMAGEPREDICTION_NAME,Damage Prediction,Estimation des dégâts
+KEY_TUT4_DEADSOLDIER_DESCRIPTION,"One of your operatives has died, but the fight must continue.
+You will recruit new soldiers to aid the Phoenix Project as you progress.
+Fallen comrades will be honored in the Memorial.","L'un de vos agents est mort, mais le combat doit continuer.
+ Vous recruterez de nouveaux soldats pour aider le Projet Phoenix en progressant.
+ On rendra hommage aux soldats morts au combat dans le mémorial."
+KEY_TUT4_DEADSOLDIER_NAME,A soldier has fallen,Un soldat est mort
+KEY_TUT4_ENCUMBRANCE_DESCRIPTION,"If weight of the armor and equipment soldiers are carrying is greater than their Strength, they will suffer a MOVEMENT PENALTY.","Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une PÉNALITÉ DE MOUVEMENT."
+KEY_TUT4_ENCUMBRANCE_NAME,Tactical Tip: Encumbrance,Astuce tactique : charge
+KEY_TUT4_ENDLESSREINFORCEMENTS_DESCRIPTION,"These Reinforcement Points (:REINFORCEMENTS:) will keep spawning enemies INDEFINITELY. 
+
+You don't need to collect all the resources to complete your objective - grab what you can and evacuate your soldiers before you get overrun!","Ces points de renfort (:REINFORCEMENTS:) vont faire apparaître des ennemis INDÉFINIMENT.
+ 
+ Vous n'avez pas besoin de récupérer toutes les ressources pour atteindre votre objectif – prenez ce que vous pouvez et évacuez vos soldats avant de vous faire envahir !"
+KEY_TUT4_ENDLESSREINFORCEMENTS_NAME,Endless Reinforcements,Renforts infinis
+KEY_TUT4_EVACUTATIONZONES_DESCRIPTION,"Once you have gathered all the loot you can manage, evacuate all your soldiers from the battlefield via an evacuation zone. You don't have to get everything, so don't take unnecessary risks.","Une fois que vous avez récupéré le plus de ressources possible, évacuez tous vos soldats du champ de bataille par la zone d'évacuation. Vous n'avez pas besoin de tout récupérer, ne prenez pas de risques inutiles."
+KEY_TUT4_EVACUTATIONZONES_NAME,Evacuation Zones,Zones d'évacuation
+KEY_TUT4_MIST_DESCRIPTION,"A Mist Sentinel (:MISTSENTINEL:) just started SPREADING VIRAL MIST around itself. 
+
+Phoenix operatives who enter the mist will lose Will Points (WPs) and enemies will be alerted to their position.
+Pandorans who enter the mist will recover WPs.
+
+The mist won't dissipate and can be removed only with fire and explosive weapons.","Une Sentinelle de brume (:MISTSENTINEL:) vient de commencer à DIFFUSER UNE BRUME VIRALE autour d'elle.
+ 
+ Les agents Phoenix qui entrent dans la brume perdront des points de volonté (PVo) et les ennemis seront alertés de leur position.
+ Les Pandoriens qui entrent dans la brume récupéreront des PVo.
+ 
+ La brume ne se dissipera pas et ne peut être retirée qu'avec des armes à feu ou explosives."
+KEY_TUT4_MIST_NAME,"Tactical Tip: Mist ",Astuce tactique : Brume
+KEY_TUT4_PANICKEDSOLDIER_DESCRIPTION,"When soldiers reach 0 WPs, they PANIC (:PANIC:).
+Protect your panicked soldiers and manage your WPs to avoid panicking again.","Lorsque les soldats atteignent 0 PVo, ils entrent en état de PANIQUE (:PANIC:).
+ Protégez vos soldats paniqués et gérez vos PVo pour éviter un nouvel état de panique."
+KEY_TUT4_PANICKEDSOLDIER_NAME,Tactical Tip: Panic,Astuce tactique : panique
+KEY_TUT4_RECOURCEPACKS_DESCRIPTION,"This crate contains a RESOURCE PACK. If it is carried out of the battlefield via an evacuation zone, the resources will be added to your general resource pool.
+
+Resources are vital to the success of the Phoenix Project, as they are used for building structures, manufacturing equipment, and recruiting new soldiers. ","Cette caisse contient un PACK DE RESSOURCES. Si vous le sortez du champ de bataille par une zone d'évacuation, les ressources seront ajoutées à vos ressources générales.
+ 
+ Les ressources sont cruciales pour la réussite du Projet Phoenix, car elles servent à construire des structures, à fabriquer de l'équipement et à recruter des soldats."
+KEY_TUT4_RECOURCEPACKS_NAME,Resource Packs,Packs de ressources
+KEY_TUT4_STORY1_DESCRIPTION,"""Those crates contain valuable materials, so grab everything you can! This place will be crawling with mutants any minute now!""","Ces caisses contiennent des matériaux utiles, prenez tout ce que vous pouvez ! Cet endroit sera infesté de mutants sous peu !"
+KEY_TUT4_STORY1_NAME,Sophia Brown,Sophia Brown
+KEY_TUT4_STORY2_DESCRIPTION,"""Phoenix, retreat! Double time!""","Phoenix, repliez-vous ! Au pas de course !"
+KEY_TUT4_STORY2_NAME,Sophia Brown,Sophia Brown
+KEY_TUT4_TRADE_DESCRIPTION,"If two operatives stand next to each other, they can EXCHANGE ITEMS between Inventories.","Si deux agents sont l'un à côté de l'autre, ils peuvent ÉCHANGER DES OBJETS entre leurs inventaires."
+KEY_TUT4_TRADE_NAME,Tactical Tip: Exchanging Items,Astuce tactique : échange d'objets
+KEY_TUT4_TRITON_DESCRIPTION,"You've encountered a new enemy - the Triton (:TRITON:).
+ 
+
+Be on your guard! These cunning monsters will skulk around the battlefield, seizing any opportunity to flank you.","Vous avez rencontré un nouvel ennemi, le Triton (:TRITON:).
+ 
+ Restez sur vos gardes ! Ces monstres rusés rôdent sur le champ de bataille, et saisiront toute occasion de vous flanquer."
+KEY_TUT4_TRITON_NAME,Tactical Tip: Tritons,Astuce tactique : Tritons
+KEY_TUT4_WILLPOINTS_DESCRIPTION,"Characters start battle with WILL POINTS (WPs) equal to their Willpower.
+
+WPs are spent on SPECIAL ABILITIES.
+Soldiers lose WPs when their allies die, and recover WPs when using the RECOVER ability, open crates, or kill enemies. 
+When a character's WPs drop below 0, they PANIC.","Les personnages démarrent le combat avec des POINTS DE VOLONTÉ (PVo) équivalents à leur volonté.
+ 
+ Les PVo sont utilisés pour les CAPACITÉS SPÉCIALES.
+ Les soldats perdent des PVo quand leurs alliés meurent et en récupèrent quand ils utilisent la capacité RÉCUPÉRER, ouvrent des caisses ou tuent des ennemis.
+ Lorsque les PVo d'un personnage sont inférieurs à 0, il entre en état de PANIQUE."
+KEY_TUT4_WILLPOINTS_NAME,Will Points (WPs),Points de volonté (PVo)
+KEY_TUT4_WILLPOINTZONE_DESCRIPTION,"Will Point Zones represent areas of the battlefield with strategic advantage. Entering a Will Point Zone with one of your operatives will RESTORE WILL POINTS TO YOUR ENTIRE SQUAD.
+
+Keep in mind that will points cannot exceed a soldier's maximum Willpower.
+
+Once activated, Will Point zones disappear and cannot be used again.","Les zones de points de volonté représentent des zones du champ de bataille doté d'un avantage stratégique. Entrer dans une zone de points de volonté avec l'un de vos agents RESTAURE LES POINTS DE VOLONTÉ DE TOUTE L'ESCOUADE.
+ 
+ N'oubliez pas que le nombre de points de volonté ne peut pas être supérieur à la volonté maximale.
+ 
+ Une fois activées, les zones de points de volonté disparaissent et ne peuvent plus être utilisées."
+KEY_TUT4_WILLPOINTZONE_NAME,Will Point Zones,Zones de point de volonté
+KEY_TUT_ASSAULT3_MALE,Takeshi Sato,Takeshi Sato
+KEY_TUT_SNIPER_FEMALE,Irina Sokolova,Irina Sokolova
+KEY_UI_HINTS_TOGGLE,Disable hints,Désactiver les indices

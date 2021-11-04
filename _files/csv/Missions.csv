@@ -1,0 +1,291 @@
+Key,English,French
+#Defeat the Scylla USE OBJECTIVE STRING,PANDORAN BASES REVEALED,BASES PANDORIENNES RÉVÉLÉES
+Be aware of the Pandoran defense systems. Sentinels will trigger if a soldier is in its sensor range or attacks them. Eggs will hatch if a soldier gets close.,HAVEN DEFENSE,DÉFENSE DU REFUGE
+KEY_MISSION_ACCEPT,ACCEPT,ACCEPTER
+KEY_MISSION_ALIEN,PANDORAN,PANDORIENS
+KEY_MISSION_ALIEN_LAIR,PANDORAN LAIR,TANIÈRE PANDORIENNE
+KEY_MISSION_ALIEN_NEST,PANDORAN NEST,NID PANDORIEN
+KEY_MISSION_ALIEN_PALACE,PANDORAN  PALACE,PALAIS PANDORIEN
+KEY_MISSION_AMBUSH_BRIEFING_NAME,AMBUSH,EMBUSCADE
+KEY_MISSION_AMBUSH_BRIEFING_TEXT,SURVIVE 3 TURNS,SURVIVEZ PENDANT 3 TOURS.
+KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_NAME,ESCAPE FAILED!,ÉCHEC DE LA FUITE !
+KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_TEXT,YOUR FORCES FELL PREY TO THE AMBUSH.,VOS FORCES SONT TOMBÉES DANS L'EMBUSCADE.
+KEY_MISSION_AMBUSH_VICTORY_BRIEFING_NAME,AMBUSH SURVIVED!,VOUS AVEZ SURVÉCU À L'EMBUSCADE !
+KEY_MISSION_AMBUSH_VICTORY_BRIEFING_TEXT,YOUR FORCES HAVE ESCAPED THE AMBUSH!,VOS FORCES ONT REPOUSSÉ L'ENNEMI.
+KEY_MISSION_ATTACKED_BY,Attacked by: {AttackerName},Attaqué par : {AttackerName}
+KEY_MISSION_ATTACKER,ATTACKER,ASSAILLANT
+KEY_MISSION_ATTACKING_FORCES,ATTACKING FORCES,FORCES D'ASSAUT
+KEY_MISSION_ATTACKING_STRENGTH,ATTACKING STRENGTH,PUISSANCE D'ATTAQUE
+KEY_MISSION_ATTACK_CITADEL_BRIEFING_DESCRIPTION,Locate and eliminate the Scylla and then evacuate your squad,Localisez et éliminez la Scylla avant d'évacuer votre escouade.
+KEY_MISSION_ATTACK_CITADEL_BRIEFING_NAME,ATTACK PANDORAN CITADEL,ATTAQUER LA CITADELLE PANDORIENNE
+KEY_MISSION_ATTACK_CITADEL_DEFEAT_DESCRIPTION,The monster that rules this citadel will continue its reign of terror on nearby human settlements,Le monstre qui gouverne cette citadelle continuera son règne de terreur sur les colonies humaines à proximité.
+KEY_MISSION_ATTACK_CITADEL_DEFEAT_NAME,PANDORAN CITADEL SURVIVES,LA CITADELLE PANDORIENNE A SURVÉCU
+KEY_MISSION_ATTACK_CITADEL_VICTORY_DESCRIPTION,The Scylla has been killed and the structure abandoned. The rest of humanity can breathe a sigh of relief.,"La Scylla a été anéantie, et la structure abandonnée. Le reste de l'humanité peut pousser un soupir de soulagement."
+KEY_MISSION_ATTACK_CITADEL_VICTORY_NAME,PANDORAN CITADEL DESTROYED,CITADELLE PANDORIENNE DÉTRUITE
+KEY_MISSION_ATTACK_LAIR_BRIEFING_DESCRIPTION,"Locate and eliminate the Spawnery to neutralize the Lair, and then evacuate your squad.","Localisez et éliminez l'écloserie pour neutraliser la Tanière, puis évacuez votre escouade."
+KEY_MISSION_ATTACK_LAIR_BRIEFING_NAME,ATTACK PANDORAN LAIR,ATTAQUER LA TANIÈRE PANDORIENNE
+KEY_MISSION_ATTACK_LAIR_DEFEAT_DESCRIPTION,"The Pandoran lair continues to generate its vile brood, threatening all settlements within its range.","La Tanière pandorienne continue de produire sa nichée révoltante, menaçant toutes les colonies à sa portée."
+KEY_MISSION_ATTACK_LAIR_DEFEAT_NAME,PANDORAN LAIR SURVIVES,LA TANIÈRE PANDORIENNE A SURVÉCU
+KEY_MISSION_ATTACK_LAIR_VICTORY_DESCRIPTION,The Pandoran lair has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief.,La Tanière pandorienne a été neutralisée et abandonnée par ses habitants. Le reste de l'humanité peut pousser un soupir de soulagement.
+KEY_MISSION_ATTACK_LAIR_VICTORY_NAME,PANDORAN LAIR DESTROYED,TANIÈRE PANDORIENNE DÉTRUITE
+KEY_MISSION_ATTACK_NEST_BRIEFING_DESCRIPTION,Locate and eliminate the Hatching Sentinels to destroy the Nest.,Localisez et éliminez les Sentinelles couveuses pour détruire le Nid.
+KEY_MISSION_ATTACK_NEST_BRIEFING_NAME,ATTACK PANDORAN NEST,ATTAQUER LE NID PANDORIEN
+KEY_MISSION_ATTACK_NEST_DEFEAT_DESCRIPTION,"The Pandoran nest continues to generate its vile brood, threatening all settlements within its range.","Le Nid pandorien continue de produire sa nichée révoltante, menaçant toutes les colonies à sa portée."
+KEY_MISSION_ATTACK_NEST_DEFEAT_NAME,PANDORAN NEST SURVIVES,LE NID PANDORIEN A SURVÉCU
+KEY_MISSION_ATTACK_NEST_VICTORY_DESCRIPTION,The Pandoran nest has been neutralized and abandoned by its inhabitants. The rest of humanity can breathe a sigh of relief.,Le Nid pandorien a été neutralisé et abandonné par ses habitants. Le reste de l'humanité peut pousser un soupir de soulagement.
+KEY_MISSION_ATTACK_NEST_VICTORY_NAME,PANDORAN NEST DESTROYED,NID PANDORIEN DÉTRUIT
+KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_DESCRIPTION,You have brought an abandoned Phoenix Base back online. Repair the damaged facilities to make it fully operational.,Vous avez remis une base Phoenix abandonnée en fonctionnement. Réparez les installations endommagées pour qu'elle soit complètement opérationnelle.
+KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_NAME,PHOENIX BASE ACTIVATED,BASE PHOENIX ACTIVÉE
+KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_DESCRIPTION,Take as many items from the crates as you can safely manage and evacuate your squad,Prenez autant d'objets des caisses que vous pouvez porter sans risque et évacuez votre escouade.
+KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME,SCAVENGING SITE,SITE DE RESSOURCES
+KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_DESCRIPTION,The site is overrun and any remaining crates will no longer be recoverable,Le site est envahi et il n'est plus possible de récupérer les caisses restantes.
+KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME,SCAVENGING SITE ABANDONED,SITE DE RESSOURCES ABANDONNÉ
+KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION,All collected resource packs have been transferred to our stores,Tous les packs de ressources récupérés ont été transférés vers nos entrepôts.
+KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_NAME,SCAVENGING SITE CLEARED,SITE DE RESSOURCES RATISSÉ
+KEY_MISSION_ATTACK_SCAVENGING_SITE_WARNING,Warning! Scavenging missions are much more dangerous if within a mist zone.,Attention ! Les missions sur des sites de ressources situés dans les zones de brume sont beaucoup plus dangereuses.
+KEY_MISSION_ATTACK_SCAVENGING_SITE_WARNING_DESCRIPTION,Be aware that Pandorans will target and destroy any resource crates they can. You can exit the site at any time from the evacuation zone even if enemies remain.,"Sachez que les Pandoriens cibleront et détruiront autant de caisses de ressources que possible. Vous pouvez quitter le site à tout moment à partir de la zone d'évacuation, même s'il reste encore des ennemis."
+KEY_MISSION_ATTACK_WARNING,"Be aware of the Pandoran defense systems. Sentinels will trigger if a soldier is in its sensor range, or attacks them. Eggs will hatch if a soldier gets close.","Faites attention aux systèmes de défense pandoriens. Les Sentinelles s'activeront si un soldat se trouve à portée de ses capteurs, ou les attaque. Les œufs écloront si un soldat s'en approche suffisamment."
+KEY_MISSION_ATTITUDE,ATTITUDE,ATTITUDE
+KEY_MISSION_ATTITUDE_FACTION,FACTION ATTITUDE,ATTITUDE DE LA FACTION
+KEY_MISSION_ATTITUDE_FACTIONS_ALL,ALL FACTIONS ATTITUDE,ATTITUDE DES FACTIONS
+KEY_MISSION_ATTITUDE_LEADER,LEADER ATTITUDE,ATTITUDE DU CHEF
+KEY_MISSION_AVAILABLE,MISSION AVAILABLE,MISSION DISPONIBLE
+KEY_MISSION_AVAILABLE_INCURSION_MISSIONS,AVAILABLE INCURSION MISSIONS,MISSIONS D'INCURSION DISPONIBLES
+KEY_MISSION_BEENAMBUSHED,YOU'VE BEEN AMBUSHED!,VOUS AVEZ ÉTÉ PRIS EN EMBUSCADE !
+KEY_MISSION_BONUSES,BONUSES,BONUS
+KEY_MISSION_CANCEL,CANCEL,ANNULER
+KEY_MISSION_CHANGE_ATTITUDE,ATTITUDE CHANGE ON VICTORY,CHANGEMENT D'ATTITUDE APRÈS VICTOIRE
+KEY_MISSION_DEFENDING_STRENGTH,DEFENDING STRENGTH,DÉFENSE
+KEY_MISSION_DEPLOYED,PANDORAN FORCES DEPLOYED,FORCES PANDORIENNES DÉPLOYÉES
+KEY_MISSION_DISCIPLES_OF_ANU,DISCIPLES OF ANU,DISCIPLES D'ANU
+KEY_MISSION_ENEMY,ENEMY,ENNEMI
+KEY_MISSION_ENTER_CITADEL,ENTER CITADEL,ENTRER DANS LA CITADELLE
+KEY_MISSION_ENTER_LAIR,ENTER LAIR,ENTRER DANS LA TANIÈRE
+KEY_MISSION_ENTER_NEST,ENTER NEST,ENTRER DANS LE NID
+KEY_MISSION_ENTER_SITE,ENTER SITE,ENTRER SUR LE SITE
+KEY_MISSION_EXPLORATION_SITE,EXPLORATION SITE,SITE D'EXPLORATION
+KEY_MISSION_FACTION,FACTION,FACTION
+KEY_MISSION_GAIN,YOU GAIN,VOUS REMPORTEZ
+KEY_MISSION_HAVEN,HAVEN,REFUGE
+KEY_MISSION_HAVEN_ALERT,ALERT,NIVEAU D'ALERTE
+KEY_MISSION_HAVEN_ALERT_HIGH,HIGH,ÉLEVÉ
+KEY_MISSION_HAVEN_ALERT_LOW,LOW,FAIBLE
+KEY_MISSION_HAVEN_ALERT_NONE,NONE,RIEN
+KEY_MISSION_HAVEN_ATTACK1_BRIEFING_DESCRIPTION,Destroy all enemy invaders to save the haven.,Détruisez tous les envahisseurs ennemis et sauvez le refuge.
+KEY_MISSION_HAVEN_ATTACK1_BRIEFING_NAME,HAVEN UNDER ATTACK!,LE REFUGE EST ATTAQUÉ !
+KEY_MISSION_HAVEN_ATTACK1_DEFEAT_DESCRIPTION,"You have abandoned the haven to its fate. They might succeed without you, but the leader is not impressed by your efforts.","Vous avez abandonné le refuge à son sort. Il se peut que les habitants s'en tirent sans vous, mais vos efforts n'ont pas impressionné le chef."
+KEY_MISSION_HAVEN_ATTACK1_DEFEAT_NAME,HAVEN BATTLE ABANDONED,BATAILLE DU REFUGE ABANDONNÉE
+KEY_MISSION_HAVEN_ATTACK1_VICTORY_DESCRIPTION,You have successfully defeated all hostile forces. The leader of the haven is grateful for your help.,Vous avez réussi à détruire toutes les forces hostiles. Le chef du refuge vous remercie de votre aide.
+KEY_MISSION_HAVEN_ATTACK1_VICTORY_NAME,HAVEN SAVED,REFUGE SAUVÉ
+KEY_MISSION_HAVEN_ATTACK1_WARNING_DESCRIPTION,"Intervene to eliminate the threat, protecting the haven's key structures. If you are successful, you will receive a reward from the haven.","Intervenez et éliminez la menace tout en protégeant les principales installations du refuge. Si vous réussissez, vous recevrez une récompense de la part du refuge."
+KEY_MISSION_HAVEN_ATTACK2_WARNING_DESCRIPTION,"Intervene to eliminate the threat, protecting as many civilians as possible. If you are successful, you will receive a reward from the haven.","Intervenez et éliminez la menace tout en protégeant un maximum de civils. Si vous réussissez, vous recevrez une récompense de la part du refuge."
+KEY_MISSION_HAVEN_DEFENCE,HAVEN DEFENCE,DÉFENSE DU REFUGE
+KEY_MISSION_HAVEN_DEFENDERS,HAVEN DEFENDERS,DÉFENSEURS DU REFUGE
+KEY_MISSION_HAVEN_DESTROYED,DESTROYED HAVEN:{LocalizedSiteName},REFUGE DÉTRUIT : {LocalizedSiteName}
+KEY_MISSION_HAVEN_LEADER_NAME,LEADER: {LeaderName},CHEF : {LeaderName}
+KEY_MISSION_HAVEN_NAME,HAVEN: {LocalizedSiteName},REFUGE : {LocalizedSiteName}
+KEY_MISSION_HAVEN_POPULATION,POPULATION: {Population},POPULATION : {Population}
+KEY_MISSION_HAVEN_SAVED,HAVEN SAVED,REFUGE SAUVÉ
+KEY_MISSION_HAVEN_STILL_UNDER_ATTACK,HAVEN REMAINS UNDER ATTACK,LE REFUGE CONTINUE D'ÊTRE ATTAQUÉ
+KEY_MISSION_ITEMS_RECOVERED,ITEMS RECOVERED,OBJETS RÉCUPÉRÉS
+KEY_MISSION_JOIN_BATTLE,JOIN BATTLE,REJOINDRE LE COMBAT
+KEY_MISSION_LEADER,LEADER,CHEF
+KEY_MISSION_LEAVE,LEAVE,PARTIR
+KEY_MISSION_LIGHTING_CONDITIONS,LIGHTING CONDITIONS,CONDITIONS DE VISIBILITÉ
+KEY_MISSION_LIGHTING_CONDITIONS_DAY,DAY,JOUR
+KEY_MISSION_LIGHTING_CONDITIONS_NIGHT,NIGHT,NUIT
+KEY_MISSION_LIGHT_LEVEL,LIGHT LEVEL,NIVEAU DE LUMIÈRE
+KEY_MISSION_LIGHT_LEVEL_HIGH,HIGH,ÉLEVÉ
+KEY_MISSION_LIGHT_LEVEL_LOW,LOW,FAIBLE
+KEY_MISSION_MIST_ZONE,MIST ZONE,ZONE DE BRUME
+KEY_MISSION_NEW_JERICHO,NEW JERICHO,NOUVELLE-JÉRICHO
+KEY_MISSION_NONE,None,Aucune
+KEY_MISSION_OBJECTIVE_ENEMIES_DESCRIPTION,#Kill all enemies USE OBJECTIVE STRING,#Kill all enemies USE OBJECTIVE STRING
+KEY_MISSION_OBJECTIVE_ENEMIES_NAME,KILL ALL ENEMIES,ÉLIMINER TOUS LES ENNEMIS
+KEY_MISSION_OBJECTIVE_FIREBIRD_FILES,SEARCH FOR THE FIREBIRD INITIATIVE FILES,TROUVEZ LES FICHIERS SUR L'INITIATIVE OISEAU DE FEU
+KEY_MISSION_OBJECTIVE_PROTECT_EXALTED,PROTECT THE EXALTED,PROTÉGER L'EXALTÉE
+KEY_MISSION_OBJECTIVE_PROTECT_TW,PROTECT TOBIAS WEST,PROTÉGER TOBIAS WEST
+KEY_MISSION_OBJECTIVE_PX1,RETRIEVE EVIDENCE OF THE ANTEDILUVIAN CIVILIZATION,RÉCUPÉRER DES PREUVES DE LA CIVILISATION ANTÉDILUVIENNE
+KEY_MISSION_OBJECTIVE_QUEEN_DESCRIPTION,#Kill the Alien Queen USE OBJECTIVE STRING,#Kill the Alien Queen USE OBJECTIVE STRING
+KEY_MISSION_OBJECTIVE_QUEEN_NAME,KILL THE PANDORAN SCYLLA,ÉLIMINER LA SCYLLA PANDORIENNE
+KEY_MISSION_OBJECTIVE_RAVI,EXTRACT THE VIP,EXTRAIRE LE VIP
+KEY_MISSION_OBJECTIVE_RAVI_TEAM,EXTRACT THE VIP AND YOUR TEAM,EXTRAIRE LE VIP ET VOTRE ÉQUIPE
+KEY_MISSION_OBJECTIVE_RETRIEVE_ALN_DATA,SECURE DATA FROM THE ALIEN STRUCTURE,RÉCUPÉRER LES DONNÉES DE L'INSTALLATION EXTRATERRESTRE
+KEY_MISSION_OBJECTIVE_SCARABAI,SECURE THE SCARAB AI,SÉCURISER L'IA DU SCARABÉE
+KEY_MISSION_OBJECTIVE_SPAWNING_POOL_DESCRIPTION,#Destroy the Crabman Spawning Pool USE OBJECTIVE STRING,#Destroy the Crabman Spawning Pool USE OBJECTIVE STRING
+KEY_MISSION_OBJECTIVE_SPAWNING_POOL_NAME,DESTROY THE SPAWNERY,ÉLIMINER L'ÉCLOSERIE
+KEY_MISSION_OK,OK,OK
+KEY_MISSION_OUTCOME_AIRCRAFT_DAMAGE,Our aircraft has suffered {0} Damage.,Notre vaisseau a subi {0} points de dégâts.
+KEY_MISSION_OUTCOME_ALIEN_ATTACKS,Several Havens have been attacked.,Plusieurs refuges ont été attaqués.
+KEY_MISSION_OUTCOME_DIPLOMACY_CHANGE,Diplomatic relations with {0} have changed.,Les relations diplomatiques avec {0} ont changé.
+KEY_MISSION_OUTCOME_NEW_DIPLOMACY,A new diplomatic mission has been received from {0}.,Une nouvelle mission diplomatique a été reçue de la part de {0}.
+KEY_MISSION_OUTCOME_POPULATION,{0}'s population has changed by {1}.,La population du refuge {0} a changé de {1}.
+KEY_MISSION_OUTCOME_RESEARCH,{0} Research Points have been obtained.,{0} points de recherche ont été obtenus.
+KEY_MISSION_OUTCOME_SDI_DECREASED,The ODI has decreased by {0},L'IDO a reculé de {0}
+KEY_MISSION_OUTCOME_SDI_INCREASE,The ODI has increased by {0},L'IDO a avancé de {0}
+KEY_MISSION_OUTCOME_SKILL,{0} Skill Points have been obtained.,{0} points de compétence ont été obtenus.
+KEY_MISSION_OUTCOME_SOLDIER,{0} has joined the Phoenix Project.,{0} a rejoint le Projet Phoenix.
+KEY_MISSION_OUTCOME_SOLDIER_INJURED,{0} has suffered {1} Damage.,{0} a subi {1} points de dégâts.
+KEY_MISSION_OUTCOME_SOLDIER_INJURED_ALL,All Phoenix Soldiers have lost {0} Hit Points.,Tous les soldats Phoenix ont perdu {0} points de vie.
+KEY_MISSION_OUTCOME_SOLDIER_TIRED,{0} has lost {1} Stamina.,{0} a perdu {1} points d'endurance.
+KEY_MISSION_OUTCOME_SOLDIER_TIRED_ALL,All Phoenix Soldiers have lost {0} Stamina.,Tous les soldats Phoenix ont perdu {0} points d'endurance.
+KEY_MISSION_OUTCOME_TEAM_INJURED,Your soldiers have suffered {0} Damage.,Vos soldats ont subi {0} points de dégâts.
+KEY_MISSION_OUTCOME_TEAM_TIRED,Your soldiers have lost {0} Stamina.,Vos soldats ont perdu {0} points d'endurance.
+KEY_MISSION_OUTCOME_ZONE,The Haven {0} zone has suffered {1} damage.,La zone du refuge {0} a subi {1} points de dégâts.
+KEY_MISSION_POINTS_ATTACKERS,Attacking force points:{FriendlyAttackerDeploymentPoints},Points force d'assaut :{FriendlyAttackerDeploymentPoints}
+KEY_MISSION_POINTS_DEFENDERS,Defending force points:{FriendlyDefenderDeploymentPoints},Points force de défense :{FriendlyDefenderDeploymentPoints}
+KEY_MISSION_POPULATION,POPULATION,POPULATION
+KEY_MISSION_PX_BASE_DEFENCE_ABANDON,ABANDON BASE,ABANDONNER LA BASE
+KEY_MISSION_PX_BASE_DEFENCE_DESCRIPTION,Defend your base and eliminate all invaders.,Défendez votre base et éliminez tous les envahisseurs.
+KEY_MISSION_PX_BASE_DEFENCE_START,READY ALL DEFENSES,PRÉPARER TOUTES LES DÉFENSES
+KEY_MISSION_PX_BASE_DEFENCE_TITLE,PHOENIX BASE IS UNDER ATTACK,LA BASE PHOENIX EST ATTAQUÉE
+KEY_MISSION_PX_BASE_DEFENDED_DESCRIPTION,Our forces successfully repelled the invaders. The base has been saved for now.,"Nos forces ont réussi à repousser les envahisseurs. La base est saine et sauve, pour le moment."
+KEY_MISSION_PX_BASE_DEFENDED_TITLE,PHOENIX BASE DEFENDED,BASE PHOENIX DÉFENDUE
+KEY_MISSION_PX_BASE_DESTROYED_DESCRIPTION,"Our forces were overun by invaders, and the base has suffered serious damage.",Nos forces ont été submergées par les envahisseurs et la base a subi de sévères dégâts.
+KEY_MISSION_PX_BASE_DESTROYED_TITLE,PHOENIX BASE RANSACKED,BASE PHOENIX SACCAGÉE
+KEY_MISSION_PX_BASE_WARNING_DESCRIPTION,"Base {0} is under attack by {1} forces. Eliminate the threat, protecting the base's crucial structures. Losing will result in the critical damage of this base.","La base {0} est attaquée par les forces : {1}. Éliminez la menace et protégez les installations vitales de la base. Si vous échouez, la base subira des dégâts critiques."
+KEY_MISSION_RANGE,Operating range: {Value} km,Rayon d'action : {Value} km
+KEY_MISSION_RECRUIT_ARMADILLO,ARMADILLO AVAILABLE FOR RECRUITMENT,PRIODONTE DISPONIBLE AU RECRUTEMENT
+KEY_MISSION_RECRUIT_HAVEN_NAME,{0} HAVEN,REFUGE {0}
+KEY_MISSION_RECRUIT_SOLDIER,SOLDIER AVAILABLE FOR RECRUITMENT,SOLDAT DISPONIBLE AU RECRUTEMENT
+KEY_MISSION_RESIDENT_MUTATIONS,RESIDENT MUTATIONS,MUTATIONS PRÉSENTES
+KEY_MISSION_RESOURCES_RECOVERED,RESOURCES RECOVERED,RESSOURCES RÉCUPÉRÉES
+KEY_MISSION_REVEALED_ALIEN_CITADEL,Citadel,Citadelle
+KEY_MISSION_REVEALED_ALIEN_LAIR,Lair,Tanière
+KEY_MISSION_REVEALED_ALIEN_NEST,Nest,Nid
+KEY_MISSION_REVEALED_ALIEN_PALACE,Palace,Palais
+KEY_MISSION_REWARD,REWARD,RÉCOMPENSE
+KEY_MISSION_REWARD_NONE,NONE,RIEN
+KEY_MISSION_SABOTAGE_ELITE_TRANINING,SABOTAGE ELITE TRAINING,SABOTAGE DE L'ENTRAÎNEMENT D'ÉLITE
+KEY_MISSION_SABOTAGE_ENERGY_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_ENERGY_BRIEFING_NAME,SABOTAGE ENERGY GENERATION,SABOTAGE DE LA PRODUCTION D'ÉNERGIE
+KEY_MISSION_SABOTAGE_ENERGY_DEFEAT_DESC,The energy generators continue to operate unhindered.,Les générateurs sont intacts et continuent de fonctionner.
+KEY_MISSION_SABOTAGE_ENERGY_DEFEAT_NAME,SABOTAGE  ENERGY FAILURE,ÉCHEC DU SABOTAGE DE LA PRODUCTION D'ÉNERGIE
+KEY_MISSION_SABOTAGE_ENERGY_GENERATOR,SABOTAGE ENERGY GENERATION,SABOTAGE DE LA PRODUCTION D'ÉNERGIE
+KEY_MISSION_SABOTAGE_ENERGY_VICTORY_DESC,No other specialised haven zones can function until energy generators are repaired.,Aucune autre zone de refuges spécialisée ne peut fonctionner tant que les générateurs ne sont pas réparés.
+KEY_MISSION_SABOTAGE_ENERGY_VICTORY_NAME,ENERGY GENERATION SABOTAGED,PRODUCTION D'ÉNERGIE SABOTÉE
+KEY_MISSION_SABOTAGE_FACTORY,SABOTAGE FACTORY,SABOTAGE DE L'USINE
+KEY_MISSION_SABOTAGE_FACTORY_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_FACTORY_BRIEFING_NAME,SABOTAGE FACTORY,SABOTAGE DE L'USINE
+KEY_MISSION_SABOTAGE_FACTORY_DEFEAT_DESC,The factory continues to boost repair and production within the haven and its influence range.,L'usine continue d'accélérer les réparations et la production dans le refuge et dans son champ d'influence.
+KEY_MISSION_SABOTAGE_FACTORY_DEFEAT_NAME,SABOTAGE FACTORY FAILURE,ÉCHEC DU SABOTAGE DE L'USINE
+KEY_MISSION_SABOTAGE_FACTORY_VICTORY_DESC,"Repair and construction capability is drastically reduced in this haven, and reduced within the haven's influence range, until the factory zone is repaired.","Les capacités de réparation et de fabrication sont grandement diminuées dans ce refuge et dans son champ d'influence, jusqu'à ce que les usines soient réparées."
+KEY_MISSION_SABOTAGE_FACTORY_VICTORY_NAME,FACTORY SABOTAGED,USINE SABOTÉE
+KEY_MISSION_SABOTAGE_FOOD,SABOTAGE FOOD,SABOTAGE ALIMENTAIRE
+KEY_MISSION_SABOTAGE_FOOD_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_FOOD_BRIEFING_NAME,SABOTAGE FOOD PRODUCTION,SABOTAGE DE LA PRODUCTION ALIMENTAIRE
+KEY_MISSION_SABOTAGE_FOOD_DEFEAT_DESC,"Food production continues unabated, and the population celebrate with a great feast.","La production alimentaire se poursuit sans relâche, et la population organise un grand festin pour fêter l'événement."
+KEY_MISSION_SABOTAGE_FOOD_DEFEAT_NAME,SABOTAGE FOOD FAILURE,ÉCHEC DU SABOTAGE DE LA PRODUCTION ALIMENTAIRE
+KEY_MISSION_SABOTAGE_FOOD_VICTORY_DESC,"Food production is dramatically reduced within this haven, and somewhat reduced within its influence range, until production facilities are repaired.","Les capacités de production alimentaire sont grandement diminuées dans ce refuge et dans son champ d'influence, jusqu'à ce que les usines soient réparées."
+KEY_MISSION_SABOTAGE_FOOD_VICTORY_NAME,FOOD PRODUCTION SABOTAGED,PRODUCTION ALIMENTAIRE SABOTÉE
+KEY_MISSION_SABOTAGE_MISSIONARYCENTER,SABOTAGE MISSIONARY CENTER,SABOTAGE DU CENTRE MISSIONNAIRE
+KEY_MISSION_SABOTAGE_MISSIONARY_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_MISSIONARY_BRIEFING_NAME,SABOTAGE MISSIONARY CENTER,SABOTAGE DU CENTRE MISSIONNAIRE
+KEY_MISSION_SABOTAGE_MISSIONARY_DEFEAT_DESC,The missionary center will continue to swell the ranks of Anu acolytes from populations within its influence range.,Le centre missionnaire continuera à gonfler les rangs des Disciples d'Anu à l'aide des populations situées dans son champ d'influence.
+KEY_MISSION_SABOTAGE_MISSIONARY_DEFEAT_NAME,SABOTAGE MISSIONARY CENTER FAILURE,ÉCHEC DU SABOTAGE DU CENTRE MISSIONNAIRE
+KEY_MISSION_SABOTAGE_MISSIONARY_VICTORY_DESC,The missionary center will no longer absorb nearby population or extend the havne's influence zone until it is repaired.,Le centre missionnaire n'absorbera plus les populations avoisinantes et n'étendra plus le champ d'influence du refuge jusqu'à ce qu'il soit réparé.
+KEY_MISSION_SABOTAGE_MISSIONARY_VICTORY_NAME,MISSIONARY CENTER SABOTAGED,CENTRE MISSIONNAIRE SABOTÉ
+KEY_MISSION_SABOTAGE_MISTREPELLER,SABOTAGE MIST REPELLER,SABOTAGE DU REPOUSSEUR DE BRUME
+KEY_MISSION_SABOTAGE_REPELLER_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_REPELLER_BRIEFING_NAME,SABOTAGE MIST REPELLER,SABOTAGE DU REPOUSSEUR DE BRUME
+KEY_MISSION_SABOTAGE_REPELLER_DEFEAT_DESC,Repulsion of Pandoran mist will continue undisturbed.,La brume pandorienne continuera d'être repoussée sans accroc.
+KEY_MISSION_SABOTAGE_REPELLER_DEFEAT_NAME,SABOTAGE REPELLER FAILURE,ÉCHEC DU SABOTAGE DU REPOUSSEUR DE BRUME
+KEY_MISSION_SABOTAGE_REPELLER_VICTORY_DESC,Pandoran mist will no longer be repelled from this haven until it is repaired.,La brume pandorienne ne sera plus repoussée dans ce refuge jusqu'à ce qu'il soit réparé.
+KEY_MISSION_SABOTAGE_REPELLER_VICTORY_NAME,MIST REPELLER SABOTAGED,REPOUSSEUR DE BRUME SABOTÉ
+KEY_MISSION_SABOTAGE_RESEARCH,SABOTAGE RESEARCH,SABOTAGE DES RECHERCHES
+KEY_MISSION_SABOTAGE_RESEARCH_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_RESEARCH_BRIEFING_NAME,SABOTAGE RESEARCH CENTER,SABOTAGE DU CENTRE DE RECHERCHE
+KEY_MISSION_SABOTAGE_RESEARCH_DEFEAT_DESC,This haven continues to contribute research effort to the faction's strategic objectives.,Ce refuge continue de contribuer aux efforts de recherche liés aux objectifs stratégiques de la faction.
+KEY_MISSION_SABOTAGE_RESEARCH_DEFEAT_NAME,SABOTAGE RESEARCH FAILURE,ÉCHEC DU SABOTAGE DU CENTRE DE RECHERCHE
+KEY_MISSION_SABOTAGE_RESEARCH_VICTORY_DESC,The research center will not contribute to faction research capability until it is repaired.,Le centre de recherche ne contribuera plus aux efforts de recherche de la faction jusqu'à ce qu'il soit réparé.
+KEY_MISSION_SABOTAGE_RESEARCH_VICTORY_NAME,RESEARCH CENTER SABOTAGED,CENTRE DE RECHERCHE SABOTÉ
+KEY_MISSION_SABOTAGE_SATELLITEUPLINK,SABOTAGE SATELLITE UPLINK,SABOTAGE DU RELAIS SATELLITE
+KEY_MISSION_SABOTAGE_TRAINING,SABOTAGE TRAINING,SABOTAGE DE L'ENTRAÎNEMENT
+KEY_MISSION_SABOTAGE_TRAINING_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_TRAINING_BRIEFING_NAME,SABOTAGE TRAINING CENTER,SABOTAGE DU CENTRE D'ENTRAÎNEMENT
+KEY_MISSION_SABOTAGE_TRAINING_DEFEAT_DESC,The training center remains ready and willing to defend the haven at all costs.,Le centre d'entraînement demeure opérationnel et prêt à défendre le refuge coûte que coûte.
+KEY_MISSION_SABOTAGE_TRAINING_DEFEAT_NAME,SABOTAGE TRAINING FAILURE,ÉCHEC DU SABOTAGE DU CENTRE D'ENTRAÎNEMENT
+KEY_MISSION_SABOTAGE_TRAINING_VICTORY_DESC,"The training center no longer contributes military force within the haven and its influence zone, until it is repaired.",Le centre d'entraînement ne fournira plus de forces militaires dans le refuge et dans son champ d'influence jusqu'à ce qu'il soit réparé.
+KEY_MISSION_SABOTAGE_TRAINING_VICTORY_NAME,TRAINING CENTER SABOTAGED,CENTRE D'ENTRAÎNEMENT SABOTÉ
+KEY_MISSION_SABOTAGE_UPLINK_BRIEFING_DESC,Destroy all key structures.,Détruisez toutes les structures clés.
+KEY_MISSION_SABOTAGE_UPLINK_BRIEFING_NAME,SABOTAGE SATELLITE UPLINK,SABOTAGE DU RELAIS SATELLITE
+KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_DESC,"The uplink continues to scan a wide area, increasing the haven's influence range and detecting Pandoran activity.","Le relais continue de balayer une large zone, augmentant le champ d'influence du refuge et détectant les activités pandoriennes."
+KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_NAME,SABOTAGE UPLINK FAILURE,ÉCHEC DU SABOTAGE DU RELAIS SATELLITE
+KEY_MISSION_SABOTAGE_UPLINK_VICTORY_DESC,"The uplink will cease to function until repaired, removing ability to detect Pandoran activity and reducing the haven's influence range.","Le relais cessera de fonctionner jusqu'à ce qu'il soit réparé, rendant impossible la détection des activités pandoriennes et réduisant le champ d'influence du refuge."
+KEY_MISSION_SABOTAGE_UPLINK_VICTORY_NAME,SATELLITE UPLINK SABOTAGED,RELAIS SATELLITE SABOTÉ
+KEY_MISSION_SCAVENGING_SITE,SCAVENGING SITE,SITE DE RESSOURCES
+KEY_MISSION_SCAVENGING_SITE_ITEMS_RECOVERED,ITEMS RECOVERED FROM ALL REMAINING CRATES,OBJETS RÉCUPÉRÉS DANS LES CAISSES RESTANTES
+KEY_MISSION_SITE_ENCOUNTER_FACTION_DIPLOMACY_CHANGE,{0}’s attitude to {1}: {2},Attitude de {0} envers {1} : {2}
+KEY_MISSION_SITE_ENCOUNTER_LEADER_DIPLOMACY_CHANGE,Haven leader’s attitude to {0}: {1},Attitude du chef du refuge envers {0} : {1}
+KEY_MISSION_SITE_ENCOUNTER_TYPE,{0} #HAVEN,{0} #HAVEN
+KEY_MISSION_SITE_TYPE,SITE TYPE,TYPE DE SITE
+KEY_MISSION_SOLDIERS_AMOUNT,Soldiers: {CharactersCount},Soldats : {CharactersCount}
+KEY_MISSION_SPECIAL OPERATION,SPECIAL MISSION,MISSION SPÉCIALE
+KEY_MISSION_START_MISSION,START MISSION,COMMENCER LA MISSION
+KEY_MISSION_STEAL_AIRCRAFT,STEAL AIRCRAFT,VOL DE VAISSEAU
+KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_DESC,Reach the aircraft to activate it and evacuate your squad.,Atteignez le vaisseau pour l'activer et évacuez votre escouade.
+KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_NAME,CAPTURE AIRCRAFT,CAPTURE DU VAISSEAU
+KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_DESC,We failed to capture the aircraft.,Nous ne sommes pas parvenus à capturer le vaisseau.
+KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_NAME,FAILED TO CAPTURE AIRCRAFT,ÉCHEC DE LA CAPTURE DU VAISSEAU
+KEY_MISSION_STEAL_AIRCRAFT_VICTORY_DESC,Aircraft has been successfully captured.,Le vaisseau a bien été capturé.
+KEY_MISSION_STEAL_AIRCRAFT_VICTORY_NAME,AIRCRAFT CAPTURED,VAISSEAU CAPTURÉ
+KEY_MISSION_STEAL_FOOD,STEAL FOOD,VOL DE VIVRES
+KEY_MISSION_STEAL_FOOD_BRIEFING_DESC,Take as many items from the crates as you can safely manage and evacuate your squad,Prenez autant d'objets des caisses que vous pouvez porter sans risque et évacuez votre escouade.
+KEY_MISSION_STEAL_FOOD_BRIEFING_NAME,RAID FOOD,RAID DE RAVITAILLEMENT
+KEY_MISSION_STEAL_FOOD_DEFEAT_DESC,Nothing was gained from the mission,Vous n'avez rien obtenu dans cette mission.
+KEY_MISSION_STEAL_FOOD_DEFEAT_NAME,FOOD RAID FAILURE,ÉCHEC DU RAID DE RAVITAILLEMENT
+KEY_MISSION_STEAL_FOOD_VICTORY_DESC,All collected food resource packs have been transferred to our stores,Tous les packs de vivres ont été transférés vers nos entrepôts.
+KEY_MISSION_STEAL_FOOD_VICTORY_NAME,RAID MISSION OVER,MISSION DE RAID TERMINÉE
+KEY_MISSION_STEAL_MATERIALS,STEAL MATERIALS,VOL DE MATÉRIAUX
+KEY_MISSION_STEAL_MATERIALS_BRIEFING_DESC,Take as many items from the crates as you can safely manage and evacuate your squad,Prenez autant d'objets des caisses que vous pouvez porter sans risque et évacuez votre escouade.
+KEY_MISSION_STEAL_MATERIALS_BRIEFING_NAME,RAID MATERIALS,RAID D'APPROVISIONNEMENT
+KEY_MISSION_STEAL_MATERIALS_DEFEAT_DESC,Nothing was gained from the mission,Vous n'avez rien obtenu dans cette mission.
+KEY_MISSION_STEAL_MATERIALS_DEFEAT_NAME,MATERIALS RAID FAILURE,ÉCHEC DU RAID D'APPROVISIONNEMENT
+KEY_MISSION_STEAL_MATERIALS_VICTORY_DESC,All collected materials resource packs have been transferred to our stores,Tous les packs de matériaux ont été transférés vers nos entrepôts.
+KEY_MISSION_STEAL_MATERIALS_VICTORY_NAME,RAID MISSION OVER,MISSION DE RAID TERMINÉE
+KEY_MISSION_STEAL_RESEARCH,STEAL RESEARCH,VOL DE RECHERCHES
+KEY_MISSION_STEAL_RESEARCH_BRIEFING_DESC,Inflitrate the research facility and hack the consoles we have identified as containing the research data.,Infiltrez le centre de recherche et piratez les consoles contenant les recherches de données.
+KEY_MISSION_STEAL_RESEARCH_BRIEFING_NAME,STEAL RESEARCH,VOL DE RECHERCHES
+KEY_MISSION_STEAL_RESEARCH_DEFEAT_DESC,We failed to acquire any useful research data.,Nous ne sommes pas parvenus à mettre la main sur quelconque donnée de recherche.
+KEY_MISSION_STEAL_RESEARCH_DEFEAT_NAME,NO RESEARCH ACQUIRED,AUCUNES RECHERCHES OBTENUES
+KEY_MISSION_STEAL_RESEARCH_VICTORY_DESC,Data for a research project has been acquired.,Nous avons obtenu des données relatives à un projet de recherche.
+KEY_MISSION_STEAL_RESEARCH_VICTORY_NAME,RESEARCH ACQUIRED,RECHERCHES OBTENUES
+KEY_MISSION_STEAL_TECH,STEAL TECH,VOL DE TECHNOLOGIE
+KEY_MISSION_STEAL_TECH_BRIEFING_DESC,Take as many items from the crates as you can safely manage and evacuate your squad,Prenez autant d'objets des caisses que vous pouvez porter sans risque et évacuez votre escouade.
+KEY_MISSION_STEAL_TECH_BRIEFING_NAME,RAID TECH,RAID DE TECHNOLOGIE
+KEY_MISSION_STEAL_TECH_DEFEAT_DESC,Nothing was gained from the mission,Vous n'avez rien obtenu dans cette mission.
+KEY_MISSION_STEAL_TECH_DEFEAT_NAME,TECH RAID FAILURE,ÉCHEC DU RAID DE TECHNOLOGIE
+KEY_MISSION_STEAL_TECH_VICTORY_DESC,All collected tech resource packs have been transferred to our stores,Tous les packs de ressources technologiques ont été transférés vers nos entrepôts.
+KEY_MISSION_STEAL_TECH_VICTORY_NAME,RAID MISSION OVER,MISSION DE RAID TERMINÉE
+KEY_MISSION_STRENGTH,STRENGTH,PUISSANCE
+KEY_MISSION_SUMMARY_BACK_GEOSCAPE,GO BACK TO GEOSCAPE,RETOURNER AU GEOSCAPE
+KEY_MISSION_SUMMARY_COMPLETED,MISSION COMPLETE,MISSION ACCOMPLIE
+KEY_MISSION_SUMMARY_ENEMY_DEFEATED,ENEMY DEFEATED,ENNEMI ÉLIMINÉ
+KEY_MISSION_SUMMARY_EXPERIENCE,EXPERIENCE:,EXPÉRIENCE :
+KEY_MISSION_SUMMARY_FAILED,MISSION FAILED,ÉCHEC DE LA MISSION
+KEY_MISSION_SUMMARY_GENERAL_XP,GENERAL MISSION EXPERIENCE,EXPÉRIENCE DE MISSION GÉNÉRALE
+KEY_MISSION_SUMMARY_PROGRESS,PROGRESS,PROGRESSION
+KEY_MISSION_SUMMARY_SOLDIER,SOLDIER,SOLDAT
+KEY_MISSION_SUMMARY_SOLDIERS,SOLDIERS AND PROGRESS,SOLDATS ET PROGRESSION
+KEY_MISSION_SUMMARY_STATUS,STATUS,ÉTAT
+KEY_MISSION_SUMMARY_STATUS_DAMAGED,DAMAGED,ENDOMMAGÉ
+KEY_MISSION_SUMMARY_STATUS_DESTROYED,DESTROYED,DÉTRUIT
+KEY_MISSION_SUMMARY_STATUS_INJURED,INJURED,BLESSÉ
+KEY_MISSION_SUMMARY_STATUS_KILLED,K.I.A.,TUÉ AU COMBAT
+KEY_MISSION_SUMMARY_STATUS_LEVEL_UP,LEVEL UP,NIVEAU SUPÉRIEUR
+KEY_MISSION_SUMMARY_STATUS_UNMODIFIED,UNMODIFIED,NON MODIFIÉ
+KEY_MISSION_SUMMARY_SUMMARY,SUMMARY,RÉSUMÉ
+KEY_MISSION_SUMMARY_XP,XPs,EXP
+KEY_MISSION_SUMMARY_XP_EARNED,EXPERIENCE POINTS EARNED,POINTS D'EXPÉRIENCE GAGNÉS
+KEY_MISSION_SUMMARY_XP_POOL,SKILL POINTS POOL,POINTS DE COMPÉTENCE TOTAUX
+KEY_MISSION_SUMMARY_XP_TOTAL,TOTAL,TOTAL
+KEY_MISSION_SYNEDRION,SYNEDRION,SYNÉDRION
+KEY_MISSION_THREAT_LEVEL,THREAT LEVEL,NIVEAU DE MENACE
+KEY_MISSION_THREAT_LEVEL_EXTREME,EXTREME,EXTRÊME
+KEY_MISSION_THREAT_LEVEL_HIGH,HIGH,ÉLEVÉ
+KEY_MISSION_THREAT_LEVEL_LOW,LOW,FAIBLE
+KEY_MISSION_THREAT_LEVEL_MEDIUM,MEDIUM,MOYEN
+KEY_MISSION_UNEXPLORED,UNEXPLORED SITE,SITE INEXPLORÉ
+KEY_MISSION_UPDATE_RESTART,"A recent update has caused an incompatibility with your current saved game. No campaign progress has been lost, and you may restart the mission from the Geoscape.",Une mise à jour récente a causé une incompatibilité avec votre sauvegarde actuelle. La progression de votre campagne n'a pas été perdue et vous pouvez redémarrer la mission depuis le Geoscape.
+KEY_MISSION_WARNING,WARNING,AVERTISSEMENT
+KEY_MISSION_WP,WP,PVo

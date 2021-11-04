@@ -1,0 +1,480 @@
+﻿# KEY_AIRCRAFT_EMPTY
+VACANT
+VIDE
+# KEY_AIRCRAFT_STATS_CAPACITY
+CAPACITY
+CAPACITÉ
+# KEY_AIRCRAFT_STATS_DURABILITY
+DURABILITY
+DURABILITÉ
+# KEY_AIRCRAFT_STATS_RANGE
+RANGE
+PORTÉE
+# KEY_AIRCRAFT_STATS_SPEED
+SPEED
+VITESSE
+# KEY_ALIEN_BASE_ABANDONED_CITADEL
+ABANDONED PANDORAN CITADEL
+CITADELLE PANDORIENNE ABANDONNÉE
+# KEY_ALIEN_BASE_ABANDONED_CITADEL_DESC
+This structure has been abandoned
+Cette structure a été abandonnée
+# KEY_ALIEN_BASE_ABANDONED_LAIR
+ABANDONED PANDORAN LAIR
+TANIÈRE PANDORIENNE ABANDONNÉE
+# KEY_ALIEN_BASE_ABANDONED_LAIR_DESC
+This structure has been abandoned to build a Pandoran Citadel nearby
+Cette structure a été abandonnée pour laisser place à la construction d'une Citadelle pandorienne
+# KEY_ALIEN_BASE_ABANDONED_NEST
+ABANDONED PANDORAN NEST
+NID PANDORIEN ABANDONNÉ
+# KEY_ALIEN_BASE_ABANDONED_NEST_DESC
+This structure has been abandoned to build an Pandoran Lair nearby
+Cette structure a été abandonnée pour laisser place à la construction d'une Tanière pandorienne
+# KEY_ALIEN_BASE_CITADEL
+PANDORAN CITADEL
+CITADELLE PANDORIENNE
+# KEY_ALIEN_BASE_DESTROYED_CITADEL
+DESTROYED PANDORAN CITADEL
+CITADELLE PANDORIENNE DÉTRUITE
+# KEY_ALIEN_BASE_DESTROYED_LAIR
+DESTROYED PANDORAN LAIR
+TANIÈRE PANDORIENNE DÉTRUITE
+# KEY_ALIEN_BASE_DESTROYED_NEST
+DESTROYED PANDORAN NEST
+NID PANDORIEN DÉTRUIT
+# KEY_ALIEN_BASE_LAIR
+PANDORAN LAIR
+TANIÈRE PANDORIENNE
+# KEY_ALIEN_BASE_NEST
+PANDORAN NEST
+NID PANDORIEN
+# KEY_ALIEN_BASE_PALACE
+PANDORAN PALACE
+PALAIS PANDORIEN
+# KEY_BUILD_ARMADILLO_DESCRIPTION
+Build a Ground Vehicle using Material and Tech resources
+Construire un véhicule terrestre à l'aide de matériel et de ressources technologiques
+# KEY_BUILD_ARMADILLO_NAME
+BUILD ARMADILLO
+CONSTRUIRE UN PRIODONTE
+# KEY_DEFEND
+DEFEND
+DÉFENDRE
+# KEY_FACILITY_BUILDING
+FACILITY UNDER CONSTRUCTION
+INSTALLATION EN CONSTRUCTION
+# KEY_GEOSCAPE_AIRCRAFT_TT
+Aircraft under Phoenix Point control
+Vaisseau sous contrôle de Phoenix Point
+# KEY_GEOSCAPE_ANU_AIRCRAFT_DESCRIPTION
+Disciples of Anu Aircraft
+Vaisseau des Disciples d'Anu
+# KEY_GEOSCAPE_ANU_AIRCRAFT_NAME
+TIAMAT
+TIAMAT
+# KEY_GEOSCAPE_AN_AIRCRAFT
+TIAMAT {0}
+TIAMAT {0}
+# KEY_GEOSCAPE_BASE_INFO
+BASE INFO
+INFOS DE LA BASE
+# KEY_GEOSCAPE_CHAIN_DESTINATIONS
+Shift + RMB: Chain Destinations
+Maj. + clic droit : enchaîner les destinations
+# KEY_GEOSCAPE_CLOSE
+CLOSE
+FERMER
+# KEY_GEOSCAPE_CONDITION
+CONDITION
+CONDITION
+# KEY_GEOSCAPE_CONFIRM
+CONFIRM
+CONFIRMER
+# KEY_GEOSCAPE_COST
+COST
+COÛT
+# KEY_GEOSCAPE_DESTINATION_DIRECT
+#Destination requires new Refuelling Station or Emergency Refuielling
+#Destination requires new Refuelling Station or Emergency Refuielling
+# KEY_GEOSCAPE_DESTINATION_INDIRECT
+#Destination is within refuelling range
+#Destination is within refuelling range
+# KEY_GEOSCAPE_DIPLOMACY
+DIPLOMACY
+DIPLOMATIE
+# KEY_GEOSCAPE_EQUIP
+EQUIP
+ÉQUIPER
+# KEY_GEOSCAPE_EVENT_LOG
+EVENT LOG
+JOURNAL DE BORD
+# KEY_GEOSCAPE_EXIT
+QUIT GAME
+QUITTER 
+# KEY_GEOSCAPE_EXPLORE_ERROR_TT
+You cannot explore a site without soldiers or vehicles
+Vous ne pouvez pas explorer un site sans soldats ou véhicules.
+# KEY_GEOSCAPE_FOOD
+FOOD
+VIVRES
+# KEY_GEOSCAPE_GAME_PAUSED
+PAUSED
+PAUSE
+# KEY_GEOSCAPE_HAVEN_INFO
+HAVEN INFO
+INFOS DU REFUGE
+# KEY_GEOSCAPE_HAVEN_INFO_DESCRIPTION
+Show information for haven and available missions
+Affichez les informations du refuge et les missions disponibles
+# KEY_GEOSCAPE_HELP
+HELP
+AIDE
+# KEY_GEOSCAPE_MAP_ATTACKING_STRENGTH
+ATTACKING STRENGTH
+PUISSANCE D'ATTAQUE
+# KEY_GEOSCAPE_MAP_DEFENDING_STRENGTH
+DEFENDING STRENGTH
+PUISSANCE DÉFENSIVE
+# KEY_GEOSCAPE_MATERIALS
+MATERIALS
+MATÉRIAUX
+# KEY_GEOSCAPE_MESSAGE_AIRCRAFT_DAMAGED
+Aircraft damage: {0}
+Dégâts du vaisseau : {0}
+# KEY_GEOSCAPE_MESSAGE_AIRCRAFT_REPAIRED
+Aircraft repaired: {0}
+Vaisseau réparé : {0}
+# KEY_GEOSCAPE_MESSAGE_ALIEN_BASE_DESTROYED
+{0} destroyed by {1}
+La base {0} a été détruite par {1}
+# KEY_GEOSCAPE_MESSAGE_AREA_SCAN_COMPLETE
+Scan completed
+Balayage terminé
+# KEY_GEOSCAPE_MESSAGE_BASE_DESTROYED
+Base {0} destroyed by {1}
+La base {0} a été détruite par {1}
+# KEY_GEOSCAPE_MESSAGE_BASE_GAINED
+New Phoenix Base restored
+Nouvelle base Phoenix restaurée
+# KEY_GEOSCAPE_MESSAGE_BASE_THREATENED_1
+{1} will be attacked by {0}
+La base {1} va être attaquée par {0}
+# KEY_GEOSCAPE_MESSAGE_BASE_THREATENED_2
+{0} will reach {1} in {2} hours
+{0} atteindra la base {1} dans {2} heures
+# KEY_GEOSCAPE_MESSAGE_CONTAINMENT_FULL
+Pandoran containment capacity reached
+Les espaces de confinement pandoriens ont atteint leur capacité maximale
+# KEY_GEOSCAPE_MESSAGE_DIPLOMACY_CHANGE
+Diplomacy change: {0} are now {1}
+Changement diplomatique : {0} est maintenant {1}
+# KEY_GEOSCAPE_MESSAGE_FACILITY COMPLETE
+Construction complete: {0} constructed at {1}
+Construction terminée : {0} construit(e) à {1}
+# KEY_GEOSCAPE_MESSAGE_FACILITY_DAMAGED
+Facility damaged: {0} at base: {1}
+Installation endommagée : {0} sur la base : {1}
+# KEY_GEOSCAPE_MESSAGE_FACILITY_REPAIRED
+Repair complete: {0} repaired at {1}
+Réparation terminée : {0} réparé(e) à {1}
+# KEY_GEOSCAPE_MESSAGE_FACTION_RESEARCH_COMPLETED
+{0} completed research project: {1}
+{0} a terminé le projet de recherche : {1}
+# KEY_GEOSCAPE_MESSAGE_FACTION_RESEARCH_STARTED
+{0} started research project: {1}
+{0} a entamé le projet de recherche : {1}
+# KEY_GEOSCAPE_MESSAGE_FACTION_STRUCTURE_COMPLETE
+{0} constructed in Haven {1} by {2}
+{0} construit(e) au refuge {1} par {2}
+# KEY_GEOSCAPE_MESSAGE_HAVEN_DESTROYED
+Haven {0} destroyed by {1}
+Le refuge {0} a été détruit par {1}
+# KEY_GEOSCAPE_MESSAGE_HAVEN_REPELLED_ATTACK
+Haven {0} repelled attack by {1}
+Le refuge {0} a repoussé l'attaque de {1}
+# KEY_GEOSCAPE_MESSAGE_HAVEN_UNDER_ATTACK
+Haven {0} under attack by {1}
+Le refuge {0} est attaqué par {1}
+# KEY_GEOSCAPE_MESSAGE_ITEM_PRODUCED
+Production complete: {0}
+Fabrication terminée : {0}
+# KEY_GEOSCAPE_MESSAGE_LIVING_QUARTERS_FULL
+Living quarters capacity reached
+Les quartiers d'habitation ont atteint leur capacité maximale
+# KEY_GEOSCAPE_MESSAGE_LOW_ENERGY
+Insufficient energy at {0}
+Énergie insuffisante à {0}
+# KEY_GEOSCAPE_MESSAGE_LOW_FOOD
+Insufficient food for your soldiers
+Pas assez de vivres pour vos soldats
+# KEY_GEOSCAPE_MESSAGE_MISSION_COMPLETE
+{0} mission completed successfully
+Mission {0} accomplie
+# KEY_GEOSCAPE_MESSAGE_ODI_CHANGE
+ODI at {0}%
+IDO à {0} %
+# KEY_GEOSCAPE_MESSAGE_PANDORAN_CAPTURED
+Pandoran captured and contained: {0}
+Pandorien capturé et confiné : {0}
+# KEY_GEOSCAPE_MESSAGE_RESEARCH_COMPLETE
+Research complete: {0}
+Recherche terminée : {0}
+# KEY_GEOSCAPE_MESSAGE_RESEARCH_REQUIREMENTS_MET
+Research prerequisites for {0} obtained
+Conditions de recherche préalables pour {0} obtenues
+# KEY_GEOSCAPE_MESSAGE_SOLDIER EXHAUSTED
+Soldier is exhausted and needs to rest: {0}
+Soldat épuisé - repos nécessaire : {0}
+# KEY_GEOSCAPE_MESSAGE_SOLDIERS_READY
+Crew of {0} are fully healed and rested
+L'équipe de {0} a guéri de ses blessures
+# KEY_GEOSCAPE_MESSAGE_SOLDIER_KILLED
+Soldier killed in action: {0}
+Soldat tué au combat : {0}
+# KEY_GEOSCAPE_MESSAGE_SOLDIER_STARVED
+Soldier died from starvation: {0}
+Soldat mort de faim : {0}
+# KEY_GEOSCAPE_MESSAGE_STORAGE_FULL
+Storage space is full
+Entrepôt plein
+# KEY_GEOSCAPE_MOVE
+MOVE
+SE DÉPLACER
+# KEY_GEOSCAPE_NJ_AIRCRAFT
+THUNDERBIRD {0}
+OISEAU DE FOUDRE {0}
+# KEY_GEOSCAPE_NJ_AIRCRAFT_DESCRIPTION
+New Jericho Aircraft
+Vaisseau de la Nouvelle-Jéricho
+# KEY_GEOSCAPE_NJ_AIRCRAFT_NAME
+THUNDERBIRD
+OISEAU DE FOUDRE
+# KEY_GEOSCAPE_NOTIFICATION_MANUFACTURE
+Manufacturing: {0}
+En cours de fabrication : {0}
+# KEY_GEOSCAPE_NOTIFICATION_RESEARCH
+Researching: {0}
+En cours de recherche : {0}
+# KEY_GEOSCAPE_PX_AIRCRAFT
+MANTICORE {0}
+MANTICORE {0}
+# KEY_GEOSCAPE_RECRUIT_TRANSFER
+There is no free space on {0}. The new recruit has been transfered to {1}.
+Il n'y a pas d'espace libre dans la base {0}. La nouvelle recrue a été transférée à {1}.
+# KEY_GEOSCAPE_RESEARCH_HAVENS_TT
+Research Haven Analysis to see details
+Faites des recherches sur l'analyse de refuge pour afficher les détails
+# KEY_GEOSCAPE_SELECT
+SELECT
+SÉLECTIONNER
+# KEY_GEOSCAPE_SELECTED_AIRCRAFT
+SELECTED AIRCRAFT
+VAISSEAU SÉLECTIONNÉ
+# KEY_GEOSCAPE_SELECT_DESTINATION
+RMB: Select Destination
+Clic droit : sélectionner la destination
+# KEY_GEOSCAPE_SELECT_SITE
+LMB: Select Site
+Clic gauche : sélectionner le site
+# KEY_GEOSCAPE_SITES_REVEALED
+Sites added to geoscape: {0} {1}
+Sites ajoutés au Geoscape : {0} {1}
+# KEY_GEOSCAPE_SITE_REVEALED
+Site added to geoscape: {0} 
+Site ajouté au Geoscape : {0}
+# KEY_GEOSCAPE_SOLDIER_JOIN
+New recruit has joined the Phoenix Project: {0}
+Une nouvelle recrue a rejoint le Projet Phoenix : {0}
+# KEY_GEOSCAPE_SWAP
+SWAP
+INTERVERTIR
+# KEY_GEOSCAPE_SY_AIRCRAFT
+HELIOS {0}
+HÉLIOS {0}
+# KEY_GEOSCAPE_SY_VEHICLE_DESCRIPTION
+Synedrion Aircraft
+Vaisseau du Synédrion
+# KEY_GEOSCAPE_SY_VEHICLE_NAME
+Helios
+Hélios
+# KEY_GEOSCAPE_TECH
+TECH
+TECHNOLOGIE
+# KEY_GEOSCAPE_TIME_INSTANT
+INSTANT
+IMMÉDIAT
+# KEY_GEOSCAPE_TIME_LEFT
+Left
+restant(e)s
+# KEY_GEOSCAPE_TIME_LEFT_DAYS
+{0} days
+{0} jours
+# KEY_GEOSCAPE_TIME_LEFT_DAYS_SHORT
+{0}d
+{0} j
+# KEY_GEOSCAPE_TIME_LEFT_HOURS
+{0} hours
+{0} heures
+# KEY_GEOSCAPE_TIME_LEFT_HOURS_SHORT
+{0}h
+{0} h
+# KEY_GEOSCAPE_TIME_NA
+N/A
+N/A
+# KEY_GEOSCAPE_TIME_SPEED_FAST
+FAST
+RAPIDE
+# KEY_GEOSCAPE_TIME_SPEED_NORMAL
+NORMAL
+NORMAL
+# KEY_GEOSCAPE_TIME_SPEED_SLOW
+SLOW
+LENT
+# KEY_GEOSCAPE_VEHICLE_TRANSFER_ERROR_TT
+You can only assign one ground vehicle per aircraft
+Vous ne pouvez assigner qu’un seul véhicule terrestre par vaisseau.
+# KEY_GEO_AIRCRAFT_LIST
+AIRCRAFT LIST
+LISTE DES VAISSEAUX
+# KEY_GEO_DEPLOY_SQUAD
+DEPLOY
+DÉPLOYER
+# KEY_GEO_EXPLORE_SITE
+EXPLORE
+EXPLORER
+# KEY_GEO_SCANNER_DESCRIPTION
+Scan an area, revealing sites of interest.
+Balaie une zone et révèle les sites d'intérêt.
+# KEY_GEO_SCANNER_FORBIDDEN
+Area scans cannot be performed while the aircraft is in flight.
+Les zones ne peuvent pas être balayées lorsque le vaisseau est en plein vol.
+# KEY_GEO_SCANNER_NAME
+AREA SCAN
+BALAYAGE DE ZONE
+# KEY_GEO_SCANNER_NO_RESOURCES
+You don't have enough resources to perform an Area Scan.
+Vous n'avez pas assez de ressources pour effectuer un balayage de zone.
+# KEY_GEO_SCANNER_UNAVAILABLE
+You don't have any Area Scan Uses remaining
+Il ne vous reste plus aucun balayage de zone
+# KEY_GEO_SCANS
+Available Scans
+Balayages disponibles
+# KEY_LAUNCH_MISSION_DESCRIPTION
+Deploy squad to this site and fight a battle
+Déployez l'escouade sur ce site et combattre
+# KEY_LAUNCH_MISSION_NAME
+DISPATCH SQUAD
+ENVOYER L'ESCOUADE
+# KEY_MESSAGE_GEO_MISSION_UNAVAILABLE
+No active missions are available at this time
+Aucune mission active disponible pour le moment
+# KEY_MESSAGE_GEO_NO_RESOURCES_RADAR
+Not enough resources to conduct an Area Scan
+Pas assez de ressources pour effectuer un balayage de zone
+# KEY_MESSAGE_GEO_NO_SOLDIERS
+You do not have any soldiers to Launch a Mission
+Vous n'avez aucun soldat pour lancer une mission
+# KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_ALIEN
+You don't have enough Pandoran Containment space in your bases to store all the captured creatures. All creatures in excess have been killed and left in the wilderness.
+Vous n'avez pas assez d'espace de confinement pandorien dans vos bases pour entreposer toutes les créatures capturées. Toutes les créatures en trop ont été anéanties et déposées dans la nature.
+# KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_SOLDIER
+You don't have enough Living Quarters space in your bases to recruit this soldier.
+Vous n'avez pas assez d'espace dans les quartiers d'habitation de vos bases pour recruter ce soldat.
+# KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_STORAGE
+You don't have enough Storage space in your bases to store items.
+Vous n'avez pas assez d'espace de stockage dans vos bases pour entreposer des objets.
+# KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_VEHICLE
+You don't have enough hangar space to maintain more vehicles or aircraft.
+Vous n'avez pas assez d'espace dans le hangar pour entretenir de nouveaux véhicules ou vaisseaux.
+# KEY_MESSAGE_NOT_ENOUGHT_RESOURCES_TO_RECRUIT
+You don't have enough resources to recruit soldiers.
+Vous n'avez pas assez de ressources pour recruter des soldats.
+# KEY_MESSAGE_NOT_ENOUGHT_SPACE_MUTOG
+You don't have enouch space to board a mutog on your aircraft (3 slots required)
+Vous n'avez pas assez d'espace pour embarquer un Mutog à bord de votre vaisseau (3 emplacements requis).
+# KEY_MESSAGE_NOT_ENOUGHT_SPACE_TO_RECRUIT
+You don't have enough space to board a soldier on your aircraft (1 slot required).
+Vous n'avez pas assez d'espace pour embarquer un soldat à bord de votre vaisseau (1 emplacement requis).
+# KEY_MESSAGE_NOT_ENOUGHT_SPACE_VEHICLE
+You don't have enough space to board a vehicle on your aircraft (3 slots required).
+Vous n'avez pas assez d'espace pour embarquer un véhicule à bord de votre vaisseau (3 emplacements requis).
+# KEY_ODI_TT
+Oneiric Delirium Index - Save havens to slow down progress, or destroy Pandoran bases to reverse it
+Indice de Délitre Onirique - Sauvez des refuges afin de ralentir la progression, ou détruisez des bases Pandoriennes afin de le réduire
+# KEY_PX_AIRSHIP_DESCRIPTION
+Phoenix Air Vehicle
+Véhicule aérien Phoenix
+# KEY_PX_AIRSHIP_NAME
+MANTICORE
+MANTICORE
+# KEY_QUICK_LOAD_NAME
+QUICK LOAD
+CHARGEMENT RAPIDE
+# KEY_QUICK_SAVE_NAME
+QUICK SAVE
+SAUVEGARDE RAPIDE
+# KEY_RADAR_USAGE
+Conduct an AREA SCAN to reveal locations in the surrounding area and find sites to explore.
+Effectuez un BALAYAGE DE ZONE pour révéler les zones alentour et trouver des sites à explorer.
+# KEY_RECRUIT_SOLDIER_ABILITY_DESCRIPTION
+Recruit a soldier from the selected haven
+Recrutez un soldat dans le refuge sélectionné
+# KEY_RECRUIT_SOLDIER_ABILITY_NAME
+RECRUIT SOLDIER
+RECRUTER UN SOLDAT
+# KEY_RECRUIT_SOLDIER_INFO_LABEL
+RECRUIT AVAILABLE AT HAVEN
+RECRUES DISPONIBLES AU REFUGE
+# KEY_REFUEL_ABILITY_DESCRIPTION
+Use Emergency Refuelling to refuel an aircraft when not at a Phoenix Base or Refuelling Station
+Utilisez Ravitaillement d'urgence pour ravitailler un vaisseau en carburant en dehors d'une base Phoenix ou d'un poste de ravitaillement
+# KEY_REFUEL_ABILITY_NAME
+EMERGENCY REFUEL
+RAVITAILLEMENT D'URGENCE
+# KEY_REPAIR_ABILITY_DESCRIPTION
+Perform an emergency repair of your aircraft using current resources.
+Effectuez des réparations d'urgence sur votre vaisseau à l'aide des ressources actuelles.
+# KEY_REPAIR_ABILITY_NAME
+REPAIR
+RÉPARER
+# KEY_SECTION_DIPLOMACY
+DIPLOMACY
+DIPLOMATIE
+# KEY_SECTION_GEOSCAPE
+GEOSCAPE
+GEOSCAPE
+# KEY_SECTION_MANUFACTURING
+MANUFACTURING
+FABRICATION
+# KEY_SECTION_PHOENIXPEDIA
+PHOENIXPEDIA
+PHOENIXPÉDIA
+# KEY_SECTION_PHOENIX_BASES
+BASES
+BASES
+# KEY_SECTION_RESEARCH
+RESEARCH
+RECHERCHER
+# KEY_SECTION_ROSTER
+PERSONNEL
+PERSONNEL
+# KEY_SPECIAL_MISSION
+SPECIAL MISSION
+MISSION SPÉCIALE
+# KEY_SQUAD_ROSTER_DESCRIPTION
+View a list of soldiers and ground vehicles, and access equipping functions
+Affichez la liste des soldats et véhicules terrestres, et accédez aux fonctions d'équipement
+# KEY_SQUAD_ROSTER_NAME
+SQUAD ROSTER
+MEMBRES DE L'ESCOUADE
+# KEY_STATUS_SOLO
+STATUS
+ÉTAT
+# KEY_TRADE
+TRADE
+ÉCHANGER
+# KEY_UNDER_ATTACK
+UNDER ATTACK
+ATTAQUÉ

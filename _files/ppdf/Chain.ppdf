@@ -1,0 +1,153 @@
+﻿# CHAIN_NJ1_CHOICE_0_OUTCOME_GENERAL
+MESSAGE[n]FROM: Colonel Jack Harlson (New Jericho)[n]TO: Phoenix Project[n][n]I look forward to receiving the results of this operation. You will be adequately compensated, of course.
+MESSAGE[n]DE : Colonel Jack Harlson (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Il me tarde de recevoir les résultats de cette opération. Vous serez rémunérés comme il se doit, évidemment.
+# CHAIN_NJ1_CHOICE_0_TEXT
+Accept mission.
+Accepter la mission.
+# CHAIN_NJ1_CHOICE_1_OUTCOME_GENERAL
+MESSAGE[n]FROM: Colonel Jack Harlson (New Jericho)[n]TO: Phoenix Project[n][n]I didn't expect the Phoenix Project to be so... prissy.
+MESSAGE[n]DE : Colonel Jack Harlson (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Je ne m'attendais pas à ce que le Projet Phoenix soit si... pointilleux.
+# CHAIN_NJ1_CHOICE_1_TEXT
+We're uncomfortable with the ethical nature of this project.
+Nous ne sommes pas à l'aise avec la nature éthique de ce projet.
+# CHAIN_NJ1_CHOICE_2_OUTCOME_GENERAL
+MESSAGE[n]FROM: Colonel Jack Harlson (New Jericho)[n]TO: Phoenix Project[n][n]Ah, I see. Perhaps you're right. I should not have involved outsiders.
+MESSAGE[n]DE : Colonel Jack Harlson (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Ah, je vois. Vous avez peut-être raison. Je n'aurais pas dû impliquer des étrangers.
+# CHAIN_NJ1_CHOICE_2_TEXT
+This is an internal matter.
+C'est une affaire interne.
+# CHAIN_NJ1_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# CHAIN_NJ1_FAIL_TEXT_GENERAL_0
+Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.
+Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+# CHAIN_NJ1_FAIL_TITLE
+Byzantium
+Byzance
+# CHAIN_NJ1_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# CHAIN_NJ1_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# CHAIN_NJ1_MISS_SUMMARY
+Retrieve Harlson's research data from the Byzantium lab, eliminating the raiders if necessary.
+Récupérez les données de recherche d'Harlson dans le laboratoire Byzance, en éliminant les pillards si nécessaire.
+# CHAIN_NJ1_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]The Byzantium laboratory was part of Colonel Harlson's top-secret research project. He needs us to retrieve the data stored in its systems, but the facility is currently occupied by a group of raiders.
+RÉSUMÉ DE LA MISSION[n][n]Le laboratoire Byzance faisait partie du projet de recherche top secret du colonel Harlson. Il nous demande de récupérer les données stockées dans ses systèmes, mais l'établissement est actuellement occupé par un groupe de pillards.
+# CHAIN_NJ1_MISS_TITLE
+Byzantium
+Byzance
+# CHAIN_NJ1_TEXT_GENERAL_0
+MESSAGE[n]FROM: Colonel Jack Harlson (New Jericho)[n]TO: Phoenix Project[n][n]I have a small task that needs taking care of... outside formal channels. Not everyone really understands the war we're in. Some people think it's just about killing as many Pandorans as possible, but the war goes a lot deeper than that. This is a war for control over our DNA, and we're still almost entirely unarmed.[n][n]Some time ago, one of my attempts to give us a fighting chance in that war went wrong. You may have heard of it - the fall of Fort Freiheit? I regret what happened, but not the fact that we tried. We had to try. We have to keep trying. 
+MESSAGE[n]DE : Colonel Jack Harlson (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]J'ai une petite mission à déléguer... en dehors des canaux habituels. Tout le monde ne comprend pas la guerre que nous menons. Certains pensent qu'il s'agit simplement de tuer autant de Pandoriens que possible, mais ça va bien plus loin que ça. C'est une guerre pour le contrôle de notre ADN et nous sommes toujours pratiquement désarmés.[n][n]Il y a quelque temps, l'une de mes tentatives visant à nous donner une chance de nous en sortir s'est mal finie. Vous en avez peut-être entendu parler, la chute du fort Freiheit ? Je regrette ce qui s'est passé, mais pas d'avoir essayé. Nous devions essayer. Nous devons continuer d'essayer.
+# CHAIN_NJ1_TEXT_GENERAL_1
+MESSAGE[n]FROM: Colonel Jack Harlson (New Jericho)[n]TO: Phoenix Project[n][n]Anyway, Freiheit's little more than a ruin now, but we had a secondary facility, codenamed Byzantium. It had to be abandoned, and we've never been able to allocate enough resources to retrieve the data we left behind. To make things more complicated, a group of raiders has settled there - without any knowledge of the treasure they're sitting on.[n][n]As you can understand, it's a delicate matter, and I'd appreciate your help.
+MESSAGE[n]DE : Colonel Jack Harlson (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Bref, Freiheit est à peine plus que des ruines maintenant, mais nous avions une deuxième installation, sous le nom de code Byzance. Elle a été abandonnée et nous n'avons jamais pu récupérer les données que nous avions laissées. Pour compliquer encore les choses, un groupe de pillard s'y est installé, sans avoir conscience du trésor à leur portée.[n][n]Comme vous pouvez le comprendre, c'est une affaire délicate pour laquelle j'apprécierais votre aide.
+# CHAIN_NJ1_TITLE
+Hecate's Children
+Enfants d'Hécate
+# CHAIN_NJ1_WIN_CHOICE_0_OUTCOME_GENERAL
+MESSAGE[n]FROM: Colonel Jack Harlson (New Jericho)[n]TO: Phoenix Project[n][n]I hope you will continue working with New Jericho. We can achieve a great deal together. Maybe even win this damn war one day.
+MESSAGE[n]DE : Colonel Jack Harlson (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]J'espère que vous continuerez à travailler avec la Nouvelle-Jéricho. Nous pouvons accomplir beaucoup de choses ensemble. Peut-être même, remporter cette guerre un jour.
+# CHAIN_NJ1_WIN_CHOICE_0_TEXT
+Accept.
+Accepter.
+# CHAIN_NJ1_WIN_TEXT_GENERAL_0
+MESSAGE[n]FROM: Colonel Jack Harlson (New Jericho)[n]TO: Phoenix Project[n][n]Excellent. I'm glad you understand the importance of fighting the Pandoravirus with more than just guns. It may be ugly at times, but what's the point of morality if no-one's left to appreciate it? Survival of the species has to be our first priority.[n][n]I hope you'll accept this small gift as a reward for your help.
+MESSAGE[n]DE : Colonel Jack Harlson (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Parfait. Je suis content de voir que vous comprenez l'importance de combattre le Pandoravirus avec plus que des armes. Ça peut être sinistre parfois, mais à quoi sert la moralité s'il ne reste personne pour l'apprécier ? La survie de l'espèce doit être notre priorité.[n][n]J'espère que vous accepterez ce petit cadeau en guise de récompense pour votre aide.
+# CHAIN_NJ1_WIN_TITLE
+The Needs of the Species
+Les besoins de l'espèce
+# CHAIN_NJ2_CHOICE_0_OUTCOME_GENERAL
+MESSAGE[n]FROM: Captain J.P. Richter (New Jericho)[n]TO: Phoenix Project[n][n]Good. Transmitting coordinates. Don't worry - this is a black site, so even if Harlson finds out who did this, what is he gonna do? Tell Tobias West about his secret project?
+MESSAGE[n]DE : Capitaine J.P. Richter (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Bien. Je vous transmets les coordonnées. Ne vous inquiétez pas, c'est un site noir, donc même si Harlson découvre les responsables, que peut-il faire ? Parler à Tobias West de son projet secret ?
+# CHAIN_NJ2_CHOICE_0_TEXT
+Project Vulture will be destroyed.
+Le projet Vautour sera détruit.
+# CHAIN_NJ2_CHOICE_1_OUTCOME_GENERAL
+MESSAGE[n]FROM: Captain J.P. Richter (New Jericho)[n]TO: Phoenix Project[n][n]Really? Huh. What a shame.
+MESSAGE[n]DE : Capitaine J.P. Richter (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Vraiment ? Ha. C'est dommage.
+# CHAIN_NJ2_CHOICE_1_TEXT
+Harlson is right.
+Harlson a raison.
+# CHAIN_NJ2_CHOICE_2_OUTCOME_GENERAL
+MESSAGE[n]FROM: Captain J.P. Richter (New Jericho)[n]TO: Phoenix Project[n][n]What a shame. Well, can't blame a guy for trying.
+MESSAGE[n]DE : Capitaine J.P. Richter (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Dommage. Enfin, on ne peut pas m'en vouloir d'avoir essayé.
+# CHAIN_NJ2_CHOICE_2_TEXT
+This is an internal matter.
+C'est une affaire interne.
+# CHAIN_NJ2_FAIL_CHOICE_0_TEXT
+OK.
+OK.
+# CHAIN_NJ2_FAIL_TEXT_GENERAL_0
+Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.
+Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.
+# CHAIN_NJ2_FAIL_TITLE
+Project Vulture
+Projet Vautour
+# CHAIN_NJ2_MISS_CHOICE_0_TEXT
+START MISSION
+COMMENCER LA MISSION
+# CHAIN_NJ2_MISS_CHOICE_1_TEXT
+CANCEL
+ANNULER
+# CHAIN_NJ2_MISS_SUMMARY
+Destroy the Project Vulture black site.
+Détruisez le site noir du projet Vautour.
+# CHAIN_NJ2_MISS_TEXT_GENERAL_0
+MISSION BRIEFING[n][n]Project Vulture is a series of secret experiments with no ethical boundaries, conducted without Tobias West's knowledge or approval. Our task is simple: destroy it.
+RÉSUMÉ DE LA MISSION[n][n]Le projet Vautour est une série d'expériences secrètes sans aucune limite éthique, menée sans que Tobias West ne le sache ou l'approuve. Notre tâche est simple : le détruire.
+# CHAIN_NJ2_MISS_TITLE
+Project Vulture
+Projet Vautour
+# CHAIN_NJ2_SUMMARY
+Richter proposes destroying project Vulture
+Richter propose de détruire le projet Vautour.
+# CHAIN_NJ2_TEXT_GENERAL_0
+MESSAGE[n]FROM: Captain J.P. Richter (New Jericho)[n]TO: Phoenix Project[n][n]Looks like you really are on our side - the Phoenix Project and New Jericho, putting bullets in monsters together. Nice![n][n]But you know what's less nice? There are some folks here in New Jericho who, well, how shall I put it? They have some minor ethical issues. And by minor I mean absolutely goddamn massive. Like my old friend Colonel Harlson, who tried to convince me I was infected so he could run his little tests on me.
+MESSAGE[n]DE : Capitaine J.P. Richter (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Il semble que vous soyez vraiment de notre côté : le Projet Phoenix et la Nouvelle-Jéricho criblant les monstres de balles ensemble. Cool ![n][n]Mais vous savez ce qui est moins cool ? Il y a des individus ici à la Nouvelle-Jéricho qui, euh, comment dire ? Ils ont des petits soucis d'éthique. Et par petits, je veux dire, énormes. Comme mon vieil ami, le colonel Harlson, qui a essayé de me convaincre que j'étais infecté pour pouvoir faire ses petits tests sur moi.
+# CHAIN_NJ2_TEXT_GENERAL_1
+MESSAGE[n]FROM: Captain J.P. Richter (New Jericho)[n]TO: Phoenix Project[n][n]Now sure, maybe it's true that we need ruthless people like Harlson, who are willing to do anything to survive. But there are limits, and as far as I'm concerned, he's breached them over and over. And you know what? He's done it in secret. Tobias West has no idea about some of the shit this guy's pulled.[n][n]I could just rat the old bastard out, of course, but like I said, maybe we do need him. We don't need Project Vulture, though. Experimenting on Pandorans is fine by me, but on people? I may be cynical, but that's where I draw the line. So here's the deal - I provide you with the location of the new Project Vulture lab, and you make sure no-one gets out alive.
+MESSAGE[n]DE : Capitaine J.P. Richter (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Maintenant, oui, c'est peut-être vrai que nous avons besoin de personnes impitoyables comme Harlson, qui sont prêtes à tout pour survivre. Mais il y a des limites, et à mon avis, il les a dépassées bien trop de fois. Et vous savez quoi ? Il le fait en secret. Tobias West n'a aucune idée de certains trucs que ce type a entrepris.[n][n]Je pourrais juste le balancer, bien entendu, mais comme je l'ai dit, nous avons peut-être besoin de lui. Mais pas du projet Vautour, par contre. Les expériences sur des Pandoriens, ça me va, mais sur des gens ? Je suis peut-être cynique, mais c'est là que je pose les limites. Alors voilà le truc : je vous donne l'emplacement du nouveau laboratoire du projet Vautour et vous vous assurez que personne n'en sorte vivant.
+# CHAIN_NJ2_TITLE
+Putting Bullets in Monsters
+Cribler les monstres de balles
+# CHAIN_NJ2_WIN_CHOICE_0_OUTCOME_GENERAL
+MESSAGE[n]FROM: Captain J.P. Richter (New Jericho)[n]TO: Phoenix Project[n][n]You're welcome. Oh, and if Harlson comes knocking? Tell him I ordered the attack.
+MESSAGE[n]DE : Capitaine J.P. Richter (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]De rien. Oh, et si Harlson vient fourrer son nez là-dedans, dites-lui que j'ai orchestré l'attaque.
+# CHAIN_NJ2_WIN_CHOICE_0_TEXT
+Accept.
+Accepter.
+# CHAIN_NJ2_WIN_SUMMARY
+Vulture destroyed
+Vautour détruit
+# CHAIN_NJ2_WIN_TEXT_GENERAL_0
+MESSAGE[n]FROM: Captain J.P. Richter (New Jericho)[n]TO: Phoenix Project[n][n]Good work! You see, it's not just alien monsters that need the occasional bullet in the head - it's human monsters, too. New Jericho isn't good by default - hell, half of what we believe is probably nonsense. No, New Jericho will only do what we need it to do if we make sure that aberrations like Project Vulture are surgically removed before they spread, so we can get back to what matters: taking down as many Pandorans as we can before we die.[n][n]Here's your reward. I did mention the reward, right? Like the old saying goes, there ain't no such thing as a free lunch. Well, here's your well-earned lunch.
+MESSAGE[n]DE : Capitaine J.P. Richter (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Beau travail ! Vous voyez, ce n'est pas juste des monstres extraterrestres qui ont besoin d'une balle dans la tête de temps à autre, les monstres humains aussi. La Nouvelle-Jéricho n'est pas une faction bienveillante par défaut, bon sang, la moitié de ce que nous croyons est probablement absurde. Non, la Nouvelle-Jéricho fera seulement ce que nous voulons qu'elle fasse si nous nous assurons que les aberrations comme le projet Vautour sont retirées par voie chirurgicale avant qu'elles ne se propagent. Ceci nous permet de revenir à ce qui est vraiment important : éliminer le plus de Pandoriens possible avant de mourir.[n][n]Voici votre récompense. J'avais bien mentionné une récompense, n'est-ce pas ? Comme on dit, rien n'est jamais gratuit. Voilà donc pour vous.
+# CHAIN_NJ2_WIN_TITLE
+Putting Bullets in Monsters (Reprise)
+Cribler les monstres de balles (reprise)
+# CHAIN_NJ3_CHOICE_0_OUTCOME_GENERAL
+MESSAGE[n]FROM: Tobias West (New Jericho)[n]TO: Phoenix Project[n][n]Interesting. But if he's right, what differentiates us from the Disciples of Anu? They believe that they're saving the species, too - by changing it so profoundly that it's hardly the same species anymore. If we reject the idea of ethical boundaries, shouldn't we be just fine with what the Disciples are doing, so long as it leads to survival?[n][n]A quandary worth pondering.[n][n]In any case, since you agree with Harlson, I thought I'd share some of his research data. Your scientists might find it useful, especially if they don't mind the methods by which it was gathered.
+MESSAGE[n]DE : Tobias West (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Intéressant. Mais s'il a raison, qu'est-ce qui nous différencie des Disciples d'Anu ? Ils pensent aussi qu'ils sauvent l'espèce – en la changeant si profondément que c'est à peine la même espèce. Si nous rejetons l'idée de limites éthiques, ne devrions-nous pas accepter ce que les Disciples font, tant que cela mène à notre survie ?C'est un dilemme qui mérite réflexion.[n][n]Dans tous les cas, puisque vous êtes d'accord avec Harlson, je voulais partager avec vous des données de certaines de ses recherches. Vos scientifiques pourraient les trouver utiles, surtout si les méthodes par lesquelles elles ont été obtenues leur importent peu.
+# CHAIN_NJ3_CHOICE_0_TEXT
+Harlson is right. Whatever it takes.
+Harlson a raison. Coûte que coûte.
+# CHAIN_NJ3_CHOICE_1_OUTCOME_GENERAL
+MESSAGE[n]FROM: Tobias West (New Jericho)[n]TO: Phoenix Project[n][n]Interesting. But if he's right, what do we do if we come up against the material limits imposed by our morality? What if the war can't be won - do we choose to die for our principles? Can principles even be said to have any value at all in a world without sentient beings?[n][n]A quandary worth pondering.[n][n]In any case, since you agree with Richter, I thought I'd share some of the data we've collected from his new training program. Your operatives might find it useful in fighting that good fight.
+MESSAGE[n]DE : Tobias West (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Intéressant. Mais s'il a raison, que faire lorsque nous faisons face aux limites matérielles imposées par notre moralité ? Et si la guerre ne peut pas être remportée, choisissons-nous de mourir pour nos principes ? Peut-il se dire de principes qu'ils ont une valeur dans un monde dépourvu d'êtres doués de conscience ?[n][n]C'est un dilemme qui mérite réflexion.[n][n]Dans tous les cas, puisque vous êtes d'accord avec Richter, je voulais partager avec vous des données que nous avons recueillies avec son nouveau programme d'entraînement. Vos agents pourraient les trouver utiles dans leur combat pour défendre la bonne cause.
+# CHAIN_NJ3_CHOICE_1_TEXT
+Richter is right. We must not lose sight of our principles.
+Richter a raison. Nous ne devons pas oublier nos principes.
+# CHAIN_NJ3_TEXT_GENERAL_0
+MESSAGE[n]FROM: Tobias West (New Jericho)[n]TO: Phoenix Project[n][n]So, I see you've been contacted by Colonel Harlson and Captain Richter. Fascinating individuals, aren't they? Smart, dedicated, and quite stubborn. And both of them laboring under the illusion that I don't know what they're up to.[n][n]I've tolerated their little games so far, but enough is enough - there are more serious issues I need them to focus on.
+MESSAGE[n]DE : Tobias West (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Bien, je vois que vous avez été contactés par le colonel Harlson et le capitaine Richter. Ce sont des individus fascinants, n'est-ce pas ? Intelligents, dévoués et assez têtus. Et ils travaillent tous les deux dans l'illusion que je ne sais pas ce qu'ils manigancent.[n][n]J'ai toléré leurs petits jeux jusqu'à présent, mais ça suffit. Il y a des problèmes plus sérieux auxquels je veux qu'ils donnent la priorité.
+# CHAIN_NJ3_TEXT_GENERAL_1
+MESSAGE[n]FROM: Tobias West (New Jericho)[n]TO: Phoenix Project[n][n]Still, I'm curious. What do you make of their philosophical arguments? Is Harlson right, and we have to put the needs of the species first? Or do you prefer Richter's belief that there are certain lines that must not be crossed?
+MESSAGE[n]DE : Tobias West (Nouvelle-Jéricho)[n]À : Projet Phoenix[n][n]Enfin, je suis quand même curieux. Que pensez-vous de leurs arguments philosophiques ? Est-ce qu'Harlson a raison et devons-nous considérer en priorité les besoins de l'espèce ? Ou préférez-vous l'opinion de Richter, selon laquelle il y a certaines limites à ne pas dépasser ?
+# CHAIN_NJ3_TITLE
+The Philosopher King
+Le roi philosophe

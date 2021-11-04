@@ -1,0 +1,84 @@
+﻿# KEY_BLAST_RESISTANCE_DESCRIPTION
+Reduces effect of Blast Damage by half
+Réduit l'effet des dégâts d'explosion de moitié
+# KEY_BLAST_RESISTANCE_NAME
+Blast resistance
+Anti-explosion
+# KEY_FS_AGL_DESCRIPTION
+Phoenix Assault Grenade Launcher
+Lance-grenades d'Assaut Phoenix
+# KEY_FS_AGL_NAME
+Vidar Grenade Launcher
+Lance-grenades Vidar
+# KEY_FS_AMMO_AGL_DESCRIPTION
+Phoenix Grenade Launcher Round
+Cartouche de lance-grenades Phoenix
+# KEY_FS_AMMO_AGL_NAME
+Vidar Grenade Round
+Cartouche de grenades Vidar
+# KEY_FS_AMMO_HEAVY_DESCRIPTION
+Phoenix Autocannon Magazine
+Chargeur de canon automatique Phoenix
+# KEY_FS_AMMO_HEAVY_NAME
+Tyr-1 Magazine
+Chargeur de Tyr-1
+# KEY_FS_AMMO_LAUNCHER_DESCRIPTION
+Phoenix Biogas Launcher Magazine
+Chargeur de lance-grenades au biogaz Phoenix
+# KEY_FS_AMMO_LAUNCHER_NAME
+Biogas Magazine
+Chargeur de biogaz
+# KEY_FS_AMMO_SHOTGUN_DESCRIPTION
+Phoenix Shotgun Magazine
+Chargeur de fusil à pompe Phoenix
+# KEY_FS_AMMO_SHOTGUN_NAME
+Slamstrike Shotgun Magazine
+Chargeur de fusil à pompe Slamstrike
+# KEY_FS_AMMO_SNIPER_DESCRIPTION
+Phoenix Light Sniper Magazine
+Chargeur du fusil de précision léger Phoenix
+# KEY_FS_AMMO_SNIPER_NAME
+Hawk-41K Magazine
+Chargeur de Hawk-41K
+# KEY_FS_GRENADE_DESCRIPTION
+Phoenix Biogas Grenade
+Grenade au biogaz Phoenix
+# KEY_FS_GRENADE_NAME
+Biogas Grenade
+Grenade au biogaz
+# KEY_FS_HEAVY_DESCRIPTION
+Phoenix Automatic Cannon
+Canon automatique Phoenix
+# KEY_FS_HEAVY_NAME
+Tyr-1 Autocannon
+Canon automatique Tyr-1
+# KEY_FS_LAUNCHER_DESCRIPTION
+Phoenix Biogas Launcher
+Lanceur de gaz biologique Phoenix
+# KEY_FS_LAUNCHER_NAME
+Biogas Launcher
+Lance-grenades au biogaz
+# KEY_FS_SHIELD_DESCRIPTION
+Phoenix Combat Shield
+Bouclier de combat Phoenix
+# KEY_FS_SHIELD_NAME
+Combat Shield
+Bouclier de combat
+# KEY_FS_SHOTGUN_DESCRIPTION
+Phoenix Shotgun
+Fusil à pompe Phoenix
+# KEY_FS_SHOTGUN_NAME
+Slamstrike Shotgun
+Fusil à pompe Slamstrike
+# KEY_FS_SNIPER_DESCRIPTION
+Phoenix Light Sniper Rifle
+Fusil de précision léger Phoenix
+# KEY_FS_SNIPER_NAME
+Hawk-41K
+Hawk-41K
+# KEY_PX_BLAST_RES_ATTACHMENT_DESCRIPTION
+Phoenix Blast resistant vest
+Gilet anti-explosion Phoenix
+# KEY_PX_BLAST_RES_ATTACHMENT_NAME
+Blast-Res Vest
+Gilet anti-explosion
