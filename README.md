@@ -11,6 +11,8 @@ Amélioration de la traduction française
 ### Installation
 
  Onglet Releases
+
+ (privilégier les fichiers dans les dossier _files\csv que les Releases)
  
  Télécharger la dernière version et copier tous les fichiers dans
  {répertoire_du_jeu}\PhoenixPointWin64_Data\StreamingAssets\Localization

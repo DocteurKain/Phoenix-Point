@@ -89,17 +89,17 @@ KEY_NJ_ENDING6_04,determined to protect the rights of every individual to live f
 KEY_NJ_ENDING7_01,As for the Phoenix Project... we finally had the support we needed. next time we'd be ready.,"Quant au Projet Phoenix... nous avions enfin reçu le soutien dont nous avions besoin. La prochaine fois, nous nous tiendrions prêts."
 KEY_NJ_ENDING7_02,"It was time to build, to train, to prepare. Up there, in celestial darkness, ","Il était temps de construire, de s'entraîner, de préparer. Là-haut, dans l'obscurité céleste,"
 KEY_NJ_ENDING7_03,something ancient and powerful still hungered for our planet. But next time...,quelque chose d'ancien et de puissant avait encore une soif insatiable de contrôler notre planète.
-KEY_NJ_INTRO1_01,"New Jericho was one man's vision, and everything depended on that one man.","La Nouvelle-Jéricho était née de la vision d'un seul homme, et tout reposait sur les épaules de ce dernier."
+KEY_NJ_INTRO1_01,"New Jericho was one man's vision, and everything depended on that one man.","La nouvelle Jéricho était la vision d'un homme, et tout dépendait de cet homme."
 KEY_NJ_INTRO2_01,"Before the war, Tobias West had been a billionaire. ","Avant la guerre, Tobias West était un milliardaire."
 KEY_NJ_INTRO2_02,"An elusive, controversial businessman who denounced war even as he profited from it. ",C'était un homme d'affaires insaisissable et controversé qui dénonçait la guerre alors même qu'il en tirait profit.
 KEY_NJ_INTRO2_03,"When the world fell, his empire began to rise.","Lorsque le monde s'est effondré, son empire a entrepris son ascension."
-KEY_NJ_INTRO3_01,"Some said he was a genius. A man of principle, dedicated to equality and merit,","Certains ont dit que c'était un génie. Un homme de principe, voué à l'égalité et au mérite,"
-KEY_NJ_INTRO3_02,"fighting to preserve the core of human freedom: our will. ",qui se battait pour préserver le noyau de la liberté humaine : notre volonté.
-KEY_NJ_INTRO3_03,"They said he had a plan, that he could lead us to victory.","Ils ont dit qu'il avait un plan, qu'il pouvait nous mener à la victoire."
-KEY_NJ_INTRO4_01,"Others called him a dictator, a megalomaniac, fearful of infection and obsessed with purity. ","D'autres l'ont traité de dictateur, de mégalomane. Ils l'ont accusé d'avoir peur de l'infection et d'être obsédé par la pureté."
+KEY_NJ_INTRO3_01,"Some said he was a genius. A man of principle, dedicated to equality and merit,","Certains disaient que c'était un génie. Un homme de principe, dévoué à l'égalité et au mérite,"
+KEY_NJ_INTRO3_02,"fighting to preserve the core of human freedom: our will. ","luttant pour préserver le cœur de la liberté humaine, notre volonté."
+KEY_NJ_INTRO3_03,"They said he had a plan, that he could lead us to victory.","Ils disaient aussi qu'il avait un plan, qu'il pouvait nous mener à la victoire."
+KEY_NJ_INTRO4_01,"Others called him a dictator, a megalomaniac, fearful of infection and obsessed with purity. ","D'autres l'ont qualifié de dictateur, de mégalomane, craignant l'infection et obsédé par la pureté. "
 KEY_NJ_INTRO4_02,They said he was willing to do anything to win... no matter the cost.,Ils ont dit qu'il était prêt à tout pour gagner... peu importe le prix à payer.
-KEY_NJ_INTRO5_01,"The Phoenix Project needed allies. New Jericho could help us turn the tide. ",Le Projet Phoenix avait besoin d'alliés. La Nouvelle-Jéricho pouvait nous aider à renverser la vapeur.
-KEY_NJ_INTRO5_02,But it all depended on one man.,Mais tout reposait entre les mains d'un seul homme.
+KEY_NJ_INTRO5_01,"The Phoenix Project needed allies. New Jericho could help us turn the tide. ",Le Projet Phoenix a besoin d'alliés. La Nouvelle-Jéricho pourrait nous aider à renverser la vapeur.
+KEY_NJ_INTRO5_02,But it all depended on one man.,Mais tout repose entre les mains d'un seul homme.
 KEY_PANDORARESEARCH_SYMES1_01,There had always been rumours that maybe the Pandoravirus wasn't from Earth;,"Des rumeurs avaient toujours dit que le Pandoravirus ne venait peut-être pas de la Terre,"
 KEY_PANDORARESEARCH_SYMES1_02,"that some alien disease had come down from the stars like a plague from heaven. ","qu'une sorte de maladie extraterrestre était descendue du cosmos, tel un fléau céleste."
 KEY_PANDORARESEARCH_SYMES1_03,"But now that we finally had the evidence we needed,","Mais maintenant que nous possédions enfin les preuves dont nous avions besoin,"
@@ -121,31 +121,31 @@ KEY_PHOENIXFILES_SYMES3_01,"His notes were damaged, too many of the files corrup
 KEY_PHOENIXFILES_SYMES3_02,"But perhaps, if we could retrace his steps, we could figure out where his journey had taken him... ","Mais si nous pouvions retracer ses pas, nous pourrions peut-être comprendre où son parcours l'avait mené..."
 KEY_PHOENIXFILES_SYMES3_03,and what the answers he had discovered would mean for us.,et ce que les réponses qu'il avait obtenues représenteraient pour nous.
 KEY_PP_INTRO1_01,"The Phoenix Project was founded on October 24th, 1945.",Le Projet Phoenix a été fondé le 24 octobre 1945.
-KEY_PP_INTRO1_02,The second war to end all wars was over,"La Seconde Guerre mondiale, la guerre qui devait mettre fin à toutes les guerres, était terminée"
-KEY_PP_INTRO1_03,"but there were those who understood that we could no longer ",mais il y avait ceux qui comprenaient que nous ne pouvions plus
+KEY_PP_INTRO1_02,The second war to end all wars was over,"La Seconde Guerre mondiale qui devait mettre fin à toutes les guerres, était terminée"
+KEY_PP_INTRO1_03,"but there were those who understood that we could no longer ",mais certains ont compris que nous ne pouvions plus
 KEY_PP_INTRO1_04,afford to think in terms of nations and empires.,nous permettre de penser en termes de nations et d'empires.
-KEY_PP_INTRO2_01,"For a time, the Phoenix Project successfully navigated the political conflicts of its era. ","Pendant un certain temps, le Projet Phoenix a réussi à naviguer les conflits politiques de son époque."
-KEY_PP_INTRO2_02,"That was our Golden Age. Phoenix Project operatives scoured the world for clues. ",C'était notre Âge d'or. Les agents du Projet Phoenix parcouraient le monde entier à la recherche d'indices.
-KEY_PP_INTRO2_03,We had bases in two dozen countries. Even the heavens were not off limits.,Nos bases étaient présentes dans plus d'une vingtaine de pays. Notre ambition était sans limite.
-KEY_PP_INTRO3_01,"But out there, on the far side of the Moon, began our downfall. ","Mais quelque part, de l'autre côté de la Lune, nous courrions déjà à notre perte."
+KEY_PP_INTRO2_01,"For a time, the Phoenix Project successfully navigated the political conflicts of its era. ","Pendant un certain temps, le Projet Phoenix a réussi à naviguer à travers les conflits politiques de son époque."
+KEY_PP_INTRO2_02,"That was our Golden Age. Phoenix Project operatives scoured the world for clues. ",C'était notre Âge d'or. Les agents du Projet Phoenix ont parcouru le monde à la recherche d'indices.
+KEY_PP_INTRO2_03,We had bases in two dozen countries. Even the heavens were not off limits.,Nous avions des bases dans deux douzaines de pays. Notre ambition était sans limite.
+KEY_PP_INTRO3_01,"But out there, on the far side of the Moon, began our downfall. ","Mais quelque part, de l'autre côté de la Lune, a commencé notre chute."
 KEY_PP_INTRO3_02,"The failure of the Phoenix-2 mission exposed us to our enemies in the UN. ",L'échec de la mission Phoenix-2 nous a exposés à nos ennemis de l'ONU.
 KEY_PP_INTRO3_03,"Stripped of resources and scattered to the winds, ","Dépouillés de nos ressources et dispersés aux quatre vents,"
-KEY_PP_INTRO3_04,we were reduced to a secret... a memory.,nous avons été réduits à un secret... à un souvenir.
+KEY_PP_INTRO3_04,we were reduced to a secret... a memory.,"nous avons été réduits à un secret, un souvenir."
 KEY_PP_INTRO4_01,"When the Pandoravirus woke up, we should have been the first line of defense. ","Lorsque le Pandoravirus s'est réveillé, nous aurions dû être la première ligne de défense."
 KEY_PP_INTRO4_02,"When huge clouds of mist appeared over the sea, when people started vanishing, ","Lorsque les immenses nuages de brume ont recouvert la mer, lorsque les gens ont commencé à disparaître, "
 KEY_PP_INTRO4_03,we should have figured out what was going on.,nous aurions dû comprendre ce qui se passait.
-KEY_PP_INTRO4_04,"And when those people started coming back, changed, hostile, alien, ","Et lorsque ces gens sont revenus, transformés, hostiles, autres,"
+KEY_PP_INTRO4_04,"And when those people started coming back, changed, hostile, alien, ","Et lorsque ces gens sont revenus, transformés, hostiles, différents,"
 KEY_PP_INTRO4_05,we should have been ready to fight.,nous aurions dû être prêts à nous battre.
 KEY_PP_INTRO5_01,But we failed.,Mais nous avons échoué.
 KEY_PP_INTRO6_01,"The ecosystem started to change, imperceptibly at first, then faster and faster.","L'écosystème a commencé à changer, d'abord de façon imperceptible, puis de plus en plus vite."
-KEY_PP_INTRO6_02,"Three factions arose: New Jericho, trying to restore order and purity; ","Trois factions sont apparues : la Nouvelle-Jéricho, qui souhaite rétablir l'ordre et la pureté ;"
-KEY_PP_INTRO6_03,"Synedrion, hoping to build a world without hierarchies; ","le Synédrion, qui espère bâtir un monde dénué de hiérarchies ;"
+KEY_PP_INTRO6_02,"Three factions arose: New Jericho, trying to restore order and purity; ","Trois factions sont apparues. La Nouvelle-Jéricho, qui souhaite rétablir l'ordre et la pureté."
+KEY_PP_INTRO6_03,"Synedrion, hoping to build a world without hierarchies; ","le Synédrion, qui espère bâtir un monde dénué de hiérarchies."
 KEY_PP_INTRO6_04,"and the Disciples of Anu, a new, syncretic religion dedicated to adaptation and biological change.","et les Disciples d'Anu, une nouvelle religion syncrétique vouée à l'adaptation et aux changements biologiques."
-KEY_PP_INTRO7_01,"At war with the world and at odds with each other, ","En guerre contre le monde et en conflit les unes contre les autres,"
-KEY_PP_INTRO7_02,these factions cannot find a way forward.,ces factions ne peuvent aller de l'avant.
-KEY_PP_INTRO7_03,"Now the mist is returning, and armies are rising from the sea. ","À présent, la brume est de retour, et des armées se soulèvent des profondeurs de la mer."
-KEY_PP_INTRO7_04,"Without the Phoenix Project, humanity will fall.","Sans le Projet Phoenix, l'humanité n'a aucune chance."
-KEY_PP_INTRO8_01,It's time to rise from the ashes.,Il est temps de renaître de nos cendres.
+KEY_PP_INTRO7_01,"At war with the world and at odds with each other, ","En guerre contre le monde et en désaccord les unes contre les autres,"
+KEY_PP_INTRO7_02,these factions cannot find a way forward.,ces factions ne pouvaient trouver de solution.
+KEY_PP_INTRO7_03,"Now the mist is returning, and armies are rising from the sea. ","La brume est de retour, et des armées surgissent des profondeurs maritimes."
+KEY_PP_INTRO7_04,"Without the Phoenix Project, humanity will fall.","Sans le Projet Phoenix, l'humanité tombera."
+KEY_PP_INTRO8_01,It's time to rise from the ashes.,Il est temps de renaître de nos cendres !
 KEY_PX_ENDING1_01,"We had no choice. None of the factions had a viable plan. ",Nous n'avions pas le choix. Aucune faction n'avait de plan valable.
 KEY_PX_ENDING1_02,"There was no other way to save the planet and sometimes the ends had to justify the means. ","C'était notre seule chance de sauver la planète, et parfois la fin devait justifier les moyens."
 KEY_PX_ENDING1_03,"That's what we told ourselves, anyway.","En tout cas, c'est ce que nous nous sommes dit."
@@ -281,13 +281,13 @@ KEY_SYNTERRAFORM_ENDING7_02,"It was time to build, to train, to prepare. Up ther
 KEY_SYNTERRAFORM_ENDING7_03,"something ancient and powerful still hungered for our planet. ",quelque chose d'ancien et de puissant avait encore une soif insatiable de contrôler notre planète.
 KEY_SYNTERRAFORM_ENDING7_04,But next time... next time we'd be ready.,"Mais la prochaine fois... la prochaine fois, nous serions prêts."
 KEY_SYN_INTRO1_01,"Synedrion was built on a dream. A world without hierarchies, ","Le Synédrion a été fondé sur un rêve. Un monde sans hiérarchies,"
-KEY_SYN_INTRO1_02,"without leaders, where human beings could embrace ","sans dirigeants, où les êtres humains pourraient embrasser"
-KEY_SYN_INTRO1_03,the potential of technology without its destructive side-effects.,le potentiel de la technologie sans aucun de ses effets secondaires destructeurs.
-KEY_SYN_INTRO2_01,"The radicals of the old world had been proven right: ",Les extrémistes de l'ancien monde avaient eu raison :
-KEY_SYN_INTRO2_02,the status quo could not sustain itself. But what now? What was the next step?,"le statu quo ne pouvait plus subsister. Mais alors, que fallait-il faire ensuite ?"
+KEY_SYN_INTRO1_02,"without leaders, where human beings could embrace ","sans dirigeants, où les êtres humains pourraient profiter"
+KEY_SYN_INTRO1_03,the potential of technology without its destructive side-effects.,du potentiel de la technologie sans ses effets secondaires destructeurs.
+KEY_SYN_INTRO2_01,"The radicals of the old world had been proven right: ",Les extrémistes de l'ancien monde avaient eu raison.
+KEY_SYN_INTRO2_02,the status quo could not sustain itself. But what now? What was the next step?,Le statu quo ne pouvait pas se maintenir. Mais que faire maintenant ? Quelle était la prochaine étape ?
 KEY_SYN_INTRO3_01,"Some argued for co-existence with the Pandoran ecosystem, hoping for a peaceful solution. ","Certains ont plaidé pour une coexistence avec l'écosystème pandorien, dans l'espoir d'une solution pacifique."
-KEY_SYN_INTRO3_02,"Others advocated putting humanity before Nature, and claiming the planet for themselves.","D'autres ont recommandé de placer l'humanité au-dessus de la nature, et de s'accaparer la planète."
-KEY_SYN_INTRO4_01,"Trusting in the safety of their havens, the people of Synedrion argued about the best way forward. ","Confiants de la sûreté de leurs refuges, les membres du Synédrion ont débattu de la meilleure marche à suivre."
+KEY_SYN_INTRO3_02,"Others advocated putting humanity before Nature, and claiming the planet for themselves.","D'autres ont recommandé de placer l'humanité au-dessus de la Nature, et de revendiquer la planète."
+KEY_SYN_INTRO4_01,"Trusting in the safety of their havens, the people of Synedrion argued about the best way forward. ","Confiants de la sûreté de leurs refuges, les membres du Synédrion ont discuté de la meilleure façon d'avancer."
 KEY_SYN_INTRO4_02,"But the Pandoravirus had little interest in their arguments, ","Mais le Pandoravirus n'avait que faire de leurs querelles,"
 KEY_SYN_INTRO4_03,and its power was still growing...,et son pouvoir continuait de grandir...
 KEY_YUGGOTHIANRESEARCH_SYMES1_01,"Finally, we knew our enemy.","Enfin, nous connaissions notre ennemi."
